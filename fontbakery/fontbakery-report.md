@@ -63,16 +63,16 @@ Detected underlineThickness values are:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
+	* quotedblleft.ss01
+	* uni25FC
+	* Acircumflex
+	* uni03060301.case
 	* bracketleft
-	* quotedblright.ss01
-	* uni03060309.case
-	* uni03020309.case
-	* one.numr
 	* Ohungarumlaut
-	* uni02C9
-	* oneeighth
-	* uni1ED1
-	* K and 309 more.
+	* ntilde
+	* uni03020309.case
+	* uni04ED
+	* six.lf and 309 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets">com.google.fonts/check/ligature_carets</a>)</summary><div>
@@ -104,25 +104,25 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- dieresiscombcy.case
-
-	- greater.case
-
-	- less.case
-
-	- divide.case
-
-	- equal.case
-
-	- figuredash.case
+	- logicalnot.case
 
 	- notequal.case
 
-	- lessequal.case
+	- infinity.case
+
+	- emptyset.case
+
+	- minus.case
 
 	- greaterequal.case
 
-	- minus.case 
+	- figuredash.case
+
+	- ij_acutecomb
+
+	- uni2236.case
+
+	- i.dot 
 
 	- And 13 more.
 
@@ -237,16 +237,16 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* quotedblright.ss01
-	* uni04F9
-	* uni03060309.case
-	* one.numr
-	* uni04E3
-	* uni044C
-	* uni02C9
-	* oneeighth
-	* three.numr
-	* uni044B and 212 more.
+	* quotedblleft.ss01
+	* uni25FC
+	* uni03060301.case
+	* uni04ED
+	* quotereversed.ss01
+	* one
+	* quotedblbase.ss01
+	* uni04F6
+	* uni0495
+	* uni0525 and 212 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -274,23 +274,23 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- ij.ss02
+	- quoteright.001
 
 	- figuredash.case
 
-	- ij_acutecomb.ss02
+	- ij_acutecomb
+
+	- i.dot
 
 	- I.uc
 
 	- IJ_acutecomb
 
-	- five.001
+	- ij_acutecomb.ss02
 
-	- i.dot
+	- ij.ss02 
 
-	- ij_acutecomb 
-
-	- And quoteright.001
+	- And five.001
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -431,16 +431,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
+	* quotedblleft.ss01
+	* uni25FC
+	* Acircumflex
 	* bracketleft
-	* quotedblright.ss01
-	* Eng
-	* uni049D
-	* one.numr
-	* greater
-	* uni02C9
-	* oneeighth
-	* uni1ED1
-	* Lslash and 217 more.
+	* ntilde
+	* uni04ED
+	* six.lf
+	* quotereversed.ss01
+	* one
+	* uni0424.loclBGR and 217 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets">com.google.fonts/check/ligature_carets</a>)</summary><div>
@@ -472,25 +472,25 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- dieresiscombcy.case
-
-	- greater.case
-
-	- less.case
-
-	- divide.case
-
-	- equal.case
-
-	- figuredash.case
+	- logicalnot.case
 
 	- notequal.case
 
-	- lessequal.case
+	- infinity.case
+
+	- emptyset.case
+
+	- minus.case
 
 	- greaterequal.case
 
-	- minus.case 
+	- figuredash.case
+
+	- ij_acutecomb
+
+	- uni2236.case
+
+	- i.dot 
 
 	- And 13 more.
 
@@ -603,16 +603,16 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
+	* quotedblleft.ss01
+	* uni25FC
+	* uni03060301.case
 	* bracketleft
-	* quotedblright.ss01
-	* uni03060309.case
-	* uni03020309.case
-	* one.numr
 	* Ohungarumlaut
-	* uni02C9
-	* oneeighth
-	* uni1ED1
-	* K and 349 more.
+	* uni1ECD
+	* ntilde
+	* uni03020309.case
+	* uni04ED
+	* six.lf and 349 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets">com.google.fonts/check/ligature_carets</a>)</summary><div>
@@ -644,25 +644,25 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- dieresiscombcy.case
-
-	- greater.case
-
-	- less.case
-
-	- divide.case
-
-	- equal.case
-
-	- figuredash.case
+	- logicalnot.case
 
 	- notequal.case
 
-	- lessequal.case
+	- infinity.case
+
+	- emptyset.case
+
+	- minus.case
 
 	- greaterequal.case
 
-	- minus.case 
+	- figuredash.case
+
+	- ij_acutecomb
+
+	- uni2236.case
+
+	- i.dot 
 
 	- And 13 more.
 
@@ -779,16 +779,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
+	* quotedblleft.ss01
+	* uni25FC
+	* uni043D.loclBGR
 	* bracketleft
-	* quotedblright.ss01
-	* uni03060309.case
-	* uni01CB
-	* Eng
-	* one.numr
-	* greater
-	* uni02C9
-	* oneeighth
-	* uni1ED1 and 293 more.
+	* uni04ED
+	* Iogonek
+	* six.lf
+	* quotereversed.ss01
+	* one
+	* uni01F2 and 293 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets">com.google.fonts/check/ligature_carets</a>)</summary><div>
@@ -820,25 +820,25 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- dieresiscombcy.case
-
-	- greater.case
-
-	- less.case
-
-	- divide.case
-
-	- equal.case
-
-	- figuredash.case
+	- logicalnot.case
 
 	- notequal.case
 
-	- lessequal.case
+	- infinity.case
+
+	- emptyset.case
+
+	- minus.case
 
 	- greaterequal.case
 
-	- minus.case 
+	- figuredash.case
+
+	- ij_acutecomb
+
+	- uni2236.case
+
+	- i.dot 
 
 	- And 13 more.
 
@@ -955,16 +955,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* gcircumflex
-	* quotedblright.ss01
-	* uni04F9
-	* uni03060309.case
-	* uni1EA1
+	* quotedblleft.ss01
+	* uni25FC
+	* uni03060301.case
+	* Ohungarumlaut
+	* uni1ECD
+	* ntilde
 	* uni03020309.case
-	* uni04AA
-	* one.numr
-	* uni04E3
-	* Ohungarumlaut and 280 more.
+	* uni04ED
+	* uni0401
+	* six.lf and 280 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -992,23 +992,23 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- ij.ss02
+	- quoteright.001
 
 	- figuredash.case
 
-	- ij_acutecomb.ss02
+	- ij_acutecomb
+
+	- i.dot
 
 	- I.uc
 
 	- IJ_acutecomb
 
-	- five.001
+	- ij_acutecomb.ss02
 
-	- i.dot
+	- ij.ss02 
 
-	- ij_acutecomb 
-
-	- And quoteright.001
+	- And five.001
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -1149,16 +1149,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* quotedblright.ss01
-	* uni03060309.case
-	* one.numr
-	* uni04E3
-	* uni044C
-	* uni02C9
-	* oneeighth
-	* three.numr
-	* five
-	* uni0505 and 151 more.
+	* quotedblleft.ss01
+	* uni25FC
+	* uni03060301.case
+	* uni01CD
+	* uni1EA6
+	* quotereversed.ss01
+	* one
+	* quotedblbase.ss01
+	* uni04FB
+	* uni050A and 151 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -1186,23 +1186,23 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- ij.ss02
+	- quoteright.001
 
 	- figuredash.case
 
-	- ij_acutecomb.ss02
+	- ij_acutecomb
+
+	- i.dot
 
 	- I.uc
 
 	- IJ_acutecomb
 
-	- five.001
+	- ij_acutecomb.ss02
 
-	- i.dot
+	- ij.ss02 
 
-	- ij_acutecomb 
-
-	- And quoteright.001
+	- And five.001
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -1343,16 +1343,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* quotedblright.ss01
-	* uni04F9
-	* one.numr
-	* uni04E3
-	* uni044C
-	* uni02C9
-	* oneeighth
-	* five
-	* uni044B
-	* uni0505 and 147 more.
+	* quotedblleft.ss01
+	* uni25FC
+	* Acircumflex
+	* uni01CD
+	* uni1EA6
+	* quotereversed.ss01
+	* one
+	* quotedblbase.ss01
+	* asciicircum
+	* uni04FB and 147 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -1380,23 +1380,23 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- ij.ss02
+	- quoteright.001
 
 	- figuredash.case
 
-	- ij_acutecomb.ss02
+	- ij_acutecomb
+
+	- i.dot
 
 	- I.uc
 
 	- IJ_acutecomb
 
-	- five.001
+	- ij_acutecomb.ss02
 
-	- i.dot
+	- ij.ss02 
 
-	- ij_acutecomb 
-
-	- And quoteright.001
+	- And five.001
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
