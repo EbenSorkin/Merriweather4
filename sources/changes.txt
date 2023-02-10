@@ -1,0 +1,7 @@
+modded the OmegaLatin width to be 104% 105% 104% 105% 
+based around the observed width deltas in other cap characters
+
+modified Heng, curious why the base models of the Heng are set looser on the right. 
+Curious if we can't set the left sidebearing equal to the H
+
+
