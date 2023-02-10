@@ -6,3 +6,7 @@ Curious if we can't set the left sidebearing equal to the H
 
 fixed points from smooth to corner in the Jcrossedtail in the four base masters. Have a look to make sure that they're correct in the base file. 
 fixed width of Jcrossedtail and adjusted the weight and did a cursory spacing check
+
+Worked on Khook increased width around 4% across the board to match cap K in all styles. I am curious about the RSB metrics for the black display, they seem extremely strong compared to the other masters. Also I'm curious about some of the curve styles within the interior counter of the curve they seem a bit off perhaps. I think this set of characters deserves another pass. 
+
+
