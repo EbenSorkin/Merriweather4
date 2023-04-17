@@ -1,0 +1,190 @@
+{
+glyphname = candraBinducomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (327,1966);
+},
+{
+name = top;
+pos = (327,1887);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = brevecomb;
+},
+{
+pos = (198,522);
+ref = dotaccentcomb;
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (374,1966);
+},
+{
+name = top;
+pos = (374,1979);
+}
+);
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+ref = brevecomb;
+},
+{
+pos = (172,537);
+ref = dotaccentcomb;
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (347,1966);
+},
+{
+name = top;
+pos = (347,1918);
+}
+);
+layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
+shapes = (
+{
+ref = brevecomb;
+},
+{
+pos = (218,538);
+ref = dotaccentcomb;
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (394,1966);
+},
+{
+name = top;
+pos = (394,2049);
+}
+);
+layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
+shapes = (
+{
+ref = brevecomb;
+},
+{
+pos = (192,552);
+ref = dotaccentcomb;
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (253,1966);
+},
+{
+name = top;
+pos = (253,1825);
+}
+);
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+ref = brevecomb;
+},
+{
+pos = (140,476);
+ref = dotaccentcomb;
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (311,1966);
+},
+{
+name = top;
+pos = (311,1822);
+}
+);
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+ref = brevecomb;
+},
+{
+pos = (119,536);
+ref = dotaccentcomb;
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (263,1966);
+},
+{
+name = top;
+pos = (263,1717);
+}
+);
+layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
+shapes = (
+{
+ref = brevecomb;
+},
+{
+pos = (150,475);
+ref = dotaccentcomb;
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (321,1966);
+},
+{
+name = top;
+pos = (321,1889);
+}
+);
+layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
+shapes = (
+{
+ref = brevecomb;
+},
+{
+pos = (121,536);
+ref = dotaccentcomb;
+}
+);
+width = 1200;
+}
+);
+unicode = 784;
+}

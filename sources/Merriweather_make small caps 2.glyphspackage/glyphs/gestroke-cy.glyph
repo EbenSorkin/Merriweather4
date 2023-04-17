@@ -1,0 +1,133 @@
+{
+category = Letter;
+color = 4;
+glyphname = "gestroke-cy";
+kernLeft = "pe-cy";
+kernRight = "te-cy";
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "ge-cy";
+},
+{
+pos = (46,-859);
+ref = ascenderbar_part.;
+}
+);
+width = 1011;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(90,528,l),
+(90,382,l),
+(806,382,l),
+(806,528,l)
+);
+}
+);
+};
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+ref = "ge-cy";
+},
+{
+pos = (46,-849);
+ref = ascenderbar_part.;
+}
+);
+width = 1078;
+},
+{
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+ref = "ge-cy";
+},
+{
+pos = (4,-854);
+ref = ascenderbar_part.;
+}
+);
+width = 927;
+},
+{
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+ref = "ge-cy";
+},
+{
+pos = (12,-853);
+ref = ascenderbar_part.;
+}
+);
+width = 788;
+},
+{
+layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
+shapes = (
+{
+ref = "ge-cy";
+},
+{
+pos = (4,-854);
+ref = ascenderbar_part.;
+}
+);
+width = 1002;
+},
+{
+layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
+shapes = (
+{
+ref = "ge-cy";
+},
+{
+pos = (-4,-853);
+ref = ascenderbar_part.;
+}
+);
+width = 876;
+},
+{
+layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
+shapes = (
+{
+ref = "ge-cy";
+},
+{
+pos = (46,-853);
+ref = ascenderbar_part.;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
+};
+width = 1032;
+},
+{
+layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
+shapes = (
+{
+ref = "ge-cy";
+},
+{
+pos = (46,-825);
+ref = ascenderbar_part.;
+}
+);
+width = 1080;
+}
+);
+metricLeft = "pe-cy";
+metricRight = "te-cy";
+subCategory = Lowercase;
+unicode = 1171;
+}

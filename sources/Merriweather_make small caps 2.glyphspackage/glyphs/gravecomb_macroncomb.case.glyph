@@ -1,0 +1,189 @@
+{
+glyphname = gravecomb_macroncomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (278,1486);
+},
+{
+name = top;
+pos = (278,2318);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = gravecomb.case;
+},
+{
+pos = (-86,484);
+ref = macroncomb.case;
+}
+);
+width = 416;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (322,1486);
+},
+{
+name = top;
+pos = (322,2344);
+}
+);
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+ref = gravecomb.case;
+},
+{
+pos = (-94,558);
+ref = macroncomb.case;
+}
+);
+width = 482;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (298,1486);
+},
+{
+name = top;
+pos = (298,2318);
+}
+);
+layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
+shapes = (
+{
+ref = gravecomb.case;
+},
+{
+pos = (-86,484);
+ref = macroncomb.case;
+}
+);
+width = 456;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (357,1486);
+},
+{
+name = top;
+pos = (357,2344);
+}
+);
+layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
+shapes = (
+{
+ref = gravecomb.case;
+},
+{
+pos = (-102,558);
+ref = macroncomb.case;
+}
+);
+width = 545;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (256,1486);
+},
+{
+name = top;
+pos = (256,2206);
+}
+);
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+ref = gravecomb.case;
+},
+{
+pos = (-17,470);
+ref = macroncomb.case;
+}
+);
+width = 415;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (321,1486);
+},
+{
+name = top;
+pos = (321,2228);
+}
+);
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+ref = gravecomb.case;
+},
+{
+pos = (-85,509);
+ref = macroncomb.case;
+}
+);
+width = 489;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (284,1486);
+},
+{
+name = top;
+pos = (284,2206);
+}
+);
+layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
+shapes = (
+{
+ref = gravecomb.case;
+},
+{
+pos = (-31,470);
+ref = macroncomb.case;
+}
+);
+width = 457;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (331,1486);
+},
+{
+name = top;
+pos = (331,2228);
+}
+);
+layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
+shapes = (
+{
+ref = gravecomb.case;
+},
+{
+pos = (-80,509);
+ref = macroncomb.case;
+}
+);
+width = 519;
+}
+);
+}

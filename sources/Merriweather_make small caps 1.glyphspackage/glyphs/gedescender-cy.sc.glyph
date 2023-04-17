@@ -1,0 +1,271 @@
+{
+glyphname = "gedescender-cy.sc";
+kernLeft = "ge-cy.sc";
+kernRight = "ge-cy.sc";
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(370,75,l),
+(565,75,l),
+(565,106,l),
+(370,106,l)
+);
+},
+{
+ref = "ge-cy.sc";
+},
+{
+pos = (445,0);
+ref = righttooth_part.;
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 2;
+height = 87;
+weight = 2;
+width = 96;
+};
+};
+width = 1128;
+},
+{
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(539,123,l),
+(684,123,l),
+(684,154,l),
+(539,154,l)
+);
+},
+{
+ref = "ge-cy.sc";
+},
+{
+pos = (506,0);
+ref = righttooth_part.;
+}
+);
+width = 1228;
+},
+{
+annotations = (
+{
+pos = (652,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (67,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (64,37);
+type = Circle;
+width = 30;
+}
+);
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+closed = 1;
+nodes = (
+(445,41,l),
+(590,41,l),
+(590,72,l),
+(445,72,l)
+);
+},
+{
+ref = "ge-cy.sc";
+},
+{
+pos = (432,0);
+ref = righttooth_part.;
+}
+);
+width = 1106;
+},
+{
+layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(510,123,l),
+(705,123,l),
+(705,154,l),
+(510,154,l)
+);
+},
+{
+ref = "ge-cy.sc";
+},
+{
+pos = (460,0);
+ref = righttooth_part.;
+}
+);
+width = 1032;
+},
+{
+layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
+shapes = (
+{
+closed = 1;
+nodes = (
+(330,75,l),
+(525,75,l),
+(525,106,l),
+(330,106,l)
+);
+},
+{
+ref = "ge-cy.sc";
+},
+{
+pos = (315,0);
+ref = righttooth_part.;
+}
+);
+width = 935;
+},
+{
+annotations = (
+{
+pos = (567,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (55,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (53,37);
+type = Circle;
+width = 30;
+}
+);
+layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
+shapes = (
+{
+closed = 1;
+nodes = (
+(418,41,l),
+(563,41,l),
+(563,72,l),
+(418,72,l)
+);
+},
+{
+ref = "ge-cy.sc";
+},
+{
+pos = (466,0);
+ref = righttooth_part.;
+}
+);
+width = 1028;
+},
+{
+annotations = (
+{
+pos = (56,35);
+type = Circle;
+width = 30;
+},
+{
+pos = (382,1256);
+type = Circle;
+width = 30;
+},
+{
+pos = (734,1256);
+type = Circle;
+width = 30;
+},
+{
+pos = (62,1256);
+type = Circle;
+width = 30;
+}
+);
+layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(282,41,l),
+(477,41,l),
+(477,72,l),
+(282,72,l)
+);
+},
+{
+ref = "ge-cy.sc";
+},
+{
+pos = (357,0);
+ref = righttooth_part.;
+}
+);
+width = 873;
+},
+{
+annotations = (
+{
+pos = (427,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (73,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (65,35);
+type = Circle;
+width = 30;
+}
+);
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+closed = 1;
+nodes = (
+(312,41,l),
+(507,41,l),
+(507,72,l),
+(312,72,l)
+);
+},
+{
+ref = "ge-cy.sc";
+},
+{
+pos = (375,0);
+ref = righttooth_part.;
+}
+);
+width = 957;
+}
+);
+metricLeft = "ge-cy.sc";
+metricRight = "ge-cy.sc";
+userData = {
+RMXScaler = {
+source = "Gedescender-cy";
+};
+};
+}

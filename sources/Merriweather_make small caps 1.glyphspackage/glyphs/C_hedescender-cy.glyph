@@ -1,0 +1,114 @@
+{
+glyphname = "Chedescender-cy";
+kernLeft = "Che-cy";
+kernRight = "De-cy";
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "Che-cy";
+},
+{
+pos = (979,0);
+ref = righttooth_part.;
+}
+);
+width = 1402;
+},
+{
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+ref = "Che-cy";
+},
+{
+pos = (1023,0);
+ref = righttooth_part.;
+}
+);
+width = 1501;
+},
+{
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+ref = "Che-cy";
+},
+{
+pos = (1075,0);
+ref = righttooth_part.;
+}
+);
+width = 1386;
+},
+{
+layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
+shapes = (
+{
+ref = "Che-cy";
+},
+{
+pos = (981,0);
+ref = righttooth_part.;
+}
+);
+width = 1354;
+},
+{
+layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
+shapes = (
+{
+ref = "Che-cy";
+},
+{
+pos = (841,0);
+ref = righttooth_part.;
+}
+);
+width = 1230;
+},
+{
+layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
+shapes = (
+{
+ref = "Che-cy";
+},
+{
+pos = (912,0);
+ref = righttooth_part.;
+}
+);
+width = 1224;
+},
+{
+layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
+shapes = (
+{
+ref = "Che-cy";
+},
+{
+pos = (899,0);
+ref = righttooth_part.;
+}
+);
+width = 1151;
+},
+{
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+ref = "Che-cy";
+},
+{
+pos = (1049,0);
+ref = righttooth_part.;
+}
+);
+width = 1300;
+}
+);
+metricLeft = "Che-cy";
+metricRight = "De-cy";
+unicode = 1206;
+}

@@ -1,0 +1,248 @@
+{
+glyphname = "kadescender-cy.sc";
+kernLeft = "pe-cy.sc";
+kernRight = "zhe-cy.sc";
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "ka-cy.sc";
+},
+{
+pos = (944,0);
+ref = righttooth_part.;
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 2;
+height = 87;
+weight = 2;
+width = 96;
+};
+};
+width = 1308;
+},
+{
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+ref = "ka-cy.sc";
+},
+{
+pos = (1018,0);
+ref = righttooth_part.;
+}
+);
+width = 1425;
+},
+{
+annotations = (
+{
+pos = (1415,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (862,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (722,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (69,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (763,37);
+type = Circle;
+width = 30;
+}
+);
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+ref = "ka-cy.sc";
+},
+{
+pos = (1092,0);
+ref = righttooth_part.;
+}
+);
+width = 1398;
+},
+{
+layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
+shapes = (
+{
+ref = "ka-cy.sc";
+},
+{
+pos = (882,0);
+ref = righttooth_part.;
+}
+);
+width = 1188;
+},
+{
+layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
+shapes = (
+{
+ref = "ka-cy.sc";
+},
+{
+pos = (724,0);
+ref = righttooth_part.;
+}
+);
+width = 1056;
+},
+{
+annotations = (
+{
+pos = (1164,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (699,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (609,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (49,1255);
+type = Circle;
+width = 30;
+}
+);
+layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
+shapes = (
+{
+ref = "ka-cy.sc";
+},
+{
+pos = (916,0);
+ref = righttooth_part.;
+}
+);
+width = 1207;
+},
+{
+annotations = (
+{
+pos = (499,35);
+type = Circle;
+width = 30;
+},
+{
+pos = (1060,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (688,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (491,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (89,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (1060,1256);
+type = Circle;
+width = 30;
+},
+{
+pos = (688,1256);
+type = Circle;
+width = 30;
+},
+{
+pos = (491,1256);
+type = Circle;
+width = 30;
+},
+{
+pos = (89,1256);
+type = Circle;
+width = 30;
+}
+);
+layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
+shapes = (
+{
+ref = "ka-cy.sc";
+},
+{
+pos = (846,0);
+ref = righttooth_part.;
+}
+);
+width = 1064;
+},
+{
+annotations = (
+{
+pos = (1237,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (808,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (564,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (107,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (569,35);
+type = Circle;
+width = 30;
+}
+);
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+ref = "ka-cy.sc";
+},
+{
+pos = (960,0);
+ref = righttooth_part.;
+}
+);
+width = 1205;
+}
+);
+metricLeft = "pe-cy.sc";
+userData = {
+RMXScaler = {
+source = "Kadescender-cy";
+};
+};
+}

@@ -1,0 +1,208 @@
+{
+glyphname = "shhadescender-cy.sc";
+kernLeft = "shhadescender-cy.sc";
+kernRight = "shhadescender-cy.sc";
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "shha-cy.sc";
+},
+{
+pos = (932,0);
+ref = righttooth_part.;
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 2;
+height = 87;
+weight = 2;
+width = 96;
+};
+};
+width = 1276;
+},
+{
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+ref = "shha-cy.sc";
+},
+{
+pos = (1014,0);
+ref = righttooth_part.;
+}
+);
+width = 1441;
+},
+{
+annotations = (
+{
+pos = (817,37);
+type = Circle;
+width = 30;
+},
+{
+pos = (767,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (36,1255);
+type = Circle;
+width = 30;
+}
+);
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+ref = "shha-cy.sc";
+},
+{
+pos = (1119,0);
+ref = righttooth_part.;
+}
+);
+width = 1447;
+},
+{
+annotations = (
+{
+pos = (789,35);
+type = Circle;
+width = 30;
+},
+{
+pos = (592,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (80,1257);
+type = Circle;
+width = 30;
+}
+);
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+ref = "shha-cy.sc";
+},
+{
+pos = (958,0);
+ref = righttooth_part.;
+}
+);
+width = 1190;
+},
+{
+annotations = (
+{
+pos = (793,37);
+type = Circle;
+width = 30;
+},
+{
+pos = (75,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (75,37);
+type = Circle;
+width = 30;
+},
+{
+pos = (927,37);
+type = Circle;
+width = 30;
+},
+{
+pos = (863,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (75,1255);
+type = Circle;
+width = 30;
+}
+);
+layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
+shapes = (
+{
+ref = "shha-cy.sc";
+},
+{
+pos = (1244,-2);
+ref = righttooth_part.;
+}
+);
+width = 1560;
+},
+{
+annotations = (
+{
+pos = (892,35);
+type = Circle;
+width = 30;
+},
+{
+pos = (651,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (80,1257);
+type = Circle;
+width = 30;
+}
+);
+layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
+shapes = (
+{
+ref = "shha-cy.sc";
+},
+{
+pos = (1102,0);
+ref = righttooth_part.;
+}
+);
+width = 1338;
+},
+{
+layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
+shapes = (
+{
+ref = "shha-cy.sc";
+},
+{
+pos = (1073,0);
+ref = righttooth_part.;
+}
+);
+width = 1360;
+},
+{
+layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
+shapes = (
+{
+ref = "shha-cy.sc";
+},
+{
+pos = (1166,0);
+ref = righttooth_part.;
+}
+);
+width = 1544;
+}
+);
+metricRight = "tse-cy.sc";
+userData = {
+RMXScaler = {
+source = "Shhadescender-cy";
+};
+};
+}

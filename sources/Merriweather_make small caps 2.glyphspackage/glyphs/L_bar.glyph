@@ -1,0 +1,123 @@
+{
+color = 5;
+glyphname = Lbar;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = L;
+},
+{
+alignment = -1;
+anchor = stroke;
+pos = (48,-15);
+ref = UCstrokecomb_part.;
+}
+);
+width = 1225;
+},
+{
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+ref = L;
+},
+{
+alignment = -1;
+anchor = stroke;
+pos = (25,-21);
+ref = UCstrokecomb_part.;
+}
+);
+width = 1289;
+},
+{
+layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
+shapes = (
+{
+ref = L;
+},
+{
+alignment = -1;
+pos = (52,-15);
+ref = UCstrokecomb_part.;
+}
+);
+width = 1260;
+},
+{
+layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
+shapes = (
+{
+ref = L;
+},
+{
+alignment = -1;
+pos = (45,-21);
+ref = UCstrokecomb_part.;
+}
+);
+width = 1330;
+},
+{
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+ref = L;
+},
+{
+alignment = -1;
+anchor = stroke;
+pos = (-21,-21);
+ref = UCstrokecomb_part.;
+}
+);
+width = 1050;
+},
+{
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+ref = L;
+},
+{
+alignment = -1;
+anchor = stroke;
+pos = (8,-14);
+ref = UCstrokecomb_part.;
+}
+);
+width = 1201;
+},
+{
+layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
+shapes = (
+{
+ref = L;
+},
+{
+alignment = -1;
+pos = (-4,-21);
+ref = UCstrokecomb_part.;
+}
+);
+width = 1171;
+},
+{
+layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
+shapes = (
+{
+ref = L;
+},
+{
+alignment = -1;
+pos = (20,-12);
+ref = UCstrokecomb_part.;
+}
+);
+width = 1283;
+}
+);
+unicode = 573;
+}

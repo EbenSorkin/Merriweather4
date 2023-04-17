@@ -1,0 +1,311 @@
+{
+glyphname = "kastroke-cy.sc";
+kernLeft = "pe-cy.sc";
+kernRight = "zhe-cy.sc";
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(562,911,l),
+(562,1011,l),
+(72,1011,l),
+(72,911,l)
+);
+},
+{
+pos = (4,0);
+ref = "ka-cy.sc";
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 2;
+height = 87;
+weight = 2;
+width = 96;
+};
+};
+width = 1312;
+},
+{
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(691,862,l),
+(691,1015,l),
+(73,1015,l),
+(73,862,l)
+);
+},
+{
+ref = "ka-cy.sc";
+}
+);
+width = 1425;
+},
+{
+annotations = (
+{
+pos = (1427,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (874,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (736,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (80,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (776,37);
+type = Circle;
+width = 30;
+},
+{
+pos = (1460,37);
+type = Circle;
+width = 30;
+}
+);
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+closed = 1;
+nodes = (
+(714,910,l),
+(714,987,l),
+(31,987,l),
+(31,910,l)
+);
+},
+{
+ref = "ka-cy.sc";
+}
+);
+width = 1398;
+},
+{
+annotations = (
+{
+pos = (1237,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (808,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (564,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (107,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (569,35);
+type = Circle;
+width = 30;
+},
+{
+pos = (1259,35);
+type = Circle;
+width = 30;
+}
+);
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+closed = 1;
+nodes = (
+(525,910,l),
+(525,976,l),
+(47,976,l),
+(47,910,l)
+);
+},
+{
+ref = "ka-cy.sc";
+}
+);
+width = 1205;
+},
+{
+annotations = (
+{
+pos = (1550,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (952,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (794,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (87,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (1550,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (952,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (794,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (87,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (836,37);
+type = Circle;
+width = 30;
+},
+{
+pos = (1586,37);
+type = Circle;
+width = 30;
+}
+);
+layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(754,920,l),
+(754,987,l),
+(41,987,l),
+(41,920,l)
+);
+},
+{
+ref = "ka-cy.sc";
+}
+);
+width = 1477;
+},
+{
+annotations = (
+{
+pos = (1411,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (927,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (635,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (126,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (1436,35);
+type = Circle;
+width = 30;
+}
+);
+layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
+shapes = (
+{
+closed = 1;
+nodes = (
+(555,910,l),
+(555,976,l),
+(47,976,l),
+(47,910,l)
+);
+},
+{
+ref = "ka-cy.sc";
+}
+);
+width = 1315;
+},
+{
+layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(564,911,l),
+(564,1011,l),
+(46,1011,l),
+(46,911,l)
+);
+},
+{
+pos = (1,0);
+ref = "ka-cy.sc";
+}
+);
+width = 1351;
+},
+{
+layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(713,862,l),
+(713,1015,l),
+(58,1015,l),
+(58,862,l)
+);
+},
+{
+ref = "ka-cy.sc";
+}
+);
+width = 1550;
+}
+);
+metricLeft = "pe-cy.sc";
+metricRight = "ka-cy.sc";
+userData = {
+RMXScaler = {
+source = "Kastroke-cy";
+};
+};
+}

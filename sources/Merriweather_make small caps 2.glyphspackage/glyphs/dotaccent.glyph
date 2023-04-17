@@ -1,0 +1,94 @@
+{
+color = 1;
+glyphname = dotaccent;
+kernLeft = dotaccentcomb;
+kernRight = dotaccentcomb;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (170,0);
+ref = dotaccentcomb;
+}
+);
+width = 598;
+},
+{
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+pos = (170,0);
+ref = dotaccentcomb;
+}
+);
+width = 744;
+},
+{
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+pos = (140,0);
+ref = dotaccentcomb;
+}
+);
+width = 664;
+},
+{
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+pos = (140,0);
+ref = dotaccentcomb;
+}
+);
+width = 506;
+},
+{
+layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
+shapes = (
+{
+pos = (90,0);
+ref = dotaccentcomb;
+}
+);
+width = 580;
+},
+{
+layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
+shapes = (
+{
+pos = (142,0);
+ref = dotaccentcomb;
+}
+);
+width = 510;
+},
+{
+layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
+shapes = (
+{
+pos = (100,0);
+ref = dotaccentcomb;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
+};
+width = 458;
+},
+{
+layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
+shapes = (
+{
+pos = (160,0);
+ref = dotaccentcomb;
+}
+);
+width = 724;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+unicode = 729;
+}

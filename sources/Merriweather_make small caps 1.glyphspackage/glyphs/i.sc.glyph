@@ -1,0 +1,382 @@
+{
+color = 4;
+glyphname = i.sc;
+kernLeft = i.sc;
+kernRight = i.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (350,0);
+},
+{
+name = center;
+pos = (350,678);
+},
+{
+name = ogonek;
+pos = (376,18);
+},
+{
+name = top;
+pos = (350,1272);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(80,80,l),
+(80,0,l),
+(619,0,l),
+(619,80,l),
+(433,96,l),
+(433,1192,l),
+(619,1210,l),
+(619,1292,l),
+(80,1292,l),
+(80,1210,l),
+(265,1192,l),
+(265,98,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 2;
+height = 87;
+weight = 2;
+width = 96;
+};
+};
+width = 699;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (403,0);
+},
+{
+name = center;
+pos = (403,658);
+},
+{
+name = ogonek;
+pos = (311,18);
+},
+{
+name = top;
+pos = (403,1272);
+}
+);
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(86,126,l),
+(86,0,l),
+(722,0,l),
+(722,124,l),
+(568,144,l),
+(568,1132,l),
+(722,1158,l),
+(722,1292,l),
+(84,1292,l),
+(84,1158,l),
+(232,1132,l),
+(232,146,l)
+);
+}
+);
+width = 806;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (356,0);
+},
+{
+name = center;
+pos = (355,672);
+},
+{
+name = ogonek;
+pos = (474,10);
+},
+{
+name = top;
+pos = (356,1360);
+}
+);
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+closed = 1;
+nodes = (
+(22,34,l),
+(22,0,l),
+(688,0,l),
+(688,34,l),
+(547,64,l),
+(547,1225,l),
+(688,1261,l),
+(688,1292,l),
+(23,1292,l),
+(23,1261,l),
+(163,1225,l),
+(163,64,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 2;
+height = 87;
+weight = 2;
+width = 96;
+};
+};
+width = 710;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (362,0);
+},
+{
+name = center;
+pos = (361,678);
+},
+{
+name = ogonek;
+pos = (401,18);
+},
+{
+name = top;
+pos = (362,1272);
+}
+);
+layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(78,126,l),
+(78,0,l),
+(646,0,l),
+(646,124,l),
+(510,144,l),
+(510,1132,l),
+(646,1158,l),
+(646,1292,l),
+(76,1292,l),
+(76,1158,l),
+(206,1132,l),
+(206,146,l)
+);
+}
+);
+width = 722;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (317,0);
+},
+{
+name = center;
+pos = (318,678);
+},
+{
+name = ogonek;
+pos = (341,18);
+},
+{
+name = top;
+pos = (317,1272);
+}
+);
+layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
+shapes = (
+{
+closed = 1;
+nodes = (
+(85,80,l),
+(85,0,l),
+(549,0,l),
+(549,80,l),
+(395,96,l),
+(395,1192,l),
+(549,1210,l),
+(549,1292,l),
+(85,1292,l),
+(85,1210,l),
+(239,1192,l),
+(239,98,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 2;
+height = 87;
+weight = 2;
+width = 96;
+};
+};
+width = 634;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (346,0);
+},
+{
+name = center;
+pos = (344,678);
+},
+{
+name = ogonek;
+pos = (432,10);
+},
+{
+name = top;
+pos = (345,1360);
+}
+);
+layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
+shapes = (
+{
+closed = 1;
+nodes = (
+(38,34,l),
+(38,0,l),
+(651,0,l),
+(651,34,l),
+(513,64,l),
+(513,1225,l),
+(651,1261,l),
+(651,1292,l),
+(39,1292,l),
+(39,1261,l),
+(176,1225,l),
+(176,64,l)
+);
+}
+);
+width = 689;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (250,0);
+},
+{
+name = center;
+pos = (242,678);
+},
+{
+name = ogonek;
+pos = (314,18);
+},
+{
+name = top;
+pos = (244,1360);
+}
+);
+layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(41,32,l),
+(41,0,l),
+(444,0,l),
+(444,32,l),
+(318,59,l),
+(318,1234,l),
+(444,1262,l),
+(444,1293,l),
+(41,1293,l),
+(41,1262,l),
+(166,1234,l),
+(166,59,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 2;
+height = 87;
+weight = 2;
+width = 96;
+};
+};
+width = 485;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (254,1);
+},
+{
+name = center;
+pos = (253,668);
+},
+{
+name = ogonek;
+pos = (291,18);
+},
+{
+name = top;
+pos = (255,1360);
+}
+);
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+closed = 1;
+nodes = (
+(43,32,l),
+(43,0,l),
+(465,0,l),
+(465,32,l),
+(333,59,l),
+(333,1234,l),
+(465,1262,l),
+(465,1293,l),
+(43,1293,l),
+(43,1262,l),
+(174,1234,l),
+(174,59,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 2;
+height = 87;
+weight = 2;
+width = 96;
+};
+};
+width = 508;
+}
+);
+metricRight = "=|";
+userData = {
+RMXScaler = {
+source = I;
+};
+};
+}

@@ -1,0 +1,185 @@
+{
+color = 9;
+export = 0;
+glyphname = UCslash_part.;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (480,743);
+}
+);
+background = {
+shapes = (
+{
+pos = (-222,2);
+ref = slashocomb.case;
+}
+);
+};
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(254,-182,l),
+(789,1643,l),
+(715,1664,l),
+(180,-162,l)
+);
+}
+);
+width = 969;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (489,743);
+}
+);
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(254,-182,l),
+(789,1643,l),
+(715,1664,l),
+(180,-162,l)
+);
+}
+);
+width = 969;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (417,743);
+}
+);
+layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(184,-186,l),
+(719,1643,l),
+(645,1664,l),
+(110,-166,l)
+);
+}
+);
+width = 829;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (470,743);
+}
+);
+layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(244,-186,l),
+(779,1643,l),
+(705,1664,l),
+(170,-166,l)
+);
+}
+);
+width = 949;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (384,743);
+}
+);
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+closed = 1;
+nodes = (
+(224,-186,l),
+(757,1646,l),
+(689,1664,l),
+(154,-162,l)
+);
+}
+);
+width = 911;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (460,743);
+}
+);
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+closed = 1;
+nodes = (
+(228,-186,l),
+(763,1643,l),
+(689,1664,l),
+(154,-166,l)
+);
+}
+);
+width = 917;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (462,743);
+}
+);
+layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
+shapes = (
+{
+closed = 1;
+nodes = (
+(230,-186,l),
+(765,1643,l),
+(691,1664,l),
+(156,-166,l)
+);
+}
+);
+width = 921;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (410,743);
+}
+);
+layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(178,-186,l),
+(713,1643,l),
+(639,1664,l),
+(104,-166,l)
+);
+}
+);
+width = 817;
+}
+);
+metricLeft = hyphen;
+metricRight = "=|";
+}

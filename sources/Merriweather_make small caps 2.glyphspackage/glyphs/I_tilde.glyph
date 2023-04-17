@@ -1,0 +1,115 @@
+{
+glyphname = Itilde;
+kernLeft = I;
+kernRight = I;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-12,0);
+ref = tildecomb.case;
+}
+);
+width = 711;
+},
+{
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (16,0);
+ref = tildecomb.case;
+}
+);
+width = 832;
+},
+{
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (15,0);
+ref = tildecomb.case;
+}
+);
+width = 716;
+},
+{
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-12,0);
+ref = tildecomb.case;
+}
+);
+width = 507;
+},
+{
+layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-7,0);
+ref = tildecomb.case;
+}
+);
+width = 712;
+},
+{
+layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-38,0);
+ref = tildecomb.case;
+}
+);
+width = 496;
+},
+{
+layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-11,0);
+ref = tildecomb.case;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
+};
+width = 754;
+},
+{
+layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-22,0);
+ref = tildecomb.case;
+}
+);
+width = 843;
+}
+);
+unicode = 296;
+}
