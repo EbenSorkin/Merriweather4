@@ -1,0 +1,239 @@
+{
+glyphname = fi;
+kernLeft = f;
+kernRight = l;
+layers = (
+{
+anchors = (
+{
+name = caret_1;
+pos = (737,0);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = f;
+},
+{
+pos = (750,0);
+ref = i;
+}
+);
+width = 1374;
+},
+{
+anchors = (
+{
+name = caret_1;
+pos = (772,0);
+}
+);
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+ref = f;
+},
+{
+pos = (854,0);
+ref = i;
+}
+);
+width = 1560;
+},
+{
+anchors = (
+{
+name = caret_1;
+pos = (772,0);
+}
+);
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+ref = f;
+},
+{
+pos = (648,0);
+ref = i;
+}
+);
+width = 1228;
+},
+{
+anchors = (
+{
+name = caret_1;
+pos = (772,0);
+}
+);
+layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
+shapes = (
+{
+ref = f;
+},
+{
+pos = (757,0);
+ref = i;
+}
+);
+width = 1368;
+},
+{
+anchors = (
+{
+name = caret_1;
+pos = (737,0);
+}
+);
+layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
+shapes = (
+{
+ref = f;
+},
+{
+pos = (713,0);
+ref = i;
+}
+);
+width = 1226;
+},
+{
+anchors = (
+{
+name = caret_1;
+pos = (772,0);
+}
+);
+layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
+shapes = (
+{
+ref = f;
+},
+{
+pos = (672,0);
+ref = i;
+}
+);
+width = 1193;
+},
+{
+anchors = (
+{
+name = caret_1;
+pos = (737,0);
+}
+);
+layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
+shapes = (
+{
+ref = f;
+},
+{
+pos = (555,0);
+ref = i;
+}
+);
+width = 1019;
+},
+{
+anchors = (
+{
+name = caret_1;
+pos = (737,0);
+}
+);
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+ref = f;
+},
+{
+pos = (580,0);
+ref = i;
+}
+);
+width = 1044;
+},
+{
+anchors = (
+{
+name = caret_1;
+pos = (772,0);
+}
+);
+layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
+shapes = (
+{
+ref = f;
+},
+{
+pos = (679,0);
+ref = i;
+}
+);
+width = 1269;
+},
+{
+anchors = (
+{
+name = caret_1;
+pos = (737,0);
+}
+);
+layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
+shapes = (
+{
+ref = f;
+},
+{
+pos = (624,0);
+ref = i;
+}
+);
+width = 1090;
+},
+{
+anchors = (
+{
+name = caret_1;
+pos = (737,0);
+}
+);
+layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
+shapes = (
+{
+ref = f;
+},
+{
+pos = (796,0);
+ref = i;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
+};
+width = 1420;
+},
+{
+anchors = (
+{
+name = caret_1;
+pos = (772,0);
+}
+);
+layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
+shapes = (
+{
+ref = f;
+},
+{
+pos = (864,0);
+ref = i;
+}
+);
+width = 1576;
+}
+);
+unicode = 64257;
+}
