@@ -53,8 +53,7 @@ pos = (223,0);
 ref = tildecomb;
 },
 {
-alignment = -1;
-pos = (405,495);
+pos = (405,445);
 ref = acutecomb;
 }
 );

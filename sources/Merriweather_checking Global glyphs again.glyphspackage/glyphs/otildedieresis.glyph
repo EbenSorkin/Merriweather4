@@ -48,7 +48,7 @@ pos = (212,0);
 ref = tildecomb;
 },
 {
-pos = (180,465);
+pos = (180,445);
 ref = dieresiscomb;
 }
 );

@@ -11,7 +11,7 @@ ref = glottalstopmod;
 scale = (-1,1);
 }
 );
-width = 672;
+width = 694;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -22,7 +22,7 @@ ref = glottalstopmod;
 scale = (-1,1);
 }
 );
-width = 772;
+width = 820;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -33,7 +33,7 @@ ref = glottalstopmod;
 scale = (-1,1);
 }
 );
-width = 623;
+width = 618;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -44,7 +44,7 @@ ref = glottalstopmod;
 scale = (-1,1);
 }
 );
-width = 796;
+width = 797;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -66,7 +66,7 @@ ref = glottalstopmod;
 scale = (-1,1);
 }
 );
-width = 718;
+width = 749;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -77,7 +77,7 @@ ref = glottalstopmod;
 scale = (-1,1);
 }
 );
-width = 578;
+width = 579;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -88,7 +88,7 @@ ref = glottalstopmod;
 scale = (-1,1);
 }
 );
-width = 768;
+width = 758;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -99,7 +99,7 @@ ref = glottalstopmod;
 scale = (-1,1);
 }
 );
-width = 678;
+width = 696;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -110,7 +110,7 @@ ref = glottalstopmod;
 scale = (-1,1);
 }
 );
-width = 807;
+width = 824;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -121,7 +121,7 @@ ref = glottalstopmod;
 scale = (-1,1);
 }
 );
-width = 642;
+width = 630;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -132,7 +132,7 @@ ref = glottalstopmod;
 scale = (-1,1);
 }
 );
-width = 812;
+width = 813;
 }
 );
 metricLeft = omod;

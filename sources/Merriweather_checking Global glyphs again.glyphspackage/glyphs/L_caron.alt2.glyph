@@ -37,7 +37,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (1191,481);
+pos = (911,0);
 ref = caroncomb.alt;
 }
 );

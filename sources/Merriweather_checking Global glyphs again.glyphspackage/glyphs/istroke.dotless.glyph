@@ -1,4 +1,5 @@
 {
+color = 0;
 glyphname = istroke.dotless;
 layers = (
 {
@@ -6,10 +7,6 @@ layerId = UUID0;
 shapes = (
 {
 ref = idotless;
-},
-{
-pos = (183,0);
-ref = dotaccentcomb;
 },
 {
 pos = (-81,-3);
@@ -25,10 +22,6 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (151,0);
-ref = dotaccentcomb;
-},
-{
 pos = (30,11);
 ref = strokeshortcomb;
 }
@@ -42,10 +35,6 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (119,0);
-ref = dotaccentcomb;
-},
-{
 pos = (-23,-43);
 ref = strokeshortcomb;
 }
@@ -57,10 +46,6 @@ layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
 shapes = (
 {
 ref = idotless;
-},
-{
-pos = (98,0);
-ref = dotaccentcomb;
 },
 {
 pos = (-46,-55);
