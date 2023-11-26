@@ -75,7 +75,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (331,0);
+pos = (328,0);
 ref = hookabovecomb.case;
 }
 );
@@ -156,7 +156,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (477,0);
+pos = (490,0);
 ref = hookabovecomb.case;
 }
 );

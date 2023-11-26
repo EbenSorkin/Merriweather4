@@ -276,35 +276,35 @@ width = 1412;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
-width = 16332;
+width = 16488;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
-width = 11870;
+width = 11980;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
-width = 4886;
+width = 4924;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
-width = 7020;
+width = 7080;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
-width = 16914;
+width = 17076;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
-width = 17690;
+width = 17860;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
-width = 5856;
+width = 5904;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
-width = 5080;
+width = 5120;
 }
 );
 metricLeft = H;

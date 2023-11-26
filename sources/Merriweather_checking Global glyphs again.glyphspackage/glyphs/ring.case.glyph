@@ -71,7 +71,7 @@ shapes = (
 ref = ringcomb.case;
 }
 );
-width = 536;
+width = 546;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";

@@ -9,7 +9,7 @@ shapes = (
 ref = dieresiscomb;
 },
 {
-pos = (135,316);
+pos = (135,296);
 ref = tonos;
 }
 );
@@ -100,7 +100,7 @@ shapes = (
 ref = dieresiscomb;
 },
 {
-pos = (209,481);
+pos = (219,481);
 ref = tonos;
 }
 );

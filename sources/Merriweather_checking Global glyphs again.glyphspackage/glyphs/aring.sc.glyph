@@ -16,7 +16,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (396,162);
+pos = (398,106);
 ref = ringcomb;
 }
 );
@@ -127,7 +127,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (271,355);
+pos = (261,355);
 ref = ringcomb;
 }
 );

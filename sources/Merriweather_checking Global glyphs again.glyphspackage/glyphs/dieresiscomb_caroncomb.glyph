@@ -8,7 +8,7 @@ shapes = (
 ref = dieresiscomb;
 },
 {
-pos = (-16,316);
+pos = (-16,296);
 ref = caroncomb;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = dieresiscomb;
 },
 {
-pos = (25,481);
+pos = (35,481);
 ref = caroncomb;
 }
 );

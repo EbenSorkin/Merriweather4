@@ -75,7 +75,7 @@ shapes = (
 ref = "A-cy";
 },
 {
-pos = (183,0);
+pos = (180,0);
 ref = "brevecomb-cy.case";
 }
 );
@@ -156,7 +156,7 @@ shapes = (
 ref = "A-cy";
 },
 {
-pos = (268,0);
+pos = (281,0);
 ref = "brevecomb-cy.case";
 }
 );

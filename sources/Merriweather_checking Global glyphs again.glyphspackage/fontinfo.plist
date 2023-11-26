@@ -1,5 +1,5 @@
 {
-.appVersion = "3205";
+.appVersion = "3227";
 .formatVersion = 3;
 axes = (
 {
@@ -2730,6 +2730,12 @@ pos = (765,-484);
 },
 {
 pos = (59,1110);
+},
+{
+pos = (-257,-95);
+},
+{
+pos = (402,1283);
 }
 );
 iconName = Light;
@@ -2841,6 +2847,17 @@ size = 32;
 );
 }
 );
+guides = (
+{
+pos = (-257,-95);
+},
+{
+pos = (402,1283);
+},
+{
+pos = (402,1488);
+}
+);
 id = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
 metricValues = (
 {
@@ -2950,6 +2967,17 @@ size = 32;
 );
 }
 );
+guides = (
+{
+pos = (-257,-83);
+},
+{
+pos = (402,1177);
+},
+{
+pos = (309,1313);
+}
+);
 iconName = Light;
 id = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
 metricValues = (
@@ -3050,6 +3078,17 @@ pos = 1292;
 size = 32;
 }
 );
+}
+);
+guides = (
+{
+pos = (-257,-83);
+},
+{
+pos = (402,1100);
+},
+{
+pos = (309,1358);
 }
 );
 id = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -3154,6 +3193,14 @@ size = 32;
 );
 }
 );
+guides = (
+{
+pos = (-257,-95);
+},
+{
+pos = (402,1283);
+}
+);
 iconName = Light;
 id = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
 metricValues = (
@@ -3256,6 +3303,17 @@ size = 32;
 );
 }
 );
+guides = (
+{
+pos = (-257,-95);
+},
+{
+pos = (402,1283);
+},
+{
+pos = (402,1488);
+}
+);
 id = "EA2265BD-E890-48C4-9E90-A53076E780C5";
 metricValues = (
 {
@@ -3355,6 +3413,14 @@ pos = 1292;
 size = 32;
 }
 );
+}
+);
+guides = (
+{
+pos = (-257,-83);
+},
+{
+pos = (309,1313);
 }
 );
 iconName = Light;
@@ -3459,6 +3525,17 @@ size = 32;
 );
 }
 );
+guides = (
+{
+pos = (-257,-83);
+},
+{
+pos = (402,1100);
+},
+{
+pos = (309,1358);
+}
+);
 id = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
 metricValues = (
 {
@@ -3561,6 +3638,17 @@ size = 32;
 );
 }
 );
+guides = (
+{
+pos = (-257,-95);
+},
+{
+pos = (-257,-95);
+},
+{
+pos = (402,1283);
+}
+);
 iconName = Light;
 id = "779F1615-9D1A-4778-9767-9A030AA58B6C";
 metricValues = (
@@ -3661,6 +3749,17 @@ pos = 1292;
 size = 30;
 }
 );
+}
+);
+guides = (
+{
+pos = (-257,-95);
+},
+{
+pos = (402,1283);
+},
+{
+pos = (402,1488);
 }
 );
 id = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -3769,6 +3868,14 @@ size = 32;
 );
 }
 );
+guides = (
+{
+pos = (-257,-83);
+},
+{
+pos = (309,1313);
+}
+);
 iconName = Light;
 id = "2103F1D3-C390-4F79-A87D-298F85EA6916";
 metricValues = (
@@ -3869,6 +3976,17 @@ pos = 1292;
 size = 32;
 }
 );
+}
+);
+guides = (
+{
+pos = (-257,-83);
+},
+{
+pos = (402,1100);
+},
+{
+pos = (309,1358);
 }
 );
 id = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -111728,6 +111846,19 @@ key = designerURL;
 value = "http://sorkintype.com";
 },
 {
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
 key = manufacturers;
 values = (
 {
@@ -111748,19 +111879,6 @@ language = dflt;
 value = "Merriweather is a trademark of Sorkin Type Co.";
 }
 );
-},
-{
-key = licenses;
-values = (
-{
-language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-}
-);
-},
-{
-key = licenseURL;
-value = "http://scripts.sil.org/OFL";
 },
 {
 key = vendorID;

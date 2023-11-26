@@ -1,26 +1,6 @@
 {
 displayStrings = (
-"c ̌ ̕ (with commaabovecomb) to look like č̕ ",
-"/koronis.case ῾/dasia.case",
-"⁊",
-"13.04.2023, 16:00   Γιάννης Α. Μυλόπουλος*     Με αβάσιμα και ατεκμηρίωτα προσχήματα, που διαψεύστηκαν από ειδικούς επιστήμονες, η κυβέρνηση Μητσοτάκη σταμάτησε την πρόοδο του έργου και το γύρισε πίσω. Η Θεσσαλονίκη παρακμάζει γιατί εδώ και δεκαετίες τη χρησιμοποιούν σαν πεδίο εξυπηρέτησης προσωπικών, κομματικών και επιχειρηματικών",
-"͘/gravecomb_dotaboverightcomb",
-"᷇",
-"/istroke.dotless",
-"Ɨᵻ/istroke.dotless/istroke.sc",
-"Ɨᵻɨ/istroke.dotless/istroke.sc",
-"Ɑ",
-"Ⱥ",
-"Ɬ",
-"fȣ",
-"◌a",
-"/_dot.part",
-"◌",
-"Ɂ/glottalstopreversed.case",
-"/zcaron.alt",
-"ŉ",
-"L/caroncomb.alt LĽ",
-"̃́̃ṹ",
-"uư"
+"̊/ringcomb.case",
+"̈̊/ringcomb.case"
 );
 }

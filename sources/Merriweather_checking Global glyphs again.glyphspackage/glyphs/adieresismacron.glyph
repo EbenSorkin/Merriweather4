@@ -12,7 +12,7 @@ pos = (178,0);
 ref = dieresiscomb;
 },
 {
-pos = (247,316);
+pos = (247,296);
 ref = macroncomb;
 }
 );
@@ -164,7 +164,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (94,0);
+pos = (84,0);
 ref = dieresiscomb;
 },
 {

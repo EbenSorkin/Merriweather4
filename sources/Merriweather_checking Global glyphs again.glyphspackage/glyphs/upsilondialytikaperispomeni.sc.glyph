@@ -12,7 +12,7 @@ pos = (310,0);
 ref = dieresiscomb;
 },
 {
-pos = (282,316);
+pos = (282,296);
 ref = perispomeni;
 }
 );
@@ -156,7 +156,7 @@ ref = upsilon;
 ref = dieresiscomb;
 },
 {
-pos = (42,481);
+pos = (52,481);
 ref = perispomeni;
 }
 );

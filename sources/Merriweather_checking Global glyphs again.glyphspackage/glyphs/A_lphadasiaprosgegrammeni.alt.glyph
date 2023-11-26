@@ -42,7 +42,7 @@ shapes = (
 ref = Alpha;
 },
 {
-pos = (557,0);
+pos = (553,0);
 ref = dasia.case;
 },
 {
@@ -161,7 +161,7 @@ shapes = (
 ref = Alpha;
 },
 {
-pos = (549,0);
+pos = (562,0);
 ref = dasia.case;
 },
 {

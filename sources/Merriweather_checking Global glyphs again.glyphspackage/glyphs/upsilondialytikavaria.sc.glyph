@@ -12,7 +12,7 @@ pos = (310,0);
 ref = dieresiscomb;
 },
 {
-pos = (417,316);
+pos = (417,296);
 ref = gravecomb;
 }
 );
@@ -156,7 +156,7 @@ ref = upsilon;
 ref = dieresiscomb;
 },
 {
-pos = (110,481);
+pos = (120,481);
 ref = gravecomb;
 }
 );

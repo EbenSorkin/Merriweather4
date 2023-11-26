@@ -8,7 +8,7 @@ shapes = (
 ref = dieresiscomb;
 },
 {
-pos = (203,316);
+pos = (203,296);
 ref = oxia;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = dieresiscomb;
 },
 {
-pos = (209,481);
+pos = (219,481);
 ref = oxia;
 }
 );

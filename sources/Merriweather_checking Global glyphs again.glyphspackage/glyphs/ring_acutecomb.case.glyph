@@ -1,4 +1,5 @@
 {
+color = 11;
 glyphname = ring_acutecomb.case;
 layers = (
 {
@@ -129,7 +130,7 @@ shapes = (
 ref = ring;
 },
 {
-pos = (174,152);
+pos = (184,152);
 ref = acutecomb.case;
 }
 );

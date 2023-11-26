@@ -11,11 +11,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (238,0);
+pos = (240,-56);
 ref = ringcomb;
 },
 {
-pos = (381,656);
+pos = (635,339);
 ref = acutecomb;
 }
 );
@@ -96,7 +96,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (176,0);
+pos = (166,0);
 ref = ringcomb;
 },
 {

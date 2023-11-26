@@ -75,7 +75,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (253,0);
+pos = (250,0);
 ref = brevecomb_hookabovecomb.case;
 }
 );
@@ -156,7 +156,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (366,0);
+pos = (379,0);
 ref = brevecomb_hookabovecomb.case;
 }
 );

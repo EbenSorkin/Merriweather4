@@ -75,7 +75,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (205,0);
+pos = (202,0);
 ref = circumflexcomb_tildecomb.case;
 }
 );
@@ -156,7 +156,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (327,0);
+pos = (340,0);
 ref = circumflexcomb_tildecomb.case;
 }
 );

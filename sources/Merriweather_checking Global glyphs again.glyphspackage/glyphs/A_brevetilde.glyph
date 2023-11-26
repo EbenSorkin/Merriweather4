@@ -75,7 +75,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (253,0);
+pos = (250,0);
 ref = brevecomb_tildecomb.case;
 }
 );
@@ -156,7 +156,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (363,0);
+pos = (376,0);
 ref = brevecomb_tildecomb.case;
 }
 );
