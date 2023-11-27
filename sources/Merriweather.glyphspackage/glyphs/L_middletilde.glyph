@@ -1,5 +1,5 @@
 {
-color = 1;
+color = 5;
 glyphname = Lmiddletilde;
 layers = (
 {
@@ -11,7 +11,7 @@ ref = L;
 },
 {
 alignment = -1;
-pos = (-267,212);
+pos = (-267,232);
 ref = asciitilde;
 }
 );
@@ -26,7 +26,7 @@ ref = L;
 },
 {
 alignment = -1;
-pos = (-267,212);
+pos = (-267,201);
 ref = asciitilde;
 }
 );
@@ -41,7 +41,7 @@ ref = L;
 },
 {
 alignment = -1;
-pos = (-217,212);
+pos = (-217,224);
 ref = asciitilde;
 }
 );
@@ -56,7 +56,7 @@ ref = L;
 },
 {
 alignment = -1;
-pos = (-267,212);
+pos = (-267,223);
 ref = asciitilde;
 }
 );
@@ -71,7 +71,7 @@ ref = L;
 },
 {
 alignment = -1;
-pos = (-267,212);
+pos = (-267,225);
 ref = asciitilde;
 }
 );
@@ -86,7 +86,7 @@ ref = L;
 },
 {
 alignment = -1;
-pos = (-267,212);
+pos = (-267,221);
 ref = asciitilde;
 }
 );
@@ -100,7 +100,7 @@ alignment = -1;
 ref = L;
 },
 {
-pos = (-357,174);
+pos = (-290,246);
 ref = asciitilde;
 }
 );
@@ -115,7 +115,7 @@ ref = L;
 },
 {
 alignment = -1;
-pos = (-267,212);
+pos = (-267,229);
 ref = asciitilde;
 }
 );
@@ -130,7 +130,7 @@ ref = L;
 },
 {
 alignment = -1;
-pos = (-267,212);
+pos = (-267,280);
 ref = asciitilde;
 }
 );
@@ -145,7 +145,7 @@ ref = L;
 },
 {
 alignment = -1;
-pos = (-267,212);
+pos = (-267,282);
 ref = asciitilde;
 }
 );
@@ -160,7 +160,7 @@ ref = L;
 },
 {
 alignment = -1;
-pos = (-267,212);
+pos = (-267,278);
 ref = asciitilde;
 }
 );
@@ -175,7 +175,7 @@ ref = L;
 },
 {
 alignment = -1;
-pos = (-267,212);
+pos = (-267,281);
 ref = asciitilde;
 }
 );

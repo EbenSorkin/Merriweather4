@@ -1,5 +1,5 @@
 {
-color = 2;
+color = 5;
 glyphname = Lbelt;
 layers = (
 {
@@ -39,7 +39,8 @@ shapes = (
 ref = L;
 },
 {
-pos = (-205,0);
+alignment = -1;
+pos = (-153,0);
 ref = belt_part.;
 }
 );
@@ -52,7 +53,8 @@ shapes = (
 ref = L;
 },
 {
-pos = (-190,0);
+alignment = -1;
+pos = (-143,0);
 ref = belt_part.;
 }
 );
@@ -94,7 +96,7 @@ ref = L;
 },
 {
 alignment = -1;
-pos = (-30,0);
+pos = (9,0);
 ref = belt_part.;
 }
 );
@@ -123,7 +125,8 @@ shapes = (
 ref = L;
 },
 {
-pos = (-182,0);
+alignment = -1;
+pos = (-135,0);
 ref = belt_part.;
 }
 );
@@ -136,7 +139,8 @@ shapes = (
 ref = L;
 },
 {
-pos = (-263,0);
+alignment = -1;
+pos = (-202,0);
 ref = belt_part.;
 }
 );

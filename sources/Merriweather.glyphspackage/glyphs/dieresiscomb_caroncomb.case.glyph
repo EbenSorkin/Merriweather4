@@ -235,7 +235,7 @@ shapes = (
 ref = dieresiscomb.case;
 },
 {
-pos = (33,439);
+pos = (33,370);
 ref = caroncomb.case;
 }
 );

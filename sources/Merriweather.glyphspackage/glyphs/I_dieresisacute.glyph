@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Idieresisacute;
 kernLeft = I;
 kernRight = I;
@@ -33,8 +34,7 @@ pos = (-4,0);
 ref = dieresiscomb.case;
 },
 {
-alignment = -1;
-pos = (172,477);
+pos = (172,363);
 ref = acutecomb.case;
 }
 );
@@ -70,8 +70,7 @@ pos = (-36,0);
 ref = dieresiscomb.case;
 },
 {
-alignment = -1;
-pos = (136,477);
+pos = (136,407);
 ref = acutecomb.case;
 }
 );
@@ -90,8 +89,7 @@ pos = (-26,0);
 ref = dieresiscomb.case;
 },
 {
-alignment = -1;
-pos = (126,412);
+pos = (125,332);
 ref = acutecomb.case;
 }
 );
@@ -108,7 +106,7 @@ pos = (-23,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (110,439);
+pos = (110,370);
 ref = acutecomb.case;
 }
 );
@@ -195,8 +193,7 @@ pos = (17,0);
 ref = dieresiscomb.case;
 },
 {
-alignment = -1;
-pos = (149,412);
+pos = (148,332);
 ref = acutecomb.case;
 }
 );
@@ -218,8 +215,7 @@ pos = (-18,0);
 ref = dieresiscomb.case;
 },
 {
-alignment = -1;
-pos = (149,477);
+pos = (148,407);
 ref = acutecomb.case;
 }
 );

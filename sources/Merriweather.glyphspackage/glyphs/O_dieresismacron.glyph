@@ -99,7 +99,7 @@ pos = (264,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (322,439);
+pos = (322,370);
 ref = macroncomb.case;
 }
 );

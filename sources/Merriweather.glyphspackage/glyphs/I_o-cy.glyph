@@ -75,7 +75,7 @@ shapes = (
 ref = "Ie-cy";
 },
 {
-pos = (213,0);
+pos = (223,0);
 ref = dieresiscomb.case;
 }
 );

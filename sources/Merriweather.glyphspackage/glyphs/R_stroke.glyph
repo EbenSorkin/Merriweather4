@@ -248,11 +248,11 @@ width = 1364;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
-width = 26148;
+width = 26310;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
-width = 27380;
+width = 27550;
 },
 {
 background = {
@@ -626,11 +626,11 @@ width = 1273;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
-width = 8592;
+width = 8640;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
-width = 7360;
+width = 7400;
 }
 );
 metricLeft = H;

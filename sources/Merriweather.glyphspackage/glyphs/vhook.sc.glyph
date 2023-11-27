@@ -168,19 +168,19 @@ width = 1437;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
-width = 31752;
+width = 31980;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
-width = 29072;
+width = 29280;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
-width = 34700;
+width = 34950;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
-width = 29608;
+width = 29820;
 },
 {
 background = {
@@ -348,19 +348,19 @@ width = 1402;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
-width = 13528;
+width = 13620;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
-width = 11384;
+width = 11460;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
-width = 19156;
+width = 19290;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
-width = 5220;
+width = 5250;
 }
 );
 metricLeft = n.sc;

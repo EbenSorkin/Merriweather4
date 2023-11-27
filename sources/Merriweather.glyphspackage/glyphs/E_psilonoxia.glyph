@@ -21,7 +21,7 @@ shapes = (
 ref = Epsilon;
 },
 {
-pos = (420,0);
+pos = (430,0);
 ref = oxia.case;
 }
 );

@@ -22,7 +22,7 @@ shapes = (
 ref = c.sc;
 },
 {
-pos = (956,-158);
+pos = (946,-158);
 ref = _UChooktop.part;
 }
 );

@@ -316,19 +316,19 @@ width = 1294;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
-width = 2640;
+width = 2680;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
-width = 3660;
+width = 3720;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
-width = 2640;
+width = 2680;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
-width = 7128;
+width = 7256;
 },
 {
 anchors = (

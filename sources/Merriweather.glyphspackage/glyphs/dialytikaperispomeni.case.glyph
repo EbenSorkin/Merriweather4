@@ -126,7 +126,7 @@ shapes = (
 ref = dieresiscomb.case;
 },
 {
-pos = (50,439);
+pos = (50,370);
 ref = tildecomb.case;
 }
 );

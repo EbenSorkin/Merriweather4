@@ -235,7 +235,7 @@ shapes = (
 ref = dieresiscomb.case;
 },
 {
-pos = (133,439);
+pos = (133,370);
 ref = gravecomb.case;
 }
 );
