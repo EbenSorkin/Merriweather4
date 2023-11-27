@@ -22,7 +22,7 @@ shapes = (
 ref = dieresiscomb.case;
 },
 {
-pos = (176,407);
+pos = (176,363);
 ref = oxia.case;
 }
 );
