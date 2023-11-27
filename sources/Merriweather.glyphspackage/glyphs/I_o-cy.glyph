@@ -10,7 +10,7 @@ shapes = (
 ref = "Ie-cy";
 },
 {
-pos = (263,0);
+pos = (283,0);
 ref = dieresiscomb.case;
 }
 );
