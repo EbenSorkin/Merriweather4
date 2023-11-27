@@ -1,0 +1,174 @@
+{
+glyphname = pacute;
+layers = (
+{
+.lastUpdate = 722660068.37;
+layerId = UUID0;
+shapes = (
+{
+ref = p;
+},
+{
+pos = (459,0);
+ref = acutecomb;
+}
+);
+width = 1192;
+},
+{
+.lastUpdate = 722753525.27;
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+ref = p;
+},
+{
+pos = (485,0);
+ref = acutecomb;
+}
+);
+width = 1301;
+},
+{
+.lastUpdate = 722660072.939;
+layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
+shapes = (
+{
+ref = p;
+},
+{
+pos = (408,0);
+ref = acutecomb;
+}
+);
+width = 1066;
+},
+{
+.lastUpdate = 722660073.85;
+layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
+shapes = (
+{
+ref = p;
+},
+{
+pos = (377,0);
+ref = acutecomb;
+}
+);
+width = 1093;
+},
+{
+.lastUpdate = 722659238.707;
+layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
+shapes = (
+{
+ref = p;
+},
+{
+pos = (454,0);
+ref = acutecomb;
+}
+);
+width = 1258;
+},
+{
+.lastUpdate = 722659032.88;
+layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
+shapes = (
+{
+ref = p;
+},
+{
+pos = (476,0);
+ref = acutecomb;
+}
+);
+width = 1354;
+},
+{
+.lastUpdate = 722660070.002;
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+ref = p;
+},
+{
+pos = (397,0);
+ref = acutecomb;
+}
+);
+width = 1013;
+},
+{
+.lastUpdate = 722660071.073;
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+ref = p;
+},
+{
+pos = (417,0);
+ref = acutecomb;
+}
+);
+width = 1155;
+},
+{
+.lastUpdate = 722660163.604;
+layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
+shapes = (
+{
+ref = p;
+},
+{
+pos = (362,0);
+ref = acutecomb;
+}
+);
+width = 912;
+},
+{
+.lastUpdate = 722660076.698;
+layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
+shapes = (
+{
+ref = p;
+},
+{
+pos = (373,0);
+ref = acutecomb;
+}
+);
+width = 1027;
+},
+{
+.lastUpdate = 722405138.176;
+layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
+shapes = (
+{
+ref = p;
+},
+{
+pos = (392,0);
+ref = acutecomb;
+}
+);
+width = 1056;
+},
+{
+.lastUpdate = 722405138.176;
+layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
+shapes = (
+{
+ref = p;
+},
+{
+pos = (465,0);
+ref = acutecomb;
+}
+);
+width = 1214;
+}
+);
+unicode = 7765;
+}

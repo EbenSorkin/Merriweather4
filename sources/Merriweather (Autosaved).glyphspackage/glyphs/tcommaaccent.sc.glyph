@@ -1,0 +1,178 @@
+{
+glyphname = tcommaaccent.sc;
+kernLeft = t.sc;
+kernRight = t.sc;
+layers = (
+{
+.lastUpdate = 722659245.113;
+layerId = UUID0;
+shapes = (
+{
+ref = t.sc;
+},
+{
+pos = (557,0);
+ref = commaaccentcomb;
+}
+);
+width = 1340;
+},
+{
+.lastUpdate = 722660043.134;
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+ref = t.sc;
+},
+{
+pos = (553,0);
+ref = commaaccentcomb;
+}
+);
+width = 1422;
+},
+{
+.lastUpdate = 722405138.55;
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+ref = t.sc;
+},
+{
+pos = (534,0);
+ref = commaaccentcomb;
+}
+);
+width = 1381;
+},
+{
+.lastUpdate = 722405138.55;
+layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
+shapes = (
+{
+ref = t.sc;
+},
+{
+pos = (461,0);
+ref = commaaccentcomb;
+}
+);
+width = 1250;
+},
+{
+.lastUpdate = 722405138.55;
+layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
+shapes = (
+{
+ref = t.sc;
+},
+{
+pos = (498,0);
+ref = commaaccentcomb;
+}
+);
+width = 1222;
+},
+{
+.lastUpdate = 722405138.55;
+layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
+shapes = (
+{
+ref = t.sc;
+},
+{
+pos = (466,0);
+ref = commaaccentcomb;
+}
+);
+width = 1234;
+},
+{
+.lastUpdate = 722661896.353;
+layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
+shapes = (
+{
+ref = t.sc;
+},
+{
+pos = (492,0);
+ref = commaaccentcomb;
+}
+);
+width = 1197;
+},
+{
+.lastUpdate = 722405138.55;
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+ref = t.sc;
+},
+{
+pos = (529,0);
+ref = commaaccentcomb;
+}
+);
+width = 1271;
+},
+{
+.lastUpdate = 722405138.55;
+layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
+shapes = (
+{
+ref = t.sc;
+},
+{
+pos = (515,0);
+ref = commaaccentcomb;
+}
+);
+width = 1391;
+},
+{
+.lastUpdate = 722405138.55;
+layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
+shapes = (
+{
+ref = t.sc;
+},
+{
+pos = (566,0);
+ref = commaaccentcomb;
+}
+);
+width = 1343;
+},
+{
+.lastUpdate = 722659243.607;
+layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
+shapes = (
+{
+ref = t.sc;
+},
+{
+pos = (572,0);
+ref = commaaccentcomb;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
+};
+width = 1368;
+},
+{
+.lastUpdate = 722659026.261;
+layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
+shapes = (
+{
+ref = t.sc;
+},
+{
+pos = (563,0);
+ref = commaaccentcomb;
+}
+);
+width = 1455;
+}
+);
+}

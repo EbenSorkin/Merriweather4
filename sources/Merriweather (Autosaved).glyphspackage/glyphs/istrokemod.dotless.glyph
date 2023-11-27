@@ -1,0 +1,148 @@
+{
+color = 4;
+glyphname = istrokemod.dotless;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(51.74,71.768,l),
+(51.74,0,l),
+(479.011,0,l),
+(479.011,71.768,l),
+(333.806,83.451,l),
+(333.806,919.634,l),
+(300.425,946.339,l),
+(297.087,946.339,l),
+(68.43,919.634,l),
+(68.43,844.528,l),
+(198.614,816.154,l),
+(198.614,85.12,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(26.135,537.068,l),
+(26.135,449.444,l),
+(506.814,449.444,l),
+(506.814,537.068,l)
+);
+}
+);
+width = 624;
+},
+{
+.lastUpdate = 722660040.123;
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+ref = istroke;
+}
+);
+width = 706;
+},
+{
+.lastUpdate = 722405139.149;
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+ref = istroke;
+}
+);
+width = 464;
+},
+{
+.lastUpdate = 722405139.149;
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+ref = istroke;
+}
+);
+width = 580;
+},
+{
+.lastUpdate = 722405139.149;
+layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
+shapes = (
+{
+ref = istroke;
+}
+);
+width = 513;
+},
+{
+.lastUpdate = 722405139.149;
+layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
+shapes = (
+{
+ref = istroke;
+}
+);
+width = 611;
+},
+{
+.lastUpdate = 722662191.825;
+layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
+shapes = (
+{
+ref = istroke;
+}
+);
+width = 464;
+},
+{
+.lastUpdate = 722655004.054;
+layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
+shapes = (
+{
+ref = istroke;
+}
+);
+width = 521;
+},
+{
+.lastUpdate = 722405139.15;
+layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
+shapes = (
+{
+ref = istroke;
+}
+);
+width = 624;
+},
+{
+.lastUpdate = 722659003.368;
+layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
+shapes = (
+{
+ref = istroke;
+}
+);
+width = 712;
+},
+{
+.lastUpdate = 722405139.15;
+layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
+shapes = (
+{
+ref = istroke;
+}
+);
+width = 466;
+},
+{
+.lastUpdate = 722405139.15;
+layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
+shapes = (
+{
+ref = istroke;
+}
+);
+width = 590;
+}
+);
+}
