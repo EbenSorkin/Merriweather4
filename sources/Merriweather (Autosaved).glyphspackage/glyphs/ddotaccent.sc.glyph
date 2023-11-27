@@ -1,0 +1,179 @@
+{
+glyphname = ddotaccent.sc;
+kernLeft = h.sc;
+kernRight = o.sc;
+lastChange = "2023-11-26 01:30:01 +0000";
+layers = (
+{
+.lastUpdate = 722660068.624;
+layerId = UUID0;
+shapes = (
+{
+ref = d.sc;
+},
+{
+pos = (579,162);
+ref = dotaccentcomb;
+}
+);
+width = 1398;
+},
+{
+.lastUpdate = 722660043.846;
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+ref = d.sc;
+},
+{
+pos = (533,160);
+ref = dotaccentcomb;
+}
+);
+width = 1437;
+},
+{
+.lastUpdate = 722660071.258;
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+ref = d.sc;
+},
+{
+pos = (492,335);
+ref = dotaccentcomb;
+}
+);
+width = 1377;
+},
+{
+.lastUpdate = 722660074.03;
+layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
+shapes = (
+{
+ref = d.sc;
+},
+{
+pos = (439,160);
+ref = dotaccentcomb;
+}
+);
+width = 1247;
+},
+{
+.lastUpdate = 722660073.098;
+layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
+shapes = (
+{
+ref = d.sc;
+},
+{
+pos = (488,162);
+ref = dotaccentcomb;
+}
+);
+width = 1202;
+},
+{
+.lastUpdate = 722660076.871;
+layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
+shapes = (
+{
+ref = d.sc;
+},
+{
+pos = (443,355);
+ref = dotaccentcomb;
+}
+);
+width = 1240;
+},
+{
+.lastUpdate = 722660100.74;
+layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
+shapes = (
+{
+ref = d.sc;
+},
+{
+pos = (431,355);
+ref = dotaccentcomb;
+}
+);
+width = 1121;
+},
+{
+.lastUpdate = 722660070.156;
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+ref = d.sc;
+},
+{
+pos = (509,355);
+ref = dotaccentcomb;
+}
+);
+width = 1306;
+},
+{
+.lastUpdate = 722405138.419;
+layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
+shapes = (
+{
+ref = d.sc;
+},
+{
+pos = (529,355);
+ref = dotaccentcomb;
+}
+);
+width = 1407;
+},
+{
+.lastUpdate = 722405138.419;
+layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
+shapes = (
+{
+ref = d.sc;
+},
+{
+pos = (575,355);
+ref = dotaccentcomb;
+}
+);
+width = 1305;
+},
+{
+.lastUpdate = 722659241.043;
+layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
+shapes = (
+{
+ref = d.sc;
+},
+{
+pos = (549,162);
+ref = dotaccentcomb;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
+};
+width = 1378;
+},
+{
+.lastUpdate = 722659027.463;
+layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
+shapes = (
+{
+ref = d.sc;
+},
+{
+pos = (564,160);
+ref = dotaccentcomb;
+}
+);
+width = 1486;
+}
+);
+}

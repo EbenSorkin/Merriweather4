@@ -1,0 +1,179 @@
+{
+glyphname = Uinvertedbreve;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+.lastUpdate = 722720578.507;
+layerId = UUID0;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (421,0);
+ref = breveinvertedcomb.case;
+}
+);
+width = 1476;
+},
+{
+.lastUpdate = 722750255.187;
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (375,0);
+ref = breveinvertedcomb.case;
+}
+);
+width = 1489;
+},
+{
+.lastUpdate = 722720581.23;
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (368,0);
+ref = breveinvertedcomb.case;
+}
+);
+width = 1357;
+},
+{
+.lastUpdate = 722720582.918;
+layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (336,0);
+ref = breveinvertedcomb.case;
+}
+);
+width = 1359;
+},
+{
+.lastUpdate = 722720582.131;
+layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (362,0);
+ref = breveinvertedcomb.case;
+}
+);
+width = 1297;
+},
+{
+.lastUpdate = 722720584.908;
+layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (348,0);
+ref = breveinvertedcomb.case;
+}
+);
+width = 1257;
+},
+{
+.lastUpdate = 722720584.07;
+layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (375,0);
+ref = breveinvertedcomb.case;
+}
+);
+width = 1196;
+},
+{
+.lastUpdate = 722720579.717;
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (418,0);
+ref = breveinvertedcomb.case;
+}
+);
+width = 1341;
+},
+{
+.lastUpdate = 722720591.208;
+layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (396,0);
+ref = breveinvertedcomb.case;
+}
+);
+width = 1433;
+},
+{
+.lastUpdate = 722720590.327;
+layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (438,0);
+ref = breveinvertedcomb.case;
+}
+);
+width = 1402;
+},
+{
+.lastUpdate = 722720586.639;
+layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (432,0);
+ref = breveinvertedcomb.case;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
+};
+width = 1538;
+},
+{
+.lastUpdate = 722720587.46;
+layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (361,0);
+ref = breveinvertedcomb.case;
+}
+);
+width = 1509;
+}
+);
+unicode = 534;
+}
