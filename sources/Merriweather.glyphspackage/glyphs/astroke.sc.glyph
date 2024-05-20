@@ -1,5 +1,5 @@
 {
-color = 8;
+color = 5;
 glyphname = astroke.sc;
 layers = (
 {
@@ -9,7 +9,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (123,20);
+pos = (107,-4);
 ref = slashlongcomb;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (103,10);
+pos = (88,-4);
 ref = slashlongcomb;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (140,30);
+pos = (176,-4);
 ref = slashlongcomb;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (65,30);
+pos = (98,-4);
 ref = slashlongcomb;
 }
 );
@@ -61,7 +61,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (73,30);
+pos = (173,-4);
 ref = slashlongcomb;
 }
 );
@@ -74,7 +74,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (13,30);
+pos = (157,-4);
 ref = slashlongcomb;
 }
 );
@@ -87,7 +87,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (69,40);
+pos = (43,-10);
 ref = slashlongcomb;
 }
 );
@@ -100,7 +100,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (29,30);
+pos = (-7,-10);
 ref = slashlongcomb;
 }
 );
@@ -113,7 +113,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (124,30);
+pos = (43,-10);
 ref = slashlongcomb;
 }
 );
@@ -126,7 +126,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (82,30);
+pos = (29,-10);
 ref = slashlongcomb;
 }
 );
@@ -139,11 +139,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (27,30);
+pos = (83,-10);
 ref = slashlongcomb;
 }
 );
-width = 1270;
+width = 1275;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -152,7 +152,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (79,30);
+pos = (73,-10);
 ref = slashlongcomb;
 }
 );

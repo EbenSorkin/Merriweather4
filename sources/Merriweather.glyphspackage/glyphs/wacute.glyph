@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = wacute;
 kernLeft = w;
 kernRight = w;
@@ -11,7 +10,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (711,0);
+pos = (541,0);
 ref = acutecomb;
 }
 );
@@ -24,7 +23,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (755,-1);
+pos = (585,-1);
 ref = acutecomb;
 }
 );
@@ -37,7 +36,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (682,0);
+pos = (568,0);
 ref = acutecomb;
 }
 );
@@ -50,7 +49,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (632,-1);
+pos = (457,-1);
 ref = acutecomb;
 }
 );
@@ -63,7 +62,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (631,0);
+pos = (531,0);
 ref = acutecomb;
 }
 );
@@ -76,7 +75,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (574,-1);
+pos = (463,-1);
 ref = acutecomb;
 }
 );
@@ -89,7 +88,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (540,0);
+pos = (410,0);
 ref = acutecomb;
 }
 );
@@ -102,7 +101,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (645,0);
+pos = (501,0);
 ref = acutecomb;
 }
 );
@@ -115,7 +114,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (778,0);
+pos = (714,0);
 ref = acutecomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (618,0);
+pos = (472,0);
 ref = acutecomb;
 }
 );
@@ -141,7 +140,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (735,0);
+pos = (635,0);
 ref = acutecomb;
 }
 );
@@ -157,13 +156,12 @@ shapes = (
 ref = w;
 },
 {
-pos = (757,-1);
+pos = (617,-1);
 ref = acutecomb;
 }
 );
 width = 1777;
 }
 );
-subCategory = Lowercase;
 unicode = 7811;
 }

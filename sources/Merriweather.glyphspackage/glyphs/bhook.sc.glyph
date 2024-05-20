@@ -1,5 +1,5 @@
 {
-color = 8;
+color = 5;
 glyphname = bhook.sc;
 layers = (
 {
@@ -7,7 +7,7 @@ layerId = UUID0;
 shapes = (
 {
 alignment = -1;
-pos = (281,0);
+pos = (275,0);
 ref = _BhookSC.part;
 },
 {
@@ -15,14 +15,14 @@ pos = (-126,-194);
 ref = _hook.part;
 }
 );
-width = 1543;
+width = 1541;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
 shapes = (
 {
 alignment = -1;
-pos = (332,0);
+pos = (337,0);
 ref = _BhookSC.part;
 },
 {
@@ -37,7 +37,7 @@ layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
 shapes = (
 {
 alignment = -1;
-pos = (247,0);
+pos = (299,0);
 ref = _BhookSC.part;
 },
 {
@@ -45,14 +45,14 @@ pos = (-56,-194);
 ref = _hook.part;
 }
 );
-width = 1388;
+width = 1409;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
 shapes = (
 {
 alignment = -1;
-pos = (289,0);
+pos = (350,0);
 ref = _BhookSC.part;
 },
 {
@@ -60,14 +60,14 @@ pos = (-137,-194);
 ref = _hook.part;
 }
 );
-width = 1548;
+width = 1557;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
 shapes = (
 {
 alignment = -1;
-pos = (355,0);
+pos = (307,0);
 ref = _BhookSC.part;
 },
 {
@@ -75,14 +75,14 @@ pos = (-52,-194);
 ref = _hook.part;
 }
 );
-width = 605;
+width = 1550;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
 shapes = (
 {
 alignment = -1;
-pos = (285,0);
+pos = (328,0);
 ref = _BhookSC.part;
 },
 {
@@ -90,14 +90,14 @@ pos = (-122,-194);
 ref = _hook.part;
 }
 );
-width = 577;
+width = 1709;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
 shapes = (
 {
 alignment = -1;
-pos = (320,0);
+pos = (296,0);
 ref = _BhookSC.part;
 },
 {
@@ -112,7 +112,7 @@ layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
 shapes = (
 {
 alignment = -1;
-pos = (374,0);
+pos = (364,0);
 ref = _BhookSC.part;
 },
 {
@@ -120,14 +120,14 @@ pos = (-123,-194);
 ref = _hook.part;
 }
 );
-width = 1668;
+width = 1684;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
 shapes = (
 {
 alignment = -1;
-pos = (279,0);
+pos = (292,0);
 ref = _BhookSC.part;
 },
 {
@@ -135,29 +135,29 @@ pos = (-97,-194);
 ref = _hook.part;
 }
 );
-width = 1273;
+width = 1327;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
 shapes = (
 {
 alignment = -1;
-pos = (312,0);
+pos = (332,0);
 ref = _BhookSC.part;
 },
 {
-pos = (-68,-194);
+pos = (-108,-194);
 ref = _hook.part;
 }
 );
-width = 1491;
+width = 1490;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
 shapes = (
 {
 alignment = -1;
-pos = (291,0);
+pos = (300,0);
 ref = _BhookSC.part;
 },
 {
@@ -165,14 +165,14 @@ pos = (-116,-194);
 ref = _hook.part;
 }
 );
-width = 517;
+width = 1447;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
 shapes = (
 {
 alignment = -1;
-pos = (327,0);
+pos = (366,0);
 ref = _BhookSC.part;
 },
 {
@@ -180,7 +180,7 @@ pos = (-80,-194);
 ref = _hook.part;
 }
 );
-width = 552;
+width = 1719;
 }
 );
 metricLeft = Bhook;

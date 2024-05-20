@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "zedieresis-cy";
 kernLeft = "ze-cy";
 kernRight = "ze-cy";
@@ -37,7 +36,7 @@ shapes = (
 ref = "ze-cy";
 },
 {
-pos = (108,105);
+pos = (98,105);
 ref = dieresiscomb;
 }
 );
@@ -76,7 +75,7 @@ shapes = (
 ref = "ze-cy";
 },
 {
-pos = (54,106);
+pos = (-13,0);
 ref = dieresiscomb;
 }
 );
@@ -89,7 +88,7 @@ shapes = (
 ref = "ze-cy";
 },
 {
-pos = (136,105);
+pos = (136,0);
 ref = dieresiscomb;
 }
 );
@@ -115,7 +114,7 @@ shapes = (
 ref = "ze-cy";
 },
 {
-pos = (134,106);
+pos = (134,0);
 ref = dieresiscomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = "ze-cy";
 },
 {
-pos = (152,105);
+pos = (153,0);
 ref = dieresiscomb;
 }
 );
@@ -141,14 +140,14 @@ shapes = (
 ref = "ze-cy";
 },
 {
-pos = (191,0);
+pos = (171,0);
 ref = dieresiscomb;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1095;
+width = 1050;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -164,6 +163,5 @@ ref = dieresiscomb;
 width = 1108;
 }
 );
-subCategory = Lowercase;
 unicode = 1247;
 }

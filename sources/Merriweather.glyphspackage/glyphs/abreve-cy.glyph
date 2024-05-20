@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "abreve-cy";
 kernLeft = a;
 kernRight = a;
@@ -24,11 +23,11 @@ shapes = (
 ref = "a-cy";
 },
 {
-pos = (138,1);
+pos = (143,0);
 ref = "brevecomb-cy";
 }
 );
-width = 1141;
+width = 1146;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -37,7 +36,7 @@ shapes = (
 ref = "a-cy";
 },
 {
-pos = (124,-105);
+pos = (124,0);
 ref = "brevecomb-cy";
 }
 );
@@ -50,7 +49,7 @@ shapes = (
 ref = "a-cy";
 },
 {
-pos = (85,2);
+pos = (85,0);
 ref = "brevecomb-cy";
 }
 );
@@ -76,7 +75,7 @@ shapes = (
 ref = "a-cy";
 },
 {
-pos = (107,-105);
+pos = (107,0);
 ref = "brevecomb-cy";
 }
 );
@@ -86,12 +85,10 @@ width = 888;
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
 shapes = (
 {
-alignment = -1;
 ref = "a-cy";
 },
 {
-alignment = -1;
-pos = (125,-105);
+pos = (138,0);
 ref = "brevecomb-cy";
 }
 );
@@ -104,11 +101,11 @@ shapes = (
 ref = "a-cy";
 },
 {
-pos = (159,-105);
+pos = (171,0);
 ref = "brevecomb-cy";
 }
 );
-width = 888;
+width = 900;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -117,7 +114,7 @@ shapes = (
 ref = "a-cy";
 },
 {
-pos = (147,-105);
+pos = (147,0);
 ref = "brevecomb-cy";
 }
 );
@@ -130,7 +127,7 @@ shapes = (
 ref = "a-cy";
 },
 {
-pos = (159,-105);
+pos = (159,0);
 ref = "brevecomb-cy";
 }
 );
@@ -143,7 +140,7 @@ shapes = (
 ref = "a-cy";
 },
 {
-pos = (195,0);
+pos = (185,0);
 ref = "brevecomb-cy";
 }
 );
@@ -159,13 +156,12 @@ shapes = (
 ref = "a-cy";
 },
 {
-pos = (140,2);
+pos = (140,0);
 ref = "brevecomb-cy";
 }
 );
 width = 1184;
 }
 );
-subCategory = Lowercase;
 unicode = 1233;
 }

@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 5;
 glyphname = lmacronbelow;
 kernLeft = l;
 kernRight = l;
@@ -24,7 +24,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (723,0);
+pos = (724,0);
 ref = macronbelowcomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (707,0);
+pos = (709,0);
 ref = macronbelowcomb;
 }
 );
@@ -102,7 +102,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (711,0);
+pos = (724,0);
 ref = macronbelowcomb;
 }
 );
@@ -115,7 +115,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (684,0);
+pos = (686,0);
 ref = macronbelowcomb;
 }
 );
@@ -128,7 +128,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (688,0);
+pos = (705,0);
 ref = macronbelowcomb;
 }
 );

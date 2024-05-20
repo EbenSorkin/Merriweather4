@@ -7,7 +7,7 @@ layerId = UUID0;
 shapes = (
 {
 alignment = -1;
-pos = (265,0);
+pos = (262,0);
 ref = _Dhook.part;
 },
 {
@@ -15,7 +15,7 @@ pos = (-126,0);
 ref = _hook.part;
 }
 );
-width = 1756;
+width = 1753;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -142,15 +142,15 @@ layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
 shapes = (
 {
 alignment = -1;
-pos = (379,0);
+pos = (339,0);
 ref = _Dhook.part;
 },
 {
-pos = (-68,0);
+pos = (-108,0);
 ref = _hook.part;
 }
 );
-width = 1626;
+width = 1586;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";

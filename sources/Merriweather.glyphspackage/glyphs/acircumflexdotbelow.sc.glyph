@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 5;
 glyphname = acircumflexdotbelow.sc;
 kernLeft = a.sc;
 kernRight = a.sc;
@@ -11,11 +11,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (539,0);
+pos = (525,0);
 ref = dotbelowcomb;
 },
 {
-pos = (320,162);
+pos = (165,182);
 ref = circumflexcomb;
 }
 );
@@ -28,11 +28,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (489,0);
+pos = (446,0);
 ref = dotbelowcomb;
 },
 {
-pos = (287,160);
+pos = (117,180);
 ref = circumflexcomb;
 }
 );
@@ -49,7 +49,7 @@ pos = (397,0);
 ref = dotbelowcomb;
 },
 {
-pos = (237,355);
+pos = (93,287);
 ref = circumflexcomb;
 }
 );
@@ -62,11 +62,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (435,0);
+pos = (395,0);
 ref = dotbelowcomb;
 },
 {
-pos = (250,160);
+pos = (57,180);
 ref = circumflexcomb;
 }
 );
@@ -79,11 +79,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (487,0);
+pos = (473,0);
 ref = dotbelowcomb;
 },
 {
-pos = (295,162);
+pos = (195,182);
 ref = circumflexcomb;
 }
 );
@@ -100,7 +100,7 @@ pos = (359,0);
 ref = dotbelowcomb;
 },
 {
-pos = (214,355);
+pos = (83,287);
 ref = circumflexcomb;
 }
 );
@@ -113,11 +113,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (415,0);
+pos = (377,0);
 ref = dotbelowcomb;
 },
 {
-pos = (269,355);
+pos = (119,287);
 ref = circumflexcomb;
 }
 );
@@ -130,11 +130,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (503,0);
+pos = (463,0);
 ref = dotbelowcomb;
 },
 {
-pos = (320,355);
+pos = (176,287);
 ref = circumflexcomb;
 }
 );
@@ -151,7 +151,7 @@ pos = (411,0);
 ref = dotbelowcomb;
 },
 {
-pos = (233,355);
+pos = (127,287);
 ref = circumflexcomb;
 }
 );
@@ -164,15 +164,15 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (527,0);
+pos = (501,0);
 ref = dotbelowcomb;
 },
 {
-pos = (341,355);
+pos = (201,287);
 ref = circumflexcomb;
 }
 );
-width = 1270;
+width = 1275;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -181,11 +181,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (576,0);
+pos = (556,0);
 ref = dotbelowcomb;
 },
 {
-pos = (326,162);
+pos = (250,182);
 ref = circumflexcomb;
 }
 );
@@ -201,11 +201,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (507,0);
+pos = (465,0);
 ref = dotbelowcomb;
 },
 {
-pos = (294,160);
+pos = (152,180);
 ref = circumflexcomb;
 }
 );

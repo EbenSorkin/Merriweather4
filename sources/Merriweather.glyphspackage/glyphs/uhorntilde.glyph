@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = uhorntilde;
 kernLeft = u;
 kernRight = uhorn;
@@ -11,7 +10,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (254,0);
+pos = (234,0);
 ref = tildecomb;
 }
 );
@@ -24,7 +23,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (252,0);
+pos = (242,0);
 ref = tildecomb;
 }
 );
@@ -50,7 +49,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (174,0);
+pos = (154,0);
 ref = tildecomb;
 }
 );
@@ -63,7 +62,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (183,0);
+pos = (173,0);
 ref = tildecomb;
 }
 );
@@ -89,7 +88,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (251,0);
+pos = (241,0);
 ref = tildecomb;
 }
 );
@@ -102,7 +101,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (239,0);
+pos = (219,0);
 ref = tildecomb;
 }
 );
@@ -115,7 +114,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (231,0);
+pos = (224,0);
 ref = tildecomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (258,0);
+pos = (238,0);
 ref = tildecomb;
 }
 );
@@ -141,7 +140,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (228,0);
+pos = (208,0);
 ref = tildecomb;
 }
 );
@@ -157,13 +156,12 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (215,0);
+pos = (217,0);
 ref = tildecomb;
 }
 );
 width = 1318;
 }
 );
-subCategory = Lowercase;
 unicode = 7919;
 }

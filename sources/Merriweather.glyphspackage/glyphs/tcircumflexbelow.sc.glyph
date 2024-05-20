@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = tcircumflexbelow.sc;
 layers = (
 {
@@ -151,7 +152,7 @@ shapes = (
 ref = t.sc;
 },
 {
-pos = (303,0);
+pos = (309,0);
 ref = circumflexbelowcomb;
 }
 );

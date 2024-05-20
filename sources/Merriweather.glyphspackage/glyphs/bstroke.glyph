@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 5;
 glyphname = bstroke;
 layers = (
 {
@@ -9,7 +9,7 @@ shapes = (
 ref = b;
 },
 {
-pos = (-65,-9);
+pos = (-174,-7);
 ref = ascenderbar_part.;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = b;
 },
 {
-pos = (-36,1);
+pos = (-170,-3);
 ref = ascenderbar_part.;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = b;
 },
 {
-pos = (-55,-3);
+pos = (-127,-7);
 ref = ascenderbar_part.;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = b;
 },
 {
-pos = (-26,25);
+pos = (-185,3);
 ref = ascenderbar_part.;
 }
 );
@@ -61,7 +61,7 @@ shapes = (
 ref = b;
 },
 {
-pos = (-46,-3);
+pos = (-106,-7);
 ref = ascenderbar_part.;
 }
 );
@@ -74,7 +74,7 @@ shapes = (
 ref = b;
 },
 {
-pos = (-46,25);
+pos = (-172,-3);
 ref = ascenderbar_part.;
 }
 );
@@ -87,7 +87,7 @@ shapes = (
 ref = b;
 },
 {
-pos = (-18,47);
+pos = (-164,0);
 ref = ascenderbar_part.;
 }
 );
@@ -100,7 +100,7 @@ shapes = (
 ref = b;
 },
 {
-pos = (-19,22);
+pos = (-150,1);
 ref = ascenderbar_part.;
 }
 );
@@ -113,7 +113,7 @@ shapes = (
 ref = b;
 },
 {
-pos = (-18,50);
+pos = (-132,-3);
 ref = ascenderbar_part.;
 }
 );
@@ -126,7 +126,7 @@ shapes = (
 ref = b;
 },
 {
-pos = (-24,22);
+pos = (-162,1);
 ref = ascenderbar_part.;
 }
 );
@@ -139,7 +139,7 @@ shapes = (
 ref = b;
 },
 {
-pos = (-31,47);
+pos = (-148,0);
 ref = ascenderbar_part.;
 }
 );
@@ -152,7 +152,7 @@ shapes = (
 ref = b;
 },
 {
-pos = (-24,22);
+pos = (-112,1);
 ref = ascenderbar_part.;
 }
 );

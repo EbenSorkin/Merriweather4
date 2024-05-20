@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "shcha-cy";
 kernLeft = "pe-cy";
 kernRight = "pe-cy";
@@ -96,11 +95,11 @@ alignment = -1;
 ref = "sha-cy";
 },
 {
-pos = (1161,0);
+pos = (1182,0);
 ref = righttooth_part.;
 }
 );
-width = 1404;
+width = 1413;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -178,6 +177,5 @@ width = 2161;
 );
 metricLeft = "pe-cy";
 metricRight = "pe-cy";
-subCategory = Lowercase;
 unicode = 1097;
 }

@@ -1,5 +1,4 @@
 {
-color = 9;
 glyphname = glottalstopmod;
 layers = (
 {
@@ -363,7 +362,7 @@ nodes = (
 );
 }
 );
-width = 630;
+width = 632;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";

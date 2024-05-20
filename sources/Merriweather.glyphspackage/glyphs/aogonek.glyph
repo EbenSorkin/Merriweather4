@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = aogonek;
 kernLeft = a;
 kernRight = a;
@@ -24,11 +23,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (490,2);
+pos = (495,2);
 ref = ogonekcomb;
 }
 );
-width = 1141;
+width = 1146;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -102,11 +101,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (372,-1);
+pos = (384,-1);
 ref = ogonekcomb;
 }
 );
-width = 888;
+width = 900;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -164,6 +163,5 @@ ref = ogonekcomb;
 width = 1184;
 }
 );
-subCategory = Lowercase;
 unicode = 261;
 }

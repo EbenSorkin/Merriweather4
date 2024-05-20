@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = ohorntilde;
 kernLeft = o;
 kernRight = ohorn;
@@ -89,7 +88,7 @@ shapes = (
 ref = ohorn;
 },
 {
-pos = (205,0);
+pos = (208,0);
 ref = tildecomb;
 }
 );
@@ -157,13 +156,12 @@ shapes = (
 ref = ohorn;
 },
 {
-pos = (207,0);
+pos = (229,0);
 ref = tildecomb;
 }
 );
 width = 1301;
 }
 );
-subCategory = Lowercase;
 unicode = 7905;
 }

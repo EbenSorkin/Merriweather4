@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "enge-cy";
 kernLeft = "pe-cy";
 kernRight = "te-cy";
@@ -228,7 +227,7 @@ nodes = (
 (954,72,l),
 (954,953,l),
 (1042,947,l),
-(1078,596,l),
+(1108,596,l),
 (1268,596,l),
 (1260,1005,l),
 (562,1005,l),
@@ -351,7 +350,7 @@ nodes = (
 (1182,72,l),
 (1182,947,l),
 (1329,935,l),
-(1391,596,l),
+(1421,596,l),
 (1615,596,l),
 (1603,1005,l),
 (715,1005,l),
@@ -502,6 +501,5 @@ width = 1777;
 );
 metricLeft = "pe-cy";
 metricRight = "te-cy";
-subCategory = Lowercase;
 unicode = 1189;
 }

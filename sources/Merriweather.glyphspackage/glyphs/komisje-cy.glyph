@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "komisje-cy";
 kernLeft = o;
 kernRight = "komisje-cy";
@@ -549,6 +548,5 @@ width = 1235;
 }
 );
 metricLeft = "o-cy";
-subCategory = Lowercase;
 unicode = 1293;
 }

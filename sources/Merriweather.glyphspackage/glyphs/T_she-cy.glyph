@@ -236,7 +236,7 @@ nodes = (
 );
 }
 );
-width = 1427;
+width = 1407;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -521,7 +521,7 @@ nodes = (
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1861;
+width = 1841;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";

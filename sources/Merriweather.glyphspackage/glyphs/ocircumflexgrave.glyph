@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = ocircumflexgrave;
 kernLeft = o;
 kernRight = o;
@@ -11,7 +10,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (148,0);
+pos = (219,0);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -24,7 +23,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (147,0);
+pos = (234,0);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -37,7 +36,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (191,0);
+pos = (206,0);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -50,7 +49,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (112,0);
+pos = (182,0);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -63,7 +62,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (132,0);
+pos = (184,0);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -76,7 +75,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (145,0);
+pos = (167,0);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -89,7 +88,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (210,0);
+pos = (213,0);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -102,7 +101,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (222,0);
+pos = (230,0);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -115,7 +114,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (203,0);
+pos = (233,0);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (226,0);
+pos = (247,0);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -141,7 +140,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (169,0);
+pos = (256,0);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -157,13 +156,12 @@ shapes = (
 ref = o;
 },
 {
-pos = (154,0);
+pos = (258,0);
 ref = circumflexcomb_gravecomb;
 }
 );
 width = 1301;
 }
 );
-subCategory = Lowercase;
 unicode = 7891;
 }

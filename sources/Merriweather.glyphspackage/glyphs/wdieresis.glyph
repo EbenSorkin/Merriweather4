@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = wdieresis;
 kernLeft = w;
 kernRight = w;
@@ -37,7 +36,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (468,0);
+pos = (458,0);
 ref = dieresiscomb;
 }
 );
@@ -76,7 +75,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (355,-1);
+pos = (288,-1);
 ref = dieresiscomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (472,0);
+pos = (473,0);
 ref = dieresiscomb;
 }
 );
@@ -164,6 +163,5 @@ ref = dieresiscomb;
 width = 1777;
 }
 );
-subCategory = Lowercase;
 unicode = 7813;
 }

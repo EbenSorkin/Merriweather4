@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = dcircumflexbelow;
 layers = (
 {
@@ -34,7 +35,7 @@ shapes = (
 ref = d;
 },
 {
-pos = (183,0);
+pos = (213,0);
 ref = circumflexbelowcomb;
 }
 );

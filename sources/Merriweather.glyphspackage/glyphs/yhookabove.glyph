@@ -1,6 +1,5 @@
 {
-category = Letter;
-color = 3;
+color = 5;
 glyphname = yhookabove;
 kernLeft = y;
 kernRight = y;
@@ -38,11 +37,11 @@ shapes = (
 ref = y;
 },
 {
-pos = (275,0);
+pos = (303,0);
 ref = hookabovecomb;
 }
 );
-width = 993;
+width = 1071;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -107,7 +106,7 @@ pos = (299,0);
 ref = hookabovecomb;
 }
 );
-width = 912;
+width = 927;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -165,6 +164,5 @@ ref = hookabovecomb;
 width = 1191;
 }
 );
-subCategory = Lowercase;
 unicode = 7927;
 }

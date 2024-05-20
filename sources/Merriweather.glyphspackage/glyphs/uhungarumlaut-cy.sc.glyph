@@ -10,7 +10,7 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (314,162);
+pos = (185,182);
 ref = hungarumlautcomb;
 }
 );
@@ -23,7 +23,7 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (172,160);
+pos = (138,180);
 ref = hungarumlautcomb;
 }
 );
@@ -36,7 +36,7 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (276,335);
+pos = (263,287);
 ref = hungarumlautcomb;
 }
 );
@@ -49,7 +49,7 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (131,180);
+pos = (66,180);
 ref = hungarumlautcomb;
 }
 );
@@ -62,7 +62,7 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (142,162);
+pos = (155,182);
 ref = hungarumlautcomb;
 }
 );
@@ -75,7 +75,7 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (157,335);
+pos = (145,287);
 ref = hungarumlautcomb;
 }
 );
@@ -88,7 +88,7 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (247,335);
+pos = (216,287);
 ref = hungarumlautcomb;
 }
 );
@@ -101,7 +101,7 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (226,335);
+pos = (197,287);
 ref = hungarumlautcomb;
 }
 );
@@ -114,7 +114,7 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (262,335);
+pos = (322,287);
 ref = hungarumlautcomb;
 }
 );
@@ -127,7 +127,7 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (276,335);
+pos = (248,287);
 ref = hungarumlautcomb;
 }
 );
@@ -140,7 +140,7 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (160,162);
+pos = (285,182);
 ref = hungarumlautcomb;
 }
 );
@@ -156,7 +156,7 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (192,160);
+pos = (158,180);
 ref = hungarumlautcomb;
 }
 );

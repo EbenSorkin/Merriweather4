@@ -1,5 +1,5 @@
 {
-category = Letter;
+color = 3;
 glyphname = "ve-cy.loclBGR";
 kernLeft = "ve-cy.loclBGR";
 kernRight = "ve-cy.loclBGR";
@@ -764,5 +764,4 @@ nodes = (
 width = 1258;
 }
 );
-subCategory = Lowercase;
 }

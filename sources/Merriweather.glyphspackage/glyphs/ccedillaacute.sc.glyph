@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = ccedillaacute.sc;
 kernLeft = o.sc;
 kernRight = c.sc;
@@ -14,7 +15,7 @@ pos = (449,0);
 ref = cedillacomb;
 },
 {
-pos = (537,162);
+pos = (397,182);
 ref = acutecomb;
 }
 );
@@ -27,15 +28,15 @@ shapes = (
 ref = c.sc;
 },
 {
-pos = (472,0);
+pos = (449,0);
 ref = cedillacomb;
 },
 {
-pos = (569,160);
+pos = (355,180);
 ref = acutecomb;
 }
 );
-width = 1269;
+width = 1246;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -48,7 +49,7 @@ pos = (463,0);
 ref = cedillacomb;
 },
 {
-pos = (524,335);
+pos = (439,287);
 ref = acutecomb;
 }
 );
@@ -65,7 +66,7 @@ pos = (418,0);
 ref = cedillacomb;
 },
 {
-pos = (483,160);
+pos = (297,180);
 ref = acutecomb;
 }
 );
@@ -82,7 +83,7 @@ pos = (401,0);
 ref = cedillacomb;
 },
 {
-pos = (496,162);
+pos = (437,182);
 ref = acutecomb;
 }
 );
@@ -99,7 +100,7 @@ pos = (427,0);
 ref = cedillacomb;
 },
 {
-pos = (470,355);
+pos = (352,287);
 ref = acutecomb;
 }
 );
@@ -116,7 +117,7 @@ pos = (452,0);
 ref = cedillacomb;
 },
 {
-pos = (531,355);
+pos = (410,287);
 ref = acutecomb;
 }
 );
@@ -133,7 +134,7 @@ pos = (488,0);
 ref = cedillacomb;
 },
 {
-pos = (606,355);
+pos = (464,287);
 ref = acutecomb;
 }
 );
@@ -150,7 +151,7 @@ pos = (473,0);
 ref = cedillacomb;
 },
 {
-pos = (574,355);
+pos = (517,287);
 ref = acutecomb;
 }
 );
@@ -167,7 +168,7 @@ pos = (523,0);
 ref = cedillacomb;
 },
 {
-pos = (593,355);
+pos = (447,287);
 ref = acutecomb;
 }
 );
@@ -184,7 +185,7 @@ pos = (484,0);
 ref = cedillacomb;
 },
 {
-pos = (534,162);
+pos = (509,182);
 ref = acutecomb;
 }
 );
@@ -204,7 +205,7 @@ pos = (449,0);
 ref = cedillacomb;
 },
 {
-pos = (551,160);
+pos = (443,180);
 ref = acutecomb;
 }
 );

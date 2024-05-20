@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 5;
 glyphname = aringbelow;
 layers = (
 {
@@ -22,11 +22,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (99,0);
+pos = (104,0);
 ref = ringbelowcomb;
 }
 );
-width = 1141;
+width = 1146;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -87,11 +87,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (90,0);
+pos = (102,0);
 ref = ringbelowcomb;
 }
 );
-width = 888;
+width = 900;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";

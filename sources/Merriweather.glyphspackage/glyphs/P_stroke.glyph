@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 5;
 glyphname = Pstroke;
 layers = (
 {
@@ -22,7 +22,7 @@ shapes = (
 ref = P;
 },
 {
-pos = (11,251);
+pos = (11,246);
 ref = shortbar_part.;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = P;
 },
 {
-pos = (45,275);
+pos = (45,277);
 ref = shortbar_part.;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = P;
 },
 {
-pos = (37,251);
+pos = (37,263);
 ref = shortbar_part.;
 }
 );
@@ -61,7 +61,7 @@ shapes = (
 ref = P;
 },
 {
-pos = (5,271);
+pos = (5,273);
 ref = shortbar_part.;
 }
 );
@@ -74,7 +74,7 @@ shapes = (
 ref = P;
 },
 {
-pos = (-15,252);
+pos = (-15,264);
 ref = shortbar_part.;
 }
 );
@@ -113,7 +113,7 @@ shapes = (
 ref = P;
 },
 {
-pos = (-1,301);
+pos = (-1,303);
 ref = shortbar_part.;
 }
 );
@@ -126,7 +126,7 @@ shapes = (
 ref = P;
 },
 {
-pos = (15,261);
+pos = (15,267);
 ref = shortbar_part.;
 }
 );
@@ -139,7 +139,7 @@ shapes = (
 ref = P;
 },
 {
-pos = (5,301);
+pos = (5,300);
 ref = shortbar_part.;
 }
 );
@@ -152,7 +152,7 @@ shapes = (
 ref = P;
 },
 {
-pos = (-3,261);
+pos = (-3,260);
 ref = shortbar_part.;
 }
 );

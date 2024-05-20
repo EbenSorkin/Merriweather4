@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Adotmacron;
 layers = (
 {
@@ -8,11 +9,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (594,0);
+pos = (424,0);
 ref = dotaccentcomb.case;
 },
 {
-pos = (429,342);
+pos = (280,320);
 ref = macroncomb.case;
 }
 );
@@ -22,17 +23,14 @@ width = 1408;
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
 shapes = (
 {
-alignment = -1;
 ref = A;
 },
 {
-alignment = -1;
-pos = (505,0);
+pos = (335,0);
 ref = dotaccentcomb.case;
 },
 {
-alignment = -1;
-pos = (372,477);
+pos = (202,392);
 ref = macroncomb.case;
 }
 );
@@ -51,8 +49,7 @@ pos = (527,0);
 ref = dotaccentcomb.case;
 },
 {
-alignment = -1;
-pos = (392,412);
+pos = (402,285);
 ref = macroncomb.case;
 }
 );
@@ -62,17 +59,14 @@ width = 1288;
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
 shapes = (
 {
-alignment = -1;
 ref = A;
 },
 {
-alignment = -1;
-pos = (440,0);
+pos = (265,0);
 ref = dotaccentcomb.case;
 },
 {
-alignment = -1;
-pos = (337,477);
+pos = (181,392);
 ref = macroncomb.case;
 }
 );
@@ -91,8 +85,7 @@ pos = (593,0);
 ref = dotaccentcomb.case;
 },
 {
-alignment = -1;
-pos = (408,412);
+pos = (428,317);
 ref = macroncomb.case;
 }
 );
@@ -102,17 +95,14 @@ width = 1444;
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
 shapes = (
 {
-alignment = -1;
 ref = A;
 },
 {
-alignment = -1;
-pos = (518,0);
+pos = (371,0);
 ref = dotaccentcomb.case;
 },
 {
-alignment = -1;
-pos = (345,477);
+pos = (228,387);
 ref = macroncomb.case;
 }
 );
@@ -125,11 +115,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (553,0);
+pos = (409,0);
 ref = dotaccentcomb.case;
 },
 {
-pos = (441,337);
+pos = (257,297);
 ref = macroncomb.case;
 }
 );
@@ -148,8 +138,7 @@ pos = (427,0);
 ref = dotaccentcomb.case;
 },
 {
-alignment = -1;
-pos = (289,449);
+pos = (269,394);
 ref = macroncomb.case;
 }
 );
@@ -168,8 +157,7 @@ pos = (422,0);
 ref = dotaccentcomb.case;
 },
 {
-alignment = -1;
-pos = (325,347);
+pos = (285,289);
 ref = macroncomb.case;
 }
 );
@@ -188,8 +176,7 @@ pos = (333,0);
 ref = dotaccentcomb.case;
 },
 {
-alignment = -1;
-pos = (220,449);
+pos = (190,375);
 ref = macroncomb.case;
 }
 );
@@ -202,11 +189,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (535,0);
+pos = (389,0);
 ref = dotaccentcomb.case;
 },
 {
-pos = (388,337);
+pos = (212,288);
 ref = macroncomb.case;
 }
 );
@@ -216,17 +203,14 @@ width = 1336;
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
 shapes = (
 {
-alignment = -1;
 ref = A;
 },
 {
-alignment = -1;
-pos = (475,0);
+pos = (381,0);
 ref = dotaccentcomb.case;
 },
 {
-alignment = -1;
-pos = (335,449);
+pos = (223,393);
 ref = macroncomb.case;
 }
 );

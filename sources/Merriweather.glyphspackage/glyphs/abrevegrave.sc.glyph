@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = abrevegrave.sc;
 kernLeft = a.sc;
 kernRight = a.sc;
@@ -10,7 +11,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (373,162);
+pos = (344,182);
 ref = brevecomb_gravecomb;
 }
 );
@@ -23,7 +24,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (364,160);
+pos = (322,180);
 ref = brevecomb_gravecomb;
 }
 );
@@ -36,7 +37,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (297,355);
+pos = (291,287);
 ref = brevecomb_gravecomb;
 }
 );
@@ -49,7 +50,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (327,160);
+pos = (287,180);
 ref = brevecomb_gravecomb;
 }
 );
@@ -62,7 +63,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (348,162);
+pos = (324,182);
 ref = brevecomb_gravecomb;
 }
 );
@@ -75,7 +76,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (259,355);
+pos = (258,287);
 ref = brevecomb_gravecomb;
 }
 );
@@ -88,7 +89,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (326,355);
+pos = (275,287);
 ref = brevecomb_gravecomb;
 }
 );
@@ -101,7 +102,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (377,355);
+pos = (356,287);
 ref = brevecomb_gravecomb;
 }
 );
@@ -114,7 +115,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (298,355);
+pos = (285,287);
 ref = brevecomb_gravecomb;
 }
 );
@@ -127,11 +128,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (398,355);
+pos = (403,287);
 ref = brevecomb_gravecomb;
 }
 );
-width = 1270;
+width = 1275;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -140,7 +141,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (374,162);
+pos = (349,182);
 ref = brevecomb_gravecomb;
 }
 );
@@ -156,7 +157,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (367,160);
+pos = (337,180);
 ref = brevecomb_gravecomb;
 }
 );

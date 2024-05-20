@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = tdotaccent.sc;
 kernLeft = t.sc;
 kernRight = t.sc;
@@ -10,7 +11,7 @@ shapes = (
 ref = t.sc;
 },
 {
-pos = (547,162);
+pos = (371,182);
 ref = dotaccentcomb;
 }
 );
@@ -23,7 +24,7 @@ shapes = (
 ref = t.sc;
 },
 {
-pos = (510,160);
+pos = (350,180);
 ref = dotaccentcomb;
 }
 );
@@ -36,7 +37,7 @@ shapes = (
 ref = t.sc;
 },
 {
-pos = (500,355);
+pos = (360,287);
 ref = dotaccentcomb;
 }
 );
@@ -49,7 +50,7 @@ shapes = (
 ref = t.sc;
 },
 {
-pos = (423,160);
+pos = (259,179);
 ref = dotaccentcomb;
 }
 );
@@ -62,7 +63,7 @@ shapes = (
 ref = t.sc;
 },
 {
-pos = (488,162);
+pos = (383,182);
 ref = dotaccentcomb;
 }
 );
@@ -75,7 +76,7 @@ shapes = (
 ref = t.sc;
 },
 {
-pos = (426,355);
+pos = (304,287);
 ref = dotaccentcomb;
 }
 );
@@ -88,7 +89,7 @@ shapes = (
 ref = t.sc;
 },
 {
-pos = (487,355);
+pos = (362,287);
 ref = dotaccentcomb;
 }
 );
@@ -101,7 +102,7 @@ shapes = (
 ref = t.sc;
 },
 {
-pos = (521,355);
+pos = (383,287);
 ref = dotaccentcomb;
 }
 );
@@ -114,7 +115,7 @@ shapes = (
 ref = t.sc;
 },
 {
-pos = (497,355);
+pos = (416,287);
 ref = dotaccentcomb;
 }
 );
@@ -127,7 +128,7 @@ shapes = (
 ref = t.sc;
 },
 {
-pos = (558,355);
+pos = (417,287);
 ref = dotaccentcomb;
 }
 );
@@ -140,7 +141,7 @@ shapes = (
 ref = t.sc;
 },
 {
-pos = (563,162);
+pos = (455,182);
 ref = dotaccentcomb;
 }
 );
@@ -156,7 +157,7 @@ shapes = (
 ref = t.sc;
 },
 {
-pos = (530,160);
+pos = (374,180);
 ref = dotaccentcomb;
 }
 );

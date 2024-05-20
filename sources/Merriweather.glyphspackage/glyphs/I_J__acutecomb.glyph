@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 1;
 glyphname = IJ_acutecomb;
 kernLeft = I;
 kernRight = J;
@@ -11,7 +11,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (148,0);
+pos = (108,0);
 ref = acutecomb.case;
 },
 {
@@ -19,7 +19,7 @@ pos = (711,0);
 ref = J;
 },
 {
-pos = (872,0);
+pos = (832,0);
 ref = acutecomb.case;
 }
 );
@@ -32,7 +32,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (172,0);
+pos = (133,0);
 ref = acutecomb.case;
 },
 {
@@ -40,7 +40,7 @@ pos = (832,0);
 ref = J;
 },
 {
-pos = (1004,0);
+pos = (965,0);
 ref = acutecomb.case;
 }
 );
@@ -53,7 +53,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (113,0);
+pos = (129,0);
 ref = acutecomb.case;
 },
 {
@@ -61,7 +61,7 @@ pos = (716,0);
 ref = J;
 },
 {
-pos = (829,0);
+pos = (845,0);
 ref = acutecomb.case;
 }
 );
@@ -74,7 +74,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (136,0);
+pos = (86,0);
 ref = acutecomb.case;
 },
 {
@@ -82,7 +82,7 @@ pos = (727,0);
 ref = J;
 },
 {
-pos = (863,0);
+pos = (813,0);
 ref = acutecomb.case;
 }
 );
@@ -95,7 +95,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (126,0);
+pos = (131,0);
 ref = acutecomb.case;
 },
 {
@@ -103,7 +103,7 @@ pos = (617,0);
 ref = J;
 },
 {
-pos = (736,0);
+pos = (741,0);
 ref = acutecomb.case;
 }
 );
@@ -116,7 +116,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (110,0);
+pos = (119,0);
 ref = acutecomb.case;
 },
 {
@@ -124,7 +124,7 @@ pos = (669,0);
 ref = J;
 },
 {
-pos = (779,0);
+pos = (788,0);
 ref = acutecomb.case;
 }
 );
@@ -137,7 +137,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (60,0);
+pos = (70,0);
 ref = acutecomb.case;
 },
 {
@@ -145,7 +145,7 @@ pos = (536,0);
 ref = J;
 },
 {
-pos = (596,0);
+pos = (606,0);
 ref = acutecomb.case;
 }
 );
@@ -158,7 +158,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (46,0);
+pos = (62,0);
 ref = acutecomb.case;
 },
 {
@@ -166,7 +166,7 @@ pos = (507,0);
 ref = J;
 },
 {
-pos = (536,0);
+pos = (552,0);
 ref = acutecomb.case;
 }
 );
@@ -179,7 +179,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (96,0);
+pos = (177,0);
 ref = acutecomb.case;
 },
 {
@@ -187,7 +187,7 @@ pos = (712,0);
 ref = J;
 },
 {
-pos = (808,0);
+pos = (889,0);
 ref = acutecomb.case;
 }
 );
@@ -200,7 +200,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (19,0);
+pos = (54,0);
 ref = acutecomb.case;
 },
 {
@@ -208,7 +208,7 @@ pos = (526,0);
 ref = J;
 },
 {
-pos = (545,0);
+pos = (580,0);
 ref = acutecomb.case;
 }
 );
@@ -221,7 +221,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (149,0);
+pos = (189,0);
 ref = acutecomb.case;
 },
 {
@@ -229,7 +229,7 @@ pos = (754,0);
 ref = J;
 },
 {
-pos = (908,0);
+pos = (948,0);
 ref = acutecomb.case;
 }
 );

@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 4;
 glyphname = "yi-cy.narrow";
 layers = (
 {
@@ -9,8 +9,8 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-28,0);
-ref = dieresiscomb;
+pos = (-137,0);
+ref = "dieresis-cy";
 }
 );
 width = 624;
@@ -22,8 +22,8 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-59,0);
-ref = dieresiscomb;
+pos = (-163,0);
+ref = "dieresis-cy";
 }
 );
 width = 706;
@@ -35,8 +35,8 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-40,0);
-ref = dieresiscomb;
+pos = (-125,0);
+ref = "dieresis-cy";
 }
 );
 width = 464;
@@ -48,8 +48,8 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-85,0);
-ref = dieresiscomb;
+pos = (-166,0);
+ref = "dieresis-cy";
 }
 );
 width = 580;
@@ -61,8 +61,8 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-58,0);
-ref = dieresiscomb;
+pos = (-107,-2);
+ref = "dieresis-cy";
 }
 );
 width = 513;
@@ -74,8 +74,8 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-99,0);
-ref = dieresiscomb;
+pos = (-232,0);
+ref = "dieresis-cy";
 }
 );
 width = 611;
@@ -87,8 +87,8 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-25,0);
-ref = dieresiscomb;
+pos = (-114,0);
+ref = "dieresis-cy";
 }
 );
 width = 464;
@@ -100,8 +100,8 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-99,0);
-ref = dieresiscomb;
+pos = (-182,0);
+ref = "dieresis-cy";
 }
 );
 width = 521;
@@ -113,8 +113,8 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-38,0);
-ref = dieresiscomb;
+pos = (-60,0);
+ref = "dieresis-cy";
 }
 );
 width = 624;
@@ -126,8 +126,8 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-64,0);
-ref = dieresiscomb;
+pos = (-151,0);
+ref = "dieresis-cy";
 }
 );
 width = 712;
@@ -139,8 +139,8 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-49,0);
-ref = dieresiscomb;
+pos = (-130,0);
+ref = "dieresis-cy";
 }
 );
 width = 466;
@@ -152,8 +152,8 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-90,0);
-ref = dieresiscomb;
+pos = (-121,0);
+ref = "dieresis-cy";
 }
 );
 width = 590;

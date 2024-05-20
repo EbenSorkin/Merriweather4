@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = lj;
 kernLeft = l;
 kernRight = i;
@@ -164,6 +163,5 @@ ref = j;
 width = 1412;
 }
 );
-subCategory = Lowercase;
 unicode = 457;
 }

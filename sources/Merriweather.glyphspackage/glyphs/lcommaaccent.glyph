@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = lcommaaccent;
 kernLeft = l;
 kernRight = l;
@@ -24,7 +23,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (175,0);
+pos = (167,0);
 ref = commaaccentcomb;
 }
 );
@@ -50,7 +49,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (120,0);
+pos = (130,0);
 ref = commaaccentcomb;
 }
 );
@@ -76,7 +75,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (112,0);
+pos = (102,0);
 ref = commaaccentcomb;
 }
 );
@@ -102,7 +101,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (115,0);
+pos = (128,0);
 ref = commaaccentcomb;
 }
 );
@@ -115,7 +114,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (121,0);
+pos = (123,0);
 ref = commaaccentcomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (112,0);
+pos = (129,0);
 ref = commaaccentcomb;
 }
 );
@@ -157,13 +156,12 @@ shapes = (
 ref = l;
 },
 {
-pos = (183,0);
+pos = (191,0);
 ref = commaaccentcomb;
 }
 );
 width = 700;
 }
 );
-subCategory = Lowercase;
 unicode = 316;
 }

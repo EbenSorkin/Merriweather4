@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = gcommaaccent;
 kernLeft = g;
 kernRight = g;
@@ -11,7 +10,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (474,0);
+pos = (461,0);
 ref = commaturnedabovecomb;
 }
 );
@@ -24,7 +23,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (470,0);
+pos = (430,0);
 ref = commaturnedabovecomb;
 }
 );
@@ -37,7 +36,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (395,0);
+pos = (386,0);
 ref = commaturnedabovecomb;
 }
 );
@@ -50,7 +49,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (403,0);
+pos = (373,0);
 ref = commaturnedabovecomb;
 }
 );
@@ -76,7 +75,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (347,0);
+pos = (331,0);
 ref = commaturnedabovecomb;
 }
 );
@@ -89,7 +88,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (323,0);
+pos = (337,0);
 ref = commaturnedabovecomb;
 }
 );
@@ -102,7 +101,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (385,0);
+pos = (381,0);
 ref = commaturnedabovecomb;
 }
 );
@@ -115,7 +114,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (410,0);
+pos = (408,0);
 ref = commaturnedabovecomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (401,0);
+pos = (404,0);
 ref = commaturnedabovecomb;
 }
 );
@@ -141,7 +140,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (493,0);
+pos = (463,0);
 ref = commaturnedabovecomb;
 }
 );
@@ -157,13 +156,12 @@ shapes = (
 ref = g;
 },
 {
-pos = (487,0);
+pos = (467,0);
 ref = commaturnedabovecomb;
 }
 );
 width = 1308;
 }
 );
-subCategory = Lowercase;
 unicode = 291;
 }

@@ -7,7 +7,7 @@ layers = (
 anchors = (
 {
 name = top;
-pos = (618,1272);
+pos = (609,1292);
 }
 );
 layerId = UUID0;
@@ -61,7 +61,7 @@ width = 1196;
 anchors = (
 {
 name = top;
-pos = (663,1272);
+pos = (649,1292);
 }
 );
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -107,7 +107,7 @@ width = 1219;
 anchors = (
 {
 name = top;
-pos = (675,1340);
+pos = (650,1292);
 }
 );
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -118,15 +118,15 @@ nodes = (
 (1126,1229,l),
 (1277,1257,l),
 (1277,1292,l),
-(844,1292,l),
-(844,1257,l),
+(864,1292,l),
+(864,1257,l),
 (1029,1227,l),
 (830,664,l),
 (771,547,l),
 (703,682,l),
 (483,1229,l),
-(655,1257,l),
-(655,1292,l),
+(635,1257,l),
+(635,1292,l),
 (-40,1292,l),
 (-40,1257,l),
 (64,1227,l),
@@ -153,7 +153,7 @@ width = 1200;
 anchors = (
 {
 name = top;
-pos = (573,1292);
+pos = (549,1292);
 }
 );
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -199,7 +199,7 @@ width = 1045;
 anchors = (
 {
 name = top;
-pos = (523,1272);
+pos = (509,1292);
 }
 );
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -245,7 +245,7 @@ width = 966;
 anchors = (
 {
 name = top;
-pos = (526,1340);
+pos = (519,1292);
 }
 );
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -291,7 +291,7 @@ width = 951;
 anchors = (
 {
 name = top;
-pos = (549,1340);
+pos = (529,1292);
 }
 );
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -337,7 +337,7 @@ width = 1023;
 anchors = (
 {
 name = top;
-pos = (564,1340);
+pos = (576,1292);
 }
 );
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -383,7 +383,7 @@ width = 1098;
 anchors = (
 {
 name = top;
-pos = (701,1340);
+pos = (659,1292);
 }
 );
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -429,7 +429,7 @@ width = 1230;
 anchors = (
 {
 name = top;
-pos = (655,1340);
+pos = (629,1292);
 }
 );
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -475,7 +475,7 @@ width = 1224;
 anchors = (
 {
 name = top;
-pos = (621,1272);
+pos = (639,1292);
 }
 );
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -521,7 +521,7 @@ width = 1272;
 anchors = (
 {
 name = top;
-pos = (719,1272);
+pos = (659,1292);
 }
 );
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";

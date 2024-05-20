@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = obreve;
 kernLeft = o;
 kernRight = o;
@@ -89,7 +88,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (218,0);
+pos = (191,0);
 ref = brevecomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (265,0);
+pos = (275,0);
 ref = brevecomb;
 }
 );
@@ -164,6 +163,5 @@ ref = brevecomb;
 width = 1301;
 }
 );
-subCategory = Lowercase;
 unicode = 335;
 }

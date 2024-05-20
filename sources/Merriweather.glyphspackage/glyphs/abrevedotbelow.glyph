@@ -1,6 +1,5 @@
 {
-category = Letter;
-color = 3;
+color = 5;
 glyphname = abrevedotbelow;
 kernLeft = a;
 kernRight = a;
@@ -29,15 +28,15 @@ shapes = (
 ref = a;
 },
 {
-pos = (369,0);
+pos = (374,0);
 ref = dotbelowcomb;
 },
 {
-pos = (197,0);
+pos = (202,0);
 ref = brevecomb;
 }
 );
-width = 1141;
+width = 1146;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -134,15 +133,15 @@ shapes = (
 ref = a;
 },
 {
-pos = (331,0);
+pos = (343,0);
 ref = dotbelowcomb;
 },
 {
-pos = (187,0);
+pos = (199,0);
 ref = brevecomb;
 }
 );
-width = 888;
+width = 900;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -172,7 +171,7 @@ pos = (347,0);
 ref = dotbelowcomb;
 },
 {
-pos = (197,0);
+pos = (207,0);
 ref = brevecomb;
 }
 );
@@ -189,7 +188,7 @@ pos = (442,0);
 ref = dotbelowcomb;
 },
 {
-pos = (224,0);
+pos = (214,0);
 ref = brevecomb;
 }
 );
@@ -216,6 +215,5 @@ ref = brevecomb;
 width = 1184;
 }
 );
-subCategory = Lowercase;
 unicode = 7863;
 }

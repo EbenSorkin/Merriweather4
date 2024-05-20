@@ -1,5 +1,5 @@
 {
-color = 10;
+color = 5;
 glyphname = obarred.sc;
 layers = (
 {
@@ -56,11 +56,11 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (214,88);
+pos = (222,90);
 ref = strokelongcomb;
 }
 );
-width = 1324;
+width = 1344;
 },
 {
 background = {
@@ -116,7 +116,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (204,90);
+pos = (202,90);
 ref = strokelongcomb;
 }
 );
@@ -129,7 +129,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (169,88);
+pos = (169,98);
 ref = strokelongcomb;
 }
 );
@@ -142,7 +142,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (109,90);
+pos = (109,115);
 ref = strokelongcomb;
 }
 );
@@ -155,7 +155,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (210,88);
+pos = (210,91);
 ref = strokelongcomb;
 }
 );
@@ -168,7 +168,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (202,90);
+pos = (223,117);
 ref = strokelongcomb;
 }
 );
@@ -228,7 +228,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (205,92);
+pos = (204,89);
 ref = strokelongcomb;
 }
 );
@@ -288,7 +288,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (162,86);
+pos = (162,83);
 ref = strokelongcomb;
 }
 );
@@ -301,7 +301,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (172,99);
+pos = (171,94);
 ref = strokelongcomb;
 }
 );
@@ -314,7 +314,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (101,92);
+pos = (101,76);
 ref = strokelongcomb;
 }
 );
@@ -327,7 +327,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (199,92);
+pos = (197,87);
 ref = strokelongcomb;
 }
 );
@@ -340,7 +340,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (153,92);
+pos = (153,81);
 ref = strokelongcomb;
 }
 );

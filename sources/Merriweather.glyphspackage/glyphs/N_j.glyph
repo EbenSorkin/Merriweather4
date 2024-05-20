@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = Nj;
 kernLeft = H;
 kernRight = i;
@@ -37,11 +36,11 @@ shapes = (
 ref = N;
 },
 {
-pos = (1322,0);
+pos = (1374,0);
 ref = j;
 }
 );
-width = 1902;
+width = 1954;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -76,11 +75,11 @@ shapes = (
 ref = N;
 },
 {
-pos = (1157,0);
+pos = (1188,0);
 ref = j;
 }
 );
-width = 1678;
+width = 1709;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";

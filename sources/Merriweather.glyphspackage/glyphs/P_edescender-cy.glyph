@@ -88,7 +88,7 @@ shapes = (
 ref = "Pe-cy";
 },
 {
-pos = (1001,0);
+pos = (1022,0);
 ref = righttooth_part.;
 }
 );
@@ -101,11 +101,11 @@ shapes = (
 ref = "Pe-cy";
 },
 {
-pos = (1160,0);
+pos = (1163,0);
 ref = righttooth_part.;
 }
 );
-width = 1393;
+width = 1399;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -127,11 +127,11 @@ shapes = (
 ref = "Pe-cy";
 },
 {
-pos = (1236,0);
+pos = (1240,0);
 ref = righttooth_part.;
 }
 );
-width = 1467;
+width = 1475;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";

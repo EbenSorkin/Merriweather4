@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "palochka-cy";
 kernLeft = l;
 kernRight = l;
@@ -116,6 +115,5 @@ ref = l;
 width = 700;
 }
 );
-subCategory = Lowercase;
 unicode = 1231;
 }

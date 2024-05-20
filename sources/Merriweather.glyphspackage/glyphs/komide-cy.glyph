@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "komide-cy";
 kernLeft = o;
 kernRight = d;
@@ -116,6 +115,5 @@ ref = d;
 width = 1323;
 }
 );
-subCategory = Lowercase;
 unicode = 1281;
 }

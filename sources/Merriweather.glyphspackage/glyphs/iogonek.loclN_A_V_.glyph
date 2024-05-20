@@ -1,5 +1,5 @@
 {
-color = 2;
+color = 5;
 glyphname = iogonek.loclNAV;
 layers = (
 {
@@ -9,11 +9,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (183,0);
+pos = (16,0);
 ref = dotaccentcomb;
 },
 {
-pos = (64,0);
+pos = (89,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -26,11 +26,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (151,0);
+pos = (-9,0);
 ref = dotaccentcomb;
 },
 {
-pos = (85,0);
+pos = (117,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -43,7 +43,6 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (119,0);
 ref = dotaccentcomb;
 },
 {
@@ -60,11 +59,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (98,0);
+pos = (-22,0);
 ref = dotaccentcomb;
 },
 {
-pos = (46,0);
+pos = (58,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -77,11 +76,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (128,0);
+pos = (38,0);
 ref = dotaccentcomb;
 },
 {
-pos = (39,0);
+pos = (72,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -94,11 +93,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (94,0);
+pos = (-71,0);
 ref = dotaccentcomb;
 },
 {
-pos = (58,0);
+pos = (101,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -111,11 +110,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (119,0);
+pos = (3,0);
 ref = dotaccentcomb;
 },
 {
-pos = (47,0);
+pos = (56,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -128,11 +127,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (68,0);
+pos = (-33,0);
 ref = dotaccentcomb;
 },
 {
-pos = (35,0);
+pos = (37,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -145,11 +144,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (183,0);
+pos = (93,0);
 ref = dotaccentcomb;
 },
 {
-pos = (71,0);
+pos = (83,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -162,11 +161,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (154,0);
+pos = (24,0);
 ref = dotaccentcomb;
 },
 {
-pos = (58,0);
+pos = (81,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -179,11 +178,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (120,0);
+pos = (-5,0);
 ref = dotaccentcomb;
 },
 {
-pos = (48,0);
+pos = (62,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -196,11 +195,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (95,0);
+pos = (24,0);
 ref = dotaccentcomb;
 },
 {
-pos = (47,0);
+pos = (71,0);
 ref = ogonekcomb.loclNAV;
 }
 );

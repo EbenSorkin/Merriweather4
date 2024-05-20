@@ -18,11 +18,11 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (-38,628);
+pos = (-82,463);
 ref = macroncomb;
 }
 );
-width = 466;
+width = 806;
 },
 {
 anchors = (
@@ -41,11 +41,11 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (-40,676);
+pos = (-80,539);
 ref = macroncomb;
 }
 );
-width = 560;
+width = 900;
 },
 {
 anchors = (
@@ -64,11 +64,11 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (-38,628);
+pos = (-27,463);
 ref = macroncomb;
 }
 );
-width = 416;
+width = 616;
 },
 {
 anchors = (
@@ -87,11 +87,11 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (-33,673);
+pos = (-35,530);
 ref = macroncomb;
 }
 );
-width = 514;
+width = 864;
 },
 {
 anchors = (
@@ -110,11 +110,11 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (-38,628);
+pos = (-22,463);
 ref = macroncomb;
 }
 );
-width = 506;
+width = 706;
 },
 {
 anchors = (
@@ -133,11 +133,11 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (-38,671);
+pos = (-90,538);
 ref = macroncomb;
 }
 );
-width = 604;
+width = 924;
 },
 {
 anchors = (
@@ -156,11 +156,11 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (-27,572);
+pos = (-61,438);
 ref = macroncomb;
 }
 );
-width = 385;
+width = 673;
 },
 {
 anchors = (
@@ -179,11 +179,11 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (-50,596);
+pos = (-101,491);
 ref = macroncomb;
 }
 );
-width = 519;
+width = 807;
 },
 {
 anchors = (
@@ -202,11 +202,11 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (-7,572);
+pos = (-17,438);
 ref = macroncomb;
 }
 );
-width = 385;
+width = 645;
 },
 {
 anchors = (
@@ -225,11 +225,11 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (-40,596);
+pos = (-118,511);
 ref = macroncomb;
 }
 );
-width = 479;
+width = 741;
 },
 {
 anchors = (
@@ -248,11 +248,11 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (-25,572);
+pos = (-50,438);
 ref = macroncomb;
 }
 );
-width = 430;
+width = 722;
 },
 {
 anchors = (
@@ -271,11 +271,11 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (-35,596);
+pos = (-97,511);
 ref = macroncomb;
 }
 );
-width = 569;
+width = 757;
 }
 );
 }

@@ -10,7 +10,7 @@ shapes = (
 ref = "ze-cy.sc";
 },
 {
-pos = (164,162);
+pos = (180,182);
 ref = dieresiscomb;
 }
 );
@@ -36,7 +36,7 @@ shapes = (
 ref = "ze-cy.sc";
 },
 {
-pos = (225,335);
+pos = (215,287);
 ref = dieresiscomb;
 }
 );
@@ -62,7 +62,7 @@ shapes = (
 ref = "ze-cy.sc";
 },
 {
-pos = (125,162);
+pos = (125,182);
 ref = dieresiscomb;
 }
 );
@@ -75,7 +75,7 @@ shapes = (
 ref = "ze-cy.sc";
 },
 {
-pos = (156,335);
+pos = (83,287);
 ref = dieresiscomb;
 }
 );
@@ -88,7 +88,7 @@ shapes = (
 ref = "ze-cy.sc";
 },
 {
-pos = (147,335);
+pos = (173,287);
 ref = dieresiscomb;
 }
 );
@@ -101,7 +101,7 @@ shapes = (
 ref = "ze-cy.sc";
 },
 {
-pos = (230,335);
+pos = (208,287);
 ref = dieresiscomb;
 }
 );
@@ -114,11 +114,11 @@ shapes = (
 ref = "ze-cy.sc";
 },
 {
-pos = (263,335);
+pos = (245,287);
 ref = dieresiscomb;
 }
 );
-width = 1273;
+width = 1281;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -127,7 +127,7 @@ shapes = (
 ref = "ze-cy.sc";
 },
 {
-pos = (272,335);
+pos = (249,287);
 ref = dieresiscomb;
 }
 );
@@ -140,14 +140,14 @@ shapes = (
 ref = "ze-cy.sc";
 },
 {
-pos = (197,162);
+pos = (190,182);
 ref = dieresiscomb;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1123;
+width = 1125;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -156,11 +156,11 @@ shapes = (
 ref = "ze-cy.sc";
 },
 {
-pos = (194,160);
+pos = (194,180);
 ref = dieresiscomb;
 }
 );
-width = 1218;
+width = 1233;
 }
 );
 }

@@ -1,5 +1,5 @@
 {
-color = 2;
+color = 5;
 glyphname = Cbar;
 layers = (
 {
@@ -13,7 +13,7 @@ ref = C;
 {
 alignment = -1;
 anchor = stroke;
-pos = (17,-18);
+pos = (17,20);
 ref = UCstrokecomb_part.;
 }
 );
@@ -30,7 +30,7 @@ ref = C;
 {
 alignment = -1;
 anchor = stroke;
-pos = (40,-24);
+pos = (40,21);
 ref = UCstrokecomb_part.;
 }
 );
@@ -47,7 +47,7 @@ ref = C;
 {
 alignment = -1;
 anchor = stroke;
-pos = (28,-4);
+pos = (28,36);
 ref = UCstrokecomb_part.;
 }
 );
@@ -64,7 +64,7 @@ ref = C;
 {
 alignment = -1;
 anchor = stroke;
-pos = (12,-24);
+pos = (12,17);
 ref = UCstrokecomb_part.;
 }
 );
@@ -81,7 +81,7 @@ ref = C;
 {
 alignment = -1;
 anchor = stroke;
-pos = (42,-18);
+pos = (42,16);
 ref = UCstrokecomb_part.;
 }
 );
@@ -98,7 +98,7 @@ ref = C;
 {
 alignment = -1;
 anchor = stroke;
-pos = (2,-24);
+pos = (2,16);
 ref = UCstrokecomb_part.;
 }
 );
@@ -115,7 +115,7 @@ ref = C;
 {
 alignment = -1;
 anchor = stroke;
-pos = (-6,-24);
+pos = (-6,13);
 ref = UCstrokecomb_part.;
 }
 );
@@ -132,7 +132,7 @@ ref = C;
 {
 alignment = -1;
 anchor = stroke;
-pos = (-7,-17);
+pos = (-7,16);
 ref = UCstrokecomb_part.;
 }
 );
@@ -149,7 +149,7 @@ ref = C;
 {
 alignment = -1;
 anchor = stroke;
-pos = (9,-24);
+pos = (9,11);
 ref = UCstrokecomb_part.;
 }
 );
@@ -181,7 +181,7 @@ ref = C;
 {
 alignment = -1;
 anchor = stroke;
-pos = (8,-24);
+pos = (8,12);
 ref = UCstrokecomb_part.;
 }
 );

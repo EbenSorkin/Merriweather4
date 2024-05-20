@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "chedescenderabkhasian-cy";
 kernLeft = "cheabkhasian-cy";
 kernRight = e;
@@ -50,7 +49,7 @@ shapes = (
 ref = "cheabkhasian-cy";
 },
 {
-pos = (536,0);
+pos = (506,0);
 ref = cedillacomb;
 }
 );
@@ -115,7 +114,7 @@ shapes = (
 ref = "cheabkhasian-cy";
 },
 {
-pos = (644,0);
+pos = (684,0);
 ref = cedillacomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = "cheabkhasian-cy";
 },
 {
-pos = (542,0);
+pos = (582,0);
 ref = cedillacomb;
 }
 );
@@ -141,7 +140,7 @@ shapes = (
 ref = "cheabkhasian-cy";
 },
 {
-pos = (548,0);
+pos = (586,0);
 ref = cedillacomb;
 }
 );
@@ -157,13 +156,12 @@ shapes = (
 ref = "cheabkhasian-cy";
 },
 {
-pos = (551,0);
+pos = (581,0);
 ref = cedillacomb;
 }
 );
 width = 1383;
 }
 );
-subCategory = Lowercase;
 unicode = 1215;
 }

@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "hadescender-cy";
 kernLeft = x;
 kernRight = "ha-cy";
@@ -178,6 +177,5 @@ width = 1314;
 );
 metricLeft = x;
 metricRight = x;
-subCategory = Lowercase;
 unicode = 1203;
 }

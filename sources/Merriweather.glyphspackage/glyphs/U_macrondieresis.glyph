@@ -10,11 +10,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (444,0);
+pos = (295,0);
 ref = macroncomb.case;
 },
 {
-pos = (378,255);
+pos = (284,255);
 ref = dieresiscomb.case;
 }
 );
@@ -27,11 +27,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (410,0);
+pos = (240,0);
 ref = macroncomb.case;
 },
 {
-pos = (325,325);
+pos = (185,315);
 ref = dieresiscomb.case;
 }
 );
@@ -44,11 +44,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (349,0);
+pos = (185,0);
 ref = macroncomb.case;
 },
 {
-pos = (294,234);
+pos = (170,272);
 ref = dieresiscomb.case;
 }
 );
@@ -61,11 +61,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (375,0);
+pos = (218,0);
 ref = macroncomb.case;
 },
 {
-pos = (280,325);
+pos = (123,315);
 ref = dieresiscomb.case;
 }
 );
@@ -78,11 +78,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (385,0);
+pos = (305,0);
 ref = macroncomb.case;
 },
 {
-pos = (314,255);
+pos = (275,255);
 ref = dieresiscomb.case;
 }
 );
@@ -95,11 +95,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (329,0);
+pos = (238,0);
 ref = macroncomb.case;
 },
 {
-pos = (266,234);
+pos = (213,272);
 ref = dieresiscomb.case;
 }
 );
@@ -112,11 +112,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (388,0);
+pos = (218,0);
 ref = macroncomb.case;
 },
 {
-pos = (327,216);
+pos = (207,216);
 ref = dieresiscomb.case;
 }
 );
@@ -129,11 +129,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (446,0);
+pos = (262,0);
 ref = macroncomb.case;
 },
 {
-pos = (374,216);
+pos = (250,216);
 ref = dieresiscomb.case;
 }
 );
@@ -146,11 +146,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (377,0);
+pos = (293,0);
 ref = macroncomb.case;
 },
 {
-pos = (317,234);
+pos = (274,272);
 ref = dieresiscomb.case;
 }
 );
@@ -163,11 +163,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (441,0);
+pos = (295,0);
 ref = macroncomb.case;
 },
 {
-pos = (387,216);
+pos = (291,216);
 ref = dieresiscomb.case;
 }
 );
@@ -180,11 +180,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (455,0);
+pos = (375,0);
 ref = macroncomb.case;
 },
 {
-pos = (409,255);
+pos = (385,255);
 ref = dieresiscomb.case;
 }
 );
@@ -200,11 +200,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (380,0);
+pos = (250,0);
 ref = macroncomb.case;
 },
 {
-pos = (315,325);
+pos = (209,315);
 ref = dieresiscomb.case;
 }
 );

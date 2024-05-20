@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = icaron;
 kernLeft = i;
 kernRight = i;
@@ -11,7 +10,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-44,0);
+pos = (-181,0);
 ref = caroncomb;
 }
 );
@@ -24,7 +23,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-56,0);
+pos = (-226,0);
 ref = caroncomb;
 }
 );
@@ -37,7 +36,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-75,0);
+pos = (-199,0);
 ref = caroncomb;
 }
 );
@@ -50,7 +49,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-85,0);
+pos = (-278,0);
 ref = caroncomb;
 }
 );
@@ -63,7 +62,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-69,0);
+pos = (-149,0);
 ref = caroncomb;
 }
 );
@@ -76,7 +75,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-64,0);
+pos = (-175,0);
 ref = caroncomb;
 }
 );
@@ -89,7 +88,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-27,0);
+pos = (-169,0);
 ref = caroncomb;
 }
 );
@@ -102,7 +101,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-57,0);
+pos = (-180,0);
 ref = caroncomb;
 }
 );
@@ -115,7 +114,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-90,0);
+pos = (-174,0);
 ref = caroncomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-76,0);
+pos = (-206,0);
 ref = caroncomb;
 }
 );
@@ -141,7 +140,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-64,0);
+pos = (-114,0);
 ref = caroncomb;
 }
 );
@@ -157,13 +156,12 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-75,0);
+pos = (-200,0);
 ref = caroncomb;
 }
 );
 width = 712;
 }
 );
-subCategory = Lowercase;
 unicode = 464;
 }

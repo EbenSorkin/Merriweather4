@@ -1,5 +1,5 @@
 {
-category = Letter;
+color = 3;
 glyphname = "esdescender-cy.loclBSH";
 kernLeft = o;
 kernRight = "es-cy";
@@ -14,10 +14,10 @@ nodes = (
 (664,-358,o),
 (664,-254,cs),
 (664,-175,o),
-(626,-93,o),
-(576,-20,c),
-(472,-18,l),
-(502,-58,o),
+(626,-87,o),
+(576,-14,c),
+(472,-12,l),
+(502,-52,o),
 (528,-116,o),
 (528,-202,c),
 (436,-352,l),
@@ -346,5 +346,4 @@ width = 1059;
 );
 metricLeft = "es-cy";
 metricRight = "es-cy";
-subCategory = Lowercase;
 }

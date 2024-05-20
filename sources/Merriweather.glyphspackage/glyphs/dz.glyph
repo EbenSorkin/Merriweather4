@@ -1,6 +1,5 @@
 {
-category = Letter;
-color = 3;
+color = 5;
 glyphname = dz;
 kernLeft = o;
 kernRight = z;
@@ -165,6 +164,5 @@ ref = z;
 width = 2454;
 }
 );
-subCategory = Lowercase;
 unicode = 499;
 }

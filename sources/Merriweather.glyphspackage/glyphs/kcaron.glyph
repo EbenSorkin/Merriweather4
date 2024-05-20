@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = kcaron;
 kernLeft = h;
 kernRight = k;
@@ -157,13 +156,12 @@ shapes = (
 ref = k;
 },
 {
-pos = (-99,96);
+pos = (-71,96);
 ref = caroncomb.case;
 }
 );
 width = 1267;
 }
 );
-subCategory = Lowercase;
 unicode = 489;
 }

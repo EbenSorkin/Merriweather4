@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "kastroke-cy";
 kernLeft = h;
 kernRight = k;
@@ -120,18 +119,17 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(23,1232,l),
-(540,1232,l),
-(540,1292,l),
-(23,1292,l)
+(26,1232,l),
+(543,1232,l),
+(543,1292,l),
+(26,1292,l)
 );
 },
 {
-pos = (-3,0);
 ref = k;
 }
 );
-width = 950;
+width = 953;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -231,6 +229,5 @@ width = 1336;
 );
 metricLeft = hbar;
 metricRight = "zhe-cy";
-subCategory = Lowercase;
 unicode = 1183;
 }

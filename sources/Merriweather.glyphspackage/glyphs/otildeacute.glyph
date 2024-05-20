@@ -11,11 +11,7 @@ ref = o;
 },
 {
 pos = (190,0);
-ref = tildecomb;
-},
-{
-pos = (421,368);
-ref = acutecomb;
+ref = tildecomb_acutecomb;
 }
 );
 width = 1116;
@@ -24,18 +20,11 @@ width = 1116;
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
 shapes = (
 {
-alignment = -1;
 ref = o;
 },
 {
-alignment = -1;
 pos = (207,0);
-ref = tildecomb;
-},
-{
-alignment = -1;
-pos = (438,490);
-ref = acutecomb;
+ref = tildecomb_acutecomb;
 }
 );
 width = 1207;
@@ -44,18 +33,11 @@ width = 1207;
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
 shapes = (
 {
-alignment = -1;
 ref = o;
 },
 {
-alignment = -1;
-pos = (212,0);
-ref = tildecomb;
-},
-{
-alignment = -1;
-pos = (394,495);
-ref = acutecomb;
+pos = (203,0);
+ref = tildecomb_acutecomb;
 }
 );
 width = 1109;
@@ -68,11 +50,7 @@ ref = o;
 },
 {
 pos = (133,0);
-ref = tildecomb;
-},
-{
-pos = (357,502);
-ref = acutecomb;
+ref = tildecomb_acutecomb;
 }
 );
 width = 1054;
@@ -81,18 +59,11 @@ width = 1054;
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
 shapes = (
 {
-alignment = -1;
 ref = o;
 },
 {
-alignment = -1;
 pos = (158,0);
-ref = tildecomb;
-},
-{
-alignment = -1;
-pos = (371,468);
-ref = acutecomb;
+ref = tildecomb_acutecomb;
 }
 );
 width = 992;
@@ -105,11 +76,7 @@ ref = o;
 },
 {
 pos = (176,0);
-ref = tildecomb;
-},
-{
-pos = (343,495);
-ref = acutecomb;
+ref = tildecomb_acutecomb;
 }
 );
 width = 968;
@@ -121,12 +88,8 @@ shapes = (
 ref = o;
 },
 {
-pos = (205,0);
-ref = tildecomb;
-},
-{
-pos = (347,409);
-ref = acutecomb;
+pos = (190,0);
+ref = tildecomb_acutecomb;
 }
 );
 width = 881;
@@ -139,11 +102,7 @@ ref = o;
 },
 {
 pos = (227,0);
-ref = tildecomb;
-},
-{
-pos = (383,299);
-ref = acutecomb;
+ref = tildecomb_acutecomb;
 }
 );
 width = 985;
@@ -156,11 +115,7 @@ ref = o;
 },
 {
 pos = (234,0);
-ref = tildecomb;
-},
-{
-pos = (455,495);
-ref = acutecomb;
+ref = tildecomb_acutecomb;
 }
 );
 width = 1193;
@@ -173,11 +128,7 @@ ref = o;
 },
 {
 pos = (242,0);
-ref = tildecomb;
-},
-{
-pos = (392,409);
-ref = acutecomb;
+ref = tildecomb_acutecomb;
 }
 );
 width = 1055;
@@ -190,11 +141,7 @@ ref = o;
 },
 {
 pos = (227,0);
-ref = tildecomb;
-},
-{
-pos = (440,438);
-ref = acutecomb;
+ref = tildecomb_acutecomb;
 }
 );
 userData = {
@@ -210,11 +157,7 @@ ref = o;
 },
 {
 pos = (207,0);
-ref = tildecomb;
-},
-{
-pos = (450,502);
-ref = acutecomb;
+ref = tildecomb_acutecomb;
 }
 );
 width = 1301;

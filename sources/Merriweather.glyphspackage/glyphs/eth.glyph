@@ -1,5 +1,4 @@
 {
-category = Letter;
 color = 4;
 glyphname = eth;
 kernLeft = eth;
@@ -801,6 +800,5 @@ nodes = (
 width = 1258;
 }
 );
-subCategory = Lowercase;
 unicode = 240;
 }

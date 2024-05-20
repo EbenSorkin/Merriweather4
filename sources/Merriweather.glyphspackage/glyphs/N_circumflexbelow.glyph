@@ -99,11 +99,11 @@ shapes = (
 ref = N;
 },
 {
-pos = (305,0);
+pos = (327,0);
 ref = circumflexbelowcomb;
 }
 );
-width = 1340;
+width = 1392;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -125,11 +125,11 @@ shapes = (
 ref = N;
 },
 {
-pos = (263,0);
+pos = (278,0);
 ref = circumflexbelowcomb;
 }
 );
-width = 1175;
+width = 1206;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -151,7 +151,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (329,0);
+pos = (324,0);
 ref = circumflexbelowcomb;
 }
 );

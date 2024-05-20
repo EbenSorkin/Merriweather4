@@ -8,7 +8,7 @@ shapes = (
 ref = "Ka-cy";
 },
 {
-pos = (532,30);
+pos = (492,30);
 ref = acutecomb.case;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = "Ka-cy";
 },
 {
-pos = (573,20);
+pos = (534,20);
 ref = acutecomb.case;
 }
 );
@@ -34,11 +34,11 @@ shapes = (
 ref = "Ka-cy";
 },
 {
-pos = (426,30);
+pos = (445,30);
 ref = acutecomb.case;
 }
 );
-width = 1221;
+width = 1224;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -47,7 +47,7 @@ shapes = (
 ref = "Ka-cy";
 },
 {
-pos = (513,0);
+pos = (529,0);
 ref = acutecomb.case;
 }
 );
@@ -60,7 +60,7 @@ shapes = (
 ref = "Ka-cy";
 },
 {
-pos = (419,30);
+pos = (424,30);
 ref = acutecomb.case;
 }
 );
@@ -73,7 +73,7 @@ shapes = (
 ref = "Ka-cy";
 },
 {
-pos = (473,20);
+pos = (423,20);
 ref = acutecomb.case;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = "Ka-cy";
 },
 {
-pos = (402,30);
+pos = (412,30);
 ref = acutecomb.case;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = "Ka-cy";
 },
 {
-pos = (509,0);
+pos = (518,0);
 ref = acutecomb.case;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = "Ka-cy";
 },
 {
-pos = (525,30);
+pos = (565,30);
 ref = acutecomb.case;
 }
 );
@@ -138,11 +138,11 @@ shapes = (
 ref = "Ka-cy";
 },
 {
-pos = (440,30);
+pos = (479,30);
 ref = acutecomb.case;
 }
 );
-width = 1236;
+width = 1240;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -151,7 +151,7 @@ shapes = (
 ref = "Ka-cy";
 },
 {
-pos = (574,0);
+pos = (655,0);
 ref = acutecomb.case;
 }
 );

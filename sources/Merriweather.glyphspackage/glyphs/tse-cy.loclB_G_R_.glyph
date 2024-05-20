@@ -1,5 +1,5 @@
 {
-category = Letter;
+color = 3;
 glyphname = "tse-cy.loclBGR";
 kernLeft = u;
 kernRight = u;
@@ -100,7 +100,7 @@ pos = (780,0);
 ref = righttooth_part.;
 }
 );
-width = 1011;
+width = 1000;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -178,5 +178,4 @@ width = 1352;
 );
 metricLeft = "ii-cy.loclBGR";
 metricRight = "pedescender-cy";
-subCategory = Lowercase;
 }

@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "schwadieresis-cy";
 kernLeft = o;
 kernRight = o;
@@ -11,7 +10,7 @@ shapes = (
 ref = "schwa-cy";
 },
 {
-pos = (153,0);
+pos = (169,0);
 ref = dieresiscomb;
 }
 );
@@ -24,7 +23,7 @@ shapes = (
 ref = "schwa-cy";
 },
 {
-pos = (141,-1);
+pos = (141,0);
 ref = dieresiscomb;
 }
 );
@@ -37,7 +36,7 @@ shapes = (
 ref = "schwa-cy";
 },
 {
-pos = (118,0);
+pos = (98,0);
 ref = dieresiscomb;
 }
 );
@@ -50,7 +49,7 @@ shapes = (
 ref = "schwa-cy";
 },
 {
-pos = (91,0);
+pos = (83,0);
 ref = dieresiscomb;
 }
 );
@@ -63,11 +62,11 @@ shapes = (
 ref = "schwa-cy";
 },
 {
-pos = (128,0);
+pos = (150,0);
 ref = dieresiscomb;
 }
 );
-width = 938;
+width = 930;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -76,7 +75,7 @@ shapes = (
 ref = "schwa-cy";
 },
 {
-pos = (83,0);
+pos = (12,0);
 ref = dieresiscomb;
 }
 );
@@ -89,7 +88,7 @@ shapes = (
 ref = "schwa-cy";
 },
 {
-pos = (140,0);
+pos = (146,0);
 ref = dieresiscomb;
 }
 );
@@ -102,7 +101,7 @@ shapes = (
 ref = "schwa-cy";
 },
 {
-pos = (161,0);
+pos = (176,0);
 ref = dieresiscomb;
 }
 );
@@ -115,7 +114,7 @@ shapes = (
 ref = "schwa-cy";
 },
 {
-pos = (148,0);
+pos = (154,0);
 ref = dieresiscomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = "schwa-cy";
 },
 {
-pos = (181,0);
+pos = (192,0);
 ref = dieresiscomb;
 }
 );
@@ -141,7 +140,7 @@ shapes = (
 ref = "schwa-cy";
 },
 {
-pos = (203,0);
+pos = (200,0);
 ref = dieresiscomb;
 }
 );
@@ -157,13 +156,12 @@ shapes = (
 ref = "schwa-cy";
 },
 {
-pos = (163,0);
+pos = (161,0);
 ref = dieresiscomb;
 }
 );
 width = 1162;
 }
 );
-subCategory = Lowercase;
 unicode = 1243;
 }

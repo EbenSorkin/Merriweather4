@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "o-cy";
 kernLeft = o;
 kernRight = o;
@@ -116,6 +115,5 @@ ref = o;
 width = 1301;
 }
 );
-subCategory = Lowercase;
 unicode = 1086;
 }

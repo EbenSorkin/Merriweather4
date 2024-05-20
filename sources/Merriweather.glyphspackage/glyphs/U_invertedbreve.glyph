@@ -62,7 +62,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (362,0);
+pos = (372,0);
 ref = breveinvertedcomb.case;
 }
 );
@@ -75,7 +75,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (348,0);
+pos = (418,0);
 ref = breveinvertedcomb.case;
 }
 );
@@ -114,7 +114,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (396,0);
+pos = (426,0);
 ref = breveinvertedcomb.case;
 }
 );
@@ -127,7 +127,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (438,0);
+pos = (468,0);
 ref = breveinvertedcomb.case;
 }
 );

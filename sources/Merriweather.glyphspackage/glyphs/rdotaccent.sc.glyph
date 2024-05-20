@@ -1,5 +1,5 @@
 {
-color = 2;
+color = 5;
 glyphname = rdotaccent.sc;
 layers = (
 {
@@ -9,7 +9,7 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (521,162);
+pos = (311,182);
 ref = dotaccentcomb;
 }
 );
@@ -22,11 +22,11 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (517,160);
+pos = (343,180);
 ref = dotaccentcomb;
 }
 );
-width = 1421;
+width = 1416;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -35,11 +35,11 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (490,162);
+pos = (356,182);
 ref = dotaccentcomb;
 }
 );
-width = 1287;
+width = 1263;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -48,11 +48,11 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (436,160);
+pos = (270,180);
 ref = dotaccentcomb;
 }
 );
-width = 1297;
+width = 1314;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -61,11 +61,11 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (491,162);
+pos = (361,182);
 ref = dotaccentcomb;
 }
 );
-width = 1270;
+width = 1277;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -74,7 +74,7 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (499,160);
+pos = (365,180);
 ref = dotaccentcomb;
 }
 );
@@ -87,11 +87,11 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (464,358);
+pos = (305,287);
 ref = dotaccentcomb;
 }
 );
-width = 1158;
+width = 1182;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -100,11 +100,11 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (457,358);
+pos = (334,287);
 ref = dotaccentcomb;
 }
 );
-width = 1362;
+width = 1382;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -113,11 +113,11 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (414,358);
+pos = (256,287);
 ref = dotaccentcomb;
 }
 );
-width = 1044;
+width = 1052;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -126,7 +126,7 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (426,358);
+pos = (286,287);
 ref = dotaccentcomb;
 }
 );
@@ -139,11 +139,11 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (475,358);
+pos = (292,287);
 ref = dotaccentcomb;
 }
 );
-width = 1226;
+width = 1233;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -152,11 +152,11 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (489,358);
+pos = (389,287);
 ref = dotaccentcomb;
 }
 );
-width = 1418;
+width = 1428;
 }
 );
 }

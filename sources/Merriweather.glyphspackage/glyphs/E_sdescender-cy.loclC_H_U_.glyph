@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = "Esdescender-cy.loclCHU";
 kernLeft = "Es-cy";
 kernRight = "Es-cy";
@@ -137,12 +138,10 @@ width = 1324;
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
 shapes = (
 {
-alignment = -1;
 ref = C;
 },
 {
-alignment = -1;
-pos = (730,0);
+pos = (548,0);
 ref = cedillacomb.case;
 }
 );
@@ -155,7 +154,6 @@ width = 1362;
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
 shapes = (
 {
-alignment = -1;
 ref = C;
 },
 {

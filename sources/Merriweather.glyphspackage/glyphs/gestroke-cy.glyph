@@ -1,5 +1,4 @@
 {
-category = Letter;
 color = 4;
 glyphname = "gestroke-cy";
 kernLeft = "pe-cy";
@@ -12,7 +11,7 @@ shapes = (
 ref = "ge-cy";
 },
 {
-pos = (46,-859);
+pos = (-113,-857);
 ref = ascenderbar_part.;
 }
 );
@@ -38,7 +37,7 @@ shapes = (
 ref = "ge-cy";
 },
 {
-pos = (46,-849);
+pos = (-88,-844);
 ref = ascenderbar_part.;
 }
 );
@@ -51,7 +50,7 @@ shapes = (
 ref = "ge-cy";
 },
 {
-pos = (4,-854);
+pos = (-137,-875);
 ref = ascenderbar_part.;
 }
 );
@@ -64,7 +63,7 @@ shapes = (
 ref = "ge-cy";
 },
 {
-pos = (46,-825);
+pos = (-113,-845);
 ref = ascenderbar_part.;
 }
 );
@@ -77,7 +76,7 @@ shapes = (
 ref = "ge-cy";
 },
 {
-pos = (46,-853);
+pos = (-23,-857);
 ref = ascenderbar_part.;
 }
 );
@@ -90,7 +89,7 @@ shapes = (
 ref = "ge-cy";
 },
 {
-pos = (4,-854);
+pos = (-134,-875);
 ref = ascenderbar_part.;
 }
 );
@@ -103,7 +102,7 @@ shapes = (
 ref = "ge-cy";
 },
 {
-pos = (6,-850);
+pos = (-108,-899);
 ref = ascenderbar_part.;
 }
 );
@@ -116,7 +115,7 @@ shapes = (
 ref = "ge-cy";
 },
 {
-pos = (12,-853);
+pos = (-126,-899);
 ref = ascenderbar_part.;
 }
 );
@@ -129,7 +128,7 @@ shapes = (
 ref = "ge-cy";
 },
 {
-pos = (4,-854);
+pos = (-84,-875);
 ref = ascenderbar_part.;
 }
 );
@@ -142,7 +141,7 @@ shapes = (
 ref = "ge-cy";
 },
 {
-pos = (-4,-853);
+pos = (-124,-899);
 ref = ascenderbar_part.;
 }
 );
@@ -155,7 +154,7 @@ shapes = (
 ref = "ge-cy";
 },
 {
-pos = (46,-853);
+pos = (-25,-857);
 ref = ascenderbar_part.;
 }
 );
@@ -171,7 +170,7 @@ shapes = (
 ref = "ge-cy";
 },
 {
-pos = (46,-825);
+pos = (-80,-844);
 ref = ascenderbar_part.;
 }
 );
@@ -180,6 +179,5 @@ width = 1080;
 );
 metricLeft = "pe-cy";
 metricRight = "te-cy";
-subCategory = Lowercase;
 unicode = 1171;
 }

@@ -185,7 +185,7 @@ pos = (573,0);
 ref = righttooth_part.;
 }
 );
-width = 1115;
+width = 1118;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -231,7 +231,7 @@ pos = (570,0);
 ref = righttooth_part.;
 }
 );
-width = 1193;
+width = 1197;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";

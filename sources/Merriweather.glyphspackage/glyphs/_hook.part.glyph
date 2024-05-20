@@ -3,6 +3,12 @@ export = 0;
 glyphname = _hook.part;
 layers = (
 {
+anchors = (
+{
+name = _hook;
+pos = (640,1486);
+}
+);
 background = {
 shapes = (
 {
@@ -169,7 +175,7 @@ nodes = (
 (386,1344,o),
 (475,1438,o),
 (652,1428,c),
-(662,1457,ls),
+(662,1457,l),
 (652,1486,l),
 (285,1486,o),
 (154,1274,o),

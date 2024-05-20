@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 5;
 glyphname = lmiddletilde;
 layers = (
 {
@@ -9,9 +9,8 @@ shapes = (
 ref = l;
 },
 {
-alignment = -1;
-pos = (-85,-621);
-ref = tildecomb;
+pos = (-205,115);
+ref = tildeoverlaycomb;
 }
 );
 width = 599;
@@ -23,9 +22,8 @@ shapes = (
 ref = l;
 },
 {
-alignment = -1;
-pos = (-85,-673);
-ref = tildecomb;
+pos = (-288,116);
+ref = tildeoverlaycomb;
 }
 );
 width = 668;
@@ -37,9 +35,8 @@ shapes = (
 ref = l;
 },
 {
-alignment = -1;
-pos = (-85,-641);
-ref = tildecomb;
+pos = (-141,115);
+ref = tildeoverlaycomb;
 }
 );
 width = 532;
@@ -51,9 +48,8 @@ shapes = (
 ref = l;
 },
 {
-alignment = -1;
-pos = (-91,-649);
-ref = tildecomb;
+pos = (-337,116);
+ref = tildeoverlaycomb;
 }
 );
 width = 573;
@@ -65,9 +61,8 @@ shapes = (
 ref = l;
 },
 {
-alignment = -1;
-pos = (-85,-612);
-ref = tildecomb;
+pos = (-122,115);
+ref = tildeoverlaycomb;
 }
 );
 width = 611;
@@ -79,9 +74,8 @@ shapes = (
 ref = l;
 },
 {
-alignment = -1;
-pos = (-85,-642);
-ref = tildecomb;
+pos = (-283,116);
+ref = tildeoverlaycomb;
 }
 );
 width = 700;
@@ -93,9 +87,8 @@ shapes = (
 ref = l;
 },
 {
-alignment = -1;
-pos = (-25,-522);
-ref = tildecomb;
+pos = (-171,148);
+ref = tildeoverlaycomb;
 }
 );
 width = 441;
@@ -107,9 +100,8 @@ shapes = (
 ref = l;
 },
 {
-alignment = -1;
-pos = (-73,-522);
-ref = tildecomb;
+pos = (-263,87);
+ref = tildeoverlaycomb;
 }
 );
 width = 562;
@@ -121,9 +113,8 @@ shapes = (
 ref = l;
 },
 {
-alignment = -1;
-pos = (5,-522);
-ref = tildecomb;
+pos = (-158,148);
+ref = tildeoverlaycomb;
 }
 );
 width = 452;
@@ -135,9 +126,8 @@ shapes = (
 ref = l;
 },
 {
-alignment = -1;
-pos = (-45,-522);
-ref = tildecomb;
+pos = (-248,87);
+ref = tildeoverlaycomb;
 }
 );
 width = 530;
@@ -149,9 +139,8 @@ shapes = (
 ref = l;
 },
 {
-alignment = -1;
-pos = (-45,-522);
-ref = tildecomb;
+pos = (-177,150);
+ref = tildeoverlaycomb;
 }
 );
 width = 435;
@@ -163,9 +152,8 @@ shapes = (
 ref = l;
 },
 {
-alignment = -1;
-pos = (-68,-522);
-ref = tildecomb;
+pos = (-216,85);
+ref = tildeoverlaycomb;
 }
 );
 width = 588;

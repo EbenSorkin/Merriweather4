@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = Jstroke;
 kernLeft = J;
 kernRight = Ubar;
@@ -102,7 +101,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (-197,22);
+pos = (-188,22);
 ref = Ibar_part.;
 }
 );

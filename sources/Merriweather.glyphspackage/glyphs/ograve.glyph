@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = ograve;
 kernLeft = o;
 kernRight = o;
@@ -11,7 +10,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (325,0);
+pos = (45,0);
 ref = gravecomb;
 }
 );
@@ -24,7 +23,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (325,0);
+pos = (57,0);
 ref = gravecomb;
 }
 );
@@ -37,7 +36,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (295,0);
+pos = (21,0);
 ref = gravecomb;
 }
 );
@@ -50,7 +49,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (270,0);
+pos = (6,0);
 ref = gravecomb;
 }
 );
@@ -63,7 +62,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (288,0);
+pos = (94,0);
 ref = gravecomb;
 }
 );
@@ -76,7 +75,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (244,0);
+pos = (-7,0);
 ref = gravecomb;
 }
 );
@@ -89,7 +88,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (268,0);
+pos = (50,0);
 ref = gravecomb;
 }
 );
@@ -102,7 +101,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (300,0);
+pos = (43,0);
 ref = gravecomb;
 }
 );
@@ -115,7 +114,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (312,0);
+pos = (88,0);
 ref = gravecomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (313,0);
+pos = (47,0);
 ref = gravecomb;
 }
 );
@@ -141,7 +140,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (362,0);
+pos = (148,0);
 ref = gravecomb;
 }
 );
@@ -157,13 +156,12 @@ shapes = (
 ref = o;
 },
 {
-pos = (349,0);
+pos = (90,0);
 ref = gravecomb;
 }
 );
 width = 1301;
 }
 );
-subCategory = Lowercase;
 unicode = 242;
 }

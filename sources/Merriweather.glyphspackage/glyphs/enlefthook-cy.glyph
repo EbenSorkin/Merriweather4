@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "enlefthook-cy";
 kernLeft = "enlefthook-cy";
 kernRight = "pe-cy";
@@ -573,6 +572,5 @@ width = 1454;
 }
 );
 metricRight = "pe-cy";
-subCategory = Lowercase;
 unicode = 1321;
 }

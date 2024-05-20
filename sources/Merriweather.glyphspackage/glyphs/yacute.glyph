@@ -1,5 +1,5 @@
 {
-category = Letter;
+color = 5;
 glyphname = yacute;
 kernLeft = y;
 kernRight = y;
@@ -11,7 +11,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (438,0);
+pos = (268,0);
 ref = acutecomb;
 }
 );
@@ -24,7 +24,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (434,0);
+pos = (264,0);
 ref = acutecomb;
 }
 );
@@ -37,11 +37,11 @@ shapes = (
 ref = y;
 },
 {
-pos = (336,0);
+pos = (250,0);
 ref = acutecomb;
 }
 );
-width = 993;
+width = 1071;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -50,7 +50,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (340,0);
+pos = (165,0);
 ref = acutecomb;
 }
 );
@@ -63,7 +63,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (377,0);
+pos = (277,0);
 ref = acutecomb;
 }
 );
@@ -76,7 +76,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (281,0);
+pos = (170,0);
 ref = acutecomb;
 }
 );
@@ -89,7 +89,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (328,0);
+pos = (198,0);
 ref = acutecomb;
 }
 );
@@ -102,11 +102,11 @@ shapes = (
 ref = y;
 },
 {
-pos = (346,0);
+pos = (202,0);
 ref = acutecomb;
 }
 );
-width = 912;
+width = 927;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -115,7 +115,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (373,0);
+pos = (309,0);
 ref = acutecomb;
 }
 );
@@ -128,7 +128,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (354,0);
+pos = (208,0);
 ref = acutecomb;
 }
 );
@@ -141,7 +141,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (448,0);
+pos = (348,0);
 ref = acutecomb;
 }
 );
@@ -157,13 +157,12 @@ shapes = (
 ref = y;
 },
 {
-pos = (395,0);
+pos = (255,0);
 ref = acutecomb;
 }
 );
 width = 1191;
 }
 );
-subCategory = Lowercase;
 unicode = 253;
 }

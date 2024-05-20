@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = hcedilla;
 layers = (
 {
@@ -8,7 +9,8 @@ shapes = (
 ref = h;
 },
 {
-pos = (452,0);
+alignment = -1;
+pos = (73,0);
 ref = cedillacomb;
 }
 );
@@ -21,7 +23,8 @@ shapes = (
 ref = h;
 },
 {
-pos = (440,0);
+alignment = -1;
+pos = (102,0);
 ref = cedillacomb;
 }
 );
@@ -34,11 +37,12 @@ shapes = (
 ref = h;
 },
 {
-pos = (382,0);
+alignment = -1;
+pos = (71,0);
 ref = cedillacomb;
 }
 );
-width = 1120;
+width = 1100;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -47,7 +51,8 @@ shapes = (
 ref = h;
 },
 {
-pos = (372,0);
+alignment = -1;
+pos = (86,0);
 ref = cedillacomb;
 }
 );
@@ -60,11 +65,12 @@ shapes = (
 ref = h;
 },
 {
-pos = (455,0);
+alignment = -1;
+pos = (41,0);
 ref = cedillacomb;
 }
 );
-width = 1355;
+width = 1335;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -73,7 +79,8 @@ shapes = (
 ref = h;
 },
 {
-pos = (460,0);
+alignment = -1;
+pos = (80,0);
 ref = cedillacomb;
 }
 );
@@ -86,7 +93,8 @@ shapes = (
 ref = h;
 },
 {
-pos = (349,0);
+alignment = -1;
+pos = (16,0);
 ref = cedillacomb;
 }
 );
@@ -99,7 +107,8 @@ shapes = (
 ref = h;
 },
 {
-pos = (392,0);
+alignment = -1;
+pos = (59,0);
 ref = cedillacomb;
 }
 );
@@ -112,7 +121,8 @@ shapes = (
 ref = h;
 },
 {
-pos = (317,0);
+alignment = -1;
+pos = (28,0);
 ref = cedillacomb;
 }
 );
@@ -125,7 +135,8 @@ shapes = (
 ref = h;
 },
 {
-pos = (327,0);
+alignment = -1;
+pos = (58,0);
 ref = cedillacomb;
 }
 );
@@ -138,7 +149,8 @@ shapes = (
 ref = h;
 },
 {
-pos = (363,0);
+alignment = -1;
+pos = (14,0);
 ref = cedillacomb;
 }
 );
@@ -151,7 +163,8 @@ shapes = (
 ref = h;
 },
 {
-pos = (419,0);
+alignment = -1;
+pos = (47,0);
 ref = cedillacomb;
 }
 );

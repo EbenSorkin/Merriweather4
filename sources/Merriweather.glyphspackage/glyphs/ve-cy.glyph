@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "ve-cy";
 kernLeft = "pe-cy";
 kernRight = "ve-cy";
@@ -201,7 +200,7 @@ nodes = (
 (708,783,cs),
 (708,659,o),
 (656,558,o),
-(552,558,c),
+(552,558,cs),
 (468,558,l)
 );
 }
@@ -825,6 +824,5 @@ width = 1323;
 }
 );
 metricLeft = "pe-cy";
-subCategory = Lowercase;
 unicode = 1074;
 }

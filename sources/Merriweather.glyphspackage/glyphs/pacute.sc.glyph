@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = pacute.sc;
 layers = (
 {
@@ -8,11 +9,11 @@ shapes = (
 ref = p.sc;
 },
 {
-pos = (515,162);
+pos = (336,182);
 ref = acutecomb;
 }
 );
-width = 1188;
+width = 1208;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -21,11 +22,11 @@ shapes = (
 ref = p.sc;
 },
 {
-pos = (521,160);
+pos = (362,180);
 ref = acutecomb;
 }
 );
-width = 1279;
+width = 1298;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -34,11 +35,11 @@ shapes = (
 ref = p.sc;
 },
 {
-pos = (450,162);
+pos = (338,182);
 ref = acutecomb;
 }
 );
-width = 1071;
+width = 1086;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -47,11 +48,11 @@ shapes = (
 ref = p.sc;
 },
 {
-pos = (458,160);
+pos = (293,180);
 ref = acutecomb;
 }
 );
-width = 1150;
+width = 1167;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -60,11 +61,11 @@ shapes = (
 ref = p.sc;
 },
 {
-pos = (493,162);
+pos = (386,182);
 ref = acutecomb;
 }
 );
-width = 1234;
+width = 1241;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -73,7 +74,7 @@ shapes = (
 ref = p.sc;
 },
 {
-pos = (508,160);
+pos = (392,180);
 ref = acutecomb;
 }
 );
@@ -86,11 +87,11 @@ shapes = (
 ref = p.sc;
 },
 {
-pos = (432,338);
+pos = (307,287);
 ref = acutecomb;
 }
 );
-width = 1078;
+width = 1114;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -99,11 +100,11 @@ shapes = (
 ref = p.sc;
 },
 {
-pos = (508,358);
+pos = (414,287);
 ref = acutecomb;
 }
 );
-width = 1234;
+width = 1254;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -112,11 +113,11 @@ shapes = (
 ref = p.sc;
 },
 {
-pos = (419,338);
+pos = (295,287);
 ref = acutecomb;
 }
 );
-width = 1007;
+width = 1015;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -125,7 +126,7 @@ shapes = (
 ref = p.sc;
 },
 {
-pos = (478,358);
+pos = (377,287);
 ref = acutecomb;
 }
 );
@@ -138,11 +139,11 @@ shapes = (
 ref = p.sc;
 },
 {
-pos = (449,338);
+pos = (308,287);
 ref = acutecomb;
 }
 );
-width = 1152;
+width = 1159;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -151,11 +152,11 @@ shapes = (
 ref = p.sc;
 },
 {
-pos = (574,358);
+pos = (527,287);
 ref = acutecomb;
 }
 );
-width = 1259;
+width = 1269;
 }
 );
 }

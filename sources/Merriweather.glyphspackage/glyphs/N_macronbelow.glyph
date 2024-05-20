@@ -36,11 +36,11 @@ shapes = (
 ref = N;
 },
 {
-pos = (340,0);
+pos = (362,0);
 ref = macronbelowcomb.case;
 }
 );
-width = 1340;
+width = 1392;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -75,11 +75,11 @@ shapes = (
 ref = N;
 },
 {
-pos = (288,0);
+pos = (303,0);
 ref = macronbelowcomb.case;
 }
 );
-width = 1175;
+width = 1206;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -114,7 +114,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (374,0);
+pos = (369,0);
 ref = macronbelowcomb.case;
 }
 );

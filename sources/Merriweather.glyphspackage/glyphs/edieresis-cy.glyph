@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "edieresis-cy";
 kernLeft = "ereversed-cy";
 kernRight = e;
@@ -37,7 +36,7 @@ shapes = (
 ref = "ereversed-cy";
 },
 {
-pos = (85,105);
+pos = (71,0);
 ref = dieresiscomb;
 }
 );
@@ -76,7 +75,7 @@ shapes = (
 ref = "ereversed-cy";
 },
 {
-pos = (51,106);
+pos = (-11,0);
 ref = dieresiscomb;
 }
 );
@@ -89,7 +88,7 @@ shapes = (
 ref = "ereversed-cy";
 },
 {
-pos = (120,105);
+pos = (109,0);
 ref = dieresiscomb;
 }
 );
@@ -102,7 +101,7 @@ shapes = (
 ref = "ereversed-cy";
 },
 {
-pos = (144,105);
+pos = (144,0);
 ref = dieresiscomb;
 }
 );
@@ -115,7 +114,7 @@ shapes = (
 ref = "ereversed-cy";
 },
 {
-pos = (171,106);
+pos = (81,0);
 ref = dieresiscomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = "ereversed-cy";
 },
 {
-pos = (294,105);
+pos = (125,0);
 ref = dieresiscomb;
 }
 );
@@ -164,6 +163,5 @@ ref = dieresiscomb;
 width = 1089;
 }
 );
-subCategory = Lowercase;
 unicode = 1261;
 }

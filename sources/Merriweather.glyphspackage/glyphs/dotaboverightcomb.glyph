@@ -1,5 +1,4 @@
 {
-color = 0;
 glyphname = dotaboverightcomb;
 layers = (
 {
@@ -216,7 +215,7 @@ width = 932;
 anchors = (
 {
 name = _top;
-pos = (113,1110);
+pos = (113,1005);
 },
 {
 name = top;
@@ -251,7 +250,7 @@ width = 693;
 anchors = (
 {
 name = _top;
-pos = (192,1110);
+pos = (113,1005);
 },
 {
 name = top;
@@ -286,7 +285,7 @@ width = 975;
 anchors = (
 {
 name = _top;
-pos = (113,1110);
+pos = (113,1005);
 },
 {
 name = top;
@@ -321,7 +320,7 @@ width = 702;
 anchors = (
 {
 name = _top;
-pos = (187,1110);
+pos = (113,1005);
 },
 {
 name = top;
@@ -356,7 +355,7 @@ width = 893;
 anchors = (
 {
 name = _top;
-pos = (113,1110);
+pos = (113,1005);
 },
 {
 name = top;
@@ -391,7 +390,7 @@ width = 639;
 anchors = (
 {
 name = _top;
-pos = (200,1110);
+pos = (113,1005);
 },
 {
 name = top;

@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "dje-cy";
 kernLeft = h;
 kernRight = j;
@@ -172,7 +171,7 @@ nodes = (
 (514,-469,l),
 (532,-476,o),
 (580,-485,o),
-(640,-485,c)
+(640,-485,cs)
 );
 },
 {
@@ -742,6 +741,5 @@ width = 1403;
 );
 metricLeft = h;
 metricRight = eng;
-subCategory = Lowercase;
 unicode = 1106;
 }

@@ -6,17 +6,17 @@ layers = (
 layerId = UUID0;
 shapes = (
 {
-pos = (170,-1770);
+pos = (0,-1770);
 ref = caroncomb;
 }
 );
-width = 1052;
+width = 992;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
 shapes = (
 {
-pos = (170,-1770);
+pos = (0,-1770);
 ref = caroncomb;
 }
 );
@@ -26,7 +26,7 @@ width = 1157;
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
 shapes = (
 {
-pos = (144,-1608);
+pos = (0,-1608);
 ref = caroncomb;
 }
 );
@@ -36,7 +36,7 @@ width = 866;
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
 shapes = (
 {
-pos = (144,-1608);
+pos = (0,-1608);
 ref = caroncomb;
 }
 );
@@ -46,37 +46,37 @@ width = 1018;
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
 shapes = (
 {
-pos = (100,-1770);
+pos = (0,-1770);
 ref = caroncomb;
 }
 );
-width = 852;
+width = 832;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
 shapes = (
 {
-pos = (175,-1770);
+pos = (0,-1770);
 ref = caroncomb;
 }
 );
-width = 1112;
+width = 1147;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
 shapes = (
 {
-pos = (130,-1608);
+pos = (0,-1608);
 ref = caroncomb;
 }
 );
-width = 778;
+width = 818;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
 shapes = (
 {
-pos = (131,-1608);
+pos = (0,-1608);
 ref = caroncomb;
 }
 );
@@ -86,27 +86,27 @@ width = 912;
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
 shapes = (
 {
-pos = (100,-1770);
+pos = (0,-1770);
 ref = caroncomb;
 }
 );
-width = 952;
+width = 872;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
 shapes = (
 {
-pos = (160,-1770);
+pos = (0,-1770);
 ref = caroncomb;
 }
 );
-width = 1182;
+width = 1157;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
 shapes = (
 {
-pos = (146,-1608);
+pos = (0,-1608);
 ref = caroncomb;
 }
 );
@@ -118,12 +118,12 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1126,680,l),
-(1067,740,l),
-(562,235,l),
-(260,537,l),
-(198,475,l),
-(559,113,l)
+(1032,680,l),
+(973,740,l),
+(468,235,l),
+(166,537,l),
+(104,475,l),
+(465,113,l)
 );
 }
 );
@@ -131,7 +131,7 @@ nodes = (
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
 shapes = (
 {
-pos = (94,-1608);
+pos = (0,-1608);
 ref = caroncomb;
 }
 );

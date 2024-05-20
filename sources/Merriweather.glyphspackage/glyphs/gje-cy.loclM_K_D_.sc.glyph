@@ -8,7 +8,7 @@ shapes = (
 ref = "ge-cy.sc";
 },
 {
-pos = (472,162);
+pos = (266,182);
 ref = acutecomb;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = "ge-cy.sc";
 },
 {
-pos = (473,160);
+pos = (297,180);
 ref = acutecomb;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = "ge-cy.sc";
 },
 {
-pos = (340,162);
+pos = (248,182);
 ref = acutecomb;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = "ge-cy.sc";
 },
 {
-pos = (376,160);
+pos = (198,180);
 ref = acutecomb;
 }
 );
@@ -60,7 +60,7 @@ shapes = (
 ref = "ge-cy.sc";
 },
 {
-pos = (453,162);
+pos = (328,182);
 ref = acutecomb;
 }
 );
@@ -73,7 +73,7 @@ shapes = (
 ref = "ge-cy.sc";
 },
 {
-pos = (476,160);
+pos = (312,180);
 ref = acutecomb;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = "ge-cy.sc";
 },
 {
-pos = (416,335);
+pos = (239,287);
 ref = acutecomb;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = "ge-cy.sc";
 },
 {
-pos = (434,335);
+pos = (318,287);
 ref = acutecomb;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = "ge-cy.sc";
 },
 {
-pos = (379,335);
+pos = (249,287);
 ref = acutecomb;
 }
 );
@@ -125,7 +125,7 @@ shapes = (
 ref = "ge-cy.sc";
 },
 {
-pos = (429,335);
+pos = (301,287);
 ref = acutecomb;
 }
 );
@@ -138,7 +138,7 @@ shapes = (
 ref = "ge-cy.sc";
 },
 {
-pos = (404,335);
+pos = (261,287);
 ref = acutecomb;
 }
 );
@@ -151,7 +151,7 @@ shapes = (
 ref = "ge-cy.sc";
 },
 {
-pos = (492,335);
+pos = (367,287);
 ref = acutecomb;
 }
 );

@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 5;
 glyphname = "izhitsadblgrave-cy";
 layers = (
 {
@@ -9,7 +9,7 @@ shapes = (
 ref = "izhitsa-cy";
 },
 {
-pos = (67,0);
+pos = (-42,0);
 ref = dblgravecomb;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = "izhitsa-cy";
 },
 {
-pos = (-3,0);
+pos = (-120,0);
 ref = dblgravecomb;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = "izhitsa-cy";
 },
 {
-pos = (29,0);
+pos = (-9,0);
 ref = dblgravecomb;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = "izhitsa-cy";
 },
 {
-pos = (26,0);
+pos = (-148,0);
 ref = dblgravecomb;
 }
 );
@@ -61,7 +61,7 @@ shapes = (
 ref = "izhitsa-cy";
 },
 {
-pos = (51,0);
+pos = (-7,0);
 ref = dblgravecomb;
 }
 );
@@ -74,11 +74,11 @@ shapes = (
 ref = "izhitsa-cy";
 },
 {
-pos = (-8,0);
+pos = (-129,0);
 ref = dblgravecomb;
 }
 );
-width = 1211;
+width = 1221;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -87,7 +87,7 @@ shapes = (
 ref = "izhitsa-cy";
 },
 {
-pos = (38,0);
+pos = (-57,0);
 ref = dblgravecomb;
 }
 );
@@ -100,7 +100,7 @@ shapes = (
 ref = "izhitsa-cy";
 },
 {
-pos = (53,0);
+pos = (-76,0);
 ref = dblgravecomb;
 }
 );
@@ -113,7 +113,7 @@ shapes = (
 ref = "izhitsa-cy";
 },
 {
-pos = (69,0);
+pos = (-101,0);
 ref = dblgravecomb;
 }
 );
@@ -126,7 +126,7 @@ shapes = (
 ref = "izhitsa-cy";
 },
 {
-pos = (67,0);
+pos = (-157,0);
 ref = dblgravecomb;
 }
 );
@@ -139,7 +139,7 @@ shapes = (
 ref = "izhitsa-cy";
 },
 {
-pos = (-50,0);
+pos = (-71,0);
 ref = dblgravecomb;
 }
 );
@@ -152,7 +152,7 @@ shapes = (
 ref = "izhitsa-cy";
 },
 {
-pos = (-34,0);
+pos = (-88,0);
 ref = dblgravecomb;
 }
 );

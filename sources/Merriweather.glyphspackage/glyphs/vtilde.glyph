@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 5;
 glyphname = vtilde;
 layers = (
 {
@@ -74,11 +74,11 @@ shapes = (
 ref = v;
 },
 {
-pos = (152,0);
+pos = (184,0);
 ref = tildecomb;
 }
 );
-width = 1191;
+width = 1211;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";

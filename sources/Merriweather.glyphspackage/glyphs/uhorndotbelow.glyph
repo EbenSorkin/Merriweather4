@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = uhorndotbelow;
 kernLeft = u;
 kernRight = uhorn;
@@ -164,6 +163,5 @@ ref = dotbelowcomb;
 width = 1318;
 }
 );
-subCategory = Lowercase;
 unicode = 7921;
 }

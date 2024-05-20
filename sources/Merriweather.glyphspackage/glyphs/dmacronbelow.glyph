@@ -62,7 +62,7 @@ shapes = (
 ref = d;
 },
 {
-pos = (973,0);
+pos = (1003,0);
 ref = macronbelowcomb;
 }
 );

@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 5;
 glyphname = mdotbelow;
 kernLeft = n;
 kernRight = n;
@@ -11,7 +11,7 @@ shapes = (
 ref = m;
 },
 {
-pos = (852,0);
+pos = (872,0);
 ref = dotbelowcomb;
 }
 );
@@ -24,7 +24,7 @@ shapes = (
 ref = m;
 },
 {
-pos = (811,0);
+pos = (837,0);
 ref = dotbelowcomb;
 }
 );
@@ -37,11 +37,11 @@ shapes = (
 ref = m;
 },
 {
-pos = (715,0);
+pos = (733,0);
 ref = dotbelowcomb;
 }
 );
-width = 1813;
+width = 1811;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -50,7 +50,7 @@ shapes = (
 ref = m;
 },
 {
-pos = (661,0);
+pos = (681,0);
 ref = dotbelowcomb;
 }
 );
@@ -67,7 +67,7 @@ pos = (727,0);
 ref = dotbelowcomb;
 }
 );
-width = 1711;
+width = 1691;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -115,11 +115,11 @@ shapes = (
 ref = m;
 },
 {
-pos = (779,0);
+pos = (787,0);
 ref = dotbelowcomb;
 }
 );
-width = 1957;
+width = 1955;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -128,7 +128,7 @@ shapes = (
 ref = m;
 },
 {
-pos = (748,0);
+pos = (762,0);
 ref = dotbelowcomb;
 }
 );
@@ -148,7 +148,7 @@ ref = dotbelowcomb;
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 2115;
+width = 2095;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -157,7 +157,7 @@ shapes = (
 ref = m;
 },
 {
-pos = (875,0);
+pos = (895,0);
 ref = dotbelowcomb;
 }
 );

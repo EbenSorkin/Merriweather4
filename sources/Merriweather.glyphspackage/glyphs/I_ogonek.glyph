@@ -7,7 +7,7 @@ layers = (
 guides = (
 {
 angle = 270;
-pos = (-960,213);
+pos = (-3937,213);
 }
 );
 layerId = UUID0;

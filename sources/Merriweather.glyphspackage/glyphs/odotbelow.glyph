@@ -1,5 +1,4 @@
 {
-category = Letter;
 color = 3;
 glyphname = odotbelow;
 kernLeft = o;
@@ -165,6 +164,5 @@ ref = dotbelowcomb;
 width = 1301;
 }
 );
-subCategory = Lowercase;
 unicode = 7885;
 }

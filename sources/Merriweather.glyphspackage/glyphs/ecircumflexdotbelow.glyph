@@ -1,5 +1,4 @@
 {
-category = Letter;
 color = 3;
 glyphname = ecircumflexdotbelow;
 kernLeft = o;
@@ -16,7 +15,7 @@ pos = (400,0);
 ref = dotbelowcomb;
 },
 {
-pos = (173,0);
+pos = (57,0);
 ref = circumflexcomb;
 }
 );
@@ -33,7 +32,7 @@ pos = (371,0);
 ref = dotbelowcomb;
 },
 {
-pos = (174,0);
+pos = (15,0);
 ref = circumflexcomb;
 }
 );
@@ -50,7 +49,7 @@ pos = (321,0);
 ref = dotbelowcomb;
 },
 {
-pos = (158,0);
+pos = (14,0);
 ref = circumflexcomb;
 }
 );
@@ -63,11 +62,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (316,0);
+pos = (286,0);
 ref = dotbelowcomb;
 },
 {
-pos = (127,0);
+pos = (-63,0);
 ref = circumflexcomb;
 }
 );
@@ -84,7 +83,7 @@ pos = (366,0);
 ref = dotbelowcomb;
 },
 {
-pos = (179,0);
+pos = (79,0);
 ref = circumflexcomb;
 }
 );
@@ -101,7 +100,7 @@ pos = (292,0);
 ref = dotbelowcomb;
 },
 {
-pos = (154,0);
+pos = (23,0);
 ref = circumflexcomb;
 }
 );
@@ -118,7 +117,7 @@ pos = (320,0);
 ref = dotbelowcomb;
 },
 {
-pos = (174,0);
+pos = (24,0);
 ref = circumflexcomb;
 }
 );
@@ -135,7 +134,7 @@ pos = (375,0);
 ref = dotbelowcomb;
 },
 {
-pos = (199,0);
+pos = (55,0);
 ref = circumflexcomb;
 }
 );
@@ -148,11 +147,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (339,0);
+pos = (379,0);
 ref = dotbelowcomb;
 },
 {
-pos = (154,0);
+pos = (110,0);
 ref = circumflexcomb;
 }
 );
@@ -165,11 +164,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (360,0);
+pos = (400,0);
 ref = dotbelowcomb;
 },
 {
-pos = (164,0);
+pos = (58,0);
 ref = circumflexcomb;
 }
 );
@@ -182,11 +181,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (421,0);
+pos = (459,0);
 ref = dotbelowcomb;
 },
 {
-pos = (174,0);
+pos = (155,0);
 ref = circumflexcomb;
 }
 );
@@ -202,17 +201,16 @@ shapes = (
 ref = e;
 },
 {
-pos = (379,0);
+pos = (409,0);
 ref = dotbelowcomb;
 },
 {
-pos = (150,0);
+pos = (52,0);
 ref = circumflexcomb;
 }
 );
 width = 1162;
 }
 );
-subCategory = Lowercase;
 unicode = 7879;
 }

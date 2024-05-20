@@ -107,14 +107,14 @@ width = 662;
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
 shapes = (
 {
-pos = (100,0);
+pos = (50,0);
 ref = cedillacomb;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 646;
+width = 596;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";

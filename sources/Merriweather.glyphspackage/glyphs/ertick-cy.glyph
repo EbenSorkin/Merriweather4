@@ -1,6 +1,5 @@
 {
-category = Letter;
-color = 0;
+color = 5;
 glyphname = "ertick-cy";
 kernLeft = p;
 kernRight = o;
@@ -34,11 +33,11 @@ shapes = (
 ref = p;
 },
 {
-pos = (1192,0);
+pos = (-47,-40);
 ref = ertick_part.;
 }
 );
-width = 2392;
+width = 1192;
 },
 {
 background = {
@@ -69,11 +68,11 @@ shapes = (
 ref = p;
 },
 {
-pos = (1301,0);
+pos = (3,-20);
 ref = ertick_part.;
 }
 );
-width = 2501;
+width = 1301;
 },
 {
 background = {
@@ -104,11 +103,11 @@ shapes = (
 ref = p;
 },
 {
-pos = (1155,0);
+pos = (-107,-59);
 ref = ertick_part.;
 }
 );
-width = 2355;
+width = 1155;
 },
 {
 background = {
@@ -139,11 +138,11 @@ shapes = (
 ref = p;
 },
 {
-pos = (1093,0);
+pos = (-157,-20);
 ref = ertick_part.;
 }
 );
-width = 2293;
+width = 1093;
 },
 {
 background = {
@@ -174,11 +173,11 @@ shapes = (
 ref = p;
 },
 {
-pos = (1066,0);
+pos = (-127,-40);
 ref = ertick_part.;
 }
 );
-width = 2266;
+width = 1066;
 },
 {
 background = {
@@ -209,11 +208,11 @@ shapes = (
 ref = p;
 },
 {
-pos = (1027,0);
+pos = (-201,-55);
 ref = ertick_part.;
 }
 );
-width = 2227;
+width = 1027;
 },
 {
 background = {
@@ -244,11 +243,11 @@ shapes = (
 ref = p;
 },
 {
-pos = (912,0);
+pos = (-216,-41);
 ref = ertick_part.;
 }
 );
-width = 2112;
+width = 912;
 },
 {
 background = {
@@ -279,11 +278,11 @@ shapes = (
 ref = p;
 },
 {
-pos = (1013,0);
+pos = (-168,-47);
 ref = ertick_part.;
 }
 );
-width = 2213;
+width = 1013;
 },
 {
 background = {
@@ -314,11 +313,11 @@ shapes = (
 ref = p;
 },
 {
-pos = (1214,0);
+pos = (-89,-70);
 ref = ertick_part.;
 }
 );
-width = 2414;
+width = 1214;
 },
 {
 background = {
@@ -349,11 +348,11 @@ shapes = (
 ref = p;
 },
 {
-pos = (1056,0);
+pos = (-128,-47);
 ref = ertick_part.;
 }
 );
-width = 2256;
+width = 1056;
 },
 {
 background = {
@@ -384,14 +383,14 @@ shapes = (
 ref = p;
 },
 {
-pos = (1258,0);
+pos = (-10,-32);
 ref = ertick_part.;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 2458;
+width = 1258;
 },
 {
 background = {
@@ -422,13 +421,12 @@ shapes = (
 ref = p;
 },
 {
-pos = (1354,0);
+pos = (37,-28);
 ref = ertick_part.;
 }
 );
-width = 2554;
+width = 1354;
 }
 );
-subCategory = Lowercase;
 unicode = 1167;
 }

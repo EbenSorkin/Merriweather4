@@ -10,7 +10,7 @@ shapes = (
 ref = "U-cy";
 },
 {
-pos = (328,0);
+pos = (224,0);
 ref = macroncomb.case;
 }
 );
@@ -23,7 +23,7 @@ shapes = (
 ref = "U-cy";
 },
 {
-pos = (327,0);
+pos = (198,0);
 ref = macroncomb.case;
 }
 );
@@ -36,11 +36,11 @@ shapes = (
 ref = "U-cy";
 },
 {
-pos = (403,0);
+pos = (164,0);
 ref = macroncomb.case;
 }
 );
-width = 1234;
+width = 1224;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -49,7 +49,7 @@ shapes = (
 ref = "U-cy";
 },
 {
-pos = (366,0);
+pos = (209,0);
 ref = macroncomb.case;
 }
 );
@@ -62,7 +62,7 @@ shapes = (
 ref = "U-cy";
 },
 {
-pos = (298,0);
+pos = (208,0);
 ref = macroncomb.case;
 }
 );
@@ -75,7 +75,7 @@ shapes = (
 ref = "U-cy";
 },
 {
-pos = (363,0);
+pos = (202,0);
 ref = macroncomb.case;
 }
 );
@@ -88,7 +88,7 @@ shapes = (
 ref = "U-cy";
 },
 {
-pos = (356,0);
+pos = (186,0);
 ref = macroncomb.case;
 }
 );
@@ -101,7 +101,7 @@ shapes = (
 ref = "U-cy";
 },
 {
-pos = (391,0);
+pos = (187,0);
 ref = macroncomb.case;
 }
 );
@@ -114,11 +114,11 @@ shapes = (
 ref = "U-cy";
 },
 {
-pos = (423,0);
+pos = (321,0);
 ref = macroncomb.case;
 }
 );
-width = 1308;
+width = 1348;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -127,7 +127,7 @@ shapes = (
 ref = "U-cy";
 },
 {
-pos = (385,0);
+pos = (170,0);
 ref = macroncomb.case;
 }
 );
@@ -140,7 +140,7 @@ shapes = (
 ref = "U-cy";
 },
 {
-pos = (388,0);
+pos = (308,0);
 ref = macroncomb.case;
 }
 );
@@ -156,7 +156,7 @@ shapes = (
 ref = "U-cy";
 },
 {
-pos = (380,0);
+pos = (195,0);
 ref = macroncomb.case;
 }
 );

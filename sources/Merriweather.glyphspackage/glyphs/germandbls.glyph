@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = germandbls;
 kernLeft = germandbls;
 kernRight = germandbls;
@@ -644,6 +643,5 @@ nodes = (
 width = 1302;
 }
 );
-subCategory = Lowercase;
 unicode = 223;
 }

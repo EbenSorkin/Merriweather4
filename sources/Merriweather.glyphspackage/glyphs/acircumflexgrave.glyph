@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = acircumflexgrave;
 kernLeft = a;
 kernRight = a;
@@ -11,7 +10,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (108,0);
+pos = (179,0);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -24,11 +23,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (114,0);
+pos = (206,0);
 ref = circumflexcomb_gravecomb;
 }
 );
-width = 1141;
+width = 1146;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -37,7 +36,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (131,0);
+pos = (146,0);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -50,7 +49,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (72,0);
+pos = (142,0);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -63,7 +62,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (82,0);
+pos = (134,0);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -76,7 +75,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (105,0);
+pos = (127,0);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -104,11 +103,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (169,0);
+pos = (189,0);
 ref = circumflexcomb_gravecomb;
 }
 );
-width = 888;
+width = 900;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -117,7 +116,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (154,0);
+pos = (184,0);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -130,7 +129,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (158,0);
+pos = (179,0);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -143,7 +142,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (125,0);
+pos = (202,0);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -159,13 +158,12 @@ shapes = (
 ref = a;
 },
 {
-pos = (95,0);
+pos = (199,0);
 ref = circumflexcomb_gravecomb;
 }
 );
 width = 1184;
 }
 );
-subCategory = Lowercase;
 unicode = 7847;
 }

@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = ocircumflexgrave.sc;
 kernLeft = o.sc;
 kernRight = o.sc;
@@ -10,11 +11,11 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (252,162);
+pos = (333,182);
 ref = circumflexcomb_gravecomb;
 }
 );
-width = 1324;
+width = 1344;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -23,7 +24,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (236,160);
+pos = (323,180);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -36,7 +37,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (313,355);
+pos = (328,287);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -49,7 +50,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (184,160);
+pos = (250,180);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -62,7 +63,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (205,162);
+pos = (257,182);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -75,7 +76,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (251,355);
+pos = (273,287);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -88,7 +89,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (324,355);
+pos = (324,287);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -101,7 +102,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (395,355);
+pos = (403,287);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -114,7 +115,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (299,355);
+pos = (329,287);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -127,7 +128,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (365,355);
+pos = (386,287);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -140,7 +141,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (243,162);
+pos = (330,182);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -156,7 +157,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (231,160);
+pos = (335,180);
 ref = circumflexcomb_gravecomb;
 }
 );

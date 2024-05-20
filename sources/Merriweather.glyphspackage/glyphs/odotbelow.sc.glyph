@@ -1,5 +1,5 @@
 {
-color = 10;
+color = 5;
 glyphname = odotbelow.sc;
 kernLeft = o.sc;
 kernRight = o.sc;
@@ -11,11 +11,11 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (533,0);
+pos = (543,0);
 ref = dotbelowcomb;
 }
 );
-width = 1324;
+width = 1344;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";

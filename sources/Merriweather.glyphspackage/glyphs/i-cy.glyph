@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "i-cy";
 kernLeft = i;
 kernRight = i;
@@ -116,6 +115,5 @@ ref = i;
 width = 712;
 }
 );
-subCategory = Lowercase;
 unicode = 1110;
 }

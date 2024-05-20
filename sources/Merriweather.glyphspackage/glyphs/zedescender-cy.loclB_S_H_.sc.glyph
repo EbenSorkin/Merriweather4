@@ -150,7 +150,7 @@ pos = (432,0);
 ref = cedillacomb;
 }
 );
-width = 1273;
+width = 1281;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -193,7 +193,7 @@ width = 96;
 };
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1123;
+width = 1125;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -206,7 +206,7 @@ pos = (363,0);
 ref = cedillacomb;
 }
 );
-width = 1218;
+width = 1233;
 }
 );
 metricLeft = "ze-cy.sc";

@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "de-cy";
 kernLeft = "de-cy";
 kernRight = "pe-cy";
@@ -591,6 +590,5 @@ width = 1376;
 }
 );
 metricRight = "=pe-cy+10";
-subCategory = Lowercase;
 unicode = 1076;
 }

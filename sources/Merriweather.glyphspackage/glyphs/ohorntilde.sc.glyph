@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = ohorntilde.sc;
 kernLeft = o.sc;
 kernRight = o.sc;
@@ -10,11 +11,11 @@ shapes = (
 ref = ohorn.sc;
 },
 {
-pos = (294,162);
+pos = (304,182);
 ref = tildecomb;
 }
 );
-width = 1324;
+width = 1344;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -23,7 +24,7 @@ shapes = (
 ref = ohorn.sc;
 },
 {
-pos = (296,160);
+pos = (296,180);
 ref = tildecomb;
 }
 );
@@ -36,7 +37,7 @@ shapes = (
 ref = ohorn.sc;
 },
 {
-pos = (334,355);
+pos = (334,287);
 ref = tildecomb;
 }
 );
@@ -49,7 +50,7 @@ shapes = (
 ref = ohorn.sc;
 },
 {
-pos = (205,160);
+pos = (201,180);
 ref = tildecomb;
 }
 );
@@ -62,7 +63,7 @@ shapes = (
 ref = ohorn.sc;
 },
 {
-pos = (231,162);
+pos = (231,182);
 ref = tildecomb;
 }
 );
@@ -75,7 +76,7 @@ shapes = (
 ref = ohorn.sc;
 },
 {
-pos = (282,355);
+pos = (282,287);
 ref = tildecomb;
 }
 );
@@ -88,7 +89,7 @@ shapes = (
 ref = ohorn.sc;
 },
 {
-pos = (319,355);
+pos = (319,287);
 ref = tildecomb;
 }
 );
@@ -101,7 +102,7 @@ shapes = (
 ref = ohorn.sc;
 },
 {
-pos = (400,355);
+pos = (400,287);
 ref = tildecomb;
 }
 );
@@ -114,7 +115,7 @@ shapes = (
 ref = ohorn.sc;
 },
 {
-pos = (330,355);
+pos = (330,287);
 ref = tildecomb;
 }
 );
@@ -127,7 +128,7 @@ shapes = (
 ref = ohorn.sc;
 },
 {
-pos = (381,355);
+pos = (381,287);
 ref = tildecomb;
 }
 );
@@ -140,7 +141,7 @@ shapes = (
 ref = ohorn.sc;
 },
 {
-pos = (301,162);
+pos = (301,182);
 ref = tildecomb;
 }
 );
@@ -156,7 +157,7 @@ shapes = (
 ref = ohorn.sc;
 },
 {
-pos = (284,160);
+pos = (306,180);
 ref = tildecomb;
 }
 );

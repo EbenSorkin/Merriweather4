@@ -9,7 +9,7 @@ shapes = (
 ref = D;
 },
 {
-pos = (8,12);
+pos = (18,12);
 ref = shortbar_part.;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = D;
 },
 {
-pos = (5,12);
+pos = (15,7);
 ref = shortbar_part.;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = D;
 },
 {
-pos = (-2,16);
+pos = (-2,18);
 ref = shortbar_part.;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = D;
 },
 {
-pos = (1,12);
+pos = (1,16);
 ref = shortbar_part.;
 }
 );
@@ -61,7 +61,7 @@ shapes = (
 ref = D;
 },
 {
-pos = (-12,12);
+pos = (-12,14);
 ref = shortbar_part.;
 }
 );
@@ -113,7 +113,7 @@ shapes = (
 ref = D;
 },
 {
-pos = (1,12);
+pos = (1,14);
 ref = shortbar_part.;
 }
 );
@@ -126,7 +126,7 @@ shapes = (
 ref = D;
 },
 {
-pos = (2,12);
+pos = (2,19);
 ref = shortbar_part.;
 }
 );
@@ -139,7 +139,7 @@ shapes = (
 ref = D;
 },
 {
-pos = (1,12);
+pos = (1,11);
 ref = shortbar_part.;
 }
 );

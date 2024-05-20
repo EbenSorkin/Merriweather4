@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "eltail-cy";
 kernLeft = "el-cy";
 kernRight = "pe-cy";
@@ -54,7 +53,7 @@ pos = (691,0);
 ref = rtail_part;
 }
 );
-width = 1115;
+width = 1135;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -141,14 +140,14 @@ shapes = (
 ref = "el-cy";
 },
 {
-pos = (937,0);
+pos = (899,0);
 ref = rtail_part;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1255;
+width = 1217;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -164,6 +163,5 @@ ref = rtail_part;
 width = 1352;
 }
 );
-subCategory = Lowercase;
 unicode = 1222;
 }

@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = vtilde.sc;
 layers = (
 {
@@ -8,7 +9,7 @@ shapes = (
 ref = v.sc;
 },
 {
-pos = (288,162);
+pos = (286,182);
 ref = tildecomb;
 }
 );
@@ -21,7 +22,7 @@ shapes = (
 ref = v.sc;
 },
 {
-pos = (289,160);
+pos = (287,180);
 ref = tildecomb;
 }
 );
@@ -34,7 +35,7 @@ shapes = (
 ref = v.sc;
 },
 {
-pos = (258,162);
+pos = (255,182);
 ref = tildecomb;
 }
 );
@@ -47,7 +48,7 @@ shapes = (
 ref = v.sc;
 },
 {
-pos = (222,160);
+pos = (220,180);
 ref = tildecomb;
 }
 );
@@ -60,7 +61,7 @@ shapes = (
 ref = v.sc;
 },
 {
-pos = (288,162);
+pos = (296,182);
 ref = tildecomb;
 }
 );
@@ -73,7 +74,7 @@ shapes = (
 ref = v.sc;
 },
 {
-pos = (252,160);
+pos = (272,180);
 ref = tildecomb;
 }
 );
@@ -86,7 +87,7 @@ shapes = (
 ref = v.sc;
 },
 {
-pos = (343,355);
+pos = (367,287);
 ref = tildecomb;
 }
 );
@@ -99,7 +100,7 @@ shapes = (
 ref = v.sc;
 },
 {
-pos = (329,355);
+pos = (331,287);
 ref = tildecomb;
 }
 );
@@ -112,7 +113,7 @@ shapes = (
 ref = v.sc;
 },
 {
-pos = (366,355);
+pos = (374,287);
 ref = tildecomb;
 }
 );
@@ -125,7 +126,7 @@ shapes = (
 ref = v.sc;
 },
 {
-pos = (274,355);
+pos = (264,287);
 ref = tildecomb;
 }
 );
@@ -138,7 +139,7 @@ shapes = (
 ref = v.sc;
 },
 {
-pos = (366,355);
+pos = (368,287);
 ref = tildecomb;
 }
 );
@@ -151,7 +152,7 @@ shapes = (
 ref = v.sc;
 },
 {
-pos = (299,355);
+pos = (311,287);
 ref = tildecomb;
 }
 );

@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 5;
 glyphname = rstroke;
 layers = (
 {
@@ -55,7 +55,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (-54,-11);
+pos = (-62,-51);
 ref = strokecomb_part.;
 }
 );
@@ -68,7 +68,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (55,-16);
+pos = (45,-36);
 ref = strokecomb_part.;
 }
 );
@@ -81,7 +81,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (-114,-11);
+pos = (-114,-51);
 ref = strokecomb_part.;
 }
 );
@@ -94,7 +94,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (5,-16);
+pos = (5,-37);
 ref = strokecomb_part.;
 }
 );
@@ -107,7 +107,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (-84,-11);
+pos = (-84,-51);
 ref = strokecomb_part.;
 }
 );
@@ -120,7 +120,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (45,-16);
+pos = (24,-36);
 ref = strokecomb_part.;
 }
 );
@@ -133,7 +133,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (-22,-61);
+pos = (-24,-76);
 ref = strokecomb_part.;
 }
 );
@@ -146,7 +146,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (-24,-73);
+pos = (-37,-103);
 ref = strokecomb_part.;
 }
 );
@@ -159,7 +159,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (3,-64);
+pos = (-1,-84);
 ref = strokecomb_part.;
 }
 );
@@ -172,7 +172,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (33,-71);
+pos = (31,-101);
 ref = strokecomb_part.;
 }
 );
@@ -185,7 +185,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (-32,-61);
+pos = (-34,-81);
 ref = strokecomb_part.;
 }
 );
@@ -198,7 +198,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (-25,-72);
+pos = (-17,-102);
 ref = strokecomb_part.;
 }
 );

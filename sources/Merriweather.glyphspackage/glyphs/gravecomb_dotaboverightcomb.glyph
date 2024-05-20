@@ -1,4 +1,5 @@
 {
+color = 0;
 glyphname = gravecomb_dotaboverightcomb;
 layers = (
 {
@@ -18,11 +19,11 @@ shapes = (
 ref = gravecomb;
 },
 {
-pos = (105,628);
+pos = (385,628);
 ref = dotaboverightcomb;
 }
 );
-width = 466;
+width = 806;
 },
 {
 anchors = (
@@ -41,11 +42,11 @@ shapes = (
 ref = gravecomb;
 },
 {
-pos = (77,687);
+pos = (345,687);
 ref = dotaboverightcomb;
 }
 );
-width = 558;
+width = 898;
 },
 {
 anchors = (
@@ -64,11 +65,11 @@ shapes = (
 ref = gravecomb;
 },
 {
-pos = (79,628);
+pos = (273,628);
 ref = dotaboverightcomb;
 }
 );
-width = 416;
+width = 616;
 },
 {
 anchors = (
@@ -87,11 +88,11 @@ shapes = (
 ref = gravecomb;
 },
 {
-pos = (55,673);
+pos = (319,673);
 ref = dotaboverightcomb;
 }
 );
-width = 514;
+width = 864;
 },
 {
 anchors = (
@@ -110,11 +111,11 @@ shapes = (
 ref = gravecomb;
 },
 {
-pos = (124,628);
+pos = (338,628);
 ref = dotaboverightcomb;
 }
 );
-width = 506;
+width = 706;
 },
 {
 anchors = (
@@ -133,11 +134,11 @@ shapes = (
 ref = gravecomb;
 },
 {
-pos = (100,673);
+pos = (359,673);
 ref = dotaboverightcomb;
 }
 );
-width = 604;
+width = 904;
 },
 {
 anchors = (
@@ -156,11 +157,11 @@ shapes = (
 ref = gravecomb;
 },
 {
-pos = (80,467);
+pos = (337,572);
 ref = dotaboverightcomb;
 }
 );
-width = 385;
+width = 673;
 },
 {
 anchors = (
@@ -179,11 +180,11 @@ shapes = (
 ref = gravecomb;
 },
 {
-pos = (68,491);
+pos = (421,596);
 ref = dotaboverightcomb;
 }
 );
-width = 519;
+width = 787;
 },
 {
 anchors = (
@@ -202,11 +203,11 @@ shapes = (
 ref = gravecomb;
 },
 {
-pos = (60,467);
+pos = (281,572);
 ref = dotaboverightcomb;
 }
 );
-width = 345;
+width = 605;
 },
 {
 anchors = (
@@ -225,11 +226,11 @@ shapes = (
 ref = gravecomb;
 },
 {
-pos = (53,491);
+pos = (378,596);
 ref = dotaboverightcomb;
 }
 );
-width = 479;
+width = 741;
 },
 {
 anchors = (
@@ -248,11 +249,11 @@ shapes = (
 ref = gravecomb;
 },
 {
-pos = (102,467);
+pos = (368,572);
 ref = dotaboverightcomb;
 }
 );
-width = 430;
+width = 722;
 },
 {
 anchors = (
@@ -271,11 +272,11 @@ shapes = (
 ref = gravecomb;
 },
 {
-pos = (85,491);
+pos = (396,596);
 ref = dotaboverightcomb;
 }
 );
-width = 569;
+width = 737;
 }
 );
 }

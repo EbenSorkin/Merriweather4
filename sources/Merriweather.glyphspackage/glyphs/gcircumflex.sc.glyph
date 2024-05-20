@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = gcircumflex.sc;
 kernLeft = o.sc;
 kernRight = g.sc;
@@ -10,11 +11,11 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (390,162);
+pos = (267,182);
 ref = circumflexcomb;
 }
 );
-width = 1380;
+width = 1390;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -23,7 +24,7 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (360,160);
+pos = (188,180);
 ref = circumflexcomb;
 }
 );
@@ -36,7 +37,7 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (341,355);
+pos = (204,287);
 ref = circumflexcomb;
 }
 );
@@ -49,7 +50,7 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (296,160);
+pos = (109,180);
 ref = circumflexcomb;
 }
 );
@@ -62,7 +63,7 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (324,162);
+pos = (188,182);
 ref = circumflexcomb;
 }
 );
@@ -75,7 +76,7 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (302,355);
+pos = (164,287);
 ref = circumflexcomb;
 }
 );
@@ -88,7 +89,7 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (390,355);
+pos = (244,287);
 ref = circumflexcomb;
 }
 );
@@ -101,7 +102,7 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (437,355);
+pos = (300,287);
 ref = circumflexcomb;
 }
 );
@@ -114,7 +115,7 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (336,355);
+pos = (216,287);
 ref = circumflexcomb;
 }
 );
@@ -127,7 +128,7 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (437,355);
+pos = (275,287);
 ref = circumflexcomb;
 }
 );
@@ -140,7 +141,7 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (385,162);
+pos = (279,182);
 ref = circumflexcomb;
 }
 );
@@ -156,7 +157,7 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (338,160);
+pos = (150,180);
 ref = circumflexcomb;
 }
 );

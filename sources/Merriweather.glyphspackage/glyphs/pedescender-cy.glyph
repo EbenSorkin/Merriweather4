@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "pedescender-cy";
 kernLeft = "pe-cy";
 kernRight = "de-cy";
@@ -89,7 +88,7 @@ shapes = (
 ref = "pe-cy";
 },
 {
-pos = (725,1);
+pos = (746,1);
 ref = righttooth_part.;
 }
 );
@@ -165,6 +164,5 @@ width = 1439;
 }
 );
 metricLeft = "pe-cy";
-subCategory = Lowercase;
 unicode = 1317;
 }

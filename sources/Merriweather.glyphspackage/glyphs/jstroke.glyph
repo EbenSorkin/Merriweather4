@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 5;
 glyphname = jstroke;
 layers = (
 {
@@ -9,11 +9,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (183,0);
+pos = (13,0);
 ref = dotaccentcomb;
 },
 {
-pos = (-76,-53);
+pos = (-82,-3);
 ref = strokecomb_part.;
 }
 );
@@ -26,11 +26,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (151,0);
+pos = (-9,0);
 ref = dotaccentcomb;
 },
 {
-pos = (50,-38);
+pos = (48,12);
 ref = strokecomb_part.;
 }
 );
@@ -43,11 +43,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (128,0);
+pos = (28,0);
 ref = dotaccentcomb;
 },
 {
-pos = (-116,-53);
+pos = (-116,-3);
 ref = strokecomb_part.;
 }
 );
@@ -60,11 +60,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (104,0);
+pos = (-22,0);
 ref = dotaccentcomb;
 },
 {
-pos = (44,-38);
+pos = (23,11);
 ref = strokecomb_part.;
 }
 );
@@ -77,11 +77,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (183,0);
+pos = (83,0);
 ref = dotaccentcomb;
 },
 {
-pos = (-73,-53);
+pos = (-73,-3);
 ref = strokecomb_part.;
 }
 );
@@ -94,11 +94,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (154,0);
+pos = (1,0);
 ref = dotaccentcomb;
 },
 {
-pos = (54,-38);
+pos = (69,12);
 ref = strokecomb_part.;
 }
 );
@@ -111,11 +111,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (119,0);
+pos = (-21,0);
 ref = dotaccentcomb;
 },
 {
-pos = (-24,-43);
+pos = (-26,-70);
 ref = strokecomb_part.;
 }
 );
@@ -128,11 +128,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (98,0);
+pos = (-42,0);
 ref = dotaccentcomb;
 },
 {
-pos = (-50,-55);
+pos = (-45,-78);
 ref = strokecomb_part.;
 }
 );
@@ -145,11 +145,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (119,0);
+pos = (-5,0);
 ref = dotaccentcomb;
 },
 {
-pos = (-3,-46);
+pos = (-2,-76);
 ref = strokecomb_part.;
 }
 );
@@ -162,11 +162,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (68,0);
+pos = (-53,0);
 ref = dotaccentcomb;
 },
 {
-pos = (40,-53);
+pos = (39,-84);
 ref = strokecomb_part.;
 }
 );
@@ -179,11 +179,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (120,0);
+pos = (-22,0);
 ref = dotaccentcomb;
 },
 {
-pos = (-26,-43);
+pos = (-24,-70);
 ref = strokecomb_part.;
 }
 );
@@ -196,11 +196,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (95,0);
+pos = (14,0);
 ref = dotaccentcomb;
 },
 {
-pos = (-39,-54);
+pos = (-39,-77);
 ref = strokecomb_part.;
 }
 );

@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = Rdotbelowmacron;
 layers = (
 {
@@ -13,7 +12,7 @@ pos = (554,0);
 ref = dotbelowcomb.case;
 },
 {
-pos = (389,0);
+pos = (210,0);
 ref = macroncomb.case;
 }
 );
@@ -30,7 +29,7 @@ pos = (535,0);
 ref = dotbelowcomb.case;
 },
 {
-pos = (402,0);
+pos = (222,0);
 ref = macroncomb.case;
 }
 );
@@ -47,7 +46,7 @@ pos = (494,0);
 ref = dotbelowcomb.case;
 },
 {
-pos = (359,0);
+pos = (239,0);
 ref = macroncomb.case;
 }
 );
@@ -64,7 +63,7 @@ pos = (480,0);
 ref = dotbelowcomb.case;
 },
 {
-pos = (377,0);
+pos = (195,0);
 ref = macroncomb.case;
 }
 );
@@ -81,7 +80,7 @@ pos = (571,0);
 ref = dotbelowcomb.case;
 },
 {
-pos = (386,0);
+pos = (284,0);
 ref = macroncomb.case;
 }
 );
@@ -98,7 +97,7 @@ pos = (574,0);
 ref = dotbelowcomb.case;
 },
 {
-pos = (401,0);
+pos = (271,0);
 ref = macroncomb.case;
 }
 );
@@ -115,7 +114,7 @@ pos = (490,0);
 ref = dotbelowcomb.case;
 },
 {
-pos = (378,0);
+pos = (144,0);
 ref = macroncomb.case;
 }
 );
@@ -132,7 +131,7 @@ pos = (510,0);
 ref = dotbelowcomb.case;
 },
 {
-pos = (372,0);
+pos = (157,0);
 ref = macroncomb.case;
 }
 );
@@ -149,7 +148,7 @@ pos = (460,0);
 ref = dotbelowcomb.case;
 },
 {
-pos = (363,0);
+pos = (143,0);
 ref = macroncomb.case;
 }
 );
@@ -166,7 +165,7 @@ pos = (450,0);
 ref = dotbelowcomb.case;
 },
 {
-pos = (337,0);
+pos = (154,0);
 ref = macroncomb.case;
 }
 );
@@ -183,7 +182,7 @@ pos = (527,0);
 ref = dotbelowcomb.case;
 },
 {
-pos = (380,0);
+pos = (155,0);
 ref = macroncomb.case;
 }
 );
@@ -200,7 +199,7 @@ pos = (554,0);
 ref = dotbelowcomb.case;
 },
 {
-pos = (414,0);
+pos = (284,0);
 ref = macroncomb.case;
 }
 );

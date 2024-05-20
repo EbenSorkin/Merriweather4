@@ -1,5 +1,5 @@
 {
-category = Letter;
+color = 3;
 glyphname = "ka-cy.loclBGR";
 kernLeft = h;
 kernRight = "ka-cy";
@@ -118,5 +118,4 @@ width = 1267;
 );
 metricLeft = h;
 metricRight = k;
-subCategory = Lowercase;
 }

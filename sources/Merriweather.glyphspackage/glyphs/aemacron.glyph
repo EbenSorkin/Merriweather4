@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 5;
 glyphname = aemacron;
 layers = (
 {
@@ -9,7 +9,7 @@ shapes = (
 ref = ae;
 },
 {
-pos = (558,0);
+pos = (375,0);
 ref = macroncomb;
 }
 );
@@ -22,11 +22,11 @@ shapes = (
 ref = ae;
 },
 {
-pos = (539,1);
+pos = (389,1);
 ref = macroncomb;
 }
 );
-width = 1717;
+width = 1722;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -35,7 +35,7 @@ shapes = (
 ref = ae;
 },
 {
-pos = (521,0);
+pos = (421,0);
 ref = macroncomb;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = ae;
 },
 {
-pos = (487,2);
+pos = (312,2);
 ref = macroncomb;
 }
 );
@@ -61,7 +61,7 @@ shapes = (
 ref = ae;
 },
 {
-pos = (610,0);
+pos = (530,0);
 ref = macroncomb;
 }
 );
@@ -74,7 +74,7 @@ shapes = (
 ref = ae;
 },
 {
-pos = (576,0);
+pos = (460,0);
 ref = macroncomb;
 }
 );
@@ -87,11 +87,11 @@ shapes = (
 ref = ae;
 },
 {
-pos = (501,0);
+pos = (359,0);
 ref = macroncomb;
 }
 );
-width = 1442;
+width = 1454;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -100,7 +100,7 @@ shapes = (
 ref = ae;
 },
 {
-pos = (449,0);
+pos = (345,0);
 ref = macroncomb;
 }
 );
@@ -113,7 +113,7 @@ shapes = (
 ref = ae;
 },
 {
-pos = (462,0);
+pos = (322,0);
 ref = macroncomb;
 }
 );
@@ -126,7 +126,7 @@ shapes = (
 ref = ae;
 },
 {
-pos = (415,0);
+pos = (274,0);
 ref = macroncomb;
 }
 );
@@ -139,7 +139,7 @@ shapes = (
 ref = ae;
 },
 {
-pos = (531,0);
+pos = (358,0);
 ref = macroncomb;
 }
 );
@@ -152,7 +152,7 @@ shapes = (
 ref = ae;
 },
 {
-pos = (491,0);
+pos = (417,0);
 ref = macroncomb;
 }
 );

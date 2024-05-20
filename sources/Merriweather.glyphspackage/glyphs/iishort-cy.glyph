@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "iishort-cy";
 kernLeft = "pe-cy";
 kernRight = "pe-cy";
@@ -24,7 +23,7 @@ shapes = (
 ref = "ii-cy";
 },
 {
-pos = (283,0);
+pos = (285,0);
 ref = "brevecomb-cy";
 }
 );
@@ -37,7 +36,7 @@ shapes = (
 ref = "ii-cy";
 },
 {
-pos = (262,0);
+pos = (267,0);
 ref = "brevecomb-cy";
 }
 );
@@ -50,7 +49,7 @@ shapes = (
 ref = "ii-cy";
 },
 {
-pos = (195,1);
+pos = (195,0);
 ref = "brevecomb-cy";
 }
 );
@@ -76,7 +75,7 @@ shapes = (
 ref = "ii-cy";
 },
 {
-pos = (208,0);
+pos = (220,0);
 ref = "brevecomb-cy";
 }
 );
@@ -157,13 +156,12 @@ shapes = (
 ref = "ii-cy";
 },
 {
-pos = (309,1);
+pos = (311,0);
 ref = "brevecomb-cy";
 }
 );
 width = 1517;
 }
 );
-subCategory = Lowercase;
 unicode = 1081;
 }

@@ -100,7 +100,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-192,21);
+pos = (-183,21);
 ref = Ibar_part.;
 }
 );

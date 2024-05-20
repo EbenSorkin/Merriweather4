@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = ocircumflex;
 kernLeft = o;
 kernRight = o;
@@ -11,7 +10,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (202,0);
+pos = (52,0);
 ref = circumflexcomb;
 }
 );
@@ -24,7 +23,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (195,0);
+pos = (25,0);
 ref = circumflexcomb;
 }
 );
@@ -37,7 +36,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (190,0);
+pos = (46,0);
 ref = circumflexcomb;
 }
 );
@@ -50,7 +49,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (146,0);
+pos = (-47,0);
 ref = circumflexcomb;
 }
 );
@@ -63,7 +62,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (170,0);
+pos = (70,0);
 ref = circumflexcomb;
 }
 );
@@ -76,7 +75,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (159,0);
+pos = (28,0);
 ref = circumflexcomb;
 }
 );
@@ -89,7 +88,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (182,0);
+pos = (35,0);
 ref = circumflexcomb;
 }
 );
@@ -102,7 +101,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (204,0);
+pos = (60,0);
 ref = circumflexcomb;
 }
 );
@@ -115,7 +114,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (212,0);
+pos = (118,0);
 ref = circumflexcomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (219,0);
+pos = (73,0);
 ref = circumflexcomb;
 }
 );
@@ -141,7 +140,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (239,0);
+pos = (169,0);
 ref = circumflexcomb;
 }
 );
@@ -157,13 +156,12 @@ shapes = (
 ref = o;
 },
 {
-pos = (220,0);
+pos = (72,0);
 ref = circumflexcomb;
 }
 );
 width = 1301;
 }
 );
-subCategory = Lowercase;
 unicode = 244;
 }

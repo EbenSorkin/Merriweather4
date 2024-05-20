@@ -1,5 +1,5 @@
 {
-category = Letter;
+color = 5;
 glyphname = uhookabove;
 kernLeft = u;
 kernRight = u;
@@ -11,7 +11,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (432,0);
+pos = (412,0);
 ref = hookabovecomb;
 }
 );
@@ -24,7 +24,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (393,0);
+pos = (383,0);
 ref = hookabovecomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (342,0);
+pos = (322,0);
 ref = hookabovecomb;
 }
 );
@@ -63,7 +63,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (341,0);
+pos = (331,0);
 ref = hookabovecomb;
 }
 );
@@ -89,7 +89,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (345,0);
+pos = (335,0);
 ref = hookabovecomb;
 }
 );
@@ -102,7 +102,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (348,0);
+pos = (328,0);
 ref = hookabovecomb;
 }
 );
@@ -115,7 +115,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (357,0);
+pos = (350,0);
 ref = hookabovecomb;
 }
 );
@@ -128,7 +128,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (372,0);
+pos = (352,0);
 ref = hookabovecomb;
 }
 );
@@ -141,7 +141,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (386,0);
+pos = (366,0);
 ref = hookabovecomb;
 }
 );
@@ -157,13 +157,12 @@ shapes = (
 ref = u;
 },
 {
-pos = (383,0);
+pos = (363,0);
 ref = hookabovecomb;
 }
 );
 width = 1318;
 }
 );
-subCategory = Lowercase;
 unicode = 7911;
 }

@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = ucircumflexbelow.sc;
 layers = (
 {
@@ -60,7 +61,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (336,0);
+pos = (345,0);
 ref = circumflexbelowcomb;
 }
 );
@@ -125,7 +126,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (397,0);
+pos = (357,0);
 ref = circumflexbelowcomb;
 }
 );

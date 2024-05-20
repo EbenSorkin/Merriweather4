@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "haabkhasian-cy";
 kernLeft = o;
 kernRight = "haabkhasian-cy";
@@ -945,6 +944,5 @@ width = 1469;
 }
 );
 metricLeft = "o-cy";
-subCategory = Lowercase;
 unicode = 1193;
 }

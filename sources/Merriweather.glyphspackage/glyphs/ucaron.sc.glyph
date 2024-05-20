@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = ucaron.sc;
 kernLeft = u.sc;
 kernRight = u.sc;
@@ -10,7 +11,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (385,162);
+pos = (245,182);
 ref = caroncomb;
 }
 );
@@ -23,7 +24,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (380,160);
+pos = (210,180);
 ref = caroncomb;
 }
 );
@@ -36,7 +37,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (347,355);
+pos = (203,287);
 ref = caroncomb;
 }
 );
@@ -49,7 +50,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (315,160);
+pos = (122,180);
 ref = caroncomb;
 }
 );
@@ -62,7 +63,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (332,162);
+pos = (260,182);
 ref = caroncomb;
 }
 );
@@ -75,7 +76,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (346,355);
+pos = (215,287);
 ref = caroncomb;
 }
 );
@@ -88,7 +89,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (353,355);
+pos = (203,287);
 ref = caroncomb;
 }
 );
@@ -101,7 +102,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (373,355);
+pos = (229,287);
 ref = caroncomb;
 }
 );
@@ -114,7 +115,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (347,355);
+pos = (264,287);
 ref = caroncomb;
 }
 );
@@ -127,7 +128,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (432,287);
+pos = (285,287);
 ref = caroncomb;
 }
 );
@@ -140,7 +141,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (368,162);
+pos = (308,182);
 ref = caroncomb;
 }
 );
@@ -156,7 +157,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (358,160);
+pos = (210,180);
 ref = caroncomb;
 }
 );

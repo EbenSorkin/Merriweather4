@@ -278,7 +278,7 @@ pos = (394,0);
 ref = "brevecomb-cy.case";
 },
 {
-pos = (1050,0);
+pos = (1071,0);
 ref = righttooth_part.;
 }
 );
@@ -372,15 +372,15 @@ shapes = (
 ref = "Ii-cy";
 },
 {
-pos = (424,0);
+pos = (427,0);
 ref = "brevecomb-cy.case";
 },
 {
-pos = (1172,0);
+pos = (1175,0);
 ref = righttooth_part.;
 }
 );
-width = 1417;
+width = 1423;
 },
 {
 associatedMasterId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -487,15 +487,15 @@ shapes = (
 ref = "Ii-cy";
 },
 {
-pos = (451,0);
+pos = (455,0);
 ref = "brevecomb-cy.case";
 },
 {
-pos = (1250,0);
+pos = (1254,0);
 ref = righttooth_part.;
 }
 );
-width = 1501;
+width = 1509;
 },
 {
 associatedMasterId = "2103F1D3-C390-4F79-A87D-298F85EA6916";

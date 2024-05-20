@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = oogonekmacron;
 layers = (
 {
@@ -12,7 +13,7 @@ pos = (256,2);
 ref = ogonekcomb;
 },
 {
-pos = (287,0);
+pos = (97,0);
 ref = macroncomb;
 }
 );
@@ -29,7 +30,7 @@ pos = (280,2);
 ref = ogonekcomb;
 },
 {
-pos = (284,1);
+pos = (94,1);
 ref = macroncomb;
 }
 );
@@ -46,7 +47,7 @@ pos = (221,2);
 ref = ogonekcomb;
 },
 {
-pos = (250,0);
+pos = (150,0);
 ref = macroncomb;
 }
 );
@@ -63,7 +64,7 @@ pos = (240,2);
 ref = ogonekcomb;
 },
 {
-pos = (237,2);
+pos = (62,2);
 ref = macroncomb;
 }
 );
@@ -76,11 +77,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (336,2);
+pos = (346,9);
 ref = ogonekcomb;
 },
 {
-pos = (324,0);
+pos = (224,0);
 ref = macroncomb;
 }
 );
@@ -93,11 +94,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (330,2);
+pos = (281,1);
 ref = ogonekcomb;
 },
 {
-pos = (311,0);
+pos = (151,0);
 ref = macroncomb;
 }
 );
@@ -110,11 +111,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (250,-1);
+pos = (243,-1);
 ref = ogonekcomb;
 },
 {
-pos = (273,0);
+pos = (109,0);
 ref = macroncomb;
 }
 );
@@ -131,7 +132,7 @@ pos = (249,2);
 ref = ogonekcomb;
 },
 {
-pos = (245,0);
+pos = (101,0);
 ref = macroncomb;
 }
 );
@@ -144,11 +145,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (235,-1);
+pos = (225,-1);
 ref = ogonekcomb;
 },
 {
-pos = (241,0);
+pos = (94,0);
 ref = macroncomb;
 }
 );
@@ -161,11 +162,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (239,2);
+pos = (209,2);
 ref = ogonekcomb;
 },
 {
-pos = (204,0);
+pos = (33,0);
 ref = macroncomb;
 }
 );
@@ -178,11 +179,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (279,-1);
+pos = (279,3);
 ref = ogonekcomb;
 },
 {
-pos = (288,0);
+pos = (115,0);
 ref = macroncomb;
 }
 );
@@ -195,11 +196,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (309,2);
+pos = (309,4);
 ref = ogonekcomb;
 },
 {
-pos = (277,0);
+pos = (147,0);
 ref = macroncomb;
 }
 );

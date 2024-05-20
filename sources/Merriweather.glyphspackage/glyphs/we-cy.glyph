@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "we-cy";
 kernLeft = w;
 kernRight = w;
@@ -116,6 +115,5 @@ ref = w;
 width = 1777;
 }
 );
-subCategory = Lowercase;
 unicode = 1309;
 }

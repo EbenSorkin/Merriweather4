@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = uhungarumlaut.sc;
 kernLeft = u.sc;
 kernRight = u.sc;
@@ -10,7 +11,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (437,162);
+pos = (317,182);
 ref = hungarumlautcomb;
 }
 );
@@ -23,7 +24,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (298,160);
+pos = (278,180);
 ref = hungarumlautcomb;
 }
 );
@@ -36,7 +37,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (313,355);
+pos = (325,287);
 ref = hungarumlautcomb;
 }
 );
@@ -49,7 +50,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (254,160);
+pos = (213,180);
 ref = hungarumlautcomb;
 }
 );
@@ -62,7 +63,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (277,162);
+pos = (322,182);
 ref = hungarumlautcomb;
 }
 );
@@ -75,7 +76,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (302,355);
+pos = (297,287);
 ref = hungarumlautcomb;
 }
 );
@@ -88,7 +89,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (310,355);
+pos = (299,287);
 ref = hungarumlautcomb;
 }
 );
@@ -101,7 +102,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (324,355);
+pos = (283,287);
 ref = hungarumlautcomb;
 }
 );
@@ -114,7 +115,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (293,355);
+pos = (406,287);
 ref = hungarumlautcomb;
 }
 );
@@ -127,7 +128,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (362,287);
+pos = (360,287);
 ref = hungarumlautcomb;
 }
 );
@@ -140,7 +141,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (283,162);
+pos = (390,182);
 ref = hungarumlautcomb;
 }
 );
@@ -156,7 +157,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (262,160);
+pos = (288,180);
 ref = hungarumlautcomb;
 }
 );

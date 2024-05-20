@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "dze-cy";
 kernLeft = s;
 kernRight = s;
@@ -116,6 +115,5 @@ ref = s;
 width = 1073;
 }
 );
-subCategory = Lowercase;
 unicode = 1109;
 }

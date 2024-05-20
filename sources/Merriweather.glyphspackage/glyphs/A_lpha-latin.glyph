@@ -109,7 +109,7 @@ nodes = (
 );
 }
 );
-width = 1412;
+width = 1378;
 },
 {
 anchors = (
@@ -174,7 +174,7 @@ nodes = (
 );
 }
 );
-width = 1464;
+width = 1414;
 },
 {
 anchors = (
@@ -232,7 +232,7 @@ nodes = (
 );
 }
 );
-width = 1272;
+width = 1242;
 },
 {
 anchors = (
@@ -290,7 +290,7 @@ nodes = (
 );
 }
 );
-width = 1327;
+width = 1289;
 },
 {
 anchors = (
@@ -348,7 +348,7 @@ nodes = (
 );
 }
 );
-width = 1439;
+width = 1412;
 },
 {
 anchors = (
@@ -406,7 +406,7 @@ nodes = (
 );
 }
 );
-width = 1509;
+width = 1462;
 },
 {
 anchors = (
@@ -464,7 +464,7 @@ nodes = (
 );
 }
 );
-width = 1336;
+width = 1331;
 },
 {
 anchors = (
@@ -522,7 +522,7 @@ nodes = (
 );
 }
 );
-width = 1410;
+width = 1422;
 },
 {
 anchors = (
@@ -580,7 +580,7 @@ nodes = (
 );
 }
 );
-width = 1289;
+width = 1248;
 },
 {
 anchors = (
@@ -638,7 +638,7 @@ nodes = (
 );
 }
 );
-width = 1302;
+width = 1287;
 },
 {
 anchors = (
@@ -696,7 +696,7 @@ nodes = (
 );
 }
 );
-width = 1356;
+width = 1361;
 },
 {
 anchors = (
@@ -754,7 +754,7 @@ nodes = (
 );
 }
 );
-width = 1410;
+width = 1420;
 }
 );
 metricLeft = O;

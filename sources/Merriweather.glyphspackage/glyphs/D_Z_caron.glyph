@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = DZcaron;
 kernLeft = H;
 kernRight = Z;
@@ -157,7 +156,7 @@ shapes = (
 ref = DZ;
 },
 {
-pos = (1797,0);
+pos = (1825,0);
 ref = caroncomb.case;
 }
 );

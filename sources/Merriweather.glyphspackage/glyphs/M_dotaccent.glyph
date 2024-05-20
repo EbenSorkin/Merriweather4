@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = Mdotaccent;
 kernLeft = M;
 kernRight = M;
@@ -11,7 +10,7 @@ shapes = (
 ref = M;
 },
 {
-pos = (844,0);
+pos = (674,0);
 ref = dotaccentcomb.case;
 }
 );
@@ -24,7 +23,7 @@ shapes = (
 ref = M;
 },
 {
-pos = (832,0);
+pos = (662,0);
 ref = dotaccentcomb.case;
 }
 );
@@ -37,11 +36,11 @@ shapes = (
 ref = M;
 },
 {
-pos = (738,0);
+pos = (644,0);
 ref = dotaccentcomb.case;
 }
 );
-width = 1860;
+width = 1961;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -50,7 +49,7 @@ shapes = (
 ref = M;
 },
 {
-pos = (707,0);
+pos = (532,0);
 ref = dotaccentcomb.case;
 }
 );
@@ -63,11 +62,11 @@ shapes = (
 ref = M;
 },
 {
-pos = (761,0);
+pos = (661,0);
 ref = dotaccentcomb.case;
 }
 );
-width = 1780;
+width = 1760;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -76,11 +75,11 @@ shapes = (
 ref = M;
 },
 {
-pos = (631,0);
+pos = (505,0);
 ref = dotaccentcomb.case;
 }
 );
-width = 1635;
+width = 1645;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -89,7 +88,7 @@ shapes = (
 ref = M;
 },
 {
-pos = (671,0);
+pos = (541,0);
 ref = dotaccentcomb.case;
 }
 );
@@ -102,7 +101,7 @@ shapes = (
 ref = M;
 },
 {
-pos = (757,0);
+pos = (613,0);
 ref = dotaccentcomb.case;
 }
 );
@@ -115,7 +114,7 @@ shapes = (
 ref = M;
 },
 {
-pos = (786,0);
+pos = (692,0);
 ref = dotaccentcomb.case;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = M;
 },
 {
-pos = (811,0);
+pos = (665,0);
 ref = dotaccentcomb.case;
 }
 );
@@ -141,7 +140,7 @@ shapes = (
 ref = M;
 },
 {
-pos = (883,0);
+pos = (783,0);
 ref = dotaccentcomb.case;
 }
 );
@@ -157,7 +156,7 @@ shapes = (
 ref = M;
 },
 {
-pos = (853,0);
+pos = (693,0);
 ref = dotaccentcomb.case;
 }
 );

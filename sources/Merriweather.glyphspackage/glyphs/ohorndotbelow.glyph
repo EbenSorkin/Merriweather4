@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = ohorndotbelow;
 kernLeft = o;
 kernRight = ohorn;
@@ -164,6 +163,5 @@ ref = dotbelowcomb;
 width = 1301;
 }
 );
-subCategory = Lowercase;
 unicode = 7907;
 }

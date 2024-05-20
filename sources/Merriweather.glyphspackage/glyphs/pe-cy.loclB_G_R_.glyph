@@ -1,5 +1,5 @@
 {
-category = Letter;
+color = 3;
 glyphname = "pe-cy.loclBGR";
 kernLeft = n;
 kernRight = n;
@@ -47,7 +47,7 @@ shapes = (
 ref = n;
 }
 );
-width = 1093;
+width = 1073;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -104,7 +104,7 @@ ref = n;
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1329;
+width = 1309;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -118,5 +118,4 @@ width = 1426;
 );
 metricLeft = n;
 metricRight = n;
-subCategory = Lowercase;
 }

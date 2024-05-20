@@ -1,5 +1,5 @@
 {
-color = 10;
+color = 5;
 glyphname = ystroke.sc;
 layers = (
 {
@@ -58,11 +58,11 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (-32,173);
+pos = (-7,73);
 ref = capbar_part.;
 }
 );
-width = 1238;
+width = 1288;
 },
 {
 background = {
@@ -120,11 +120,11 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (-2,165);
+pos = (40,67);
 ref = capbar_part.;
 }
 );
-width = 1258;
+width = 1356;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -133,11 +133,11 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (-26,173);
+pos = (-21,73);
 ref = capbar_part.;
 }
 );
-width = 1238;
+width = 1240;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -146,7 +146,7 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (19,161);
+pos = (19,63);
 ref = capbar_part.;
 }
 );
@@ -159,11 +159,11 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (-22,173);
+pos = (53,93);
 ref = capbar_part.;
 }
 );
-width = 1238;
+width = 1372;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -172,11 +172,11 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (-40,161);
+pos = (45,63);
 ref = capbar_part.;
 }
 );
-width = 1258;
+width = 1434;
 },
 {
 background = {
@@ -234,11 +234,11 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (43,151);
+pos = (58,133);
 ref = capbar_part.;
 }
 );
-width = 1112;
+width = 1154;
 },
 {
 background = {
@@ -296,11 +296,11 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (6,206);
+pos = (50,139);
 ref = capbar_part.;
 }
 );
-width = 1271;
+width = 1323;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -309,11 +309,11 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (53,151);
+pos = (8,133);
 ref = capbar_part.;
 }
 );
-width = 1021;
+width = 1033;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -322,11 +322,11 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (17,206);
+pos = (13,142);
 ref = capbar_part.;
 }
 );
-width = 1160;
+width = 1233;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -335,11 +335,11 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (13,144);
+pos = (73,126);
 ref = capbar_part.;
 }
 );
-width = 1183;
+width = 1255;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -348,11 +348,11 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (-6,206);
+pos = (68,135);
 ref = capbar_part.;
 }
 );
-width = 1289;
+width = 1397;
 }
 );
 }

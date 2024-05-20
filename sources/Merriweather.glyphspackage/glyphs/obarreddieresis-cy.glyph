@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "obarreddieresis-cy";
 kernLeft = o;
 kernRight = o;
@@ -37,7 +36,7 @@ shapes = (
 ref = "obarred-cy";
 },
 {
-pos = (180,0);
+pos = (170,0);
 ref = dieresiscomb;
 }
 );
@@ -76,7 +75,7 @@ shapes = (
 ref = "obarred-cy";
 },
 {
-pos = (124,0);
+pos = (57,0);
 ref = dieresiscomb;
 }
 );
@@ -89,7 +88,7 @@ shapes = (
 ref = "obarred-cy";
 },
 {
-pos = (184,0);
+pos = (187,0);
 ref = dieresiscomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = "obarred-cy";
 },
 {
-pos = (246,0);
+pos = (247,0);
 ref = dieresiscomb;
 }
 );
@@ -164,6 +163,5 @@ ref = dieresiscomb;
 width = 1301;
 }
 );
-subCategory = Lowercase;
 unicode = 1259;
 }

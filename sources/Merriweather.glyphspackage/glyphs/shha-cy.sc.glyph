@@ -19,7 +19,7 @@ pos = (10,1292);
 },
 {
 name = topright;
-pos = (576.881,1292);
+pos = (577,1292);
 }
 );
 layerId = UUID0;
@@ -88,7 +88,7 @@ pos = (39,646);
 },
 {
 name = topright;
-pos = (651.477,646);
+pos = (651,646);
 }
 );
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -149,7 +149,7 @@ pos = (-21,646);
 },
 {
 name = topright;
-pos = (654.19,646);
+pos = (654,646);
 }
 );
 annotations = (
@@ -222,7 +222,7 @@ pos = (35,646);
 },
 {
 name = topright;
-pos = (556.536,646);
+pos = (557,646);
 }
 );
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -283,7 +283,7 @@ pos = (29,1292);
 },
 {
 name = topright;
-pos = (490.982,1292);
+pos = (491,1292);
 }
 );
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -344,7 +344,7 @@ pos = (-2,646);
 },
 {
 name = topright;
-pos = (548.85,646);
+pos = (549,646);
 }
 );
 annotations = (
@@ -432,7 +432,7 @@ pos = (-17,1292);
 },
 {
 name = topright;
-pos = (471.541,1292);
+pos = (472,1292);
 }
 );
 annotations = (
@@ -578,7 +578,7 @@ pos = (-34,646);
 },
 {
 name = topright;
-pos = (705.277,646);
+pos = (705,646);
 }
 );
 annotations = (
@@ -671,7 +671,7 @@ pos = (-64,1292);
 },
 {
 name = topright;
-pos = (604.911,1292);
+pos = (605,1292);
 }
 );
 annotations = (
@@ -759,7 +759,7 @@ pos = (-48,1110);
 },
 {
 name = topright;
-pos = (614.857,1110);
+pos = (615,1110);
 }
 );
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -820,7 +820,7 @@ pos = (-9,646);
 },
 {
 name = topright;
-pos = (698.044,646);
+pos = (698,646);
 }
 );
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";

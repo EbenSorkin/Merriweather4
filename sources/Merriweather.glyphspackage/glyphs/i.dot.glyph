@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = i.dot;
 kernLeft = i;
 kernRight = i;
@@ -116,5 +115,4 @@ ref = i;
 width = 712;
 }
 );
-subCategory = Lowercase;
 }

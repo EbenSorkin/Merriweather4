@@ -1,5 +1,5 @@
 {
-category = Letter;
+color = 3;
 glyphname = "softsign-cy.loclBGR";
 kernLeft = "softsign-cy.loclBGR";
 kernRight = "softsign-cy";
@@ -585,5 +585,4 @@ width = 1209;
 }
 );
 metricRight = "softsign-cy";
-subCategory = Lowercase;
 }

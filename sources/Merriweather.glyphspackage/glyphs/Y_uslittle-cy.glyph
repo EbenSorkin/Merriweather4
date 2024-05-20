@@ -1,5 +1,5 @@
 {
-color = 10;
+color = 5;
 glyphname = "Yuslittle-cy";
 layers = (
 {
@@ -38,7 +38,7 @@ ref = A;
 },
 {
 alignment = -1;
-pos = (376,0);
+pos = (446,0);
 ref = Yuslittlecy_part.;
 }
 );
@@ -66,7 +66,7 @@ ref = A;
 },
 {
 alignment = -1;
-pos = (451,0);
+pos = (516,0);
 ref = Yuslittlecy_part.;
 }
 );
@@ -136,7 +136,7 @@ ref = A;
 },
 {
 alignment = -1;
-pos = (128,0);
+pos = (168,0);
 ref = Yuslittlecy_part.;
 }
 );
@@ -164,7 +164,7 @@ ref = A;
 },
 {
 alignment = -1;
-pos = (268,0);
+pos = (318,0);
 ref = Yuslittlecy_part.;
 }
 );

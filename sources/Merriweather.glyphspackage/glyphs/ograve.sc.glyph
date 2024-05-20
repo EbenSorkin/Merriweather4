@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = ograve.sc;
 kernLeft = o.sc;
 kernRight = o.sc;
@@ -10,11 +11,11 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (429,162);
+pos = (159,182);
 ref = gravecomb;
 }
 );
-width = 1324;
+width = 1344;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -23,7 +24,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (414,160);
+pos = (146,180);
 ref = gravecomb;
 }
 );
@@ -36,7 +37,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (417,355);
+pos = (143,287);
 ref = gravecomb;
 }
 );
@@ -49,7 +50,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (342,160);
+pos = (74,180);
 ref = gravecomb;
 }
 );
@@ -62,7 +63,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (361,162);
+pos = (167,182);
 ref = gravecomb;
 }
 );
@@ -75,7 +76,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (350,355);
+pos = (99,287);
 ref = gravecomb;
 }
 );
@@ -88,7 +89,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (382,355);
+pos = (161,287);
 ref = gravecomb;
 }
 );
@@ -101,7 +102,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (473,355);
+pos = (216,287);
 ref = gravecomb;
 }
 );
@@ -114,7 +115,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (408,355);
+pos = (184,287);
 ref = gravecomb;
 }
 );
@@ -127,7 +128,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (452,355);
+pos = (186,287);
 ref = gravecomb;
 }
 );
@@ -140,7 +141,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (436,162);
+pos = (222,182);
 ref = gravecomb;
 }
 );
@@ -156,7 +157,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (426,160);
+pos = (167,180);
 ref = gravecomb;
 }
 );

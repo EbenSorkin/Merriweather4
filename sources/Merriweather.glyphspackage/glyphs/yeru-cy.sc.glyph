@@ -29,7 +29,7 @@ weight = 2;
 width = 96;
 };
 };
-width = 1835;
+width = 1830;
 },
 {
 anchors = (
@@ -49,7 +49,7 @@ pos = (1226,0);
 ref = "i-cy.sc";
 }
 );
-width = 2032;
+width = 2029;
 },
 {
 anchors = (
@@ -106,7 +106,7 @@ pos = (1242,0);
 ref = "i-cy.sc";
 }
 );
-width = 1952;
+width = 2000;
 },
 {
 anchors = (
@@ -126,7 +126,7 @@ pos = (1061,0);
 ref = "i-cy.sc";
 }
 );
-width = 1783;
+width = 1807;
 },
 {
 anchors = (
@@ -146,7 +146,7 @@ pos = (928,0);
 ref = "i-cy.sc";
 }
 );
-width = 1562;
+width = 1563;
 },
 {
 anchors = (
@@ -198,7 +198,7 @@ pos = (1049,0);
 ref = "i-cy.sc";
 }
 );
-width = 1738;
+width = 1731;
 },
 {
 anchors = (
@@ -322,7 +322,7 @@ pos = (1064,0);
 ref = "i-cy.sc";
 }
 );
-width = 1572;
+width = 1583;
 },
 {
 anchors = (
@@ -451,7 +451,7 @@ pos = (1155,0);
 ref = "i-cy.sc";
 }
 );
-width = 1684;
+width = 1687;
 },
 {
 anchors = (
@@ -471,7 +471,7 @@ pos = (1175,0);
 ref = "i-cy.sc";
 }
 );
-width = 1870;
+width = 1865;
 },
 {
 anchors = (
@@ -491,7 +491,7 @@ pos = (1312,0);
 ref = "i-cy.sc";
 }
 );
-width = 2130;
+width = 2140;
 }
 );
 metricLeft = "pe-cy.sc";

@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = "kastroke-cy.sc";
 kernLeft = "pe-cy.sc";
 kernRight = "zhe-cy.sc";
@@ -7,17 +8,11 @@ layers = (
 layerId = UUID0;
 shapes = (
 {
-closed = 1;
-nodes = (
-(562,911,l),
-(562,1011,l),
-(72,1011,l),
-(72,911,l)
-);
+ref = "ka-cy.sc";
 },
 {
-pos = (4,0);
-ref = "ka-cy.sc";
+pos = (-65,388);
+ref = strokeshortcomb;
 }
 );
 userData = {
@@ -28,22 +23,17 @@ weight = 2;
 width = 96;
 };
 };
-width = 1312;
+width = 1308;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
 shapes = (
 {
-closed = 1;
-nodes = (
-(691,862,l),
-(691,1015,l),
-(73,1015,l),
-(73,862,l)
-);
+ref = "ka-cy.sc";
 },
 {
-ref = "ka-cy.sc";
+pos = (45,388);
+ref = strokeshortcomb;
 }
 );
 width = 1425;
@@ -84,16 +74,11 @@ width = 30;
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
 shapes = (
 {
-closed = 1;
-nodes = (
-(714,910,l),
-(714,987,l),
-(31,987,l),
-(31,910,l)
-);
+ref = "ka-cy.sc";
 },
 {
-ref = "ka-cy.sc";
+pos = (-10,388);
+ref = strokeshortcomb;
 }
 );
 width = 1398;
@@ -102,16 +87,11 @@ width = 1398;
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
 shapes = (
 {
-closed = 1;
-nodes = (
-(615,862,l),
-(615,1015,l),
-(74,1015,l),
-(74,862,l)
-);
+ref = "ka-cy.sc";
 },
 {
-ref = "ka-cy.sc";
+pos = (17,388);
+ref = strokeshortcomb;
 }
 );
 width = 1188;
@@ -120,16 +100,11 @@ width = 1188;
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
 shapes = (
 {
-closed = 1;
-nodes = (
-(482,911,l),
-(482,1011,l),
-(64,1011,l),
-(64,911,l)
-);
+ref = "ka-cy.sc";
 },
 {
-ref = "ka-cy.sc";
+pos = (-102,388);
+ref = strokeshortcomb;
 }
 );
 width = 1056;
@@ -162,7 +137,7 @@ type = Circle;
 width = 30;
 }
 );
-layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
+background = {
 shapes = (
 {
 closed = 1;
@@ -174,10 +149,54 @@ nodes = (
 );
 },
 {
-ref = "ka-cy.sc";
+closed = 1;
+nodes = (
+(640,0,l),
+(640,36,l),
+(499,63,l),
+(499,657,l),
+(572,657,ls),
+(689,657,o),
+(741,0,o),
+(857,0,c),
+(1243,0,l),
+(1243,36,l),
+(1199,51,ls),
+(1064,97,o),
+(1069,718,o),
+(731,718,c),
+(1014,1223,l),
+(1154,1261,l),
+(1154,1292,l),
+(757,1292,l),
+(757,1261,l),
+(905,1222,l),
+(669,720,l),
+(499,720,l),
+(499,1222,l),
+(600,1261,l),
+(600,1292,l),
+(34,1292,l),
+(34,1261,l),
+(162,1225,l),
+(162,63,l),
+(34,36,l),
+(34,0,l)
+);
 }
 );
-width = 1207;
+};
+layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
+shapes = (
+{
+ref = "ka-cy.sc";
+},
+{
+pos = (67,388);
+ref = strokeshortcomb;
+}
+);
+width = 1237;
 },
 {
 annotations = (
@@ -235,19 +254,14 @@ width = 30;
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
 shapes = (
 {
-closed = 1;
-nodes = (
-(495,910,l),
-(495,976,l),
-(47,976,l),
-(47,910,l)
-);
+ref = "ka-cy.sc";
 },
 {
-ref = "ka-cy.sc";
+pos = (10,388);
+ref = strokeshortcomb;
 }
 );
-width = 1064;
+width = 1074;
 },
 {
 annotations = (
@@ -285,16 +299,11 @@ width = 30;
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
 shapes = (
 {
-closed = 1;
-nodes = (
-(525,910,l),
-(525,976,l),
-(47,976,l),
-(47,910,l)
-);
+ref = "ka-cy.sc";
 },
 {
-ref = "ka-cy.sc";
+pos = (-1,388);
+ref = strokeshortcomb;
 }
 );
 width = 1205;
@@ -355,16 +364,11 @@ width = 30;
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
 shapes = (
 {
-closed = 1;
-nodes = (
-(754,920,l),
-(754,987,l),
-(41,987,l),
-(41,920,l)
-);
+ref = "ka-cy.sc";
 },
 {
-ref = "ka-cy.sc";
+pos = (2,388);
+ref = strokeshortcomb;
 }
 );
 width = 1477;
@@ -400,16 +404,11 @@ width = 30;
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
 shapes = (
 {
-closed = 1;
-nodes = (
-(555,910,l),
-(555,976,l),
-(47,976,l),
-(47,910,l)
-);
+ref = "ka-cy.sc";
 },
 {
-ref = "ka-cy.sc";
+pos = (-13,388);
+ref = strokeshortcomb;
 }
 );
 width = 1315;
@@ -418,38 +417,27 @@ width = 1315;
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
 shapes = (
 {
-closed = 1;
-nodes = (
-(564,911,l),
-(564,1011,l),
-(46,1011,l),
-(46,911,l)
-);
+ref = "ka-cy.sc";
 },
 {
-pos = (1,0);
-ref = "ka-cy.sc";
+pos = (-68,388);
+ref = strokeshortcomb;
 }
 );
-width = 1351;
+width = 1350;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
 shapes = (
 {
-closed = 1;
-nodes = (
-(713,862,l),
-(713,1015,l),
-(58,1015,l),
-(58,862,l)
-);
+ref = "ka-cy.sc";
 },
 {
-ref = "ka-cy.sc";
+pos = (65,388);
+ref = strokeshortcomb;
 }
 );
-width = 1550;
+width = 1570;
 }
 );
 metricLeft = "pe-cy.sc";

@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = ntilde;
 kernLeft = n;
 kernRight = n;
@@ -24,7 +23,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (279,-1);
+pos = (319,-1);
 ref = tildecomb;
 }
 );
@@ -37,7 +36,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (236,106);
+pos = (257,0);
 ref = tildecomb;
 }
 );
@@ -50,7 +49,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (187,-1);
+pos = (207,-1);
 ref = tildecomb;
 }
 );
@@ -63,11 +62,11 @@ shapes = (
 ref = n;
 },
 {
-pos = (182,0);
+pos = (202,0);
 ref = tildecomb;
 }
 );
-width = 1093;
+width = 1073;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -76,7 +75,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (199,106);
+pos = (221,0);
 ref = tildecomb;
 }
 );
@@ -89,7 +88,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (237,105);
+pos = (237,0);
 ref = tildecomb;
 }
 );
@@ -102,7 +101,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (293,105);
+pos = (261,0);
 ref = tildecomb;
 }
 );
@@ -115,7 +114,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (250,106);
+pos = (284,0);
 ref = tildecomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (324,105);
+pos = (271,0);
 ref = tildecomb;
 }
 );
@@ -141,14 +140,14 @@ shapes = (
 ref = n;
 },
 {
-pos = (266,0);
+pos = (270,0);
 ref = tildecomb;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1329;
+width = 1309;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -157,13 +156,12 @@ shapes = (
 ref = n;
 },
 {
-pos = (254,-1);
+pos = (313,-1);
 ref = tildecomb;
 }
 );
 width = 1426;
 }
 );
-subCategory = Lowercase;
 unicode = 241;
 }

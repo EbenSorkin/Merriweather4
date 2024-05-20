@@ -10,11 +10,11 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (351,160);
+pos = (-105,182);
 ref = "dieresis-cy";
 }
 );
-width = 699;
+width = 694;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -23,11 +23,11 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (399,160);
+pos = (-116,180);
 ref = "dieresis-cy";
 }
 );
-width = 806;
+width = 803;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -36,11 +36,11 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (356,248);
+pos = (-98,287);
 ref = "dieresis-cy";
 }
 );
-width = 710;
+width = 758;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -49,11 +49,11 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (362,160);
+pos = (-157,180);
 ref = "dieresis-cy";
 }
 );
-width = 722;
+width = 746;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -62,11 +62,11 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (317,160);
+pos = (-57,180);
 ref = "dieresis-cy";
 }
 );
-width = 634;
+width = 635;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -75,11 +75,11 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (345,248);
+pos = (-121,287);
 ref = "dieresis-cy";
 }
 );
-width = 689;
+width = 682;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -88,7 +88,7 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (244,248);
+pos = (-110,287);
 ref = "dieresis-cy";
 }
 );
@@ -101,11 +101,11 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (255,248);
+pos = (-117,287);
 ref = "dieresis-cy";
 }
 );
-width = 508;
+width = 519;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -114,7 +114,7 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (366,248);
+pos = (-59,287);
 ref = "dieresis-cy";
 }
 );
@@ -127,11 +127,11 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (264,248);
+pos = (-113,287);
 ref = "dieresis-cy";
 }
 );
-width = 529;
+width = 532;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -140,14 +140,14 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (348,160);
+pos = (-35,182);
 ref = "dieresis-cy";
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 695;
+width = 690;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -156,11 +156,11 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (409,160);
+pos = (-115,180);
 ref = "dieresis-cy";
 }
 );
-width = 818;
+width = 828;
 }
 );
 }

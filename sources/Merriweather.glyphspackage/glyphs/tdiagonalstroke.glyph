@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 5;
 glyphname = tdiagonalstroke;
 layers = (
 {
@@ -9,7 +9,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (-168,-7);
+pos = (-155,-3);
 ref = slashshortcomb;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (-39,1);
+pos = (-152,-7);
 ref = slashshortcomb;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (-67,-7);
+pos = (-96,-7);
 ref = slashshortcomb;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (-64,1);
+pos = (-150,1);
 ref = slashshortcomb;
 }
 );
@@ -61,7 +61,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (-157,-7);
+pos = (-80,-3);
 ref = slashshortcomb;
 }
 );
@@ -74,7 +74,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (-48,1);
+pos = (-129,1);
 ref = slashshortcomb;
 }
 );
@@ -87,7 +87,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (-213,-5);
+pos = (-173,-55);
 ref = slashshortcomb;
 }
 );
@@ -100,7 +100,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (-60,-4);
+pos = (-116,-55);
 ref = slashshortcomb;
 }
 );
@@ -113,7 +113,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (-20,-3);
+pos = (-136,-55);
 ref = slashshortcomb;
 }
 );
@@ -126,7 +126,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (-99,-4);
+pos = (-142,-55);
 ref = slashshortcomb;
 }
 );
@@ -139,7 +139,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (-192,-5);
+pos = (-216,-55);
 ref = slashshortcomb;
 }
 );
@@ -152,7 +152,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (-40,-4);
+pos = (-46,-55);
 ref = slashshortcomb;
 }
 );

@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = ocircumflexhookabove;
 kernLeft = o;
 kernRight = o;
@@ -24,7 +23,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (137,0);
+pos = (231,0);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -37,7 +36,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (152,0);
+pos = (211,0);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -50,7 +49,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (113,0);
+pos = (184,0);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -63,7 +62,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (100,0);
+pos = (187,0);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -76,7 +75,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (116,0);
+pos = (168,0);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -89,7 +88,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (183,0);
+pos = (213,0);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -102,7 +101,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (200,0);
+pos = (233,0);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -115,7 +114,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (164,0);
+pos = (232,0);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (205,0);
+pos = (248,0);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -141,7 +140,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (149,0);
+pos = (256,0);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -157,13 +156,12 @@ shapes = (
 ref = o;
 },
 {
-pos = (167,0);
+pos = (257,0);
 ref = circumflexcomb_hookabovecomb;
 }
 );
 width = 1301;
 }
 );
-subCategory = Lowercase;
 unicode = 7893;
 }

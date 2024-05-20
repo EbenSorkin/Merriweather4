@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 5;
 glyphname = ystroke;
 layers = (
 {
@@ -9,7 +9,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (-45,-203);
+pos = (-37,-203);
 ref = midbar_part.;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (27,-231);
+pos = (27,-200);
 ref = midbar_part.;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (-92,-200);
+pos = (-100,-200);
 ref = midbar_part.;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (-66,-230);
+pos = (-36,-203);
 ref = midbar_part.;
 }
 );
@@ -61,7 +61,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (13,-203);
+pos = (29,-203);
 ref = midbar_part.;
 }
 );
@@ -74,7 +74,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (-34,-230);
+pos = (-10,-204);
 ref = midbar_part.;
 }
 );
@@ -87,11 +87,11 @@ shapes = (
 ref = y;
 },
 {
-pos = (-5,-217);
+pos = (-5,-272);
 ref = midbar_part.;
 }
 );
-width = 912;
+width = 927;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -100,11 +100,11 @@ shapes = (
 ref = y;
 },
 {
-pos = (-48,-220);
+pos = (-20,-272);
 ref = midbar_part.;
 }
 );
-width = 993;
+width = 1071;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -113,7 +113,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (-54,-220);
+pos = (-51,-220);
 ref = midbar_part.;
 }
 );
@@ -126,7 +126,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (-100,-220);
+pos = (-100,-272);
 ref = midbar_part.;
 }
 );
@@ -139,7 +139,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (-13,-220);
+pos = (-4,-220);
 ref = midbar_part.;
 }
 );
@@ -152,7 +152,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (-26,-222);
+pos = (-26,-274);
 ref = midbar_part.;
 }
 );

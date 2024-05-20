@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = wcircumflex.sc;
 kernLeft = w.sc;
 kernRight = w.sc;
@@ -10,7 +11,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (620,162);
+pos = (470,182);
 ref = circumflexcomb;
 }
 );
@@ -23,7 +24,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (605,160);
+pos = (447,180);
 ref = circumflexcomb;
 }
 );
@@ -36,7 +37,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (672,358);
+pos = (557,287);
 ref = circumflexcomb;
 }
 );
@@ -49,7 +50,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (483,160);
+pos = (332,180);
 ref = circumflexcomb;
 }
 );
@@ -62,7 +63,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (528,162);
+pos = (430,182);
 ref = circumflexcomb;
 }
 );
@@ -75,7 +76,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (625,358);
+pos = (490,287);
 ref = circumflexcomb;
 }
 );
@@ -88,7 +89,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (578,337);
+pos = (427,287);
 ref = circumflexcomb;
 }
 );
@@ -101,7 +102,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (634,337);
+pos = (483,287);
 ref = circumflexcomb;
 }
 );
@@ -114,7 +115,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (625,358);
+pos = (597,287);
 ref = circumflexcomb;
 }
 );
@@ -127,7 +128,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (661,337);
+pos = (501,287);
 ref = circumflexcomb;
 }
 );
@@ -140,7 +141,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (646,162);
+pos = (570,182);
 ref = circumflexcomb;
 }
 );
@@ -156,7 +157,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (593,160);
+pos = (447,180);
 ref = circumflexcomb;
 }
 );

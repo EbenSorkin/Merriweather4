@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 5;
 glyphname = obarred;
 layers = (
 {
@@ -9,7 +9,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (-54,-212);
+pos = (-54,-208);
 ref = midbar_part.;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (13,-209);
+pos = (13,-206);
 ref = midbar_part.;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (-113,-209);
+pos = (-113,-205);
 ref = midbar_part.;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (-47,-208);
+pos = (-47,-204);
 ref = midbar_part.;
 }
 );
@@ -61,7 +61,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (11,-212);
+pos = (11,-209);
 ref = midbar_part.;
 }
 );
@@ -74,7 +74,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (19,-208);
+pos = (19,-203);
 ref = midbar_part.;
 }
 );
@@ -87,7 +87,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (23,-258);
+pos = (23,-253);
 ref = midbar_part.;
 }
 );
@@ -100,7 +100,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (0,-261);
+pos = (0,-257);
 ref = midbar_part.;
 }
 );
@@ -113,7 +113,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (-28,-261);
+pos = (-28,-256);
 ref = midbar_part.;
 }
 );
@@ -126,7 +126,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (-63,-261);
+pos = (-64,-257);
 ref = midbar_part.;
 }
 );
@@ -139,7 +139,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (20,-261);
+pos = (20,-256);
 ref = midbar_part.;
 }
 );
@@ -152,7 +152,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (44,-263);
+pos = (44,-259);
 ref = midbar_part.;
 }
 );

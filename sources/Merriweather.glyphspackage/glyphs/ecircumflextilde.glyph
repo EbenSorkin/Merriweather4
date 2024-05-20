@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = ecircumflextilde;
 kernLeft = o;
 kernRight = e;
@@ -11,7 +10,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (190,0);
+pos = (224,0);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -24,7 +23,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (195,0);
+pos = (206,0);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -50,7 +49,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (165,0);
+pos = (168,0);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -115,7 +114,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (174,0);
+pos = (224,0);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (193,0);
+pos = (233,0);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -141,7 +140,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (191,0);
+pos = (242,0);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -157,13 +156,12 @@ shapes = (
 ref = e;
 },
 {
-pos = (188,0);
+pos = (238,0);
 ref = circumflexcomb_tildecomb;
 }
 );
 width = 1162;
 }
 );
-subCategory = Lowercase;
 unicode = 7877;
 }

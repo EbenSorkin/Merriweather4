@@ -90,7 +90,7 @@ shapes = (
 ref = "Zhe-cy";
 },
 {
-pos = (1574,0);
+pos = (1595,0);
 ref = righttooth_part.;
 }
 );
@@ -129,11 +129,11 @@ shapes = (
 ref = "Zhe-cy";
 },
 {
-pos = (1757,0);
+pos = (1767,0);
 ref = righttooth_part.;
 }
 );
-width = 1942;
+width = 1962;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";

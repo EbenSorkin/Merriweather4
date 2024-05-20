@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 5;
 glyphname = Bstroke;
 layers = (
 {
@@ -88,7 +88,7 @@ shapes = (
 ref = B;
 },
 {
-pos = (308,-15);
+pos = (61,-347);
 ref = UCstrokecomb_part.;
 }
 );
@@ -101,7 +101,7 @@ shapes = (
 ref = B;
 },
 {
-pos = (309,-21);
+pos = (68,-338);
 ref = UCstrokecomb_part.;
 }
 );
@@ -193,7 +193,7 @@ shapes = (
 ref = B;
 },
 {
-pos = (253,-1);
+pos = (57,-332);
 ref = UCstrokecomb_part.;
 }
 );
@@ -285,7 +285,7 @@ shapes = (
 ref = B;
 },
 {
-pos = (210,-21);
+pos = (83,-341);
 ref = UCstrokecomb_part.;
 }
 );
@@ -377,7 +377,7 @@ shapes = (
 ref = B;
 },
 {
-pos = (342,-15);
+pos = (63,-347);
 ref = UCstrokecomb_part.;
 }
 );
@@ -469,7 +469,7 @@ shapes = (
 ref = B;
 },
 {
-pos = (346,-21);
+pos = (66,-337);
 ref = UCstrokecomb_part.;
 }
 );
@@ -561,7 +561,7 @@ shapes = (
 ref = B;
 },
 {
-pos = (265,-21);
+pos = (8,-354);
 ref = UCstrokecomb_part.;
 }
 );
@@ -653,7 +653,7 @@ shapes = (
 ref = B;
 },
 {
-pos = (262,-14);
+pos = (8,-340);
 ref = UCstrokecomb_part.;
 }
 );
@@ -745,7 +745,7 @@ shapes = (
 ref = B;
 },
 {
-pos = (221,-21);
+pos = (-1,-354);
 ref = UCstrokecomb_part.;
 }
 );
@@ -837,7 +837,7 @@ shapes = (
 ref = B;
 },
 {
-pos = (194,-14);
+pos = (-92,-339);
 ref = UCstrokecomb_part.;
 }
 );
@@ -929,7 +929,7 @@ shapes = (
 ref = B;
 },
 {
-pos = (302,-21);
+pos = (-22,-354);
 ref = UCstrokecomb_part.;
 }
 );
@@ -1021,7 +1021,7 @@ shapes = (
 ref = B;
 },
 {
-pos = (310,-12);
+pos = (-11,-341);
 ref = UCstrokecomb_part.;
 }
 );

@@ -1,5 +1,4 @@
 {
-category = Letter;
 color = 4;
 glyphname = u;
 kernLeft = u;
@@ -13,7 +12,7 @@ pos = (622,0);
 },
 {
 name = center;
-pos = (604,557);
+pos = (604,560);
 },
 {
 name = ogonek;
@@ -21,7 +20,7 @@ pos = (1119,10);
 },
 {
 name = top;
-pos = (622,1110);
+pos = (602,1110);
 },
 {
 name = topright;
@@ -81,7 +80,7 @@ pos = (649,0);
 },
 {
 name = center;
-pos = (644,555);
+pos = (644,567);
 },
 {
 name = ogonek;
@@ -89,7 +88,7 @@ pos = (1168,10);
 },
 {
 name = top;
-pos = (649,1112);
+pos = (639,1112);
 },
 {
 name = topright;
@@ -149,7 +148,7 @@ pos = (566,0);
 },
 {
 name = center;
-pos = (559,506);
+pos = (559,487);
 },
 {
 name = ogonek;
@@ -217,7 +216,7 @@ pos = (568,0);
 },
 {
 name = center;
-pos = (499,506);
+pos = (536,564);
 },
 {
 name = ogonek;
@@ -225,7 +224,7 @@ pos = (1022,10);
 },
 {
 name = top;
-pos = (568,1112);
+pos = (548,1112);
 },
 {
 name = topright;
@@ -285,7 +284,7 @@ pos = (521,0);
 },
 {
 name = center;
-pos = (514,557);
+pos = (514,567);
 },
 {
 name = ogonek;
@@ -293,7 +292,7 @@ pos = (938,10);
 },
 {
 name = top;
-pos = (521,1110);
+pos = (511,1110);
 },
 {
 name = topright;
@@ -353,7 +352,7 @@ pos = (520,0);
 },
 {
 name = center;
-pos = (519,506);
+pos = (517,487);
 },
 {
 name = ogonek;
@@ -421,7 +420,7 @@ pos = (487,0);
 },
 {
 name = center;
-pos = (473,500);
+pos = (483,522);
 },
 {
 name = ogonek;
@@ -429,7 +428,7 @@ pos = (876,10);
 },
 {
 name = top;
-pos = (487,1005);
+pos = (477,1005);
 },
 {
 name = topright;
@@ -489,7 +488,7 @@ pos = (505,0);
 },
 {
 name = center;
-pos = (493,500);
+pos = (495,484);
 },
 {
 name = ogonek;
@@ -497,7 +496,7 @@ pos = (908,10);
 },
 {
 name = top;
-pos = (505,1005);
+pos = (485,1005);
 },
 {
 name = topright;
@@ -557,7 +556,7 @@ pos = (594,0);
 },
 {
 name = center;
-pos = (579,506);
+pos = (585,490);
 },
 {
 name = ogonek;
@@ -565,7 +564,7 @@ pos = (1069,10);
 },
 {
 name = top;
-pos = (594,1005);
+pos = (587,1005);
 },
 {
 name = topright;
@@ -631,7 +630,7 @@ pos = (544,0);
 },
 {
 name = center;
-pos = (533,500);
+pos = (533,520);
 },
 {
 name = ogonek;
@@ -639,7 +638,7 @@ pos = (978,10);
 },
 {
 name = top;
-pos = (544,1005);
+pos = (524,1005);
 },
 {
 name = topright;
@@ -699,7 +698,7 @@ pos = (616,0);
 },
 {
 name = center;
-pos = (594,557);
+pos = (594,559);
 },
 {
 name = ogonek;
@@ -707,7 +706,7 @@ pos = (1108,10);
 },
 {
 name = top;
-pos = (616,1110);
+pos = (596,1110);
 },
 {
 name = topright;
@@ -770,7 +769,7 @@ pos = (659,0);
 },
 {
 name = center;
-pos = (644,555);
+pos = (644,564);
 },
 {
 name = ogonek;
@@ -778,7 +777,7 @@ pos = (1186,10);
 },
 {
 name = top;
-pos = (659,1112);
+pos = (639,1112);
 },
 {
 name = topright;
@@ -831,6 +830,5 @@ nodes = (
 width = 1318;
 }
 );
-subCategory = Lowercase;
 unicode = 117;
 }

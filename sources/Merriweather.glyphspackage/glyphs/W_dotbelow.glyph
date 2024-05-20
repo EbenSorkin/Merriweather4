@@ -34,7 +34,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (783,0);
+pos = (789,0);
 ref = dotbelowcomb.case;
 }
 );

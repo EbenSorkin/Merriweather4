@@ -10,7 +10,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (320,162);
+pos = (315,182);
 ref = "brevecomb-cy";
 }
 );
@@ -23,7 +23,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (263,161);
+pos = (263,180);
 ref = "brevecomb-cy";
 }
 );
@@ -36,7 +36,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (231,250);
+pos = (231,287);
 ref = "brevecomb-cy";
 }
 );
@@ -49,7 +49,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (229,162);
+pos = (229,180);
 ref = "brevecomb-cy";
 }
 );
@@ -62,7 +62,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (295,162);
+pos = (295,182);
 ref = "brevecomb-cy";
 }
 );
@@ -75,7 +75,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (202,250);
+pos = (202,287);
 ref = "brevecomb-cy";
 }
 );
@@ -88,7 +88,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (281,250);
+pos = (281,287);
 ref = "brevecomb-cy";
 }
 );
@@ -101,7 +101,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (328,250);
+pos = (328,287);
 ref = "brevecomb-cy";
 }
 );
@@ -114,7 +114,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (217,250);
+pos = (205,287);
 ref = "brevecomb-cy";
 }
 );
@@ -127,11 +127,11 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (349,250);
+pos = (355,287);
 ref = "brevecomb-cy";
 }
 );
-width = 1270;
+width = 1275;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -140,7 +140,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (326,162);
+pos = (320,182);
 ref = "brevecomb-cy";
 }
 );
@@ -156,7 +156,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (273,162);
+pos = (279,180);
 ref = "brevecomb-cy";
 }
 );

@@ -1,5 +1,4 @@
 {
-color = 2;
 glyphname = brevecomb_dotaboverightcomb;
 layers = (
 {
@@ -9,7 +8,7 @@ shapes = (
 ref = brevecomb;
 },
 {
-pos = (199,522);
+pos = (199,353);
 ref = dotaboverightcomb;
 }
 );
@@ -22,7 +21,7 @@ shapes = (
 ref = brevecomb;
 },
 {
-pos = (172,539);
+pos = (172,413);
 ref = dotaboverightcomb;
 }
 );
@@ -35,7 +34,7 @@ shapes = (
 ref = brevecomb;
 },
 {
-pos = (168,538);
+pos = (168,353);
 ref = dotaboverightcomb;
 }
 );
@@ -48,7 +47,7 @@ shapes = (
 ref = brevecomb;
 },
 {
-pos = (142,554);
+pos = (142,413);
 ref = dotaboverightcomb;
 }
 );
@@ -61,7 +60,7 @@ shapes = (
 ref = brevecomb;
 },
 {
-pos = (218,538);
+pos = (218,353);
 ref = dotaboverightcomb;
 }
 );
@@ -74,7 +73,7 @@ shapes = (
 ref = brevecomb;
 },
 {
-pos = (192,554);
+pos = (193,413);
 ref = dotaboverightcomb;
 }
 );
@@ -87,7 +86,7 @@ shapes = (
 ref = brevecomb;
 },
 {
-pos = (140,371);
+pos = (141,287);
 ref = dotaboverightcomb;
 }
 );
@@ -100,7 +99,7 @@ shapes = (
 ref = brevecomb;
 },
 {
-pos = (119,431);
+pos = (198,536);
 ref = dotaboverightcomb;
 }
 );
@@ -113,7 +112,7 @@ shapes = (
 ref = brevecomb;
 },
 {
-pos = (110,369);
+pos = (141,287);
 ref = dotaboverightcomb;
 }
 );
@@ -126,7 +125,7 @@ shapes = (
 ref = brevecomb;
 },
 {
-pos = (94,431);
+pos = (168,536);
 ref = dotaboverightcomb;
 }
 );
@@ -139,7 +138,7 @@ shapes = (
 ref = brevecomb;
 },
 {
-pos = (150,370);
+pos = (141,287);
 ref = dotaboverightcomb;
 }
 );
@@ -152,7 +151,7 @@ shapes = (
 ref = brevecomb;
 },
 {
-pos = (121,431);
+pos = (208,536);
 ref = dotaboverightcomb;
 }
 );

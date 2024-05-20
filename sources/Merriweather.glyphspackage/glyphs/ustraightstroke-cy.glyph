@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "ustraightstroke-cy";
 kernLeft = "ustraitstroke-cy";
 kernRight = "ustraitstroke-cy";
@@ -221,11 +220,10 @@ nodes = (
 ref = "ustraight-cy";
 }
 );
-width = 1191;
+width = 1211;
 }
 );
 metricLeft = v;
 metricRight = v;
-subCategory = Lowercase;
 unicode = 1201;
 }

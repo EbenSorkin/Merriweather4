@@ -96,7 +96,7 @@ shapes = (
 ref = "che-cy.sc";
 },
 {
-pos = (815,0);
+pos = (836,0);
 ref = righttooth_part.;
 }
 );

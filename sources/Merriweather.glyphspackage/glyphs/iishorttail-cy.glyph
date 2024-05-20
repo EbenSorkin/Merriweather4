@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "iishorttail-cy";
 kernLeft = "pe-cy";
 kernRight = "pe-cy";
@@ -89,7 +88,7 @@ shapes = (
 ref = "iishort-cy";
 },
 {
-pos = (767,0);
+pos = (788,0);
 ref = righttooth_part.;
 }
 );
@@ -164,6 +163,5 @@ ref = righttooth_part.;
 width = 1517;
 }
 );
-subCategory = Lowercase;
 unicode = 1163;
 }

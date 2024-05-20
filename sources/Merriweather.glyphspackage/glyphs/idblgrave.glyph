@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = idblgrave;
 kernLeft = i;
 kernRight = i;
@@ -11,7 +10,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-236,0);
+pos = (-345,0);
 ref = dblgravecomb;
 }
 );
@@ -24,7 +23,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-292,0);
+pos = (-423,0);
 ref = dblgravecomb;
 }
 );
@@ -37,7 +36,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-275,0);
+pos = (-388,0);
 ref = dblgravecomb;
 }
 );
@@ -50,7 +49,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-280,0);
+pos = (-455,0);
 ref = dblgravecomb;
 }
 );
@@ -63,7 +62,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-258,0);
+pos = (-306,0);
 ref = dblgravecomb;
 }
 );
@@ -76,7 +75,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-200,0);
+pos = (-374,0);
 ref = dblgravecomb;
 }
 );
@@ -89,7 +88,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-189,0);
+pos = (-311,0);
 ref = dblgravecomb;
 }
 );
@@ -102,7 +101,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-241,0);
+pos = (-318,0);
 ref = dblgravecomb;
 }
 );
@@ -115,7 +114,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-273,0);
+pos = (-373,0);
 ref = dblgravecomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-310,0);
+pos = (-357,0);
 ref = dblgravecomb;
 }
 );
@@ -141,7 +140,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-208,0);
+pos = (-311,0);
 ref = dblgravecomb;
 }
 );
@@ -157,13 +156,12 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-258,0);
+pos = (-422,0);
 ref = dblgravecomb;
 }
 );
 width = 712;
 }
 );
-subCategory = Lowercase;
 unicode = 521;
 }

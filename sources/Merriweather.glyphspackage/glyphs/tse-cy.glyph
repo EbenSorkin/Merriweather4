@@ -1,6 +1,5 @@
 {
-category = Letter;
-color = 0;
+color = 5;
 glyphname = "tse-cy";
 kernLeft = "pe-cy";
 kernRight = "pe-cy";
@@ -407,6 +406,5 @@ width = 1444;
 );
 metricLeft = "pe-cy";
 metricRight = "de-cy";
-subCategory = Lowercase;
 unicode = 1094;
 }

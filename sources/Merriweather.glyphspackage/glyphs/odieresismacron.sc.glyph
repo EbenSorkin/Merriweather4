@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = odieresismacron.sc;
 kernLeft = o.sc;
 kernRight = o.sc;
@@ -10,15 +11,11 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (322,162);
-ref = dieresiscomb;
-},
-{
-pos = (391,458);
-ref = macroncomb;
+pos = (332,182);
+ref = dieresiscomb_macroncomb;
 }
 );
-width = 1324;
+width = 1344;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -27,12 +24,8 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (281,160);
-ref = dieresiscomb;
-},
-{
-pos = (373,535);
-ref = macroncomb;
+pos = (281,180);
+ref = dieresiscomb_macroncomb;
 }
 );
 width = 1384;
@@ -44,12 +37,8 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (302,355);
-ref = dieresiscomb;
-},
-{
-pos = (367,856);
-ref = macroncomb;
+pos = (292,287);
+ref = dieresiscomb_macroncomb;
 }
 );
 width = 1354;
@@ -61,12 +50,8 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (204,160);
-ref = dieresiscomb;
-},
-{
-pos = (309,686);
-ref = macroncomb;
+pos = (200,180);
+ref = dieresiscomb_macroncomb;
 }
 );
 width = 1192;
@@ -78,12 +63,8 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (254,162);
-ref = dieresiscomb;
-},
-{
-pos = (323,618);
-ref = macroncomb;
+pos = (254,182);
+ref = dieresiscomb_macroncomb;
 }
 );
 width = 1138;
@@ -95,12 +76,8 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (230,355);
-ref = dieresiscomb;
-},
-{
-pos = (310,836);
-ref = macroncomb;
+pos = (163,287);
+ref = dieresiscomb_macroncomb;
 }
 );
 width = 1180;
@@ -112,12 +89,8 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (298,355);
-ref = dieresiscomb;
-},
-{
-pos = (355,663);
-ref = macroncomb;
+pos = (298,287);
+ref = dieresiscomb_macroncomb;
 }
 );
 width = 1109;
@@ -129,12 +102,8 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (394,355);
-ref = dieresiscomb;
-},
-{
-pos = (446,761);
-ref = macroncomb;
+pos = (394,287);
+ref = dieresiscomb_macroncomb;
 }
 );
 width = 1331;
@@ -146,12 +115,8 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (308,355);
-ref = dieresiscomb;
-},
-{
-pos = (373,835);
-ref = macroncomb;
+pos = (308,287);
+ref = dieresiscomb_macroncomb;
 }
 );
 width = 1386;
@@ -163,12 +128,8 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (385,355);
-ref = dieresiscomb;
-},
-{
-pos = (427,761);
-ref = macroncomb;
+pos = (386,287);
+ref = dieresiscomb_macroncomb;
 }
 );
 width = 1337;
@@ -180,12 +141,8 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (339,162);
-ref = dieresiscomb;
-},
-{
-pos = (398,588);
-ref = macroncomb;
+pos = (339,182);
+ref = dieresiscomb_macroncomb;
 }
 );
 userData = {
@@ -200,12 +157,8 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (308,160);
-ref = dieresiscomb;
-},
-{
-pos = (388,536);
-ref = macroncomb;
+pos = (308,180);
+ref = dieresiscomb_macroncomb;
 }
 );
 width = 1458;

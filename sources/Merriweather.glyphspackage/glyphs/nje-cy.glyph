@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "nje-cy";
 kernLeft = "pe-cy";
 kernRight = "softsign-cy";
@@ -814,6 +813,5 @@ width = 2019;
 );
 metricLeft = "pe-cy";
 metricRight = "softsign-cy";
-subCategory = Lowercase;
 unicode = 1114;
 }

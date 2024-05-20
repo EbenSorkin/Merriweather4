@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 5;
 glyphname = ldoublebar;
 layers = (
 {
@@ -31,11 +31,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (-185,485);
+pos = (-168,436);
 ref = topstrokecomb_part.;
 },
 {
-pos = (-186,84);
+pos = (-167,144);
 ref = btmstrokecomb_part.;
 }
 );
@@ -70,11 +70,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (-168,485);
+pos = (-161,436);
 ref = topstrokecomb_part.;
 },
 {
-pos = (-169,117);
+pos = (-160,130);
 ref = btmstrokecomb_part.;
 }
 );
@@ -87,11 +87,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (-100,485);
+pos = (-100,436);
 ref = topstrokecomb_part.;
 },
 {
-pos = (-100,87);
+pos = (-100,147);
 ref = btmstrokecomb_part.;
 }
 );
@@ -104,11 +104,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (-203,485);
+pos = (-215,436);
 ref = topstrokecomb_part.;
 },
 {
-pos = (-201,115);
+pos = (-214,128);
 ref = btmstrokecomb_part.;
 }
 );
@@ -121,11 +121,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (-97,485);
+pos = (-97,436);
 ref = topstrokecomb_part.;
 },
 {
-pos = (-97,85);
+pos = (-97,145);
 ref = btmstrokecomb_part.;
 }
 );
@@ -138,11 +138,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (-136,485);
+pos = (-141,436);
 ref = topstrokecomb_part.;
 },
 {
-pos = (-139,117);
+pos = (-140,130);
 ref = btmstrokecomb_part.;
 }
 );
@@ -177,11 +177,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (-132,522);
+pos = (-130,455);
 ref = topstrokecomb_part.;
 },
 {
-pos = (-134,85);
+pos = (-132,149);
 ref = btmstrokecomb_part.;
 }
 );
@@ -216,11 +216,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (-170,505);
+pos = (-174,408);
 ref = topstrokecomb_part.;
 },
 {
-pos = (-170,66);
+pos = (-175,177);
 ref = btmstrokecomb_part.;
 }
 );
@@ -233,11 +233,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (-135,514);
+pos = (-125,447);
 ref = topstrokecomb_part.;
 },
 {
-pos = (-140,68);
+pos = (-126,132);
 ref = btmstrokecomb_part.;
 }
 );
@@ -272,11 +272,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (-143,511);
+pos = (-150,414);
 ref = topstrokecomb_part.;
 },
 {
-pos = (-136,60);
+pos = (-151,172);
 ref = btmstrokecomb_part.;
 }
 );
@@ -289,11 +289,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (-137,522);
+pos = (-134,455);
 ref = topstrokecomb_part.;
 },
 {
-pos = (-139,72);
+pos = (-134,136);
 ref = btmstrokecomb_part.;
 }
 );
@@ -306,11 +306,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (-113,504);
+pos = (-125,407);
 ref = topstrokecomb_part.;
 },
 {
-pos = (-116,65);
+pos = (-129,177);
 ref = btmstrokecomb_part.;
 }
 );

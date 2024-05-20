@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = uogonek;
 kernLeft = u;
 kernRight = u;
@@ -164,6 +163,5 @@ ref = ogonekcomb;
 width = 1318;
 }
 );
-subCategory = Lowercase;
 unicode = 371;
 }

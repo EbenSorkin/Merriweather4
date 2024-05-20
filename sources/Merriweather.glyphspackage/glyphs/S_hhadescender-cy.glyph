@@ -88,7 +88,7 @@ shapes = (
 ref = "Shha-cy";
 },
 {
-pos = (844,0);
+pos = (865,0);
 ref = righttooth_part.;
 }
 );
@@ -101,11 +101,11 @@ shapes = (
 ref = "Shha-cy";
 },
 {
-pos = (998,0);
+pos = (1001,0);
 ref = righttooth_part.;
 }
 );
-width = 1251;
+width = 1254;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -127,11 +127,11 @@ shapes = (
 ref = "Shha-cy";
 },
 {
-pos = (1104,0);
+pos = (1108,0);
 ref = righttooth_part.;
 }
 );
-width = 1368;
+width = 1372;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";

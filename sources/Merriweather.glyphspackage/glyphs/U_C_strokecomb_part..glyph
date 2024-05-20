@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = _center;
-pos = (343,758);
+pos = (342,758);
 },
 {
 name = _stroke;
@@ -30,7 +30,7 @@ width = 684;
 anchors = (
 {
 name = _center;
-pos = (408,764);
+pos = (405,761);
 },
 {
 name = _stroke;
@@ -55,7 +55,7 @@ width = 810;
 anchors = (
 {
 name = _center;
-pos = (317,764);
+pos = (315,765);
 },
 {
 name = _stroke;
@@ -80,7 +80,7 @@ width = 631;
 anchors = (
 {
 name = _center;
-pos = (411,757);
+pos = (395,755);
 },
 {
 name = _stroke;
@@ -130,7 +130,7 @@ width = 820;
 anchors = (
 {
 name = _center;
-pos = (317,764);
+pos = (335,765);
 },
 {
 name = _stroke;
@@ -142,20 +142,20 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(20,796,l),
-(20,734,l),
-(671,734,l),
-(671,796,l)
+(20,795,l),
+(20,735,l),
+(651,735,l),
+(651,795,l)
 );
 }
 );
-width = 691;
+width = 671;
 },
 {
 anchors = (
 {
 name = _center;
-pos = (408,764);
+pos = (405,760);
 },
 {
 name = _stroke;
@@ -180,7 +180,7 @@ width = 810;
 anchors = (
 {
 name = _center;
-pos = (343,758);
+pos = (342,758);
 },
 {
 name = _stroke;
@@ -205,7 +205,7 @@ width = 684;
 anchors = (
 {
 name = _center;
-pos = (411,757);
+pos = (435,755);
 },
 {
 name = _stroke;
@@ -230,7 +230,7 @@ width = 870;
 anchors = (
 {
 name = _center;
-pos = (317,764);
+pos = (316,765);
 },
 {
 name = _stroke;
@@ -255,7 +255,7 @@ width = 631;
 anchors = (
 {
 name = _center;
-pos = (408,764);
+pos = (360,760);
 },
 {
 name = _stroke;
@@ -280,7 +280,7 @@ width = 720;
 anchors = (
 {
 name = _center;
-pos = (317,744);
+pos = (316,743);
 },
 {
 name = _stroke;

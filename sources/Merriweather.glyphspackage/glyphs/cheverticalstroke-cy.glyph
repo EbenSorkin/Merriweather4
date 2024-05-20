@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "cheverticalstroke-cy";
 kernLeft = "che-cy";
 kernRight = "pe-cy";
@@ -633,6 +632,5 @@ width = 1408;
 }
 );
 metricRight = "pe-cy";
-subCategory = Lowercase;
 unicode = 1209;
 }

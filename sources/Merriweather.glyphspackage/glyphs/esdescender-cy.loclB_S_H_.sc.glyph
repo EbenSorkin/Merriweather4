@@ -65,7 +65,7 @@ nodes = (
 ref = c.sc;
 }
 );
-width = 1269;
+width = 1246;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";

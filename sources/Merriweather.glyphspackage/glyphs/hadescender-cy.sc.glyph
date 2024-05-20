@@ -227,7 +227,7 @@ shapes = (
 ref = x.sc;
 },
 {
-pos = (861,0);
+pos = (882,0);
 ref = righttooth_part.;
 }
 );

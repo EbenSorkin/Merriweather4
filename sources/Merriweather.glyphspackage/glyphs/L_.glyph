@@ -8,7 +8,7 @@ layers = (
 anchors = (
 {
 name = belt;
-pos = (249,757);
+pos = (337,862);
 },
 {
 name = bottom;
@@ -16,7 +16,15 @@ pos = (613,0);
 },
 {
 name = center;
-pos = (613,743);
+pos = (375,744);
+},
+{
+name = center1;
+pos = (344,1061);
+},
+{
+name = center2;
+pos = (344,662);
 },
 {
 name = top;
@@ -55,7 +63,7 @@ width = 1225;
 anchors = (
 {
 name = belt;
-pos = (230,757);
+pos = (350,862);
 },
 {
 name = bottom;
@@ -63,7 +71,15 @@ pos = (645,0);
 },
 {
 name = center;
-pos = (645,743);
+pos = (461,740);
+},
+{
+name = center1;
+pos = (423,1061);
+},
+{
+name = center2;
+pos = (423,615);
 },
 {
 name = top;
@@ -81,7 +97,7 @@ closed = 1;
 nodes = (
 (1210,0,l),
 (1268,548,l),
-(1080,572,l),
+(1100,572,l),
 (949,176,l),
 (574,156,l),
 (574,1319,l),
@@ -102,7 +118,7 @@ width = 1289;
 anchors = (
 {
 name = belt;
-pos = (152,757);
+pos = (309,862);
 },
 {
 name = bottom;
@@ -110,7 +126,15 @@ pos = (601,0);
 },
 {
 name = center;
-pos = (601,743);
+pos = (354,743);
+},
+{
+name = center1;
+pos = (350,993);
+},
+{
+name = center2;
+pos = (349,694);
 },
 {
 name = top;
@@ -149,7 +173,7 @@ width = 1201;
 anchors = (
 {
 name = belt;
-pos = (200,757);
+pos = (320,862);
 },
 {
 name = bottom;
@@ -157,7 +181,15 @@ pos = (546,0);
 },
 {
 name = center;
-pos = (546,743);
+pos = (364,743);
+},
+{
+name = center1;
+pos = (373,1061);
+},
+{
+name = center2;
+pos = (373,615);
 },
 {
 name = top;
@@ -196,7 +228,7 @@ width = 1092;
 anchors = (
 {
 name = belt;
-pos = (230,757);
+pos = (314,862);
 },
 {
 name = bottom;
@@ -204,7 +236,15 @@ pos = (523,0);
 },
 {
 name = center;
-pos = (523,743);
+pos = (351,742);
+},
+{
+name = center1;
+pos = (314,1061);
+},
+{
+name = center2;
+pos = (314,662);
 },
 {
 name = top;
@@ -243,7 +283,7 @@ width = 1046;
 anchors = (
 {
 name = belt;
-pos = (151,757);
+pos = (319,862);
 },
 {
 name = bottom;
@@ -251,7 +291,15 @@ pos = (530,0);
 },
 {
 name = center;
-pos = (530,743);
+pos = (329,743);
+},
+{
+name = center1;
+pos = (334,1013);
+},
+{
+name = center2;
+pos = (333,694);
 },
 {
 name = top;
@@ -290,7 +338,7 @@ width = 1059;
 anchors = (
 {
 name = belt;
-pos = (176,757);
+pos = (250,862);
 },
 {
 name = bottom;
@@ -298,7 +346,15 @@ pos = (472,0);
 },
 {
 name = center;
-pos = (472,743);
+pos = (297,743);
+},
+{
+name = center1;
+pos = (249,1043);
+},
+{
+name = center2;
+pos = (249,666);
 },
 {
 name = top;
@@ -337,7 +393,7 @@ width = 944;
 anchors = (
 {
 name = belt;
-pos = (165,757);
+pos = (240,862);
 },
 {
 name = bottom;
@@ -345,7 +401,15 @@ pos = (525,0);
 },
 {
 name = center;
-pos = (525,743);
+pos = (291,744);
+},
+{
+name = center1;
+pos = (243,1043);
+},
+{
+name = center2;
+pos = (243,666);
 },
 {
 name = top;
@@ -361,10 +425,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(966,0,l),
-(1040,416,l),
-(969,432,l),
-(834,91,l),
+(1006,0,l),
+(1080,416,l),
+(1009,432,l),
+(874,91,l),
 (321,63,l),
 (322,1420,l),
 (482,1450,l),
@@ -378,13 +442,13 @@ nodes = (
 );
 }
 );
-width = 1050;
+width = 1090;
 },
 {
 anchors = (
 {
 name = belt;
-pos = (150,757);
+pos = (329,862);
 },
 {
 name = bottom;
@@ -392,7 +456,15 @@ pos = (642,0);
 },
 {
 name = center;
-pos = (642,743);
+pos = (359,743);
+},
+{
+name = center1;
+pos = (370,1013);
+},
+{
+name = center2;
+pos = (369,694);
 },
 {
 name = top;
@@ -431,7 +503,7 @@ width = 1283;
 anchors = (
 {
 name = belt;
-pos = (166,757);
+pos = (250,862);
 },
 {
 name = bottom;
@@ -439,7 +511,15 @@ pos = (586,0);
 },
 {
 name = center;
-pos = (586,743);
+pos = (279,742);
+},
+{
+name = center1;
+pos = (246,1043);
+},
+{
+name = center2;
+pos = (246,666);
 },
 {
 name = top;
@@ -478,7 +558,7 @@ width = 1171;
 anchors = (
 {
 name = belt;
-pos = (240,757);
+pos = (327,862);
 },
 {
 name = bottom;
@@ -486,7 +566,15 @@ pos = (630,0);
 },
 {
 name = center;
-pos = (630,743);
+pos = (375,742);
+},
+{
+name = center1;
+pos = (327,1061);
+},
+{
+name = center2;
+pos = (327,662);
 },
 {
 name = top;
@@ -505,7 +593,7 @@ nodes = (
 (1144,0,l),
 (1218,416,l),
 (1122,432,l),
-(1010,120,l),
+(1007,120,l),
 (405,104,l),
 (405,1378,l),
 (605,1400,l),
@@ -528,7 +616,7 @@ width = 1260;
 anchors = (
 {
 name = belt;
-pos = (230,757);
+pos = (350,862);
 },
 {
 name = bottom;
@@ -536,7 +624,15 @@ pos = (665,0);
 },
 {
 name = center;
-pos = (665,743);
+pos = (411,743);
+},
+{
+name = center1;
+pos = (423,1061);
+},
+{
+name = center2;
+pos = (423,615);
 },
 {
 name = top;

@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = tcedilla.sc;
 kernLeft = t.sc;
 kernRight = t.sc;
@@ -300,7 +301,7 @@ shapes = (
 ref = t.sc;
 },
 {
-pos = (472,0);
+pos = (478,0);
 ref = cedillacomb;
 }
 );

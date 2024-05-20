@@ -1,5 +1,4 @@
 {
-category = Letter;
 color = 4;
 glyphname = oe;
 kernLeft = o;
@@ -260,8 +259,8 @@ nodes = (
 (1301,986,o),
 (1313,888,o),
 (1313,689,cs),
-(1313,663,o),
-(1311,595,o),
+(1312,649,o),
+(1312,609,o),
 (1311,569,c),
 (1094,556,l)
 );
@@ -1067,6 +1066,5 @@ width = 1979;
 );
 metricLeft = o;
 metricRight = e;
-subCategory = Lowercase;
 unicode = 339;
 }

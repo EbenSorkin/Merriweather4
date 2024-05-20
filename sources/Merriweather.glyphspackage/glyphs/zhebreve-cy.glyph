@@ -1,5 +1,5 @@
 {
-category = Letter;
+color = 5;
 glyphname = "zhebreve-cy";
 kernLeft = "zhe-cy";
 kernRight = "zhe-cy";
@@ -24,7 +24,7 @@ shapes = (
 ref = "zhe-cy";
 },
 {
-pos = (533,1);
+pos = (533,0);
 ref = "brevecomb-cy";
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = "zhe-cy";
 },
 {
-pos = (444,2);
+pos = (444,0);
 ref = "brevecomb-cy";
 }
 );
@@ -76,7 +76,7 @@ shapes = (
 ref = "zhe-cy";
 },
 {
-pos = (432,2);
+pos = (432,0);
 ref = "brevecomb-cy";
 }
 );
@@ -89,7 +89,7 @@ shapes = (
 ref = "zhe-cy";
 },
 {
-pos = (423,0);
+pos = (421,0);
 ref = "brevecomb-cy";
 }
 );
@@ -115,7 +115,7 @@ shapes = (
 ref = "zhe-cy";
 },
 {
-pos = (521,2);
+pos = (521,0);
 ref = "brevecomb-cy";
 }
 );
@@ -157,13 +157,12 @@ shapes = (
 ref = "zhe-cy";
 },
 {
-pos = (624,2);
+pos = (624,0);
 ref = "brevecomb-cy";
 }
 );
 width = 2152;
 }
 );
-subCategory = Lowercase;
 unicode = 1218;
 }

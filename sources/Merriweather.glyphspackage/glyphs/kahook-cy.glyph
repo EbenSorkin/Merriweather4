@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "kahook-cy";
 kernLeft = "pe-cy";
 kernRight = "kahook-cy";
@@ -681,6 +680,5 @@ width = 1366;
 }
 );
 metricLeft = "pe-cy";
-subCategory = Lowercase;
 unicode = 1220;
 }

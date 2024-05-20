@@ -1,5 +1,4 @@
 {
-color = 4;
 glyphname = perispomenicomb.Por;
 layers = (
 {
@@ -90,7 +89,7 @@ shapes = (
 ref = tildecomb;
 }
 );
-width = 888;
+width = 843;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";

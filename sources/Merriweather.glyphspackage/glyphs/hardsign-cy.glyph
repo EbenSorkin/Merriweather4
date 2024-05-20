@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "hardsign-cy";
 kernLeft = "hardsign-cy";
 kernRight = "softsign-cy";
@@ -646,6 +645,5 @@ width = 1584;
 );
 metricLeft = "te-cy";
 metricRight = "softsign-cy";
-subCategory = Lowercase;
 unicode = 1098;
 }

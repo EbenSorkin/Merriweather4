@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = Mdotbelow;
 kernLeft = M;
 kernRight = M;
@@ -37,11 +36,11 @@ shapes = (
 ref = M;
 },
 {
-pos = (738,0);
+pos = (778,0);
 ref = dotbelowcomb.case;
 }
 );
-width = 1860;
+width = 1961;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -67,7 +66,7 @@ pos = (761,0);
 ref = dotbelowcomb.case;
 }
 );
-width = 1780;
+width = 1760;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -76,11 +75,11 @@ shapes = (
 ref = M;
 },
 {
-pos = (631,0);
+pos = (636,0);
 ref = dotbelowcomb.case;
 }
 );
-width = 1635;
+width = 1645;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";

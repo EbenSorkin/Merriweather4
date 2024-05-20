@@ -1,5 +1,4 @@
 {
-category = Letter;
 color = 3;
 glyphname = ldotbelow;
 kernLeft = l;
@@ -25,7 +24,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (132,0);
+pos = (133,0);
 ref = dotbelowcomb;
 }
 );
@@ -51,7 +50,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (85,0);
+pos = (87,0);
 ref = dotbelowcomb;
 }
 );
@@ -103,7 +102,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (108,0);
+pos = (121,0);
 ref = dotbelowcomb;
 }
 );
@@ -116,7 +115,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (94,0);
+pos = (96,0);
 ref = dotbelowcomb;
 }
 );
@@ -129,7 +128,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (105,0);
+pos = (122,0);
 ref = dotbelowcomb;
 }
 );
@@ -165,6 +164,5 @@ ref = dotbelowcomb;
 width = 700;
 }
 );
-subCategory = Lowercase;
 unicode = 7735;
 }

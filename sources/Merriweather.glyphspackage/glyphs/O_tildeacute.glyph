@@ -10,11 +10,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (331,0);
+pos = (229,0);
 ref = tildecomb.case;
 },
 {
-pos = (491,308);
+pos = (451,338);
 ref = acutecomb.case;
 }
 );
@@ -27,11 +27,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (331,0);
+pos = (195,0);
 ref = tildecomb.case;
 },
 {
-pos = (487,366);
+pos = (448,406);
 ref = acutecomb.case;
 }
 );
@@ -44,11 +44,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (362,0);
+pos = (247,0);
 ref = tildecomb.case;
 },
 {
-pos = (459,380);
+pos = (475,380);
 ref = acutecomb.case;
 }
 );
@@ -61,11 +61,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (237,0);
+pos = (104,0);
 ref = tildecomb.case;
 },
 {
-pos = (399,366);
+pos = (353,406);
 ref = acutecomb.case;
 }
 );
@@ -78,11 +78,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (267,0);
+pos = (219,0);
 ref = tildecomb.case;
 },
 {
-pos = (422,308);
+pos = (427,338);
 ref = acutecomb.case;
 }
 );
@@ -95,11 +95,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (314,0);
+pos = (209,0);
 ref = tildecomb.case;
 },
 {
-pos = (397,380);
+pos = (406,380);
 ref = acutecomb.case;
 }
 );
@@ -112,11 +112,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (359,0);
+pos = (219,0);
 ref = tildecomb.case;
 },
 {
-pos = (407,284);
+pos = (417,284);
 ref = acutecomb.case;
 }
 );
@@ -129,11 +129,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (420,0);
+pos = (286,0);
 ref = tildecomb.case;
 },
 {
-pos = (478,284);
+pos = (494,284);
 ref = acutecomb.case;
 }
 );
@@ -146,11 +146,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (404,0);
+pos = (330,0);
 ref = tildecomb.case;
 },
 {
-pos = (506,380);
+pos = (587,380);
 ref = acutecomb.case;
 }
 );
@@ -163,11 +163,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (451,0);
+pos = (330,0);
 ref = tildecomb.case;
 },
 {
-pos = (508,284);
+pos = (543,284);
 ref = acutecomb.case;
 }
 );
@@ -180,11 +180,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (352,0);
+pos = (342,0);
 ref = tildecomb.case;
 },
 {
-pos = (512,308);
+pos = (552,338);
 ref = acutecomb.case;
 }
 );
@@ -200,11 +200,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (337,0);
+pos = (247,0);
 ref = tildecomb.case;
 },
 {
-pos = (507,366);
+pos = (507,406);
 ref = acutecomb.case;
 }
 );

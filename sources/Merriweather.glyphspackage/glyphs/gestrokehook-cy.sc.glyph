@@ -1,4 +1,5 @@
 {
+color = 8;
 glyphname = "gestrokehook-cy.sc";
 kernLeft = "gestrokehook-cy.sc";
 kernRight = "gestrokehook-cy.sc";

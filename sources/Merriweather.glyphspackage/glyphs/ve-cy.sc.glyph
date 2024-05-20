@@ -47,7 +47,7 @@ shapes = (
 ref = b.sc;
 }
 );
-width = 1351;
+width = 1346;
 },
 {
 anchors = (
@@ -66,7 +66,7 @@ shapes = (
 ref = b.sc;
 }
 );
-width = 1294;
+width = 1320;
 },
 {
 anchors = (
@@ -85,7 +85,7 @@ shapes = (
 ref = b.sc;
 }
 );
-width = 1187;
+width = 1207;
 },
 {
 anchors = (
@@ -112,7 +112,7 @@ weight = 2;
 width = 96;
 };
 };
-width = 1095;
+width = 1110;
 },
 {
 anchors = (
@@ -158,7 +158,7 @@ weight = 2;
 width = 96;
 };
 };
-width = 1027;
+width = 1035;
 },
 {
 anchors = (
@@ -185,7 +185,7 @@ weight = 2;
 width = 96;
 };
 };
-width = 1104;
+width = 1128;
 },
 {
 anchors = (
@@ -204,7 +204,7 @@ shapes = (
 ref = b.sc;
 }
 );
-width = 1311;
+width = 1353;
 },
 {
 anchors = (
@@ -231,7 +231,7 @@ weight = 2;
 width = 96;
 };
 };
-width = 1140;
+width = 1147;
 },
 {
 anchors = (
@@ -259,7 +259,7 @@ width = 96;
 };
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1214;
+width = 1243;
 },
 {
 anchors = (
@@ -278,7 +278,7 @@ shapes = (
 ref = b.sc;
 }
 );
-width = 1338;
+width = 1381;
 }
 );
 userData = {

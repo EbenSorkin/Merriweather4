@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "ef-cy";
 kernLeft = o;
 kernRight = o;
@@ -1078,6 +1077,5 @@ width = 1831;
 );
 metricLeft = o;
 metricRight = o;
-subCategory = Lowercase;
 unicode = 1092;
 }

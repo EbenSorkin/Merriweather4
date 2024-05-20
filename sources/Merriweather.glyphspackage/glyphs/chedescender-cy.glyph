@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "chedescender-cy";
 kernLeft = "che-cy";
 kernRight = "pe-cy";
@@ -90,7 +89,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (709,0);
+pos = (730,0);
 ref = righttooth_part.;
 }
 );
@@ -166,6 +165,5 @@ width = 1360;
 }
 );
 metricRight = "de-cy";
-subCategory = Lowercase;
 unicode = 1207;
 }

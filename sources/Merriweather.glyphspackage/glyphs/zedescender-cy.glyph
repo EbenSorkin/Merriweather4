@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "zedescender-cy";
 kernLeft = "ereversed-cy";
 kernRight = "ze-cy";
@@ -148,7 +147,7 @@ ref = cedillacomb;
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1095;
+width = 1050;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -164,6 +163,5 @@ ref = cedillacomb;
 width = 1108;
 }
 );
-subCategory = Lowercase;
 unicode = 1177;
 }

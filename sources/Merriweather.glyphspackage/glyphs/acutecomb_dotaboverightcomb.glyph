@@ -18,11 +18,11 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (105,628);
+pos = (251,463);
 ref = dotaboverightcomb;
 }
 );
-width = 466;
+width = 806;
 },
 {
 anchors = (
@@ -41,11 +41,11 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (78,677);
+pos = (228,540);
 ref = dotaboverightcomb;
 }
 );
-width = 560;
+width = 900;
 },
 {
 anchors = (
@@ -64,11 +64,11 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (79,628);
+pos = (190,463);
 ref = dotaboverightcomb;
 }
 );
-width = 416;
+width = 616;
 },
 {
 anchors = (
@@ -87,11 +87,11 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (55,673);
+pos = (228,530);
 ref = dotaboverightcomb;
 }
 );
-width = 514;
+width = 864;
 },
 {
 anchors = (
@@ -110,11 +110,11 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (124,628);
+pos = (240,463);
 ref = dotaboverightcomb;
 }
 );
-width = 506;
+width = 706;
 },
 {
 anchors = (
@@ -133,11 +133,11 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (100,673);
+pos = (208,540);
 ref = dotaboverightcomb;
 }
 );
-width = 604;
+width = 924;
 },
 {
 anchors = (
@@ -156,11 +156,11 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (80,467);
+pos = (210,438);
 ref = dotaboverightcomb;
 }
 );
-width = 385;
+width = 673;
 },
 {
 anchors = (
@@ -179,11 +179,11 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (68,491);
+pos = (240,491);
 ref = dotaboverightcomb;
 }
 );
-width = 519;
+width = 807;
 },
 {
 anchors = (
@@ -202,11 +202,11 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (80,467);
+pos = (220,438);
 ref = dotaboverightcomb;
 }
 );
-width = 385;
+width = 645;
 },
 {
 anchors = (
@@ -225,11 +225,11 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (53,491);
+pos = (220,511);
 ref = dotaboverightcomb;
 }
 );
-width = 479;
+width = 741;
 },
 {
 anchors = (
@@ -248,11 +248,11 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (102,467);
+pos = (250,438);
 ref = dotaboverightcomb;
 }
 );
-width = 430;
+width = 722;
 },
 {
 anchors = (
@@ -271,11 +271,11 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (85,491);
+pos = (240,511);
 ref = dotaboverightcomb;
 }
 );
-width = 569;
+width = 757;
 }
 );
 }

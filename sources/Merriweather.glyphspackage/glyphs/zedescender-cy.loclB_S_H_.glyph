@@ -1,5 +1,5 @@
 {
-category = Letter;
+color = 3;
 glyphname = "zedescender-cy.loclBSH";
 kernLeft = "ze-cy";
 kernRight = "ze-cy";
@@ -344,5 +344,4 @@ ref = "ze-cy";
 width = 1140;
 }
 );
-subCategory = Lowercase;
 }

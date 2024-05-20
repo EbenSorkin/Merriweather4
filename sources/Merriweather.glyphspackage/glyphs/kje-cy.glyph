@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "kje-cy";
 kernLeft = "pe-cy";
 kernRight = "zhe-cy";
@@ -11,7 +10,7 @@ shapes = (
 ref = "ka-cy";
 },
 {
-pos = (503,0);
+pos = (336,0);
 ref = acutecomb;
 }
 );
@@ -24,7 +23,7 @@ shapes = (
 ref = "ka-cy";
 },
 {
-pos = (510,-1);
+pos = (365,0);
 ref = acutecomb;
 }
 );
@@ -37,7 +36,7 @@ shapes = (
 ref = "ka-cy";
 },
 {
-pos = (574,105);
+pos = (367,0);
 ref = acutecomb;
 }
 );
@@ -50,7 +49,7 @@ shapes = (
 ref = "ka-cy";
 },
 {
-pos = (418,0);
+pos = (243,0);
 ref = acutecomb;
 }
 );
@@ -63,7 +62,7 @@ shapes = (
 ref = "ka-cy";
 },
 {
-pos = (433,0);
+pos = (333,0);
 ref = acutecomb;
 }
 );
@@ -76,7 +75,7 @@ shapes = (
 ref = "ka-cy";
 },
 {
-pos = (452,106);
+pos = (312,0);
 ref = acutecomb;
 }
 );
@@ -89,7 +88,7 @@ shapes = (
 ref = "ka-cy";
 },
 {
-pos = (370,105);
+pos = (245,0);
 ref = acutecomb;
 }
 );
@@ -102,7 +101,7 @@ shapes = (
 ref = "ka-cy";
 },
 {
-pos = (428,111);
+pos = (261,0);
 ref = acutecomb;
 }
 );
@@ -115,7 +114,7 @@ shapes = (
 ref = "ka-cy";
 },
 {
-pos = (586,167);
+pos = (486,0);
 ref = acutecomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = "ka-cy";
 },
 {
-pos = (551,105);
+pos = (259,0);
 ref = acutecomb;
 }
 );
@@ -141,7 +140,7 @@ shapes = (
 ref = "ka-cy";
 },
 {
-pos = (361,0);
+pos = (338,0);
 ref = acutecomb;
 }
 );
@@ -157,13 +156,12 @@ shapes = (
 ref = "ka-cy";
 },
 {
-pos = (461,-1);
+pos = (376,0);
 ref = acutecomb;
 }
 );
 width = 1382;
 }
 );
-subCategory = Lowercase;
 unicode = 1116;
 }

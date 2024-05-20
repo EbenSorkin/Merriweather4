@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = iogonek;
 kernLeft = i;
 kernRight = i;
@@ -166,6 +165,5 @@ width = 712;
 );
 metricRight = i;
 metricWidth = i;
-subCategory = Lowercase;
 unicode = 303;
 }

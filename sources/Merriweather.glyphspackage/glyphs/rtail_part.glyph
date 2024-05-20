@@ -1,4 +1,5 @@
 {
+color = 8;
 export = 0;
 glyphname = rtail_part;
 layers = (

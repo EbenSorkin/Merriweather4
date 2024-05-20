@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "en-cy";
 kernLeft = "pe-cy";
 kernRight = "pe-cy";
@@ -551,6 +550,5 @@ width = 1456;
 metricLeft = "pe-cy";
 metricRight = "pe-cy";
 note = "Light Display Narrow has shorter serifs proportionally, compared with other masters.";
-subCategory = Lowercase;
 unicode = 1085;
 }

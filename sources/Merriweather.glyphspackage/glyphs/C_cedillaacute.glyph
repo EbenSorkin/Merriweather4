@@ -14,7 +14,7 @@ pos = (536,0);
 ref = cedillacomb.case;
 },
 {
-pos = (561,0);
+pos = (521,0);
 ref = acutecomb.case;
 }
 );
@@ -31,7 +31,7 @@ pos = (497,0);
 ref = cedillacomb.case;
 },
 {
-pos = (504,0);
+pos = (465,0);
 ref = acutecomb.case;
 }
 );
@@ -48,7 +48,7 @@ pos = (521,0);
 ref = cedillacomb.case;
 },
 {
-pos = (477,0);
+pos = (493,0);
 ref = acutecomb.case;
 }
 );
@@ -65,7 +65,7 @@ pos = (455,0);
 ref = cedillacomb.case;
 },
 {
-pos = (450,0);
+pos = (400,0);
 ref = acutecomb.case;
 }
 );
@@ -82,7 +82,7 @@ pos = (445,0);
 ref = cedillacomb.case;
 },
 {
-pos = (490,0);
+pos = (495,0);
 ref = acutecomb.case;
 }
 );
@@ -99,7 +99,7 @@ pos = (451,0);
 ref = cedillacomb.case;
 },
 {
-pos = (422,0);
+pos = (431,0);
 ref = acutecomb.case;
 }
 );
@@ -116,7 +116,7 @@ pos = (412,0);
 ref = cedillacomb.case;
 },
 {
-pos = (439,0);
+pos = (449,0);
 ref = acutecomb.case;
 }
 );
@@ -133,7 +133,7 @@ pos = (515,0);
 ref = cedillacomb.case;
 },
 {
-pos = (517,0);
+pos = (533,0);
 ref = acutecomb.case;
 }
 );
@@ -150,7 +150,7 @@ pos = (561,0);
 ref = cedillacomb.case;
 },
 {
-pos = (517,0);
+pos = (598,0);
 ref = acutecomb.case;
 }
 );
@@ -167,7 +167,7 @@ pos = (567,0);
 ref = cedillacomb.case;
 },
 {
-pos = (523,0);
+pos = (558,0);
 ref = acutecomb.case;
 }
 );
@@ -180,11 +180,11 @@ shapes = (
 ref = C;
 },
 {
-pos = (568,0);
+pos = (548,0);
 ref = cedillacomb.case;
 },
 {
-pos = (563,0);
+pos = (603,0);
 ref = acutecomb.case;
 }
 );

@@ -636,7 +636,7 @@ nodes = (
 );
 }
 );
-width = 1394;
+width = 1402;
 },
 {
 annotations = (
@@ -770,7 +770,7 @@ nodes = (
 );
 }
 );
-width = 1316;
+width = 1318;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -826,7 +826,7 @@ nodes = (
 );
 }
 );
-width = 1476;
+width = 1491;
 }
 );
 metricLeft = "pe-cy.sc";

@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "udieresis-cy";
 kernLeft = y;
 kernRight = y;
@@ -37,11 +36,11 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (122,0);
+pos = (140,0);
 ref = dieresiscomb;
 }
 );
-width = 993;
+width = 1071;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -76,7 +75,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (62,0);
+pos = (-5,0);
 ref = dieresiscomb;
 }
 );
@@ -106,7 +105,7 @@ pos = (184,0);
 ref = dieresiscomb;
 }
 );
-width = 912;
+width = 927;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -128,7 +127,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (208,0);
+pos = (209,0);
 ref = dieresiscomb;
 }
 );
@@ -164,6 +163,5 @@ ref = dieresiscomb;
 width = 1191;
 }
 );
-subCategory = Lowercase;
 unicode = 1265;
 }

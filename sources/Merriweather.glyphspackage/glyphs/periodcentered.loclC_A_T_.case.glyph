@@ -37,10 +37,11 @@ layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
 shapes = (
 {
 alignment = -1;
+pos = (20,0);
 ref = periodcentered.case;
 }
 );
-width = 397;
+width = 437;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";

@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = nj;
 kernLeft = n;
 kernRight = i;
@@ -63,11 +62,11 @@ shapes = (
 ref = n;
 },
 {
-pos = (1053,0);
+pos = (1033,0);
 ref = j;
 }
 );
-width = 1566;
+width = 1546;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -141,14 +140,14 @@ shapes = (
 ref = n;
 },
 {
-pos = (1289,0);
+pos = (1269,0);
 ref = j;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1913;
+width = 1893;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -164,6 +163,5 @@ ref = j;
 width = 2112;
 }
 );
-subCategory = Lowercase;
 unicode = 460;
 }

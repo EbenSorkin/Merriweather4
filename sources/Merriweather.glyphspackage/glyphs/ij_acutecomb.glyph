@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = ij_acutecomb;
 kernLeft = i;
 kernRight = i;
@@ -11,7 +10,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (175,0);
+pos = (8,0);
 ref = acutecomb;
 },
 {
@@ -19,7 +18,7 @@ pos = (594,0);
 ref = jdotless;
 },
 {
-pos = (769,0);
+pos = (599,0);
 ref = acutecomb;
 }
 );
@@ -32,7 +31,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (187,0);
+pos = (17,0);
 ref = acutecomb;
 },
 {
@@ -40,7 +39,7 @@ pos = (666,0);
 ref = jdotless;
 },
 {
-pos = (853,0);
+pos = (683,0);
 ref = acutecomb;
 }
 );
@@ -53,7 +52,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (129,0);
+pos = (35,0);
 ref = acutecomb;
 },
 {
@@ -61,7 +60,7 @@ pos = (630,0);
 ref = jdotless;
 },
 {
-pos = (759,0);
+pos = (645,0);
 ref = acutecomb;
 }
 );
@@ -74,7 +73,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (126,0);
+pos = (-49,0);
 ref = acutecomb;
 },
 {
@@ -82,7 +81,7 @@ pos = (571,0);
 ref = jdotless;
 },
 {
-pos = (707,0);
+pos = (571,0);
 ref = acutecomb;
 }
 );
@@ -95,7 +94,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (132,0);
+pos = (42,0);
 ref = acutecomb;
 },
 {
@@ -103,7 +102,7 @@ pos = (483,0);
 ref = jdotless;
 },
 {
-pos = (615,0);
+pos = (515,0);
 ref = acutecomb;
 }
 );
@@ -116,7 +115,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (120,0);
+pos = (29,0);
 ref = acutecomb;
 },
 {
@@ -124,7 +123,7 @@ pos = (581,0);
 ref = jdotless;
 },
 {
-pos = (701,0);
+pos = (590,0);
 ref = acutecomb;
 }
 );
@@ -137,7 +136,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (138,0);
+pos = (16,0);
 ref = acutecomb;
 },
 {
@@ -145,7 +144,7 @@ pos = (444,0);
 ref = jdotless;
 },
 {
-pos = (582,0);
+pos = (452,0);
 ref = acutecomb;
 }
 );
@@ -158,7 +157,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (122,0);
+pos = (-1,0);
 ref = acutecomb;
 },
 {
@@ -166,7 +165,7 @@ pos = (447,0);
 ref = jdotless;
 },
 {
-pos = (569,0);
+pos = (425,0);
 ref = acutecomb;
 }
 );
@@ -179,7 +178,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (153,0);
+pos = (99,0);
 ref = acutecomb;
 },
 {
@@ -187,7 +186,7 @@ pos = (560,0);
 ref = jdotless;
 },
 {
-pos = (713,0);
+pos = (649,0);
 ref = acutecomb;
 }
 );
@@ -200,7 +199,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (97,0);
+pos = (-32,0);
 ref = acutecomb;
 },
 {
@@ -208,7 +207,7 @@ pos = (486,0);
 ref = jdotless;
 },
 {
-pos = (583,0);
+pos = (437,0);
 ref = acutecomb;
 }
 );
@@ -221,7 +220,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (137,0);
+pos = (47,0);
 ref = acutecomb;
 },
 {
@@ -229,7 +228,7 @@ pos = (594,0);
 ref = jdotless;
 },
 {
-pos = (731,0);
+pos = (631,0);
 ref = acutecomb;
 }
 );
@@ -245,7 +244,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (155,0);
+pos = (38,0);
 ref = acutecomb;
 },
 {
@@ -253,12 +252,11 @@ pos = (672,0);
 ref = jdotless;
 },
 {
-pos = (827,0);
+pos = (687,0);
 ref = acutecomb;
 }
 );
 width = 1384;
 }
 );
-subCategory = Lowercase;
 }

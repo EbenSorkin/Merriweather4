@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "fita-cy";
 kernLeft = o;
 kernRight = o;
@@ -418,6 +417,5 @@ width = 1301;
 );
 metricLeft = o;
 metricRight = o;
-subCategory = Lowercase;
 unicode = 1139;
 }

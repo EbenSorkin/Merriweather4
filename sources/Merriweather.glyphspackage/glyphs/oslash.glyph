@@ -1,5 +1,4 @@
 {
-category = Letter;
 color = 4;
 glyphname = oslash;
 kernLeft = o;
@@ -969,6 +968,5 @@ width = 1301;
 );
 metricLeft = o;
 metricRight = o;
-subCategory = Lowercase;
 unicode = 248;
 }

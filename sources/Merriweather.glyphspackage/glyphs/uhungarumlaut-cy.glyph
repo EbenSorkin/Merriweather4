@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "uhungarumlaut-cy";
 kernLeft = y;
 kernRight = y;
@@ -11,7 +10,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (271,0);
+pos = (151,0);
 ref = hungarumlautcomb;
 }
 );
@@ -24,7 +23,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (109,0);
+pos = (89,0);
 ref = hungarumlautcomb;
 }
 );
@@ -37,11 +36,11 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (98,0);
+pos = (138,0);
 ref = hungarumlautcomb;
 }
 );
-width = 993;
+width = 1071;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -50,7 +49,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (68,0);
+pos = (27,0);
 ref = hungarumlautcomb;
 }
 );
@@ -63,7 +62,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (121,0);
+pos = (148,0);
 ref = hungarumlautcomb;
 }
 );
@@ -76,7 +75,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (53,0);
+pos = (48,0);
 ref = hungarumlautcomb;
 }
 );
@@ -89,7 +88,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (120,0);
+pos = (109,0);
 ref = hungarumlautcomb;
 }
 );
@@ -102,11 +101,11 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (118,0);
+pos = (77,0);
 ref = hungarumlautcomb;
 }
 );
-width = 912;
+width = 927;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -115,7 +114,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (76,0);
+pos = (178,0);
 ref = hungarumlautcomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (111,0);
+pos = (109,0);
 ref = hungarumlautcomb;
 }
 );
@@ -141,7 +140,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (162,0);
+pos = (269,0);
 ref = hungarumlautcomb;
 }
 );
@@ -157,13 +156,12 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (69,0);
+pos = (95,0);
 ref = hungarumlautcomb;
 }
 );
 width = 1191;
 }
 );
-subCategory = Lowercase;
 unicode = 1267;
 }

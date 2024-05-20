@@ -156,7 +156,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (389,0);
+pos = (399,0);
 ref = circumflexcomb_hookabovecomb.case;
 }
 );

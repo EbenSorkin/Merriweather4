@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 5;
 glyphname = Bhook.loclXPE;
 layers = (
 {
@@ -27,7 +27,7 @@ shapes = (
 ref = "Be-cy";
 }
 );
-width = 1185;
+width = 1188;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -99,7 +99,7 @@ shapes = (
 ref = "Be-cy";
 }
 );
-width = 1304;
+width = 1308;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";

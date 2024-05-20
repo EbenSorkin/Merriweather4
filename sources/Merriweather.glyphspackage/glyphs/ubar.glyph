@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 5;
 glyphname = ubar;
 layers = (
 {
@@ -62,7 +62,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (-46,-207);
+pos = (-46,-204);
 ref = capbar_part.;
 }
 );
@@ -75,7 +75,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (10,-205);
+pos = (10,-193);
 ref = capbar_part.;
 }
 );
@@ -88,7 +88,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (-130,-207);
+pos = (-130,-197);
 ref = capbar_part.;
 }
 );
@@ -101,7 +101,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (-114,-258);
+pos = (-77,-200);
 ref = capbar_part.;
 }
 );
@@ -114,7 +114,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (-46,-207);
+pos = (-46,-205);
 ref = capbar_part.;
 }
 );
@@ -127,7 +127,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (-28,-209);
+pos = (-28,-200);
 ref = capbar_part.;
 }
 );
@@ -193,7 +193,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (-26,-264);
+pos = (-24,-280);
 ref = capbar_part.;
 }
 );
@@ -259,7 +259,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (-39,-258);
+pos = (-39,-277);
 ref = capbar_part.;
 }
 );
@@ -272,7 +272,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (-36,-264);
+pos = (-26,-242);
 ref = capbar_part.;
 }
 );
@@ -285,7 +285,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (-68,-258);
+pos = (-68,-274);
 ref = capbar_part.;
 }
 );
@@ -298,7 +298,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (-16,-271);
+pos = (-16,-251);
 ref = capbar_part.;
 }
 );
@@ -311,7 +311,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (-31,-258);
+pos = (-25,-278);
 ref = capbar_part.;
 }
 );

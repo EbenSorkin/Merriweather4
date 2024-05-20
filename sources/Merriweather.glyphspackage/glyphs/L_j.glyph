@@ -1,5 +1,4 @@
 {
-color = 3;
 glyphname = Lj;
 kernLeft = H;
 kernRight = i;
@@ -102,11 +101,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (1050,0);
+pos = (1090,0);
 ref = j;
 }
 );
-width = 1514;
+width = 1554;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";

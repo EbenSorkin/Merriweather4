@@ -1,5 +1,5 @@
 {
-color = 2;
+color = 5;
 glyphname = eogonek.loclNAV;
 layers = (
 {
@@ -9,7 +9,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (281,0);
+pos = (306,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (305,0);
+pos = (337,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (269,0);
+pos = (281,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -61,7 +61,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (277,0);
+pos = (310,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -74,7 +74,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (270,0);
+pos = (283,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -87,7 +87,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (248,0);
+pos = (257,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -100,7 +100,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (253,0);
+pos = (255,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -113,7 +113,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (309,0);
+pos = (359,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -126,7 +126,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (283,0);
+pos = (336,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -139,7 +139,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (288,0);
+pos = (342,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -152,7 +152,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (291,0);
+pos = (355,0);
 ref = ogonekcomb.loclNAV;
 }
 );

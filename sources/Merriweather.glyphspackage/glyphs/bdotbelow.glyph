@@ -1,6 +1,5 @@
 {
-category = Letter;
-color = 3;
+color = 5;
 glyphname = bdotbelow;
 kernLeft = b;
 kernRight = o;
@@ -165,6 +164,5 @@ ref = dotbelowcomb;
 width = 1302;
 }
 );
-subCategory = Lowercase;
 unicode = 7685;
 }

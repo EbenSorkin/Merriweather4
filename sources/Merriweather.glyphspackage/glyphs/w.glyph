@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = w;
 kernLeft = w;
 kernRight = w;
@@ -584,6 +583,5 @@ nodes = (
 width = 1777;
 }
 );
-subCategory = Lowercase;
 unicode = 119;
 }

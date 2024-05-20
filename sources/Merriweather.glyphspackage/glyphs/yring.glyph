@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 5;
 glyphname = yring;
 layers = (
 {
@@ -35,7 +35,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (254,0);
+pos = (152,0);
 ref = ringcomb;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (217,0);
+pos = (39,0);
 ref = ringcomb;
 }
 );
@@ -87,11 +87,11 @@ shapes = (
 ref = y;
 },
 {
-pos = (228,0);
+pos = (100,0);
 ref = ringcomb;
 }
 );
-width = 912;
+width = 927;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -100,11 +100,11 @@ shapes = (
 ref = y;
 },
 {
-pos = (135,0);
+pos = (163,0);
 ref = ringcomb;
 }
 );
-width = 993;
+width = 1071;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -126,7 +126,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (144,0);
+pos = (75,0);
 ref = ringcomb;
 }
 );
@@ -139,7 +139,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (252,0);
+pos = (131,0);
 ref = ringcomb;
 }
 );
@@ -152,7 +152,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (212,0);
+pos = (200,0);
 ref = ringcomb;
 }
 );

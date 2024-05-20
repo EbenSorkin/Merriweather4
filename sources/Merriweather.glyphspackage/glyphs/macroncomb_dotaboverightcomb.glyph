@@ -18,11 +18,11 @@ shapes = (
 ref = macroncomb;
 },
 {
-pos = (143,354);
+pos = (332,246);
 ref = dotaboverightcomb;
 }
 );
-width = 542;
+width = 882;
 },
 {
 anchors = (
@@ -41,11 +41,11 @@ shapes = (
 ref = macroncomb;
 },
 {
-pos = (118,396);
+pos = (308,335);
 ref = dotaboverightcomb;
 }
 );
-width = 641;
+width = 981;
 },
 {
 anchors = (
@@ -64,11 +64,11 @@ shapes = (
 ref = macroncomb;
 },
 {
-pos = (117,300);
+pos = (216,246);
 ref = dotaboverightcomb;
 }
 );
-width = 492;
+width = 692;
 },
 {
 anchors = (
@@ -87,11 +87,11 @@ shapes = (
 ref = macroncomb;
 },
 {
-pos = (88,396);
+pos = (263,335);
 ref = dotaboverightcomb;
 }
 );
-width = 580;
+width = 930;
 },
 {
 anchors = (
@@ -110,11 +110,11 @@ shapes = (
 ref = macroncomb;
 },
 {
-pos = (162,230);
+pos = (264,246);
 ref = dotaboverightcomb;
 }
 );
-width = 582;
+width = 782;
 },
 {
 anchors = (
@@ -133,11 +133,11 @@ shapes = (
 ref = macroncomb;
 },
 {
-pos = (138,316);
+pos = (298,335);
 ref = dotaboverightcomb;
 }
 );
-width = 680;
+width = 1000;
 },
 {
 anchors = (
@@ -156,11 +156,11 @@ shapes = (
 ref = macroncomb;
 },
 {
-pos = (107,93);
+pos = (271,202);
 ref = dotaboverightcomb;
 }
 );
-width = 440;
+width = 728;
 },
 {
 anchors = (
@@ -179,11 +179,11 @@ shapes = (
 ref = macroncomb;
 },
 {
-pos = (118,193);
+pos = (341,338);
 ref = dotaboverightcomb;
 }
 );
-width = 620;
+width = 908;
 },
 {
 anchors = (
@@ -202,11 +202,11 @@ shapes = (
 ref = macroncomb;
 },
 {
-pos = (87,243);
+pos = (237,202);
 ref = dotaboverightcomb;
 }
 );
-width = 400;
+width = 660;
 },
 {
 anchors = (
@@ -225,11 +225,11 @@ shapes = (
 ref = macroncomb;
 },
 {
-pos = (93,193);
+pos = (338,338);
 ref = dotaboverightcomb;
 }
 );
-width = 560;
+width = 902;
 },
 {
 anchors = (
@@ -248,11 +248,11 @@ shapes = (
 ref = macroncomb;
 },
 {
-pos = (127,93);
+pos = (300,202);
 ref = dotaboverightcomb;
 }
 );
-width = 480;
+width = 826;
 },
 {
 anchors = (
@@ -271,11 +271,11 @@ shapes = (
 ref = macroncomb;
 },
 {
-pos = (120,193);
+pos = (337,338);
 ref = dotaboverightcomb;
 }
 );
-width = 640;
+width = 900;
 }
 );
 }

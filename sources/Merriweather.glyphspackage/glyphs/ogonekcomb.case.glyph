@@ -1,5 +1,4 @@
 {
-color = 1;
 glyphname = ogonekcomb.case;
 kernLeft = ogonekcomb;
 kernRight = ogonekcomb;
@@ -106,7 +105,7 @@ nodes = (
 (294,-83,o),
 (431,0,c),
 (393,8,l),
-(366,0,l),
+(366,0,ls),
 (180,-65,o),
 (0,-191,o),
 (0,-327,cs),

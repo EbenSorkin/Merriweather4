@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "ii-cy";
 kernLeft = "pe-cy";
 kernRight = "pe-cy";
@@ -63,7 +62,7 @@ pos = (1354,0);
 },
 {
 name = top;
-pos = (716,1111);
+pos = (718,1112);
 }
 );
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -114,7 +113,7 @@ pos = (1252,0);
 },
 {
 name = top;
-pos = (633,1110);
+pos = (638,1005);
 }
 );
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -165,7 +164,7 @@ pos = (1220,0);
 },
 {
 name = top;
-pos = (597,1111);
+pos = (597,1112);
 }
 );
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -267,7 +266,7 @@ pos = (1060,0);
 },
 {
 name = top;
-pos = (545,1110);
+pos = (557,1005);
 }
 );
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -318,7 +317,7 @@ pos = (982,0);
 },
 {
 name = top;
-pos = (508,1110);
+pos = (508,1005);
 }
 );
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -369,7 +368,7 @@ pos = (1062,0);
 },
 {
 name = top;
-pos = (551,1110);
+pos = (551,1005);
 }
 );
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -420,7 +419,7 @@ pos = (1314,0);
 },
 {
 name = top;
-pos = (669,1110);
+pos = (669,1005);
 }
 );
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -471,7 +470,7 @@ pos = (1139,0);
 },
 {
 name = top;
-pos = (593,1110);
+pos = (593,1005);
 }
 );
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -576,7 +575,7 @@ pos = (1456,0);
 },
 {
 name = top;
-pos = (761,1111);
+pos = (763,1112);
 }
 );
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -622,6 +621,5 @@ width = 1517;
 );
 metricLeft = "pe-cy";
 metricRight = "pe-cy";
-subCategory = Lowercase;
 unicode = 1080;
 }

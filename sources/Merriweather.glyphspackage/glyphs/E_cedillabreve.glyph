@@ -65,7 +65,7 @@ pos = (370,0);
 ref = cedillacomb.case;
 },
 {
-pos = (229,0);
+pos = (239,0);
 ref = brevecomb.case;
 }
 );
@@ -82,7 +82,7 @@ pos = (372,0);
 ref = cedillacomb.case;
 },
 {
-pos = (263,0);
+pos = (265,0);
 ref = brevecomb.case;
 }
 );
@@ -99,7 +99,7 @@ pos = (385,0);
 ref = cedillacomb.case;
 },
 {
-pos = (290,0);
+pos = (300,0);
 ref = brevecomb.case;
 }
 );
@@ -116,7 +116,7 @@ pos = (371,0);
 ref = cedillacomb.case;
 },
 {
-pos = (303,0);
+pos = (313,0);
 ref = brevecomb.case;
 }
 );
@@ -150,7 +150,7 @@ pos = (445,0);
 ref = cedillacomb.case;
 },
 {
-pos = (340,0);
+pos = (360,0);
 ref = brevecomb.case;
 }
 );
@@ -167,7 +167,7 @@ pos = (433,0);
 ref = cedillacomb.case;
 },
 {
-pos = (355,0);
+pos = (359,0);
 ref = brevecomb.case;
 }
 );
@@ -184,7 +184,7 @@ pos = (447,0);
 ref = cedillacomb.case;
 },
 {
-pos = (333,0);
+pos = (346,0);
 ref = brevecomb.case;
 }
 );
@@ -204,7 +204,7 @@ pos = (465,0);
 ref = cedillacomb.case;
 },
 {
-pos = (322,0);
+pos = (342,0);
 ref = brevecomb.case;
 }
 );

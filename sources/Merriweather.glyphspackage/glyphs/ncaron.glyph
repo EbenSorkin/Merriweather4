@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = ncaron;
 kernLeft = n;
 kernRight = n;
@@ -11,7 +10,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (279,0);
+pos = (139,0);
 ref = caroncomb;
 }
 );
@@ -24,7 +23,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (267,-1);
+pos = (137,-1);
 ref = caroncomb;
 }
 );
@@ -37,7 +36,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (214,106);
+pos = (91,0);
 ref = caroncomb;
 }
 );
@@ -50,7 +49,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (200,-1);
+pos = (27,-1);
 ref = caroncomb;
 }
 );
@@ -63,11 +62,11 @@ shapes = (
 ref = n;
 },
 {
-pos = (194,0);
+pos = (124,0);
 ref = caroncomb;
 }
 );
-width = 1093;
+width = 1073;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -76,7 +75,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (182,106);
+pos = (73,0);
 ref = caroncomb;
 }
 );
@@ -89,7 +88,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (214,105);
+pos = (64,0);
 ref = caroncomb;
 }
 );
@@ -102,7 +101,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (270,105);
+pos = (94,0);
 ref = caroncomb;
 }
 );
@@ -115,7 +114,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (228,106);
+pos = (168,0);
 ref = caroncomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (301,105);
+pos = (101,0);
 ref = caroncomb;
 }
 );
@@ -141,14 +140,14 @@ shapes = (
 ref = n;
 },
 {
-pos = (278,0);
+pos = (222,0);
 ref = caroncomb;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1329;
+width = 1309;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -157,13 +156,12 @@ shapes = (
 ref = n;
 },
 {
-pos = (267,-1);
+pos = (156,-1);
 ref = caroncomb;
 }
 );
 width = 1426;
 }
 );
-subCategory = Lowercase;
 unicode = 328;
 }

@@ -136,7 +136,7 @@ pos = (916,0);
 ref = righttooth_part.;
 }
 );
-width = 1207;
+width = 1237;
 },
 {
 annotations = (
@@ -192,11 +192,11 @@ shapes = (
 ref = "ka-cy.sc";
 },
 {
-pos = (846,0);
+pos = (867,0);
 ref = righttooth_part.;
 }
 );
-width = 1064;
+width = 1074;
 },
 {
 annotations = (
@@ -357,7 +357,7 @@ pos = (1144,0);
 ref = righttooth_part.;
 }
 );
-width = 1550;
+width = 1570;
 }
 );
 metricLeft = "pe-cy.sc";

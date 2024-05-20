@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 5;
 glyphname = Tbar;
 kernLeft = T;
 kernRight = T;
@@ -11,8 +11,8 @@ shapes = (
 ref = T;
 },
 {
-pos = (232,187);
-ref = strokelongcomb;
+pos = (339,-43);
+ref = UCstrokecomb_part.;
 }
 );
 width = 1362;
@@ -24,8 +24,8 @@ shapes = (
 ref = T;
 },
 {
-pos = (241,187);
-ref = strokelongcomb;
+pos = (325,-80);
+ref = UCstrokecomb_part.;
 }
 );
 width = 1460;
@@ -37,8 +37,8 @@ shapes = (
 ref = T;
 },
 {
-pos = (198,181);
-ref = strokelongcomb;
+pos = (318,-64);
+ref = UCstrokecomb_part.;
 }
 );
 width = 1426;
@@ -50,8 +50,8 @@ shapes = (
 ref = T;
 },
 {
-pos = (170,187);
-ref = strokelongcomb;
+pos = (298,-77);
+ref = UCstrokecomb_part.;
 }
 );
 width = 1314;
@@ -63,8 +63,8 @@ shapes = (
 ref = T;
 },
 {
-pos = (199,187);
-ref = strokelongcomb;
+pos = (282,-26);
+ref = UCstrokecomb_part.;
 }
 );
 width = 1195;
@@ -76,8 +76,8 @@ shapes = (
 ref = T;
 },
 {
-pos = (131,187);
-ref = strokelongcomb;
+pos = (186,-68);
+ref = UCstrokecomb_part.;
 }
 );
 width = 1242;
@@ -89,8 +89,8 @@ shapes = (
 ref = T;
 },
 {
-pos = (217,194);
-ref = strokelongcomb;
+pos = (285,-50);
+ref = UCstrokecomb_part.;
 }
 );
 width = 1199;
@@ -102,8 +102,8 @@ shapes = (
 ref = T;
 },
 {
-pos = (196,187);
-ref = strokelongcomb;
+pos = (342,-50);
+ref = UCstrokecomb_part.;
 }
 );
 width = 1314;
@@ -115,8 +115,8 @@ shapes = (
 ref = T;
 },
 {
-pos = (221,187);
-ref = strokelongcomb;
+pos = (350,-63);
+ref = UCstrokecomb_part.;
 }
 );
 width = 1521;
@@ -128,8 +128,8 @@ shapes = (
 ref = T;
 },
 {
-pos = (224,187);
-ref = strokelongcomb;
+pos = (360,-50);
+ref = UCstrokecomb_part.;
 }
 );
 width = 1390;
@@ -141,8 +141,8 @@ shapes = (
 ref = T;
 },
 {
-pos = (223,187);
-ref = strokelongcomb;
+pos = (360,-44);
+ref = UCstrokecomb_part.;
 }
 );
 userData = {
@@ -157,8 +157,8 @@ shapes = (
 ref = T;
 },
 {
-pos = (261,187);
-ref = strokelongcomb;
+pos = (363,-74);
+ref = UCstrokecomb_part.;
 }
 );
 width = 1536;

@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = imacron;
 kernLeft = i;
 kernRight = i;
@@ -11,7 +10,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (41,0);
+pos = (-146,0);
 ref = macroncomb;
 }
 );
@@ -24,7 +23,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (33,1);
+pos = (-157,1);
 ref = macroncomb;
 }
 );
@@ -37,7 +36,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-20,0);
+pos = (-144,0);
 ref = macroncomb;
 }
 );
@@ -50,7 +49,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (6,2);
+pos = (-169,2);
 ref = macroncomb;
 }
 );
@@ -63,7 +62,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (11,0);
+pos = (-79,0);
 ref = macroncomb;
 }
 );
@@ -76,7 +75,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-19,0);
+pos = (-170,0);
 ref = macroncomb;
 }
 );
@@ -89,7 +88,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (32,0);
+pos = (-110,0);
 ref = macroncomb;
 }
 );
@@ -102,7 +101,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (12,0);
+pos = (-131,0);
 ref = macroncomb;
 }
 );
@@ -115,7 +114,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-25,0);
+pos = (-145,0);
 ref = macroncomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-7,0);
+pos = (-163,0);
 ref = macroncomb;
 }
 );
@@ -141,7 +140,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (21,0);
+pos = (-69,0);
 ref = macroncomb;
 }
 );
@@ -157,13 +156,12 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (16,0);
+pos = (-121,0);
 ref = macroncomb;
 }
 );
 width = 712;
 }
 );
-subCategory = Lowercase;
 unicode = 299;
 }

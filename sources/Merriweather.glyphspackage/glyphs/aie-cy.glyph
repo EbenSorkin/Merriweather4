@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "aie-cy";
 kernLeft = a;
 kernRight = e;
@@ -20,7 +19,7 @@ shapes = (
 ref = ae;
 }
 );
-width = 1717;
+width = 1722;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -74,7 +73,7 @@ shapes = (
 ref = ae;
 }
 );
-width = 1442;
+width = 1454;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -116,6 +115,5 @@ ref = ae;
 width = 1832;
 }
 );
-subCategory = Lowercase;
 unicode = 1237;
 }

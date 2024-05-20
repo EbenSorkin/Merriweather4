@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = uhorndotbelow.sc;
 kernLeft = u.sc;
 kernRight = uhorn.sc;

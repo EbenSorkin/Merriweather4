@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = ibreve;
 kernLeft = i;
 kernRight = i;
@@ -11,7 +10,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-15,0);
+pos = (-12,0);
 ref = brevecomb.narrow;
 }
 );
@@ -37,7 +36,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-21,0);
+pos = (-1,0);
 ref = brevecomb.narrow;
 }
 );
@@ -63,7 +62,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-40,0);
+pos = (-30,0);
 ref = brevecomb.narrow;
 }
 );
@@ -76,7 +75,6 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-20,0);
 ref = brevecomb.narrow;
 }
 );
@@ -89,7 +87,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (9,0);
+pos = (17,0);
 ref = brevecomb.narrow;
 }
 );
@@ -102,7 +100,6 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-21,0);
 ref = brevecomb.narrow;
 }
 );
@@ -115,7 +112,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-26,0);
+pos = (-16,0);
 ref = brevecomb.narrow;
 }
 );
@@ -128,7 +125,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-30,0);
+pos = (-13,0);
 ref = brevecomb.narrow;
 }
 );
@@ -141,7 +138,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-35,0);
+pos = (-25,0);
 ref = brevecomb.narrow;
 }
 );
@@ -157,13 +154,12 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-38,0);
+pos = (-15,0);
 ref = brevecomb.narrow;
 }
 );
 width = 712;
 }
 );
-subCategory = Lowercase;
 unicode = 301;
 }

@@ -1,5 +1,4 @@
 {
-color = 1;
 glyphname = tilde;
 kernLeft = tildecomb;
 kernRight = tildecomb;

@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "kominje-cy";
 kernLeft = "pe-cy";
 kernRight = "komidje-cy";
@@ -646,6 +645,5 @@ width = 2049;
 );
 metricLeft = "pe-cy";
 metricRight = "komilje-cy";
-subCategory = Lowercase;
 unicode = 1291;
 }

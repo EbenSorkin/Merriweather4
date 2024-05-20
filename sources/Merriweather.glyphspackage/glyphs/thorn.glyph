@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = thorn;
 kernLeft = b;
 kernRight = b;
@@ -123,9 +122,9 @@ nodes = (
 (549,-466,l),
 (549,-428,l),
 (434,-394,l),
-(434,-164,l),
-(434,-2,l),
-(460,-12,o),
+(434,-130,l),
+(433,-2,l),
+(459,-12,o),
 (530,-22,o),
 (600,-22,cs),
 (851,-22,o),
@@ -680,6 +679,5 @@ width = 1216;
 }
 );
 metricRight = p;
-subCategory = Lowercase;
 unicode = 254;
 }

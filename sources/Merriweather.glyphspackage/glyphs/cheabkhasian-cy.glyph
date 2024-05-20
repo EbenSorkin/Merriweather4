@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "cheabkhasian-cy";
 kernLeft = "cheabkhasian-cy";
 kernRight = e;
@@ -357,6 +356,5 @@ width = 1383;
 }
 );
 metricRight = "ie-cy";
-subCategory = Lowercase;
 unicode = 1213;
 }

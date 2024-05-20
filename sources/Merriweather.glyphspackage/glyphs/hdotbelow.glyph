@@ -1,5 +1,4 @@
 {
-category = Letter;
 color = 3;
 glyphname = hdotbelow;
 kernLeft = h;
@@ -68,7 +67,7 @@ pos = (431,0);
 ref = dotbelowcomb;
 }
 );
-width = 1120;
+width = 1100;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -149,7 +148,7 @@ ref = dotbelowcomb;
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1355;
+width = 1335;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -165,6 +164,5 @@ ref = dotbelowcomb;
 width = 1421;
 }
 );
-subCategory = Lowercase;
 unicode = 7717;
 }

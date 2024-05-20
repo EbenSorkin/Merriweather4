@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = oogonek.sc;
 kernLeft = o.sc;
 kernRight = o.sc;
@@ -10,11 +11,11 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (219,10);
+pos = (229,10);
 ref = ogonekcomb;
 }
 );
-width = 1324;
+width = 1344;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -156,7 +157,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (205,2);
+pos = (325,2);
 ref = ogonekcomb;
 }
 );

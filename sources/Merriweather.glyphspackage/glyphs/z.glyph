@@ -1,5 +1,4 @@
 {
-category = Letter;
 color = 4;
 glyphname = z;
 kernLeft = z;
@@ -12,7 +11,7 @@ name = bottom;
 pos = (540,0);
 },
 {
-name = center;
+name = mid;
 pos = (540,555);
 },
 {
@@ -53,7 +52,7 @@ name = bottom;
 pos = (556,0);
 },
 {
-name = center;
+name = mid;
 pos = (556,556);
 },
 {
@@ -94,8 +93,8 @@ name = bottom;
 pos = (492,0);
 },
 {
-name = center;
-pos = (492,503);
+name = mid;
+pos = (496,503);
 },
 {
 name = top;
@@ -114,7 +113,7 @@ nodes = (
 (971,375,l),
 (815,402,l),
 (685,82,l),
-(389,54,l),
+(379,44,l),
 (482,170,l),
 (984,948,l),
 (940,1005,l),
@@ -122,7 +121,7 @@ nodes = (
 (64,651,l),
 (235,654,l),
 (315,928,l),
-(616,949,l)
+(626,959,l)
 );
 }
 );
@@ -135,8 +134,8 @@ name = bottom;
 pos = (492,0);
 },
 {
-name = center;
-pos = (492,556);
+name = mid;
+pos = (487,556);
 },
 {
 name = top;
@@ -176,7 +175,7 @@ name = bottom;
 pos = (475,0);
 },
 {
-name = center;
+name = mid;
 pos = (475,555);
 },
 {
@@ -217,8 +216,8 @@ name = bottom;
 pos = (430,0);
 },
 {
-name = center;
-pos = (430,503);
+name = mid;
+pos = (426,503);
 },
 {
 name = top;
@@ -258,7 +257,7 @@ name = bottom;
 pos = (385,0);
 },
 {
-name = center;
+name = mid;
 pos = (385,503);
 },
 {
@@ -299,8 +298,8 @@ name = bottom;
 pos = (453,0);
 },
 {
-name = center;
-pos = (453,503);
+name = mid;
+pos = (451,503);
 },
 {
 name = top;
@@ -340,12 +339,12 @@ name = bottom;
 pos = (523,0);
 },
 {
-name = center;
-pos = (523,503);
+name = mid;
+pos = (526,503);
 },
 {
 name = top;
-pos = (523,1005);
+pos = (526,1005);
 }
 );
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -381,7 +380,7 @@ name = bottom;
 pos = (474,0);
 },
 {
-name = center;
+name = mid;
 pos = (474,503);
 },
 {
@@ -422,8 +421,8 @@ name = bottom;
 pos = (565,0);
 },
 {
-name = center;
-pos = (565,555);
+name = mid;
+pos = (567,555);
 },
 {
 name = top;
@@ -466,7 +465,7 @@ name = bottom;
 pos = (566,0);
 },
 {
-name = center;
+name = mid;
 pos = (566,556);
 },
 {
@@ -501,6 +500,5 @@ nodes = (
 width = 1131;
 }
 );
-subCategory = Lowercase;
 unicode = 122;
 }

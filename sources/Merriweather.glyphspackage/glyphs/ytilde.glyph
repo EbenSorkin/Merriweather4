@@ -1,5 +1,5 @@
 {
-category = Letter;
+color = 5;
 glyphname = ytilde;
 kernLeft = y;
 kernRight = y;
@@ -37,11 +37,11 @@ shapes = (
 ref = y;
 },
 {
-pos = (154,0);
+pos = (182,0);
 ref = tildecomb;
 }
 );
-width = 993;
+width = 1071;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -106,7 +106,7 @@ pos = (190,0);
 ref = tildecomb;
 }
 );
-width = 912;
+width = 927;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -157,13 +157,12 @@ shapes = (
 ref = y;
 },
 {
-pos = (152,0);
+pos = (174,0);
 ref = tildecomb;
 }
 );
 width = 1191;
 }
 );
-subCategory = Lowercase;
 unicode = 7929;
 }

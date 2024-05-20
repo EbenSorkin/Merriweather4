@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = scommaaccent.sc;
 kernLeft = s.sc;
 kernRight = s.sc;
@@ -23,7 +24,7 @@ shapes = (
 ref = s.sc;
 },
 {
-pos = (349,0);
+pos = (340,0);
 ref = commaaccentcomb;
 }
 );
@@ -49,7 +50,7 @@ shapes = (
 ref = s.sc;
 },
 {
-pos = (339,0);
+pos = (347,0);
 ref = commaaccentcomb;
 }
 );
@@ -75,7 +76,7 @@ shapes = (
 ref = s.sc;
 },
 {
-pos = (372,0);
+pos = (362,0);
 ref = commaaccentcomb;
 }
 );
@@ -88,7 +89,7 @@ shapes = (
 ref = s.sc;
 },
 {
-pos = (454,0);
+pos = (348,0);
 ref = commaaccentcomb;
 }
 );
@@ -114,7 +115,7 @@ shapes = (
 ref = s.sc;
 },
 {
-pos = (441,0);
+pos = (424,0);
 ref = commaaccentcomb;
 }
 );
@@ -127,7 +128,7 @@ shapes = (
 ref = s.sc;
 },
 {
-pos = (410,0);
+pos = (428,0);
 ref = commaaccentcomb;
 }
 );
@@ -156,7 +157,7 @@ shapes = (
 ref = s.sc;
 },
 {
-pos = (429,0);
+pos = (437,0);
 ref = commaaccentcomb;
 }
 );

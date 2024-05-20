@@ -1,5 +1,5 @@
 {
-category = Letter;
+color = 3;
 glyphname = "ze-cy.loclBGR";
 kernLeft = "ze-cy.loclBGR";
 kernRight = "ze-cy.loclBGR";
@@ -164,7 +164,7 @@ nodes = (
 (579,694,cs),
 (579,488,o),
 (506,366,o),
-(409,351,c),
+(409,351,cs),
 (292,337,l),
 (289,215,l),
 (316,226,o),
@@ -752,5 +752,4 @@ nodes = (
 width = 1240;
 }
 );
-subCategory = Lowercase;
 }

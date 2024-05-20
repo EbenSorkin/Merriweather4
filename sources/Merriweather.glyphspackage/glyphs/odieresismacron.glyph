@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = odieresismacron;
 kernLeft = o;
 kernRight = o;
@@ -15,7 +14,7 @@ pos = (218,0);
 ref = dieresiscomb;
 },
 {
-pos = (287,296);
+pos = (97,362);
 ref = macroncomb;
 }
 );
@@ -32,7 +31,7 @@ pos = (192,0);
 ref = dieresiscomb;
 },
 {
-pos = (284,375);
+pos = (102,425);
 ref = macroncomb;
 }
 );
@@ -45,11 +44,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (180,0);
+pos = (170,0);
 ref = dieresiscomb;
 },
 {
-pos = (245,353);
+pos = (101,363);
 ref = macroncomb;
 }
 );
@@ -66,7 +65,7 @@ pos = (132,0);
 ref = dieresiscomb;
 },
 {
-pos = (237,526);
+pos = (67,396);
 ref = macroncomb;
 }
 );
@@ -83,7 +82,7 @@ pos = (181,0);
 ref = dieresiscomb;
 },
 {
-pos = (250,456);
+pos = (151,362);
 ref = macroncomb;
 }
 );
@@ -96,11 +95,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (124,0);
+pos = (57,0);
 ref = dieresiscomb;
 },
 {
-pos = (204,481);
+pos = (43,343);
 ref = macroncomb;
 }
 );
@@ -113,11 +112,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (184,0);
+pos = (187,0);
 ref = dieresiscomb;
 },
 {
-pos = (241,308);
+pos = (101,317);
 ref = macroncomb;
 }
 );
@@ -134,7 +133,7 @@ pos = (221,0);
 ref = dieresiscomb;
 },
 {
-pos = (273,406);
+pos = (109,329);
 ref = macroncomb;
 }
 );
@@ -151,7 +150,7 @@ pos = (212,0);
 ref = dieresiscomb;
 },
 {
-pos = (277,480);
+pos = (147,363);
 ref = macroncomb;
 }
 );
@@ -164,11 +163,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (246,0);
+pos = (247,0);
 ref = dieresiscomb;
 },
 {
-pos = (288,406);
+pos = (114,329);
 ref = macroncomb;
 }
 );
@@ -185,7 +184,7 @@ pos = (265,0);
 ref = dieresiscomb;
 },
 {
-pos = (324,426);
+pos = (223,362);
 ref = macroncomb;
 }
 );
@@ -205,13 +204,12 @@ pos = (231,0);
 ref = dieresiscomb;
 },
 {
-pos = (311,376);
+pos = (151,426);
 ref = macroncomb;
 }
 );
 width = 1301;
 }
 );
-subCategory = Lowercase;
 unicode = 555;
 }

@@ -1,5 +1,4 @@
 {
-category = Letter;
 color = 4;
 glyphname = i;
 kernLeft = i;
@@ -19,7 +18,7 @@ ref = idotless;
 },
 {
 alignment = 1;
-pos = (183,0);
+pos = (16,0);
 ref = dotaccentcomb;
 }
 );
@@ -39,7 +38,7 @@ ref = idotless;
 },
 {
 alignment = 1;
-pos = (151,0);
+pos = (-9,0);
 ref = dotaccentcomb;
 }
 );
@@ -59,7 +58,7 @@ ref = idotless;
 },
 {
 alignment = 1;
-pos = (98,0);
+pos = (-22,0);
 ref = dotaccentcomb;
 }
 );
@@ -79,7 +78,7 @@ ref = idotless;
 },
 {
 alignment = 1;
-pos = (94,0);
+pos = (-71,0);
 ref = dotaccentcomb;
 }
 );
@@ -99,7 +98,7 @@ ref = idotless;
 },
 {
 alignment = 1;
-pos = (128,0);
+pos = (38,0);
 ref = dotaccentcomb;
 }
 );
@@ -119,7 +118,7 @@ ref = idotless;
 },
 {
 alignment = 1;
-pos = (68,0);
+pos = (-33,0);
 ref = dotaccentcomb;
 }
 );
@@ -139,7 +138,7 @@ ref = idotless;
 },
 {
 alignment = 1;
-pos = (119,0);
+pos = (3,0);
 ref = dotaccentcomb;
 }
 );
@@ -159,7 +158,6 @@ ref = idotless;
 },
 {
 alignment = 1;
-pos = (119,0);
 ref = dotaccentcomb;
 }
 );
@@ -179,7 +177,7 @@ ref = idotless;
 },
 {
 alignment = 1;
-pos = (95,0);
+pos = (24,0);
 ref = dotaccentcomb;
 }
 );
@@ -199,7 +197,7 @@ ref = idotless;
 },
 {
 alignment = 1;
-pos = (120,0);
+pos = (-5,0);
 ref = dotaccentcomb;
 }
 );
@@ -219,7 +217,7 @@ ref = idotless;
 },
 {
 alignment = 1;
-pos = (183,0);
+pos = (93,0);
 ref = dotaccentcomb;
 }
 );
@@ -242,13 +240,12 @@ ref = idotless;
 },
 {
 alignment = 1;
-pos = (154,0);
+pos = (24,0);
 ref = dotaccentcomb;
 }
 );
 width = 712;
 }
 );
-subCategory = Lowercase;
 unicode = 105;
 }

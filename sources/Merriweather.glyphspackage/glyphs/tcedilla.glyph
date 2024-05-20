@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = tcedilla;
 kernLeft = t;
 kernRight = t;
@@ -183,23 +182,23 @@ width = 640;
 anchors = (
 {
 name = _bottom;
-pos = (422,0);
+pos = (402,0);
 },
 {
 name = bottom;
-pos = (422,0);
+pos = (402,0);
 },
 {
 name = center;
-pos = (377,556);
+pos = (357,556);
 },
 {
 name = top;
-pos = (376,1356);
+pos = (356,1356);
 },
 {
 name = topright;
-pos = (628,1361);
+pos = (608,1361);
 }
 );
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -430,6 +429,5 @@ width = 804;
 );
 metricLeft = t;
 metricRight = t;
-subCategory = Lowercase;
 unicode = 355;
 }

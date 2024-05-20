@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = omacrongrave.sc;
 kernLeft = o.sc;
 kernRight = o.sc;
@@ -10,11 +11,11 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (419,162);
+pos = (429,182);
 ref = macroncomb_gravecomb;
 }
 );
-width = 1324;
+width = 1344;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -23,12 +24,8 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (373,161);
-ref = macroncomb;
-},
-{
-pos = (414,555);
-ref = gravecomb;
+pos = (399,180);
+ref = macroncomb_gravecomb;
 }
 );
 width = 1384;
@@ -40,12 +37,8 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (367,355);
-ref = macroncomb;
-},
-{
-pos = (417,653);
-ref = gravecomb;
+pos = (371,287);
+ref = macroncomb_gravecomb;
 }
 );
 width = 1354;
@@ -57,12 +50,8 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (309,162);
-ref = macroncomb;
-},
-{
-pos = (342,556);
-ref = gravecomb;
+pos = (320,180);
+ref = macroncomb_gravecomb;
 }
 );
 width = 1192;
@@ -74,12 +63,8 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (323,162);
-ref = macroncomb;
-},
-{
-pos = (361,462);
-ref = gravecomb;
+pos = (351,182);
+ref = macroncomb_gravecomb;
 }
 );
 width = 1138;
@@ -91,12 +76,8 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (310,355);
-ref = macroncomb;
-},
-{
-pos = (350,653);
-ref = gravecomb;
+pos = (319,287);
+ref = macroncomb_gravecomb;
 }
 );
 width = 1180;
@@ -108,12 +89,8 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (355,355);
-ref = macroncomb;
-},
-{
-pos = (382,703);
-ref = gravecomb;
+pos = (381,287);
+ref = macroncomb_gravecomb;
 }
 );
 width = 1109;
@@ -125,12 +102,8 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (446,355);
-ref = macroncomb;
-},
-{
-pos = (473,553);
-ref = gravecomb;
+pos = (446,287);
+ref = macroncomb_gravecomb;
 }
 );
 width = 1331;
@@ -142,12 +115,8 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (373,355);
-ref = macroncomb;
-},
-{
-pos = (408,653);
-ref = gravecomb;
+pos = (387,287);
+ref = macroncomb_gravecomb;
 }
 );
 width = 1386;
@@ -159,12 +128,8 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (427,355);
-ref = macroncomb;
-},
-{
-pos = (452,553);
-ref = gravecomb;
+pos = (445,287);
+ref = macroncomb_gravecomb;
 }
 );
 width = 1337;
@@ -176,12 +141,8 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (398,162);
-ref = macroncomb;
-},
-{
-pos = (436,392);
-ref = gravecomb;
+pos = (426,182);
+ref = macroncomb_gravecomb;
 }
 );
 userData = {
@@ -196,12 +157,8 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (388,160);
-ref = macroncomb;
-},
-{
-pos = (426,474);
-ref = gravecomb;
+pos = (401,180);
+ref = macroncomb_gravecomb;
 }
 );
 width = 1458;

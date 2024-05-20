@@ -1,5 +1,4 @@
 {
-color = 4;
 glyphname = glottalstopreversedmod;
 layers = (
 {
@@ -116,12 +115,12 @@ width = 824;
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
 shapes = (
 {
-pos = (630,0);
+pos = (632,0);
 ref = glottalstopmod;
 scale = (-1,1);
 }
 );
-width = 630;
+width = 632;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";

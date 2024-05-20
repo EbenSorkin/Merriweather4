@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "chedieresis-cy";
 kernLeft = "che-cy";
 kernRight = "che-cy";
@@ -11,7 +10,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (249,0);
+pos = (267,0);
 ref = dieresiscomb;
 }
 );
@@ -24,7 +23,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (209,-1);
+pos = (219,-1);
 ref = dieresiscomb;
 }
 );
@@ -37,7 +36,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (193,105);
+pos = (190,0);
 ref = dieresiscomb;
 }
 );
@@ -63,7 +62,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (197,0);
+pos = (217,0);
 ref = dieresiscomb;
 }
 );
@@ -76,7 +75,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (134,106);
+pos = (67,0);
 ref = dieresiscomb;
 }
 );
@@ -89,7 +88,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (195,105);
+pos = (195,0);
 ref = dieresiscomb;
 }
 );
@@ -102,7 +101,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (218,105);
+pos = (228,0);
 ref = dieresiscomb;
 }
 );
@@ -115,7 +114,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (230,105);
+pos = (230,0);
 ref = dieresiscomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (264,105);
+pos = (265,0);
 ref = dieresiscomb;
 }
 );
@@ -164,6 +163,5 @@ ref = dieresiscomb;
 width = 1360;
 }
 );
-subCategory = Lowercase;
 unicode = 1269;
 }

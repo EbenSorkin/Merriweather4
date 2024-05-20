@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 5;
 glyphname = astroke;
 layers = (
 {
@@ -26,7 +26,7 @@ pos = (170,16);
 ref = slashshortcomb;
 }
 );
-width = 1141;
+width = 1146;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -91,7 +91,7 @@ pos = (-38,-6);
 ref = slashshortcomb;
 }
 );
-width = 888;
+width = 900;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";

@@ -1,5 +1,5 @@
 {
-color = 9;
+color = 5;
 glyphname = estroke;
 layers = (
 {
@@ -9,7 +9,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (-3,9);
+pos = (-3,0);
 ref = slashshortcomb;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (67,-8);
+pos = (67,0);
 ref = slashshortcomb;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (-16,-1);
+pos = (68,0);
 ref = slashshortcomb;
 }
 );
@@ -61,7 +61,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (3,1);
+pos = (3,0);
 ref = slashshortcomb;
 }
 );
@@ -87,7 +87,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (-32,-6);
+pos = (-32,0);
 ref = slashshortcomb;
 }
 );
@@ -113,7 +113,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (155,-4);
+pos = (131,0);
 ref = slashshortcomb;
 }
 );
@@ -126,7 +126,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (74,56);
+pos = (54,0);
 ref = slashshortcomb;
 }
 );
@@ -139,7 +139,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (-2,55);
+pos = (-2,0);
 ref = slashshortcomb;
 }
 );
@@ -152,7 +152,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (154,56);
+pos = (154,0);
 ref = slashshortcomb;
 }
 );

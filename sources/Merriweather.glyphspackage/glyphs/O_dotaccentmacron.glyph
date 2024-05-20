@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Odotaccentmacron;
 kernLeft = O;
 kernRight = O;
@@ -10,11 +11,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (570,0);
+pos = (400,0);
 ref = dotaccentcomb.case;
 },
 {
-pos = (405,342);
+pos = (256,320);
 ref = macroncomb.case;
 }
 );
@@ -27,11 +28,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (529,0);
+pos = (359,0);
 ref = dotaccentcomb.case;
 },
 {
-pos = (396,407);
+pos = (226,392);
 ref = macroncomb.case;
 }
 );
@@ -44,11 +45,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (513,0);
+pos = (369,0);
 ref = dotaccentcomb.case;
 },
 {
-pos = (375,429);
+pos = (211,394);
 ref = macroncomb.case;
 }
 );
@@ -61,11 +62,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (429,0);
+pos = (254,0);
 ref = dotaccentcomb.case;
 },
 {
-pos = (326,407);
+pos = (170,392);
 ref = macroncomb.case;
 }
 );
@@ -78,11 +79,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (476,0);
+pos = (376,0);
 ref = dotaccentcomb.case;
 },
 {
-pos = (341,342);
+pos = (251,285);
 ref = macroncomb.case;
 }
 );
@@ -95,11 +96,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (435,0);
+pos = (304,0);
 ref = dotaccentcomb.case;
 },
 {
-pos = (322,429);
+pos = (161,375);
 ref = macroncomb.case;
 }
 );
@@ -112,11 +113,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (482,0);
+pos = (352,0);
 ref = dotaccentcomb.case;
 },
 {
-pos = (385,327);
+pos = (215,289);
 ref = macroncomb.case;
 }
 );
@@ -129,11 +130,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (573,0);
+pos = (429,0);
 ref = dotaccentcomb.case;
 },
 {
-pos = (461,337);
+pos = (277,297);
 ref = macroncomb.case;
 }
 );
@@ -146,11 +147,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (567,0);
+pos = (473,0);
 ref = dotaccentcomb.case;
 },
 {
-pos = (429,429);
+pos = (315,393);
 ref = macroncomb.case;
 }
 );
@@ -163,11 +164,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (624,0);
+pos = (478,0);
 ref = dotaccentcomb.case;
 },
 {
-pos = (477,337);
+pos = (301,288);
 ref = macroncomb.case;
 }
 );
@@ -180,11 +181,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (611,0);
+pos = (511,0);
 ref = dotaccentcomb.case;
 },
 {
-pos = (426,342);
+pos = (346,317);
 ref = macroncomb.case;
 }
 );
@@ -200,11 +201,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (579,0);
+pos = (418,0);
 ref = dotaccentcomb.case;
 },
 {
-pos = (406,407);
+pos = (275,387);
 ref = macroncomb.case;
 }
 );

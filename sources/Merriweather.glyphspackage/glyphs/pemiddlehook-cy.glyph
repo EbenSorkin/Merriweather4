@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "pemiddlehook-cy";
 kernLeft = "pe-cy";
 kernRight = "pemiddlehook-cy";
@@ -490,6 +489,5 @@ width = 1997;
 );
 metricLeft = "pe-cy";
 metricRight = "softsign-cy";
-subCategory = Lowercase;
 unicode = 1191;
 }

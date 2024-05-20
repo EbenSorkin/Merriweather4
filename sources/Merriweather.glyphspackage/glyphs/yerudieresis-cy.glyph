@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "yerudieresis-cy";
 kernLeft = "pe-cy";
 kernRight = "pe-cy";
@@ -11,11 +10,11 @@ shapes = (
 ref = "yeru-cy";
 },
 {
-pos = (557,0);
+pos = (517,0);
 ref = dieresiscomb;
 }
 );
-width = 1704;
+width = 1654;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -37,7 +36,7 @@ shapes = (
 ref = "yeru-cy";
 },
 {
-pos = (454,105);
+pos = (452,0);
 ref = dieresiscomb;
 }
 );
@@ -63,11 +62,11 @@ shapes = (
 ref = "yeru-cy";
 },
 {
-pos = (463,0);
+pos = (443,0);
 ref = dieresiscomb;
 }
 );
-width = 1489;
+width = 1449;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -76,7 +75,7 @@ shapes = (
 ref = "yeru-cy";
 },
 {
-pos = (373,107);
+pos = (290,0);
 ref = dieresiscomb;
 }
 );
@@ -89,7 +88,7 @@ shapes = (
 ref = "yeru-cy";
 },
 {
-pos = (368,105);
+pos = (350,0);
 ref = dieresiscomb;
 }
 );
@@ -102,7 +101,7 @@ shapes = (
 ref = "yeru-cy";
 },
 {
-pos = (395,105);
+pos = (395,0);
 ref = dieresiscomb;
 }
 );
@@ -115,7 +114,7 @@ shapes = (
 ref = "yeru-cy";
 },
 {
-pos = (500,107);
+pos = (492,0);
 ref = dieresiscomb;
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = "yeru-cy";
 },
 {
-pos = (426,105);
+pos = (406,0);
 ref = dieresiscomb;
 }
 );
@@ -148,7 +147,7 @@ ref = dieresiscomb;
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1676;
+width = 1626;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -164,6 +163,5 @@ ref = dieresiscomb;
 width = 1914;
 }
 );
-subCategory = Lowercase;
 unicode = 1273;
 }

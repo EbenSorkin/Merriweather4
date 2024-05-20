@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = abrevetilde;
 kernLeft = a;
 kernRight = a;
@@ -11,7 +10,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (215,0);
+pos = (191,0);
 ref = brevecomb_tildecomb;
 }
 );
@@ -24,11 +23,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (239,0);
+pos = (202,0);
 ref = brevecomb_tildecomb;
 }
 );
-width = 1141;
+width = 1146;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -37,7 +36,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (198,0);
+pos = (184,0);
 ref = brevecomb_tildecomb;
 }
 );
@@ -50,7 +49,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (180,0);
+pos = (143,0);
 ref = brevecomb_tildecomb;
 }
 );
@@ -63,7 +62,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (173,0);
+pos = (149,0);
 ref = brevecomb_tildecomb;
 }
 );
@@ -76,7 +75,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (177,0);
+pos = (163,0);
 ref = brevecomb_tildecomb;
 }
 );
@@ -104,11 +103,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (217,0);
+pos = (199,0);
 ref = brevecomb_tildecomb;
 }
 );
-width = 888;
+width = 900;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -117,7 +116,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (231,0);
+pos = (227,0);
 ref = brevecomb_tildecomb;
 }
 );
@@ -130,7 +129,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (217,0);
+pos = (207,0);
 ref = brevecomb_tildecomb;
 }
 );
@@ -143,7 +142,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (248,0);
+pos = (214,0);
 ref = brevecomb_tildecomb;
 }
 );
@@ -159,13 +158,12 @@ shapes = (
 ref = a;
 },
 {
-pos = (235,0);
+pos = (198,0);
 ref = brevecomb_tildecomb;
 }
 );
 width = 1184;
 }
 );
-subCategory = Lowercase;
 unicode = 7861;
 }

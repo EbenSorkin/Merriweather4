@@ -1,5 +1,5 @@
 {
-color = 10;
+color = 5;
 glyphname = sdotbelow.sc;
 kernLeft = s.sc;
 kernRight = s.sc;
@@ -89,7 +89,7 @@ shapes = (
 ref = s.sc;
 },
 {
-pos = (447,0);
+pos = (341,0);
 ref = dotbelowcomb;
 }
 );
@@ -115,7 +115,7 @@ shapes = (
 ref = s.sc;
 },
 {
-pos = (414,0);
+pos = (397,0);
 ref = dotbelowcomb;
 }
 );
@@ -128,7 +128,7 @@ shapes = (
 ref = s.sc;
 },
 {
-pos = (403,0);
+pos = (421,0);
 ref = dotbelowcomb;
 }
 );

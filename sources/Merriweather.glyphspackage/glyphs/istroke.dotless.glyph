@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 5;
 glyphname = istroke.dotless;
 layers = (
 {
@@ -22,7 +22,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (30,11);
+pos = (37,11);
 ref = strokeshortcomb;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-23,-43);
+pos = (-16,-75);
 ref = strokeshortcomb;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-46,-55);
+pos = (-40,-77);
 ref = strokeshortcomb;
 }
 );
@@ -61,11 +61,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (128,0);
-ref = dotaccentcomb;
-},
-{
-pos = (-141,-3);
+pos = (-135,-3);
 ref = strokeshortcomb;
 }
 );
@@ -78,11 +74,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (94,0);
-ref = dotaccentcomb;
-},
-{
-pos = (-23,9);
+pos = (-18,9);
 ref = strokeshortcomb;
 }
 );
@@ -95,11 +87,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (119,0);
-ref = dotaccentcomb;
-},
-{
-pos = (2,-50);
+pos = (2,-80);
 ref = strokeshortcomb;
 }
 );
@@ -112,11 +100,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (68,0);
-ref = dotaccentcomb;
-},
-{
-pos = (15,-55);
+pos = (16,-85);
 ref = strokeshortcomb;
 }
 );
@@ -129,11 +113,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (183,0);
-ref = dotaccentcomb;
-},
-{
-pos = (-82,-3);
+pos = (-79,-3);
 ref = strokeshortcomb;
 }
 );
@@ -146,11 +126,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (154,0);
-ref = dotaccentcomb;
-},
-{
-pos = (50,11);
+pos = (59,11);
 ref = strokeshortcomb;
 }
 );
@@ -163,11 +139,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (120,0);
-ref = dotaccentcomb;
-},
-{
-pos = (-23,-43);
+pos = (-23,-70);
 ref = strokeshortcomb;
 }
 );
@@ -180,11 +152,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (95,0);
-ref = dotaccentcomb;
-},
-{
-pos = (-39,-54);
+pos = (-33,-77);
 ref = strokeshortcomb;
 }
 );

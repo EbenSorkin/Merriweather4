@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = uhorn;
 kernLeft = u;
 kernRight = uhorn;
@@ -17,7 +16,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (851,0);
+pos = (871,0);
 ref = horncomb;
 }
 );
@@ -36,7 +35,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (942,0);
+pos = (922,0);
 ref = horncomb;
 }
 );
@@ -74,7 +73,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (820,0);
+pos = (800,0);
 ref = horncomb;
 }
 );
@@ -93,7 +92,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (719,0);
+pos = (729,0);
 ref = horncomb;
 }
 );
@@ -112,7 +111,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (879,0);
+pos = (880,0);
 ref = horncomb;
 }
 );
@@ -131,7 +130,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (842,5);
+pos = (832,5);
 ref = horncomb;
 }
 );
@@ -150,7 +149,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (858,5);
+pos = (868,5);
 ref = horncomb;
 }
 );
@@ -229,7 +228,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (998,0);
+pos = (978,0);
 ref = horncomb;
 }
 );
@@ -238,6 +237,5 @@ width = 1318;
 );
 metricLeft = u;
 metricWidth = u;
-subCategory = Lowercase;
 unicode = 432;
 }

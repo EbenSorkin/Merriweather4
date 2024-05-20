@@ -1,5 +1,5 @@
 {
-color = 10;
+color = 5;
 glyphname = zstroke.sc;
 layers = (
 {
@@ -9,8 +9,8 @@ shapes = (
 ref = z.sc;
 },
 {
-pos = (19,-118);
-ref = midbar_part.;
+pos = (171,-667);
+ref = ascenderbar_part.;
 }
 );
 width = 1262;
@@ -22,8 +22,8 @@ shapes = (
 ref = z.sc;
 },
 {
-pos = (40,-116);
-ref = midbar_part.;
+pos = (91,-654);
+ref = ascenderbar_part.;
 }
 );
 width = 1266;
@@ -35,8 +35,8 @@ shapes = (
 ref = z.sc;
 },
 {
-pos = (22,-115);
-ref = midbar_part.;
+pos = (227,-667);
+ref = ascenderbar_part.;
 }
 );
 width = 1262;
@@ -48,8 +48,8 @@ shapes = (
 ref = z.sc;
 },
 {
-pos = (57,-115);
-ref = midbar_part.;
+pos = (90,-654);
+ref = ascenderbar_part.;
 }
 );
 width = 1266;
@@ -61,8 +61,8 @@ shapes = (
 ref = z.sc;
 },
 {
-pos = (27,-118);
-ref = midbar_part.;
+pos = (210,-667);
+ref = ascenderbar_part.;
 }
 );
 width = 1262;
@@ -74,8 +74,8 @@ shapes = (
 ref = z.sc;
 },
 {
-pos = (-1,-115);
-ref = midbar_part.;
+pos = (64,-654);
+ref = ascenderbar_part.;
 }
 );
 width = 1266;
@@ -87,8 +87,8 @@ shapes = (
 ref = z.sc;
 },
 {
-pos = (121,-112);
-ref = midbar_part.;
+pos = (149,-659);
+ref = ascenderbar_part.;
 }
 );
 width = 1188;
@@ -100,8 +100,8 @@ shapes = (
 ref = z.sc;
 },
 {
-pos = (46,-115);
-ref = midbar_part.;
+pos = (92,-629);
+ref = ascenderbar_part.;
 }
 );
 width = 1201;
@@ -113,8 +113,8 @@ shapes = (
 ref = z.sc;
 },
 {
-pos = (72,-115);
-ref = midbar_part.;
+pos = (150,-659);
+ref = ascenderbar_part.;
 }
 );
 width = 1101;
@@ -126,8 +126,8 @@ shapes = (
 ref = z.sc;
 },
 {
-pos = (-36,-115);
-ref = midbar_part.;
+pos = (50,-629);
+ref = ascenderbar_part.;
 }
 );
 width = 1027;
@@ -139,8 +139,8 @@ shapes = (
 ref = z.sc;
 },
 {
-pos = (123,-115);
-ref = midbar_part.;
+pos = (216,-659);
+ref = ascenderbar_part.;
 }
 );
 width = 1275;
@@ -152,8 +152,8 @@ shapes = (
 ref = z.sc;
 },
 {
-pos = (78,-117);
-ref = midbar_part.;
+pos = (174,-629);
+ref = ascenderbar_part.;
 }
 );
 width = 1258;

@@ -1,5 +1,4 @@
 {
-color = 9;
 glyphname = clickretroflex;
 layers = (
 {
@@ -63,7 +62,7 @@ shapes = (
 ref = exclam;
 }
 );
-width = 372;
+width = 392;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -81,7 +80,7 @@ shapes = (
 ref = exclam;
 }
 );
-width = 356;
+width = 366;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -99,7 +98,7 @@ shapes = (
 ref = exclam;
 }
 );
-width = 376;
+width = 396;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";

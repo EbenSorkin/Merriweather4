@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = "be-cy.loclSRB.sc";
 layers = (
 {
@@ -44,7 +45,7 @@ shapes = (
 ref = "be-cy.sc";
 }
 );
-width = 1209;
+width = 1211;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -53,7 +54,7 @@ shapes = (
 ref = "be-cy.sc";
 }
 );
-width = 1309;
+width = 1324;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -107,7 +108,7 @@ shapes = (
 ref = "be-cy.sc";
 }
 );
-width = 1367;
+width = 1375;
 }
 );
 }

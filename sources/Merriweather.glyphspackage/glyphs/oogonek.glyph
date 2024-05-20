@@ -1,6 +1,5 @@
 {
-category = Letter;
-color = 9;
+color = 5;
 glyphname = oogonek;
 kernLeft = o;
 kernRight = o;
@@ -77,7 +76,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (239,2);
+pos = (209,2);
 ref = ogonekcomb;
 }
 );
@@ -90,7 +89,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (235,-1);
+pos = (225,-1);
 ref = ogonekcomb;
 }
 );
@@ -103,7 +102,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (250,-1);
+pos = (243,-1);
 ref = ogonekcomb;
 }
 );
@@ -116,7 +115,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (309,2);
+pos = (309,4);
 ref = ogonekcomb;
 }
 );
@@ -129,7 +128,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (279,-1);
+pos = (279,3);
 ref = ogonekcomb;
 }
 );
@@ -142,7 +141,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (336,2);
+pos = (346,9);
 ref = ogonekcomb;
 }
 );
@@ -158,13 +157,12 @@ shapes = (
 ref = o;
 },
 {
-pos = (330,2);
+pos = (281,1);
 ref = ogonekcomb;
 }
 );
 width = 1301;
 }
 );
-subCategory = Lowercase;
 unicode = 491;
 }

@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 5;
 glyphname = adotbelow.sc;
 kernLeft = a.sc;
 kernRight = a.sc;
@@ -11,7 +11,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (539,0);
+pos = (525,0);
 ref = dotbelowcomb;
 }
 );
@@ -24,7 +24,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (489,0);
+pos = (446,0);
 ref = dotbelowcomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (435,0);
+pos = (395,0);
 ref = dotbelowcomb;
 }
 );
@@ -63,7 +63,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (487,0);
+pos = (473,0);
 ref = dotbelowcomb;
 }
 );
@@ -89,7 +89,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (415,0);
+pos = (377,0);
 ref = dotbelowcomb;
 }
 );
@@ -102,7 +102,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (503,0);
+pos = (463,0);
 ref = dotbelowcomb;
 }
 );
@@ -128,11 +128,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (527,0);
+pos = (501,0);
 ref = dotbelowcomb;
 }
 );
-width = 1270;
+width = 1275;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -141,7 +141,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (576,0);
+pos = (556,0);
 ref = dotbelowcomb;
 }
 );
@@ -157,7 +157,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (507,0);
+pos = (465,0);
 ref = dotbelowcomb;
 }
 );

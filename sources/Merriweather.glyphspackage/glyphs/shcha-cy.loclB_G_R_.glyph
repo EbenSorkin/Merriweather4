@@ -1,5 +1,5 @@
 {
-category = Letter;
+color = 3;
 glyphname = "shcha-cy.loclBGR";
 kernLeft = u;
 kernRight = u;
@@ -89,7 +89,7 @@ shapes = (
 ref = "sha-cy.loclBGR";
 },
 {
-pos = (1265,0);
+pos = (1286,0);
 ref = righttooth_part.;
 }
 );
@@ -168,5 +168,4 @@ width = 1942;
 );
 metricLeft = u;
 metricRight = "pe-cy";
-subCategory = Lowercase;
 }

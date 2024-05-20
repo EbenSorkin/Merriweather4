@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = ecircumflexbelow.sc;
 layers = (
 {
@@ -8,11 +9,11 @@ shapes = (
 ref = e.sc;
 },
 {
-pos = (250,0);
+pos = (270,0);
 ref = circumflexbelowcomb;
 }
 );
-width = 1201;
+width = 1215;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -21,11 +22,11 @@ shapes = (
 ref = e.sc;
 },
 {
-pos = (238,0);
+pos = (233,0);
 ref = circumflexbelowcomb;
 }
 );
-width = 1283;
+width = 1286;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -34,11 +35,11 @@ shapes = (
 ref = e.sc;
 },
 {
-pos = (239,0);
+pos = (244,0);
 ref = circumflexbelowcomb;
 }
 );
-width = 1103;
+width = 1118;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -47,11 +48,11 @@ shapes = (
 ref = e.sc;
 },
 {
-pos = (232,0);
+pos = (219,0);
 ref = circumflexbelowcomb;
 }
 );
-width = 1141;
+width = 1158;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -60,11 +61,11 @@ shapes = (
 ref = e.sc;
 },
 {
-pos = (200,0);
+pos = (227,0);
 ref = circumflexbelowcomb;
 }
 );
-width = 1221;
+width = 1228;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -73,7 +74,7 @@ shapes = (
 ref = e.sc;
 },
 {
-pos = (207,0);
+pos = (240,0);
 ref = circumflexbelowcomb;
 }
 );
@@ -86,11 +87,11 @@ shapes = (
 ref = e.sc;
 },
 {
-pos = (321,1);
+pos = (345,1);
 ref = circumflexbelowcomb;
 }
 );
-width = 1110;
+width = 1134;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -99,11 +100,11 @@ shapes = (
 ref = e.sc;
 },
 {
-pos = (267,0);
+pos = (287,0);
 ref = circumflexbelowcomb;
 }
 );
-width = 1227;
+width = 1247;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -112,11 +113,11 @@ shapes = (
 ref = e.sc;
 },
 {
-pos = (309,0);
+pos = (265,0);
 ref = circumflexbelowcomb;
 }
 );
-width = 1036;
+width = 1044;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -125,7 +126,7 @@ shapes = (
 ref = e.sc;
 },
 {
-pos = (220,0);
+pos = (250,0);
 ref = circumflexbelowcomb;
 }
 );
@@ -138,11 +139,11 @@ shapes = (
 ref = e.sc;
 },
 {
-pos = (243,0);
+pos = (250,0);
 ref = circumflexbelowcomb;
 }
 );
-width = 1144;
+width = 1151;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -151,11 +152,11 @@ shapes = (
 ref = e.sc;
 },
 {
-pos = (222,0);
+pos = (232,0);
 ref = circumflexbelowcomb;
 }
 );
-width = 1291;
+width = 1301;
 }
 );
 }

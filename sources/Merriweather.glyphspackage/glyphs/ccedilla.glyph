@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = ccedilla;
 kernLeft = o;
 kernRight = c;
@@ -332,6 +331,5 @@ ref = cedillacomb;
 width = 1059;
 }
 );
-subCategory = Lowercase;
 unicode = 231;
 }

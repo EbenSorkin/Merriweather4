@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "iebreve-cy";
 kernLeft = o;
 kernRight = e;
@@ -11,7 +10,7 @@ shapes = (
 ref = "ie-cy";
 },
 {
-pos = (173,0);
+pos = (207,0);
 ref = "brevecomb-cy";
 }
 );
@@ -24,7 +23,7 @@ shapes = (
 ref = "ie-cy";
 },
 {
-pos = (150,1);
+pos = (161,0);
 ref = "brevecomb-cy";
 }
 );
@@ -37,7 +36,7 @@ shapes = (
 ref = "ie-cy";
 },
 {
-pos = (152,-105);
+pos = (152,0);
 ref = "brevecomb-cy";
 }
 );
@@ -50,7 +49,7 @@ shapes = (
 ref = "ie-cy";
 },
 {
-pos = (106,2);
+pos = (109,0);
 ref = "brevecomb-cy";
 }
 );
@@ -76,7 +75,7 @@ shapes = (
 ref = "ie-cy";
 },
 {
-pos = (142,-105);
+pos = (142,0);
 ref = "brevecomb-cy";
 }
 );
@@ -89,7 +88,7 @@ shapes = (
 ref = "ie-cy";
 },
 {
-pos = (186,-105);
+pos = (186,0);
 ref = "brevecomb-cy";
 }
 );
@@ -102,7 +101,7 @@ shapes = (
 ref = "ie-cy";
 },
 {
-pos = (207,-105);
+pos = (207,0);
 ref = "brevecomb-cy";
 }
 );
@@ -115,7 +114,7 @@ shapes = (
 ref = "ie-cy";
 },
 {
-pos = (138,-105);
+pos = (188,0);
 ref = "brevecomb-cy";
 }
 );
@@ -128,7 +127,7 @@ shapes = (
 ref = "ie-cy";
 },
 {
-pos = (172,-105);
+pos = (212,0);
 ref = "brevecomb-cy";
 }
 );
@@ -141,7 +140,7 @@ shapes = (
 ref = "ie-cy";
 },
 {
-pos = (174,0);
+pos = (225,0);
 ref = "brevecomb-cy";
 }
 );
@@ -157,13 +156,12 @@ shapes = (
 ref = "ie-cy";
 },
 {
-pos = (129,2);
+pos = (179,0);
 ref = "brevecomb-cy";
 }
 );
 width = 1162;
 }
 );
-subCategory = Lowercase;
 unicode = 1239;
 }

@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = uogonek.sc;
 kernLeft = u.sc;
 kernRight = u.sc;
@@ -10,7 +11,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (317,10);
+pos = (493,20);
 ref = ogonekcomb;
 }
 );
@@ -70,7 +71,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (282,10);
+pos = (458,20);
 ref = ogonekcomb;
 }
 );
@@ -180,7 +181,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (297,10);
+pos = (493,20);
 ref = ogonekcomb;
 }
 );

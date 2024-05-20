@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = acircumflexacute;
 kernLeft = a;
 kernRight = a;
@@ -24,11 +23,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (202,2);
+pos = (207,2);
 ref = circumflexcomb_acutecomb;
 }
 );
-width = 1141;
+width = 1146;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -104,11 +103,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (176,0);
+pos = (188,0);
 ref = circumflexcomb_acutecomb;
 }
 );
-width = 888;
+width = 900;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -143,7 +142,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (212,0);
+pos = (202,0);
 ref = circumflexcomb_acutecomb;
 }
 );
@@ -166,6 +165,5 @@ ref = circumflexcomb_acutecomb;
 width = 1184;
 }
 );
-subCategory = Lowercase;
 unicode = 7845;
 }

@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = oslash.sc;
 kernLeft = o.sc;
 kernRight = o.sc;
@@ -10,7 +11,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (-2,3);
+pos = (6,5);
 ref = slashocomb.sc;
 }
 );
@@ -22,7 +23,7 @@ weight = 2;
 width = 96;
 };
 };
-width = 1324;
+width = 1344;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -31,7 +32,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (28,5);
+pos = (26,5);
 ref = slashocomb.sc;
 }
 );
@@ -44,7 +45,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (12,7);
+pos = (12,4);
 ref = slashocomb.sc;
 }
 );
@@ -70,7 +71,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (-97,3);
+pos = (-97,7);
 ref = slashocomb.sc;
 }
 );
@@ -91,7 +92,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (-74,7);
+pos = (-74,3);
 ref = slashocomb.sc;
 }
 );
@@ -104,7 +105,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (-110,7);
+pos = (-111,2);
 ref = slashocomb.sc;
 }
 );
@@ -125,7 +126,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (1,7);
+pos = (0,2);
 ref = slashocomb.sc;
 }
 );
@@ -146,7 +147,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (28,7);
+pos = (28,3);
 ref = slashocomb.sc;
 }
 );
@@ -159,7 +160,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (5,7);
+pos = (3,2);
 ref = slashocomb.sc;
 }
 );
@@ -180,7 +181,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (24,3);
+pos = (24,6);
 ref = slashocomb.sc;
 }
 );
@@ -202,7 +203,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (44,5);
+pos = (65,5);
 ref = slashocomb.sc;
 }
 );

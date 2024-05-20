@@ -1,5 +1,4 @@
 {
-category = Letter;
 color = 3;
 glyphname = rcommaaccent;
 kernLeft = n;
@@ -25,7 +24,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (197,0);
+pos = (188,0);
 ref = commaaccentcomb;
 }
 );
@@ -51,7 +50,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (145,0);
+pos = (153,0);
 ref = commaaccentcomb;
 }
 );
@@ -77,7 +76,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (117,0);
+pos = (107,0);
 ref = commaaccentcomb;
 }
 );
@@ -158,13 +157,12 @@ shapes = (
 ref = r;
 },
 {
-pos = (172,0);
+pos = (180,0);
 ref = commaaccentcomb;
 }
 );
 width = 923;
 }
 );
-subCategory = Lowercase;
 unicode = 343;
 }

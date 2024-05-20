@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = wring.sc;
 layers = (
 {
@@ -8,7 +9,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (553,162);
+pos = (553,182);
 ref = ringcomb;
 }
 );
@@ -21,7 +22,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (542,89);
+pos = (554,109);
 ref = ringcomb;
 }
 );
@@ -34,7 +35,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (606,162);
+pos = (506,182);
 ref = ringcomb;
 }
 );
@@ -47,7 +48,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (571,160);
+pos = (435,180);
 ref = ringcomb;
 }
 );
@@ -60,7 +61,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (724,162);
+pos = (661,182);
 ref = ringcomb;
 }
 );
@@ -73,7 +74,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (681,160);
+pos = (561,180);
 ref = ringcomb;
 }
 );
@@ -86,7 +87,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (695,337);
+pos = (560,287);
 ref = ringcomb;
 }
 );
@@ -99,7 +100,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (675,358);
+pos = (704,287);
 ref = ringcomb;
 }
 );
@@ -112,7 +113,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (499,337);
+pos = (498,287);
 ref = ringcomb;
 }
 );
@@ -125,7 +126,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (672,358);
+pos = (599,287);
 ref = ringcomb;
 }
 );
@@ -138,7 +139,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (732,337);
+pos = (597,287);
 ref = ringcomb;
 }
 );
@@ -151,7 +152,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (707,358);
+pos = (761,287);
 ref = ringcomb;
 }
 );

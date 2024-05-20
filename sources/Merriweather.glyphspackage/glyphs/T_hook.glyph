@@ -1,11 +1,12 @@
 {
+color = 4;
 glyphname = Thook;
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (720,0);
+pos = (717,0);
 },
 {
 name = bottomright;
@@ -17,7 +18,7 @@ pos = (714,684);
 },
 {
 name = top;
-pos = (717,1486);
+pos = (714,1486);
 }
 );
 layerId = UUID0;

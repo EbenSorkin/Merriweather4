@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = rdblgrave.sc;
 kernLeft = h.sc;
 kernRight = r.sc;
@@ -10,7 +11,7 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (102,162);
+pos = (-50,182);
 ref = dblgravecomb;
 }
 );
@@ -23,11 +24,11 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (74,160);
+pos = (-71,180);
 ref = dblgravecomb;
 }
 );
-width = 1421;
+width = 1416;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -36,11 +37,11 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (84,358);
+pos = (-32,287);
 ref = dblgravecomb;
 }
 );
-width = 1362;
+width = 1382;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -49,11 +50,11 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (62,160);
+pos = (-114,180);
 ref = dblgravecomb;
 }
 );
-width = 1297;
+width = 1314;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -62,11 +63,11 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (104,162);
+pos = (12,182);
 ref = dblgravecomb;
 }
 );
-width = 1287;
+width = 1263;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -75,7 +76,7 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (158,358);
+pos = (-55,287);
 ref = dblgravecomb;
 }
 );
@@ -88,11 +89,11 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (106,358);
+pos = (-58,287);
 ref = dblgravecomb;
 }
 );
-width = 1044;
+width = 1052;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -101,11 +102,11 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (104,358);
+pos = (-13,287);
 ref = dblgravecomb;
 }
 );
-width = 1158;
+width = 1182;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -114,11 +115,11 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (121,358);
+pos = (-8,287);
 ref = dblgravecomb;
 }
 );
-width = 1418;
+width = 1428;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -127,11 +128,11 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (45,358);
+pos = (-60,287);
 ref = dblgravecomb;
 }
 );
-width = 1226;
+width = 1233;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -140,14 +141,14 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (100,162);
+pos = (-43,182);
 ref = dblgravecomb;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1270;
+width = 1277;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -156,7 +157,7 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (87,160);
+pos = (-81,180);
 ref = dblgravecomb;
 }
 );

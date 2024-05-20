@@ -1,6 +1,5 @@
 {
-category = Letter;
-color = 9;
+color = 5;
 glyphname = gstroke;
 kernLeft = g;
 kernRight = g;
@@ -117,7 +116,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (-161,-1008);
+pos = (-161,-1022);
 ref = glongbar_part.;
 }
 );
@@ -235,7 +234,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (-120,-1008);
+pos = (-120,-1012);
 ref = glongbar_part.;
 }
 );
@@ -353,7 +352,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (-127,-1058);
+pos = (-126,-1069);
 ref = glongbar_part.;
 }
 );
@@ -471,7 +470,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (-190,-1008);
+pos = (-190,-1012);
 ref = glongbar_part.;
 }
 );
@@ -589,7 +588,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (-200,-1008);
+pos = (-200,-1022);
 ref = glongbar_part.;
 }
 );
@@ -602,7 +601,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (-207,-1058);
+pos = (-207,-1062);
 ref = glongbar_part.;
 }
 );
@@ -720,7 +719,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (-244,-1018);
+pos = (-244,-1022);
 ref = glongbar_part.;
 }
 );
@@ -838,7 +837,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (-187,-1018);
+pos = (-187,-1022);
 ref = glongbar_part.;
 }
 );
@@ -851,7 +850,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (-127,-1058);
+pos = (-127,-1062);
 ref = glongbar_part.;
 }
 );
@@ -864,7 +863,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (-187,-1018);
+pos = (-175,-1022);
 ref = glongbar_part.;
 }
 );
@@ -877,7 +876,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (-131,-1008);
+pos = (-131,-1022);
 ref = glongbar_part.;
 }
 );
@@ -893,7 +892,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (-101,-1008);
+pos = (-101,-1012);
 ref = glongbar_part.;
 }
 );
@@ -901,6 +900,5 @@ width = 1308;
 }
 );
 metricWidth = g;
-subCategory = Lowercase;
 unicode = 485;
 }

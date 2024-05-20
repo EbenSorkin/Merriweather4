@@ -1,5 +1,4 @@
 {
-color = 1;
 glyphname = brevebelowcomb.case;
 kernLeft = brevecomb;
 kernRight = brevecomb;

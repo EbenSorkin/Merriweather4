@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 5;
 glyphname = btopbar.sc;
 layers = (
 {
@@ -81,7 +81,7 @@ shapes = (
 ref = "be-cy.sc";
 }
 );
-width = 1209;
+width = 1211;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -90,7 +90,7 @@ shapes = (
 ref = "be-cy.sc";
 }
 );
-width = 1309;
+width = 1324;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -108,7 +108,7 @@ shapes = (
 ref = "be-cy.sc";
 }
 );
-width = 1367;
+width = 1375;
 }
 );
 }

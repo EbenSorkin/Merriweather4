@@ -58,7 +58,7 @@ pos = (1092,0);
 ref = periodcentered.loclCAT.case;
 }
 );
-width = 1489;
+width = 1529;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -96,11 +96,11 @@ ref = L;
 },
 {
 alignment = 1;
-pos = (1050,0);
+pos = (1090,0);
 ref = periodcentered.loclCAT.case;
 }
 );
-width = 1262;
+width = 1302;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";

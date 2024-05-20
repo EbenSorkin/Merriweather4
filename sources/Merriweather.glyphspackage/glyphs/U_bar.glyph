@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 5;
 glyphname = Ubar;
 kernLeft = Ubar;
 kernRight = Ubar;
@@ -55,7 +55,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (3,-102);
+pos = (3,-4);
 ref = caplongbar_part.;
 }
 );
@@ -147,7 +147,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (-74,-102);
+pos = (-90,-4);
 ref = caplongbar_part.;
 }
 );
@@ -173,7 +173,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (38,-102);
+pos = (31,-4);
 ref = caplongbar_part.;
 }
 );
@@ -348,7 +348,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (-50,-102);
+pos = (-45,-110);
 ref = caplongbar_part.;
 }
 );
@@ -361,7 +361,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (42,-102);
+pos = (31,-102);
 ref = caplongbar_part.;
 }
 );

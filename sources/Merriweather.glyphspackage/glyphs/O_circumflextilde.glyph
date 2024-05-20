@@ -156,7 +156,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (388,0);
+pos = (387,0);
 ref = circumflexcomb_tildecomb.case;
 }
 );

@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = sacutedotaccent.sc;
 kernLeft = s.sc;
 kernRight = s.sc;
@@ -10,12 +11,8 @@ shapes = (
 ref = s.sc;
 },
 {
-pos = (481,162);
-ref = acutecomb;
-},
-{
-pos = (585,790);
-ref = dotaccentcomb;
+pos = (285,182);
+ref = acutecomb_dotaccentcomb;
 }
 );
 width = 1124;
@@ -27,12 +24,8 @@ shapes = (
 ref = s.sc;
 },
 {
-pos = (390,160);
-ref = acutecomb;
-},
-{
-pos = (468,835);
-ref = dotaccentcomb;
+pos = (226,180);
+ref = acutecomb_dotaccentcomb;
 }
 );
 width = 1084;
@@ -44,12 +37,8 @@ shapes = (
 ref = s.sc;
 },
 {
-pos = (430,335);
-ref = acutecomb;
-},
-{
-pos = (498,931);
-ref = dotaccentcomb;
+pos = (324,287);
+ref = acutecomb_dotaccentcomb;
 }
 );
 width = 1154;
@@ -61,12 +50,8 @@ shapes = (
 ref = s.sc;
 },
 {
-pos = (334,160);
-ref = acutecomb;
-},
-{
-pos = (389,831);
-ref = dotaccentcomb;
+pos = (167,180);
+ref = acutecomb_dotaccentcomb;
 }
 );
 width = 986;
@@ -78,12 +63,8 @@ shapes = (
 ref = s.sc;
 },
 {
-pos = (384,162);
-ref = acutecomb;
-},
-{
-pos = (463,790);
-ref = dotaccentcomb;
+pos = (287,182);
+ref = acutecomb_dotaccentcomb;
 }
 );
 width = 998;
@@ -95,12 +76,8 @@ shapes = (
 ref = s.sc;
 },
 {
-pos = (376,355);
-ref = acutecomb;
-},
-{
-pos = (423,951);
-ref = dotaccentcomb;
+pos = (279,287);
+ref = acutecomb_dotaccentcomb;
 }
 );
 width = 1028;
@@ -112,12 +89,8 @@ shapes = (
 ref = s.sc;
 },
 {
-pos = (379,355);
-ref = acutecomb;
-},
-{
-pos = (459,927);
-ref = dotaccentcomb;
+pos = (253,287);
+ref = acutecomb_dotaccentcomb;
 }
 );
 width = 939;
@@ -129,12 +102,8 @@ shapes = (
 ref = s.sc;
 },
 {
-pos = (381,355);
-ref = acutecomb;
-},
-{
-pos = (461,927);
-ref = dotaccentcomb;
+pos = (250,287);
+ref = acutecomb_dotaccentcomb;
 }
 );
 width = 956;
@@ -146,12 +115,8 @@ shapes = (
 ref = s.sc;
 },
 {
-pos = (475,355);
-ref = acutecomb;
-},
-{
-pos = (560,951);
-ref = dotaccentcomb;
+pos = (411,287);
+ref = acutecomb_dotaccentcomb;
 }
 );
 width = 1150;
@@ -163,12 +128,8 @@ shapes = (
 ref = s.sc;
 },
 {
-pos = (405,355);
-ref = acutecomb;
-},
-{
-pos = (507,927);
-ref = dotaccentcomb;
+pos = (252,287);
+ref = acutecomb_dotaccentcomb;
 }
 );
 width = 1051;
@@ -180,12 +141,8 @@ shapes = (
 ref = s.sc;
 },
 {
-pos = (389,162);
-ref = acutecomb;
-},
-{
-pos = (513,790);
-ref = dotaccentcomb;
+pos = (307,182);
+ref = acutecomb_dotaccentcomb;
 }
 );
 userData = {
@@ -200,12 +157,8 @@ shapes = (
 ref = s.sc;
 },
 {
-pos = (453,160);
-ref = acutecomb;
-},
-{
-pos = (553,831);
-ref = dotaccentcomb;
+pos = (273,180);
+ref = acutecomb_dotaccentcomb;
 }
 );
 width = 1180;

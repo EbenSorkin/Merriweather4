@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = ncommaaccent;
 kernLeft = n;
 kernRight = n;
@@ -24,7 +23,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (552,0);
+pos = (543,0);
 ref = commaaccentcomb;
 }
 );
@@ -50,7 +49,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (434,0);
+pos = (442,0);
 ref = commaaccentcomb;
 }
 );
@@ -67,7 +66,7 @@ pos = (428,0);
 ref = commaaccentcomb;
 }
 );
-width = 1093;
+width = 1073;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -76,7 +75,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (375,0);
+pos = (365,0);
 ref = commaaccentcomb;
 }
 );
@@ -102,7 +101,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (485,0);
+pos = (425,0);
 ref = commaaccentcomb;
 }
 );
@@ -148,7 +147,7 @@ ref = commaaccentcomb;
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1329;
+width = 1309;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -157,13 +156,12 @@ shapes = (
 ref = n;
 },
 {
-pos = (557,0);
+pos = (573,0);
 ref = commaaccentcomb;
 }
 );
 width = 1426;
 }
 );
-subCategory = Lowercase;
 unicode = 326;
 }

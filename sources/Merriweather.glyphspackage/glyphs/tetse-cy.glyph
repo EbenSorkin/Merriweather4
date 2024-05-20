@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "tetse-cy";
 kernLeft = "te-cy";
 kernRight = "pe-cy";
@@ -459,6 +458,5 @@ width = 2041;
 );
 metricLeft = "te-cy";
 metricRight = "de-cy";
-subCategory = Lowercase;
 unicode = 1205;
 }

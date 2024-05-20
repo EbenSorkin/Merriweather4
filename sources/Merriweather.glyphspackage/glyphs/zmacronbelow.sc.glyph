@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = zmacronbelow.sc;
 layers = (
 {
@@ -21,7 +22,7 @@ shapes = (
 ref = z.sc;
 },
 {
-pos = (1020,0);
+pos = (1021,0);
 ref = macronbelowcomb;
 }
 );
@@ -47,7 +48,7 @@ shapes = (
 ref = z.sc;
 },
 {
-pos = (1051,0);
+pos = (1052,0);
 ref = macronbelowcomb;
 }
 );
@@ -60,7 +61,7 @@ shapes = (
 ref = z.sc;
 },
 {
-pos = (1051,0);
+pos = (1041,0);
 ref = macronbelowcomb;
 }
 );
@@ -73,7 +74,7 @@ shapes = (
 ref = z.sc;
 },
 {
-pos = (1011,0);
+pos = (982,0);
 ref = macronbelowcomb;
 }
 );
@@ -86,7 +87,7 @@ shapes = (
 ref = z.sc;
 },
 {
-pos = (1092,0);
+pos = (1082,0);
 ref = macronbelowcomb;
 }
 );
@@ -99,7 +100,7 @@ shapes = (
 ref = z.sc;
 },
 {
-pos = (1013,0);
+pos = (1002,0);
 ref = macronbelowcomb;
 }
 );
@@ -112,7 +113,7 @@ shapes = (
 ref = z.sc;
 },
 {
-pos = (1067,0);
+pos = (1054,0);
 ref = macronbelowcomb;
 }
 );
@@ -125,7 +126,7 @@ shapes = (
 ref = z.sc;
 },
 {
-pos = (1000,0);
+pos = (942,0);
 ref = macronbelowcomb;
 }
 );
@@ -138,7 +139,7 @@ shapes = (
 ref = z.sc;
 },
 {
-pos = (1117,0);
+pos = (1102,0);
 ref = macronbelowcomb;
 }
 );
@@ -151,7 +152,7 @@ shapes = (
 ref = z.sc;
 },
 {
-pos = (1052,0);
+pos = (1012,0);
 ref = macronbelowcomb;
 }
 );

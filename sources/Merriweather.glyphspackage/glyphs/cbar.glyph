@@ -1,5 +1,5 @@
 {
-color = 2;
+color = 5;
 glyphname = cbar;
 layers = (
 {
@@ -12,7 +12,7 @@ ref = c;
 },
 {
 anchor = strokebar;
-pos = (-90,-172);
+pos = (-85,-199);
 ref = shortbar_part.;
 }
 );
@@ -28,7 +28,7 @@ ref = c;
 },
 {
 anchor = strokebar;
-pos = (-156,-172);
+pos = (-75,-202);
 ref = shortbar_part.;
 }
 );
@@ -41,7 +41,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (-131,-168);
+pos = (-131,-193);
 ref = shortbar_part.;
 }
 );
@@ -54,7 +54,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (-159,-172);
+pos = (-119,-194);
 ref = shortbar_part.;
 }
 );
@@ -67,7 +67,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (-151,-172);
+pos = (-151,-195);
 ref = shortbar_part.;
 }
 );
@@ -80,7 +80,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (-261,-171);
+pos = (-196,-191);
 ref = shortbar_part.;
 }
 );
@@ -96,7 +96,7 @@ ref = c;
 },
 {
 anchor = strokebar;
-pos = (-5,-232);
+pos = (33,-272);
 ref = shortbar_part.;
 }
 );
@@ -112,7 +112,7 @@ ref = c;
 },
 {
 anchor = strokebar;
-pos = (-171,-233);
+pos = (-81,-271);
 ref = shortbar_part.;
 }
 );
@@ -125,7 +125,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (-139,-233);
+pos = (-101,-233);
 ref = shortbar_part.;
 }
 );
@@ -138,7 +138,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (-191,-233);
+pos = (-101,-270);
 ref = shortbar_part.;
 }
 );
@@ -151,7 +151,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (-149,-233);
+pos = (-111,-236);
 ref = shortbar_part.;
 }
 );
@@ -164,7 +164,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (-199,-233);
+pos = (-149,-273);
 ref = shortbar_part.;
 }
 );

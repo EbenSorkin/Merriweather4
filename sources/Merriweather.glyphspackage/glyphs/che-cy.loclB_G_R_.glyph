@@ -1,5 +1,5 @@
 {
-category = Letter;
+color = 3;
 glyphname = "che-cy.loclBGR";
 kernLeft = "che-cy";
 kernRight = "che-cy";
@@ -526,5 +526,4 @@ width = 1309;
 );
 metricLeft = u;
 metricRight = "pe-cy";
-subCategory = Lowercase;
 }

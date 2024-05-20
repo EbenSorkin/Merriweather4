@@ -10,7 +10,7 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (303,0);
+pos = (209,0);
 ref = dieresiscomb.case;
 }
 );
@@ -23,7 +23,7 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (294,0);
+pos = (154,0);
 ref = dieresiscomb.case;
 }
 );
@@ -36,7 +36,7 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (273,0);
+pos = (149,0);
 ref = dieresiscomb.case;
 }
 );
@@ -49,7 +49,7 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (256,0);
+pos = (99,0);
 ref = dieresiscomb.case;
 }
 );
@@ -62,7 +62,7 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (250,0);
+pos = (201,0);
 ref = dieresiscomb.case;
 }
 );
@@ -75,7 +75,7 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (231,0);
+pos = (110,0);
 ref = dieresiscomb.case;
 }
 );
@@ -88,7 +88,7 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (298,0);
+pos = (178,0);
 ref = dieresiscomb.case;
 }
 );
@@ -101,11 +101,11 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (341,0);
+pos = (217,0);
 ref = dieresiscomb.case;
 }
 );
-width = 1300;
+width = 1303;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -114,7 +114,7 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (300,0);
+pos = (226,0);
 ref = dieresiscomb.case;
 }
 );
@@ -127,11 +127,11 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (378,0);
+pos = (252,0);
 ref = dieresiscomb.case;
 }
 );
-width = 1398;
+width = 1402;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -140,7 +140,7 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (375,0);
+pos = (351,0);
 ref = dieresiscomb.case;
 }
 );
@@ -156,7 +156,7 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (368,0);
+pos = (262,0);
 ref = dieresiscomb.case;
 }
 );

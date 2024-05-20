@@ -101,11 +101,11 @@ shapes = (
 ref = "Ii-cy";
 },
 {
-pos = (424,0);
+pos = (427,0);
 ref = "brevecomb-cy.case";
 }
 );
-width = 1417;
+width = 1423;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -127,11 +127,11 @@ shapes = (
 ref = "Ii-cy";
 },
 {
-pos = (451,0);
+pos = (455,0);
 ref = "brevecomb-cy.case";
 }
 );
-width = 1501;
+width = 1509;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";

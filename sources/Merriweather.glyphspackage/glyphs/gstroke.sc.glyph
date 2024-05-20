@@ -1,5 +1,5 @@
 {
-color = 10;
+color = 5;
 glyphname = gstroke.sc;
 kernLeft = o.sc;
 kernRight = g.sc;
@@ -11,7 +11,7 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (638,-415);
+pos = (648,-415);
 ref = shortbar_part.;
 }
 );
@@ -23,7 +23,7 @@ weight = 2;
 width = 96;
 };
 };
-width = 1380;
+width = 1390;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -32,7 +32,7 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (647,-415);
+pos = (647,-420);
 ref = shortbar_part.;
 }
 );
@@ -58,7 +58,7 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (681,-415);
+pos = (546,-412);
 ref = shortbar_part.;
 }
 );
@@ -71,7 +71,7 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (612,-411);
+pos = (443,-397);
 ref = shortbar_part.;
 }
 );
@@ -92,7 +92,7 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (500,-412);
+pos = (500,-408);
 ref = shortbar_part.;
 }
 );
@@ -126,7 +126,7 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (724,-414);
+pos = (764,-414);
 ref = shortbar_part.;
 }
 );
@@ -147,7 +147,7 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (612,-415);
+pos = (627,-415);
 ref = shortbar_part.;
 }
 );
@@ -160,7 +160,7 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (672,-415);
+pos = (727,-416);
 ref = shortbar_part.;
 }
 );
@@ -181,7 +181,7 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (578,-415);
+pos = (578,-413);
 ref = shortbar_part.;
 }
 );
@@ -203,7 +203,7 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (540,-415);
+pos = (601,-415);
 ref = shortbar_part.;
 }
 );

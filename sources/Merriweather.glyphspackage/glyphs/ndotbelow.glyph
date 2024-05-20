@@ -1,5 +1,4 @@
 {
-category = Letter;
 color = 3;
 glyphname = ndotbelow;
 kernLeft = n;
@@ -68,7 +67,7 @@ pos = (418,0);
 ref = dotbelowcomb;
 }
 );
-width = 1093;
+width = 1073;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -103,7 +102,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (478,0);
+pos = (418,0);
 ref = dotbelowcomb;
 }
 );
@@ -149,7 +148,7 @@ ref = dotbelowcomb;
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1329;
+width = 1309;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -158,13 +157,12 @@ shapes = (
 ref = n;
 },
 {
-pos = (522,0);
+pos = (530,0);
 ref = dotbelowcomb;
 }
 );
 width = 1426;
 }
 );
-subCategory = Lowercase;
 unicode = 7751;
 }

@@ -1,5 +1,5 @@
 {
-category = Letter;
+color = 5;
 glyphname = udotbelow;
 kernLeft = u;
 kernRight = u;
@@ -164,6 +164,5 @@ ref = dotbelowcomb;
 width = 1318;
 }
 );
-subCategory = Lowercase;
 unicode = 7909;
 }

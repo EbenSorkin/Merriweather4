@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 5;
 glyphname = xdieresis;
 layers = (
 {
@@ -35,7 +35,7 @@ shapes = (
 ref = x;
 },
 {
-pos = (155,0);
+pos = (175,0);
 ref = dieresiscomb;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = x;
 },
 {
-pos = (134,0);
+pos = (144,0);
 ref = dieresiscomb;
 }
 );
@@ -61,7 +61,7 @@ shapes = (
 ref = x;
 },
 {
-pos = (267,0);
+pos = (277,0);
 ref = dieresiscomb;
 }
 );
@@ -74,7 +74,7 @@ shapes = (
 ref = x;
 },
 {
-pos = (221,0);
+pos = (230,0);
 ref = dieresiscomb;
 }
 );
@@ -87,7 +87,7 @@ shapes = (
 ref = x;
 },
 {
-pos = (226,0);
+pos = (235,0);
 ref = dieresiscomb;
 }
 );
@@ -113,7 +113,7 @@ shapes = (
 ref = x;
 },
 {
-pos = (168,0);
+pos = (188,0);
 ref = dieresiscomb;
 }
 );
@@ -126,7 +126,7 @@ shapes = (
 ref = x;
 },
 {
-pos = (96,0);
+pos = (39,0);
 ref = dieresiscomb;
 }
 );
@@ -139,7 +139,7 @@ shapes = (
 ref = x;
 },
 {
-pos = (247,0);
+pos = (246,0);
 ref = dieresiscomb;
 }
 );
@@ -152,7 +152,7 @@ shapes = (
 ref = x;
 },
 {
-pos = (160,0);
+pos = (158,0);
 ref = dieresiscomb;
 }
 );

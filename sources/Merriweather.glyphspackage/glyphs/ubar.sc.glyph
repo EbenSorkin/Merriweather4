@@ -1,5 +1,5 @@
 {
-color = 3;
+color = 5;
 glyphname = ubar.sc;
 layers = (
 {
@@ -123,7 +123,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (-77,-132);
+pos = (-72,-132);
 ref = caplongbar_part.;
 }
 );
@@ -149,7 +149,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (-77,-132);
+pos = (-27,-132);
 ref = caplongbar_part.;
 }
 );
@@ -162,7 +162,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (-83,-132);
+pos = (-16,-132);
 ref = caplongbar_part.;
 }
 );
@@ -298,7 +298,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (-13,-132);
+pos = (-15,-132);
 ref = caplongbar_part.;
 }
 );
@@ -311,7 +311,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (-3,-132);
+pos = (-110,-127);
 ref = caplongbar_part.;
 }
 );
@@ -324,7 +324,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (-13,-132);
+pos = (-48,-140);
 ref = caplongbar_part.;
 }
 );
@@ -337,7 +337,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (-3,-132);
+pos = (17,-132);
 ref = caplongbar_part.;
 }
 );
@@ -350,7 +350,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (-13,-132);
+pos = (-3,-132);
 ref = caplongbar_part.;
 }
 );

@@ -1,5 +1,4 @@
 {
-category = Letter;
 glyphname = "je-cy";
 kernLeft = j;
 kernRight = i;
@@ -116,6 +115,5 @@ ref = j;
 width = 712;
 }
 );
-subCategory = Lowercase;
 unicode = 1112;
 }
