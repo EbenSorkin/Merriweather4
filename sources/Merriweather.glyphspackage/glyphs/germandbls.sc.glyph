@@ -1,5 +1,5 @@
 {
-category = Letter;
+color = 3;
 glyphname = germandbls.sc;
 kernLeft = germandbls.sc;
 kernRight = germandbls.sc;
@@ -690,8 +690,6 @@ nodes = (
 width = 1442;
 }
 );
-script = latin;
-subCategory = Smallcaps;
 userData = {
 RMXScaler = {
 source = Germandbls;

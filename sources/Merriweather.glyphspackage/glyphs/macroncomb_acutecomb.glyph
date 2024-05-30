@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (300,1110);
+pos = (463,1110);
 },
 {
 name = top;
@@ -28,7 +28,7 @@ width = 882;
 anchors = (
 {
 name = _top;
-pos = (331,1112);
+pos = (506,1112);
 },
 {
 name = top;
@@ -51,7 +51,7 @@ width = 981;
 anchors = (
 {
 name = _top;
-pos = (275,1110);
+pos = (344,1110);
 },
 {
 name = top;
@@ -74,7 +74,7 @@ width = 692;
 anchors = (
 {
 name = _top;
-pos = (306,1112);
+pos = (462,1112);
 },
 {
 name = top;
@@ -97,7 +97,7 @@ width = 930;
 anchors = (
 {
 name = _top;
-pos = (320,1110);
+pos = (386,1110);
 },
 {
 name = top;
@@ -120,7 +120,7 @@ width = 782;
 anchors = (
 {
 name = _top;
-pos = (353,1112);
+pos = (499,1112);
 },
 {
 name = top;
@@ -143,7 +143,7 @@ width = 1000;
 anchors = (
 {
 name = _top;
-pos = (220,1005);
+pos = (384,1005);
 },
 {
 name = top;
@@ -166,7 +166,7 @@ width = 728;
 anchors = (
 {
 name = _top;
-pos = (336,1005);
+pos = (454,1005);
 },
 {
 name = top;
@@ -189,7 +189,7 @@ width = 908;
 anchors = (
 {
 name = _top;
-pos = (236,1005);
+pos = (348,1005);
 },
 {
 name = top;
@@ -212,7 +212,7 @@ width = 660;
 anchors = (
 {
 name = _top;
-pos = (289,1005);
+pos = (451,1005);
 },
 {
 name = top;
@@ -235,7 +235,7 @@ width = 902;
 anchors = (
 {
 name = _top;
-pos = (259,1005);
+pos = (409,1005);
 },
 {
 name = top;
@@ -258,7 +258,7 @@ width = 826;
 anchors = (
 {
 name = _top;
-pos = (334,1005);
+pos = (451,1005);
 },
 {
 name = top;
