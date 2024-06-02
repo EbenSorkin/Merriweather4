@@ -1,7 +1,5 @@
 {
 glyphname = gbreve;
-kernLeft = g;
-kernRight = g;
 layers = (
 {
 layerId = UUID0;
@@ -10,7 +8,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (253,0);
+pos = (83,0);
 ref = brevecomb;
 }
 );
@@ -23,7 +21,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (223,0);
+pos = (53,0);
 ref = brevecomb;
 }
 );
@@ -36,7 +34,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (238,0);
+pos = (94,0);
 ref = brevecomb;
 }
 );
@@ -49,7 +47,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (196,0);
+pos = (21,0);
 ref = brevecomb;
 }
 );
@@ -62,7 +60,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (238,0);
+pos = (138,0);
 ref = brevecomb;
 }
 );
@@ -75,7 +73,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (203,0);
+pos = (72,0);
 ref = brevecomb;
 }
 );
@@ -88,7 +86,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (190,0);
+pos = (80,0);
 ref = brevecomb;
 }
 );
@@ -101,7 +99,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (234,0);
+pos = (90,0);
 ref = brevecomb;
 }
 );
@@ -114,7 +112,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (260,0);
+pos = (166,0);
 ref = brevecomb;
 }
 );
@@ -127,7 +125,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (257,0);
+pos = (101,0);
 ref = brevecomb;
 }
 );
@@ -140,7 +138,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (235,0);
+pos = (135,0);
 ref = brevecomb;
 }
 );
@@ -156,7 +154,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (240,0);
+pos = (80,0);
 ref = brevecomb;
 }
 );

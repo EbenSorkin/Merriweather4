@@ -1,7 +1,5 @@
 {
 glyphname = tilde;
-kernLeft = tildecomb;
-kernRight = tildecomb;
 layers = (
 {
 layerId = UUID0;

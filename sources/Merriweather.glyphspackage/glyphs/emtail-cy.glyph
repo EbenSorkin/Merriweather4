@@ -1,7 +1,5 @@
 {
 glyphname = "emtail-cy";
-kernLeft = "em-cy";
-kernRight = "emtail-cy";
 layers = (
 {
 layerId = UUID0;

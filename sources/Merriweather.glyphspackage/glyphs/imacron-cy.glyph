@@ -1,7 +1,5 @@
 {
 glyphname = "imacron-cy";
-kernLeft = "pe-cy";
-kernRight = "pe-cy";
 layers = (
 {
 layerId = UUID0;

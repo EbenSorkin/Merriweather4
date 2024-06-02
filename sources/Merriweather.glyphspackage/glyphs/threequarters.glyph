@@ -1,7 +1,5 @@
 {
 glyphname = threequarters;
-kernLeft = three.numr;
-kernRight = three.dnom;
 layers = (
 {
 layerId = UUID0;
@@ -10,18 +8,171 @@ shapes = (
 ref = three.numr;
 },
 {
-pos = (770,0);
+pos = (745,0);
 ref = fraction;
 },
 {
-pos = (1082,0);
+pos = (1044,0);
 ref = four.dnom;
 }
 );
-width = 1896;
+width = 1858;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+ref = three.numr;
+},
+{
+pos = (765,0);
+ref = fraction;
+},
+{
+pos = (1084,0);
+ref = four.dnom;
+}
+);
+width = 1940;
+},
+{
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+ref = three.numr;
+},
+{
+pos = (709,0);
+ref = fraction;
+},
+{
+pos = (1000,0);
+ref = four.dnom;
+}
+);
+width = 1854;
+},
+{
+layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
+shapes = (
+{
+ref = three.numr;
+},
+{
+pos = (733,0);
+ref = fraction;
+},
+{
+pos = (1090,0);
+ref = four.dnom;
+}
+);
+width = 1880;
+},
+{
+layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
+shapes = (
+{
+ref = three.numr;
+},
+{
+pos = (692,0);
+ref = fraction;
+},
+{
+pos = (992,0);
+ref = four.dnom;
+}
+);
+width = 1777;
+},
+{
+layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
+shapes = (
+{
+ref = three.numr;
+},
+{
+pos = (693,0);
+ref = fraction;
+},
+{
+pos = (1009,0);
+ref = four.dnom;
+}
+);
+width = 1810;
+},
+{
+layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
+shapes = (
+{
+ref = three.numr;
+},
+{
+pos = (630,0);
+ref = fraction;
+},
+{
+pos = (895,0);
+ref = four.dnom;
+}
+);
+width = 1586;
+},
+{
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+ref = three.numr;
+},
+{
+pos = (656,0);
+ref = fraction;
+},
+{
+pos = (895,0);
+ref = four.dnom;
+}
+);
+width = 1699;
+},
+{
+layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
+shapes = (
+{
+ref = three.numr;
+},
+{
+pos = (771,0);
+ref = fraction;
+},
+{
+pos = (1091,0);
+ref = four.dnom;
+}
+);
+width = 2004;
+},
+{
+layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
+shapes = (
+{
+ref = three.numr;
+},
+{
+pos = (724,0);
+ref = fraction;
+},
+{
+pos = (987,0);
+ref = four.dnom;
+}
+);
+width = 1831;
+},
+{
+layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
 shapes = (
 {
 ref = three.numr;
@@ -31,167 +182,14 @@ pos = (794,0);
 ref = fraction;
 },
 {
-pos = (1158,0);
-ref = four.dnom;
-}
-);
-width = 2014;
-},
-{
-layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
-shapes = (
-{
-ref = three.numr;
-},
-{
-pos = (742,0);
-ref = fraction;
-},
-{
-pos = (1076,0);
-ref = four.dnom;
-}
-);
-width = 1930;
-},
-{
-layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
-shapes = (
-{
-ref = three.numr;
-},
-{
-pos = (739,0);
-ref = fraction;
-},
-{
-pos = (1103,0);
-ref = four.dnom;
-}
-);
-width = 1893;
-},
-{
-layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
-shapes = (
-{
-ref = three.numr;
-},
-{
-pos = (715,0);
-ref = fraction;
-},
-{
-pos = (1027,0);
-ref = four.dnom;
-}
-);
-width = 1812;
-},
-{
-layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
-shapes = (
-{
-ref = three.numr;
-},
-{
-pos = (700,0);
-ref = fraction;
-},
-{
-pos = (1034,0);
-ref = four.dnom;
-}
-);
-width = 1835;
-},
-{
-layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
-shapes = (
-{
-ref = three.numr;
-},
-{
-pos = (659,0);
-ref = fraction;
-},
-{
-pos = (951,0);
-ref = four.dnom;
-}
-);
-width = 1642;
-},
-{
-layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
-shapes = (
-{
-ref = three.numr;
-},
-{
-pos = (696,0);
-ref = fraction;
-},
-{
-pos = (988,0);
-ref = four.dnom;
-}
-);
-width = 1792;
-},
-{
-layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
-shapes = (
-{
-ref = three.numr;
-},
-{
-pos = (778,0);
-ref = fraction;
-},
-{
-pos = (1112,0);
-ref = four.dnom;
-}
-);
-width = 2025;
-},
-{
-layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
-shapes = (
-{
-ref = three.numr;
-},
-{
-pos = (760,0);
-ref = fraction;
-},
-{
-pos = (1052,0);
-ref = four.dnom;
-}
-);
-width = 1896;
-},
-{
-layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
-shapes = (
-{
-ref = three.numr;
-},
-{
-pos = (840,0);
-ref = fraction;
-},
-{
-pos = (1152,0);
+pos = (1071,0);
 ref = four.dnom;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 2041;
+width = 1960;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -200,16 +198,22 @@ shapes = (
 ref = three.numr;
 },
 {
-pos = (844,0);
+pos = (820,0);
 ref = fraction;
 },
 {
-pos = (1208,0);
+pos = (1127,0);
 ref = four.dnom;
 }
 );
-width = 2120;
+width = 2039;
 }
 );
 unicode = 190;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

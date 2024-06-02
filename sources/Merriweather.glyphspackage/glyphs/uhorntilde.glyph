@@ -1,7 +1,5 @@
 {
 glyphname = uhorntilde;
-kernLeft = u;
-kernRight = uhorn;
 layers = (
 {
 layerId = UUID0;
@@ -10,7 +8,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (234,0);
+pos = (218,0);
 ref = tildecomb;
 }
 );
@@ -23,7 +21,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (242,0);
+pos = (226,0);
 ref = tildecomb;
 }
 );
@@ -49,7 +47,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (154,0);
+pos = (147,0);
 ref = tildecomb;
 }
 );
@@ -62,7 +60,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (173,0);
+pos = (162,0);
 ref = tildecomb;
 }
 );
@@ -75,7 +73,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (212,0);
+pos = (205,0);
 ref = tildecomb;
 }
 );
@@ -114,7 +112,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (224,0);
+pos = (221,0);
 ref = tildecomb;
 }
 );
@@ -140,7 +138,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (208,0);
+pos = (204,0);
 ref = tildecomb;
 }
 );
@@ -156,7 +154,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (217,0);
+pos = (210,0);
 ref = tildecomb;
 }
 );

@@ -1,7 +1,5 @@
 {
 glyphname = dmacronbelow;
-kernLeft = o;
-kernRight = d;
 layers = (
 {
 layerId = UUID0;

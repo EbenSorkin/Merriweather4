@@ -1,8 +1,6 @@
 {
 color = 4;
 glyphname = e.sc;
-kernLeft = h.sc;
-kernRight = e.sc;
 layers = (
 {
 anchors = (
@@ -754,6 +752,10 @@ width = 1296;
 );
 metricLeft = h.sc;
 userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
 RMXScaler = {
 source = E;
 };

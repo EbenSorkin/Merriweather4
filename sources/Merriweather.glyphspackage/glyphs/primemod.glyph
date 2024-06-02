@@ -1,7 +1,5 @@
 {
 glyphname = primemod;
-kernLeft = minute;
-kernRight = minute;
 layers = (
 {
 layerId = UUID0;

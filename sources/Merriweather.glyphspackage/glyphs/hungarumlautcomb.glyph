@@ -1,7 +1,5 @@
 {
 glyphname = hungarumlautcomb;
-kernLeft = hungarumlautcomb;
-kernRight = hungarumlautcomb;
 layers = (
 {
 anchors = (
@@ -633,4 +631,10 @@ width = 1302;
 metricLeft = hyphen;
 metricRight = hyphen;
 unicode = 779;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

@@ -1,7 +1,5 @@
 {
 glyphname = lslash;
-kernLeft = lslash;
-kernRight = lslash;
 layers = (
 {
 anchors = (

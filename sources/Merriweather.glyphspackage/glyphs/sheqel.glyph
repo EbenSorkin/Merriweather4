@@ -1,7 +1,5 @@
 {
 glyphname = sheqel;
-kernLeft = sheqel;
-kernRight = sheqel;
 layers = (
 {
 layerId = UUID0;
@@ -537,4 +535,10 @@ width = 2161;
 );
 metricRight = "=|";
 unicode = 8362;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
 }

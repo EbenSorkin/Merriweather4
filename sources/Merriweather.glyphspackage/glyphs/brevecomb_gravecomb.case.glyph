@@ -1,7 +1,5 @@
 {
 glyphname = brevecomb_gravecomb.case;
-kernLeft = brevecomb;
-kernRight = gravecomb.case;
 layers = (
 {
 layerId = UUID0;
@@ -25,7 +23,7 @@ alignment = 1;
 ref = brevecomb.case;
 },
 {
-pos = (-125,428);
+pos = (-124,383);
 ref = gravecomb.case;
 }
 );
@@ -39,7 +37,7 @@ alignment = 1;
 ref = brevecomb.case;
 },
 {
-pos = (-227,388);
+pos = (-227,348);
 ref = gravecomb.case;
 }
 );
@@ -53,7 +51,7 @@ alignment = 1;
 ref = brevecomb.case;
 },
 {
-pos = (-157,428);
+pos = (-157,383);
 ref = gravecomb.case;
 }
 );
@@ -81,7 +79,7 @@ alignment = 1;
 ref = brevecomb.case;
 },
 {
-pos = (-220,388);
+pos = (-220,348);
 ref = gravecomb.case;
 }
 );
@@ -95,7 +93,7 @@ alignment = 1;
 ref = brevecomb.case;
 },
 {
-pos = (-250,378);
+pos = (-250,323);
 ref = gravecomb.case;
 }
 );
@@ -109,7 +107,7 @@ alignment = 1;
 ref = brevecomb.case;
 },
 {
-pos = (-230,378);
+pos = (-230,323);
 ref = gravecomb.case;
 }
 );
@@ -123,7 +121,7 @@ alignment = 1;
 ref = brevecomb.case;
 },
 {
-pos = (-167,388);
+pos = (-167,348);
 ref = gravecomb.case;
 }
 );
@@ -137,7 +135,7 @@ alignment = 1;
 ref = brevecomb.case;
 },
 {
-pos = (-233,378);
+pos = (-231,323);
 ref = gravecomb.case;
 }
 );
@@ -169,7 +167,7 @@ alignment = 1;
 ref = brevecomb.case;
 },
 {
-pos = (-111,428);
+pos = (-112,383);
 ref = gravecomb.case;
 }
 );

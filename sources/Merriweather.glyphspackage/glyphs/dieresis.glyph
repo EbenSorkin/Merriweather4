@@ -1,7 +1,5 @@
 {
 glyphname = dieresis;
-kernLeft = dieresiscomb;
-kernRight = dieresiscomb;
 layers = (
 {
 layerId = UUID0;

@@ -1,8 +1,6 @@
 {
 color = 4;
 glyphname = "lje-cy";
-kernLeft = "el-cy";
-kernRight = "softsign-cy";
 layers = (
 {
 layerId = UUID0;

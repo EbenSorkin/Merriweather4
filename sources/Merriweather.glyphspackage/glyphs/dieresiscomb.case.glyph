@@ -1,7 +1,5 @@
 {
 glyphname = dieresiscomb.case;
-kernLeft = dieresiscomb.case;
-kernRight = dieresiscomb.case;
 layers = (
 {
 anchors = (

@@ -1,7 +1,5 @@
 {
 glyphname = "pe-cy.loclSRB";
-kernLeft = n;
-kernRight = n;
 layers = (
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";

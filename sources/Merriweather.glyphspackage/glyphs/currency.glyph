@@ -1,7 +1,5 @@
 {
 glyphname = currency;
-kernLeft = Euro;
-kernRight = Euro;
 layers = (
 {
 layerId = UUID0;

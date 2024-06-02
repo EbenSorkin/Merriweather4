@@ -1,7 +1,5 @@
 {
 glyphname = ogonekcomb.case;
-kernLeft = ogonekcomb;
-kernRight = ogonekcomb;
 layers = (
 {
 anchors = (

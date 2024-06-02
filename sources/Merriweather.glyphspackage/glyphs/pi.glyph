@@ -1,7 +1,5 @@
 {
 glyphname = pi;
-kernLeft = pi;
-kernRight = pi;
 layers = (
 {
 background = {

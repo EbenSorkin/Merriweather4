@@ -1,9 +1,16 @@
 {
 displayStrings = (
-"8‴",
-"‘Hi’.",
-"Ⓐ",
-"Ⓐⓐ",
-"πn"
+"\"subtly wrestling\"",
+"‘3′‴\"'3'",
+"‘’",
+"0‴0′0″",
+"‘Sudden Russian death’
+'Sudden oHTRussian death' ",
+"/quoteleft.ss01 A/quoteright.ss01 ′A′",
+"'
+'8'/quoteleft.ss01 8/quoteright.ss01",
+"\"a'",
+"”'\"",
+HEtnoO
 );
 }

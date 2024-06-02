@@ -1,7 +1,5 @@
 {
 glyphname = "schwadieresis-cy";
-kernLeft = o;
-kernRight = o;
 layers = (
 {
 layerId = UUID0;

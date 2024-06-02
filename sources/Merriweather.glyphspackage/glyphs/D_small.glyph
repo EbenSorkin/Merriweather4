@@ -855,4 +855,10 @@ width = 1262;
 metricLeft = d.sc;
 metricRight = d.sc;
 unicode = 7429;
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
 }

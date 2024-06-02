@@ -1,7 +1,5 @@
 {
 glyphname = "brevecomb-cy.case";
-kernLeft = "brevecomb-cy.case";
-kernRight = "brevecomb-cy.case";
 layers = (
 {
 anchors = (

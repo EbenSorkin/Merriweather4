@@ -1,7 +1,5 @@
 {
 glyphname = "ertick-cy.sc";
-kernLeft = "ertick-cy.sc";
-kernRight = "ertick-cy.sc";
 layers = (
 {
 layerId = UUID0;

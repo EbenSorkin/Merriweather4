@@ -1,7 +1,5 @@
 {
 glyphname = dblgravecomb.case;
-kernLeft = dblgravecomb.case;
-kernRight = dblgravecomb.case;
 layers = (
 {
 anchors = (

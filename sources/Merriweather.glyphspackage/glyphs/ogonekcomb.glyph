@@ -1,7 +1,5 @@
 {
 glyphname = ogonekcomb;
-kernLeft = ogonekcomb;
-kernRight = ogonekcomb;
 layers = (
 {
 anchors = (
@@ -466,4 +464,10 @@ width = 597;
 }
 );
 unicode = 808;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

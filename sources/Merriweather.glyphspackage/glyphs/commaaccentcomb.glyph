@@ -1,7 +1,5 @@
 {
 glyphname = commaaccentcomb;
-kernLeft = commaaccentcomb;
-kernRight = commaaccentcomb;
 layers = (
 {
 anchors = (
@@ -525,4 +523,10 @@ width = 334;
 }
 );
 unicode = 806;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

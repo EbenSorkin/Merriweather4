@@ -1,7 +1,5 @@
 {
 glyphname = slash.case;
-kernLeft = slash;
-kernRight = slash;
 layers = (
 {
 layerId = UUID0;

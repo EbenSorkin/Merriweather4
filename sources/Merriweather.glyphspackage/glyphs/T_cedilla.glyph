@@ -1,7 +1,5 @@
 {
 glyphname = Tcedilla;
-kernLeft = T;
-kernRight = T;
 layers = (
 {
 anchors = (

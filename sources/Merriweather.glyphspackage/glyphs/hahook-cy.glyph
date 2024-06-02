@@ -1,7 +1,5 @@
 {
 glyphname = "hahook-cy";
-kernLeft = x;
-kernRight = "hahook-cy";
 layers = (
 {
 layerId = UUID0;

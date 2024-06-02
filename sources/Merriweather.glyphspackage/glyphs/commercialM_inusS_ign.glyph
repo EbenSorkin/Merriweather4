@@ -1,7 +1,5 @@
 {
 glyphname = commercialMinusSign;
-kernLeft = fraction;
-kernRight = solidus;
 layers = (
 {
 layerId = UUID0;
@@ -258,4 +256,10 @@ width = 1529;
 );
 metricRight = "=|";
 unicode = 8274;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

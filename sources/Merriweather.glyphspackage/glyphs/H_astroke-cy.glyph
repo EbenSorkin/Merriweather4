@@ -1,7 +1,5 @@
 {
 glyphname = "Hastroke-cy";
-kernLeft = "Ha-cy";
-kernRight = "Ha-cy";
 layers = (
 {
 layerId = UUID0;

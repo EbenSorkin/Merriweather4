@@ -1,7 +1,5 @@
 {
 glyphname = "Entail-cy";
-kernLeft = "Pe-cy";
-kernRight = "De-cy";
 layers = (
 {
 layerId = UUID0;
@@ -36,11 +34,11 @@ shapes = (
 ref = H;
 },
 {
-pos = (1092,0);
+pos = (1118,0);
 ref = rtail_part;
 }
 );
-width = 1518;
+width = 1570;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -49,11 +47,11 @@ shapes = (
 ref = H;
 },
 {
-pos = (997,0);
+pos = (1017,0);
 ref = rtail_part;
 }
 );
-width = 1429;
+width = 1469;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -101,11 +99,11 @@ shapes = (
 ref = H;
 },
 {
-pos = (1086,0);
+pos = (1098,0);
 ref = rtail_part;
 }
 );
-width = 1379;
+width = 1403;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";

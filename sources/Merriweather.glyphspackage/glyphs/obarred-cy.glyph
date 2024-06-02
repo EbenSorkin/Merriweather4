@@ -1,7 +1,5 @@
 {
 glyphname = "obarred-cy";
-kernLeft = o;
-kernRight = o;
 layers = (
 {
 layerId = UUID0;
@@ -19,7 +17,7 @@ nodes = (
 ref = "o-cy";
 }
 );
-width = 1116;
+width = 1144;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -37,7 +35,7 @@ nodes = (
 ref = "o-cy";
 }
 );
-width = 1207;
+width = 1209;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";

@@ -1,7 +1,5 @@
 {
 glyphname = Mdotaccent;
-kernLeft = M;
-kernRight = M;
 layers = (
 {
 layerId = UUID0;
@@ -40,7 +38,7 @@ pos = (644,0);
 ref = dotaccentcomb.case;
 }
 );
-width = 1961;
+width = 1921;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -75,7 +73,7 @@ shapes = (
 ref = M;
 },
 {
-pos = (505,0);
+pos = (525,0);
 ref = dotaccentcomb.case;
 }
 );
@@ -118,7 +116,7 @@ pos = (692,0);
 ref = dotaccentcomb.case;
 }
 );
-width = 1971;
+width = 1951;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";

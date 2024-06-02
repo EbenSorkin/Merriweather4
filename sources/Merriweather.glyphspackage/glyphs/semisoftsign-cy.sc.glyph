@@ -1,8 +1,6 @@
 {
 color = 5;
 glyphname = "semisoftsign-cy.sc";
-kernLeft = "semisoftsign-cy.sc";
-kernRight = "softsign-cy.sc";
 layers = (
 {
 background = {

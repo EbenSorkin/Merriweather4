@@ -1,7 +1,5 @@
 {
 glyphname = two.numr;
-kernLeft = two.sinf;
-kernRight = two.sinf;
 layers = (
 {
 layerId = UUID0;

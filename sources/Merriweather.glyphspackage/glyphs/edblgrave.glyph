@@ -1,7 +1,5 @@
 {
 glyphname = edblgrave;
-kernLeft = o;
-kernRight = e;
 layers = (
 {
 layerId = UUID0;
@@ -10,7 +8,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (-97,0);
+pos = (-77,0);
 ref = dblgravecomb;
 }
 );
@@ -36,7 +34,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (-175,0);
+pos = (-165,0);
 ref = dblgravecomb;
 }
 );
@@ -62,7 +60,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (-68,0);
+pos = (-63,0);
 ref = dblgravecomb;
 }
 );
@@ -114,7 +112,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (-89,0);
+pos = (-69,0);
 ref = dblgravecomb;
 }
 );

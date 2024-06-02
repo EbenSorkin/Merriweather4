@@ -1,7 +1,5 @@
 {
 glyphname = odblgrave;
-kernLeft = o;
-kernRight = o;
 layers = (
 {
 layerId = UUID0;
@@ -10,11 +8,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (-102,0);
+pos = (-68,0);
 ref = dblgravecomb;
 }
 );
-width = 1116;
+width = 1144;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -23,11 +21,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (-172,0);
+pos = (-171,0);
 ref = dblgravecomb;
 }
 );
-width = 1207;
+width = 1209;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -36,7 +34,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (-143,0);
+pos = (-133,0);
 ref = dblgravecomb;
 }
 );
@@ -62,7 +60,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (-77,0);
+pos = (-72,0);
 ref = dblgravecomb;
 }
 );
@@ -114,7 +112,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (-81,0);
+pos = (-61,0);
 ref = dblgravecomb;
 }
 );

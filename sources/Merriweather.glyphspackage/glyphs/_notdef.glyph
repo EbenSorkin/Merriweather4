@@ -1,7 +1,5 @@
 {
 glyphname = .notdef;
-kernLeft = .notdef;
-kernRight = .notdef;
 layers = (
 {
 layerId = UUID0;

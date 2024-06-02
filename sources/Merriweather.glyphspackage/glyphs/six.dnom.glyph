@@ -1,7 +1,5 @@
 {
 glyphname = six.dnom;
-kernLeft = six.sinf;
-kernRight = six.sinf;
 layers = (
 {
 layerId = UUID0;

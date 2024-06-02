@@ -1,7 +1,5 @@
 {
 glyphname = bullet;
-kernLeft = bullet;
-kernRight = bullet;
 layers = (
 {
 layerId = UUID0;
@@ -284,4 +282,10 @@ width = 924;
 }
 );
 unicode = 8226;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

@@ -1,7 +1,5 @@
 {
 glyphname = six.osf;
-kernLeft = six.osf;
-kernRight = six.osf;
 layers = (
 {
 layerId = UUID0;

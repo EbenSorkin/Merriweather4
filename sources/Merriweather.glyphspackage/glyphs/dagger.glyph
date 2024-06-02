@@ -1,7 +1,5 @@
 {
 glyphname = dagger;
-kernLeft = dagger;
-kernRight = dagger;
 layers = (
 {
 layerId = UUID0;

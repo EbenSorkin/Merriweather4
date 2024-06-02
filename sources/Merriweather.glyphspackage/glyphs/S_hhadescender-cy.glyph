@@ -1,7 +1,5 @@
 {
 glyphname = "Shhadescender-cy";
-kernLeft = "Pe-cy";
-kernRight = "Shha-cy";
 layers = (
 {
 layerId = UUID0;
@@ -36,11 +34,11 @@ shapes = (
 ref = "Shha-cy";
 },
 {
-pos = (1076,0);
+pos = (1053,0);
 ref = righttooth_part.;
 }
 );
-width = 1388;
+width = 1371;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";

@@ -1,7 +1,5 @@
 {
 glyphname = Z;
-kernLeft = Z;
-kernRight = Z;
 layers = (
 {
 anchors = (
@@ -500,4 +498,7 @@ width = 1310;
 }
 );
 unicode = 90;
+userData = {
+KernOnName = Z;
+};
 }

@@ -1,7 +1,5 @@
 {
 glyphname = "ereversed-cy.sc";
-kernLeft = "ze-cy.sc";
-kernRight = o.sc;
 layers = (
 {
 anchors = (

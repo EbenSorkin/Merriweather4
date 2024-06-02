@@ -1,7 +1,5 @@
 {
 glyphname = "Zhe-cy";
-kernLeft = "Zhe-cy";
-kernRight = "Zhe-cy";
 layers = (
 {
 anchors = (

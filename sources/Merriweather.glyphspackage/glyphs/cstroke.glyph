@@ -13,7 +13,7 @@ pos = (-13,10);
 ref = slashshortcomb;
 }
 );
-width = 987;
+width = 1001;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -26,7 +26,7 @@ pos = (90,17);
 ref = slashshortcomb;
 }
 );
-width = 1027;
+width = 1028;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";

@@ -1,7 +1,5 @@
 {
 glyphname = dieresisbelowcomb;
-kernLeft = dieresisbelowcomb;
-kernRight = dieresisbelowcomb;
 layers = (
 {
 anchors = (

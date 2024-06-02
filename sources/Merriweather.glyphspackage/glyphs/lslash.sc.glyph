@@ -1,8 +1,6 @@
 {
 color = 5;
 glyphname = lslash.sc;
-kernLeft = h.sc;
-kernRight = l.sc;
 layers = (
 {
 layerId = UUID0;
@@ -212,6 +210,10 @@ width = 1263;
 );
 metricLeft = "=l.sc+10";
 userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
 RMXScaler = {
 source = Lslash;
 };

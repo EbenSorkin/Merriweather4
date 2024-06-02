@@ -1,7 +1,5 @@
 {
 glyphname = slashshortcomb;
-kernLeft = slashshortcomb;
-kernRight = slashshortcomb;
 layers = (
 {
 anchors = (
@@ -463,4 +461,10 @@ width = 1053;
 metricLeft = hyphen;
 metricRight = hyphen;
 unicode = 823;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

@@ -1,7 +1,5 @@
 {
 glyphname = sevensuperior;
-kernLeft = seven.sinf;
-kernRight = seven.sinf;
 layers = (
 {
 layerId = UUID0;
@@ -125,4 +123,10 @@ width = 781;
 }
 );
 unicode = 8311;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
 }

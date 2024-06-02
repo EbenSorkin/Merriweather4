@@ -1,7 +1,5 @@
 {
 glyphname = "iebreve-cy";
-kernLeft = o;
-kernRight = e;
 layers = (
 {
 layerId = UUID0;

@@ -1,7 +1,5 @@
 {
 glyphname = "qa-cy";
-kernLeft = o;
-kernRight = q;
 layers = (
 {
 layerId = UUID0;

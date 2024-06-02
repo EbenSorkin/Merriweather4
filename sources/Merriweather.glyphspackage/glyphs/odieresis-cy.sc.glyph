@@ -1,7 +1,5 @@
 {
 glyphname = "odieresis-cy.sc";
-kernLeft = o.sc;
-kernRight = o.sc;
 layers = (
 {
 layerId = UUID0;

@@ -1,7 +1,5 @@
 {
 glyphname = circumflexcomb;
-kernLeft = circumflexcomb;
-kernRight = circumflexcomb;
 layers = (
 {
 anchors = (
@@ -347,4 +345,10 @@ width = 1157;
 metricLeft = hyphen;
 metricRight = hyphen;
 unicode = 770;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

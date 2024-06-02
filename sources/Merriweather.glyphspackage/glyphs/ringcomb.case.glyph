@@ -1,7 +1,5 @@
 {
 glyphname = ringcomb.case;
-kernLeft = ringcomb.case;
-kernRight = ringcomb.case;
 layers = (
 {
 anchors = (

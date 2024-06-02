@@ -1,7 +1,5 @@
 {
 glyphname = circumflex;
-kernLeft = circumflexcomb;
-kernRight = circumflexcomb;
 layers = (
 {
 layerId = UUID0;

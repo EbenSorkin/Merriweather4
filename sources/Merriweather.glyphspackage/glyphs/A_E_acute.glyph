@@ -1,7 +1,5 @@
 {
 glyphname = AEacute;
-kernLeft = A;
-kernRight = E;
 layers = (
 {
 layerId = UUID0;
@@ -14,7 +12,7 @@ pos = (712,0);
 ref = acutecomb.case;
 }
 );
-width = 1919;
+width = 1914;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";

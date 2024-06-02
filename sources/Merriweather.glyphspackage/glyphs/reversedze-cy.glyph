@@ -1,7 +1,5 @@
 {
 glyphname = "reversedze-cy";
-kernLeft = "reversedze-cy";
-kernRight = "reversedze-cy";
 layers = (
 {
 layerId = UUID0;

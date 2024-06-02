@@ -1,7 +1,5 @@
 {
 glyphname = thinspace;
-kernLeft = space;
-kernRight = space;
 layers = (
 {
 layerId = UUID0;
@@ -56,4 +54,10 @@ width = 300;
 }
 );
 unicode = 8201;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

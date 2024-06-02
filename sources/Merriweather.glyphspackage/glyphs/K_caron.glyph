@@ -1,7 +1,5 @@
 {
 glyphname = Kcaron;
-kernLeft = H;
-kernRight = K;
 layers = (
 {
 layerId = UUID0;
@@ -36,11 +34,11 @@ shapes = (
 ref = K;
 },
 {
-pos = (359,0);
+pos = (385,0);
 ref = caroncomb.case;
 }
 );
-width = 1447;
+width = 1473;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -49,11 +47,11 @@ shapes = (
 ref = K;
 },
 {
-pos = (336,0);
+pos = (356,0);
 ref = caroncomb.case;
 }
 );
-width = 1434;
+width = 1454;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -101,11 +99,11 @@ shapes = (
 ref = K;
 },
 {
-pos = (333,0);
+pos = (345,0);
 ref = caroncomb.case;
 }
 );
-width = 1243;
+width = 1255;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";

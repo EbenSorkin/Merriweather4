@@ -1,7 +1,5 @@
 {
 glyphname = emptyset.case;
-kernLeft = emptyset;
-kernRight = emptyset;
 layers = (
 {
 layerId = UUID0;

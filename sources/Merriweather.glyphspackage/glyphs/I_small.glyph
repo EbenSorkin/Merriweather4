@@ -449,4 +449,10 @@ width = 703;
 );
 metricRight = "=|";
 unicode = 618;
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
 }

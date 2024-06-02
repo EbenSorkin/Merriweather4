@@ -1,7 +1,5 @@
 {
 glyphname = "dzeabkhasian-cy";
-kernLeft = "dzeabkhasian-cy";
-kernRight = "dzeabkhasian-cy";
 layers = (
 {
 layerId = UUID0;
@@ -28,7 +26,7 @@ shapes = (
 ref = ezh;
 }
 );
-width = 1001;
+width = 1019;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -55,7 +53,7 @@ shapes = (
 ref = ezh;
 }
 );
-width = 943;
+width = 920;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -112,7 +110,7 @@ shapes = (
 ref = ezh;
 }
 );
-width = 1105;
+width = 1101;
 }
 );
 unicode = 1249;

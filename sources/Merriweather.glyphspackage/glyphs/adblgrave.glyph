@@ -1,7 +1,5 @@
 {
 glyphname = adblgrave;
-kernLeft = a;
-kernRight = a;
 layers = (
 {
 layerId = UUID0;
@@ -10,11 +8,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (-142,0);
+pos = (-119,0);
 ref = dblgravecomb;
 }
 );
-width = 1036;
+width = 1042;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -36,7 +34,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (-203,0);
+pos = (-193,0);
 ref = dblgravecomb;
 }
 );
@@ -49,11 +47,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (-264,0);
+pos = (-267,0);
 ref = dblgravecomb;
 }
 );
-width = 974;
+width = 971;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -62,7 +60,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (-127,0);
+pos = (-122,0);
 ref = dblgravecomb;
 }
 );
@@ -116,7 +114,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (-130,0);
+pos = (-110,0);
 ref = dblgravecomb;
 }
 );

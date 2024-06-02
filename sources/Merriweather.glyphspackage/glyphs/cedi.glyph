@@ -1,7 +1,5 @@
 {
 glyphname = cedi;
-kernLeft = cedi;
-kernRight = cedi;
 layers = (
 {
 layerId = UUID0;
@@ -656,4 +654,10 @@ width = 1575;
 }
 );
 unicode = 8373;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
 }

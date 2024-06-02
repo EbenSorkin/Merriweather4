@@ -1,7 +1,5 @@
 {
 glyphname = commaturnedmod;
-kernLeft = commaturnedabovecomb;
-kernRight = commaturnedabovecomb;
 layers = (
 {
 layerId = UUID0;
@@ -118,4 +116,10 @@ width = 334;
 }
 );
 unicode = 699;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
 }

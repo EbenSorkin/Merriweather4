@@ -1,8 +1,6 @@
 {
 color = 5;
 glyphname = lcaron.sc;
-kernLeft = h.sc;
-kernRight = l.sc;
 layers = (
 {
 layerId = UUID0;
@@ -164,4 +162,10 @@ ref = caroncomb.alt;
 width = 1263;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
 }

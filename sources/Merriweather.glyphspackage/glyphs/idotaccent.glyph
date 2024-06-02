@@ -1,7 +1,5 @@
 {
 glyphname = idotaccent;
-kernLeft = i;
-kernRight = i;
 layers = (
 {
 layerId = UUID0;

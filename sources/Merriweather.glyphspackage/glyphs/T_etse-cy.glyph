@@ -1,7 +1,5 @@
 {
 glyphname = "Tetse-cy";
-kernLeft = T;
-kernRight = "De-cy";
 layers = (
 {
 guides = (

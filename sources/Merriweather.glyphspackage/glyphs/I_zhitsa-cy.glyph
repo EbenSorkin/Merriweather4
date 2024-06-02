@@ -1,7 +1,5 @@
 {
 glyphname = "Izhitsa-cy";
-kernLeft = V;
-kernRight = "Izhitsa-cy";
 layers = (
 {
 anchors = (

@@ -1,8 +1,6 @@
 {
 color = 0;
 glyphname = asciitilde;
-kernLeft = hyphen;
-kernRight = hyphen;
 layers = (
 {
 anchors = (
@@ -455,4 +453,10 @@ width = 1369;
 metricLeft = hyphen;
 metricRight = hyphen;
 unicode = 126;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
 }

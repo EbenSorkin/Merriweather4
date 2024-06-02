@@ -1,7 +1,5 @@
 {
 glyphname = Otildeacute;
-kernLeft = O;
-kernRight = O;
 layers = (
 {
 layerId = UUID0;
@@ -10,15 +8,15 @@ shapes = (
 ref = O;
 },
 {
-pos = (229,0);
+pos = (246,0);
 ref = tildecomb.case;
 },
 {
-pos = (451,338);
+pos = (468,338);
 ref = acutecomb.case;
 }
 );
-width = 1398;
+width = 1432;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -27,15 +25,15 @@ shapes = (
 ref = O;
 },
 {
-pos = (195,0);
+pos = (200,0);
 ref = tildecomb.case;
 },
 {
-pos = (448,406);
+pos = (453,406);
 ref = acutecomb.case;
 }
 );
-width = 1462;
+width = 1472;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -44,15 +42,15 @@ shapes = (
 ref = O;
 },
 {
-pos = (247,0);
+pos = (265,0);
 ref = tildecomb.case;
 },
 {
-pos = (475,380);
+pos = (493,380);
 ref = acutecomb.case;
 }
 );
-width = 1410;
+width = 1446;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";

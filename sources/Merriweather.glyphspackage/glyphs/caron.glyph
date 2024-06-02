@@ -1,7 +1,5 @@
 {
 glyphname = caron;
-kernLeft = caroncomb;
-kernRight = caroncomb;
 layers = (
 {
 layerId = UUID0;

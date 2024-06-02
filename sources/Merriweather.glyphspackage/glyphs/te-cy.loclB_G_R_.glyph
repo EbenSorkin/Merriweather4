@@ -1,8 +1,6 @@
 {
 color = 3;
 glyphname = "te-cy.loclBGR";
-kernLeft = n;
-kernRight = n;
 layers = (
 {
 layerId = UUID0;
@@ -20,7 +18,7 @@ shapes = (
 ref = m;
 }
 );
-width = 2026;
+width = 2027;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -38,7 +36,7 @@ shapes = (
 ref = m;
 }
 );
-width = 1726;
+width = 1730;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -56,7 +54,7 @@ shapes = (
 ref = m;
 }
 );
-width = 1569;
+width = 1559;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -113,7 +111,7 @@ shapes = (
 ref = m;
 }
 );
-width = 2154;
+width = 2173;
 }
 );
 }

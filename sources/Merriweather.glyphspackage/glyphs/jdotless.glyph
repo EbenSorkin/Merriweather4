@@ -1,7 +1,5 @@
 {
 glyphname = jdotless;
-kernLeft = j;
-kernRight = i;
 layers = (
 {
 anchors = (

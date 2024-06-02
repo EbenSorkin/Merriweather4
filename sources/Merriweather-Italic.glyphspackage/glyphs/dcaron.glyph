@@ -1,0 +1,177 @@
+{
+glyphname = dcaron;
+layers = (
+{
+layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
+shapes = (
+{
+alignment = -1;
+ref = d;
+},
+{
+pos = (1051,4);
+ref = caroncomb.alt;
+}
+);
+width = 1246;
+},
+{
+layerId = "27298932-82AF-4578-9425-6304FDB19058";
+shapes = (
+{
+alignment = -1;
+ref = d;
+},
+{
+pos = (1138,4);
+ref = caroncomb.alt;
+}
+);
+width = 1403;
+},
+{
+layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
+shapes = (
+{
+alignment = -1;
+ref = d;
+},
+{
+pos = (1195,4);
+ref = caroncomb.alt;
+}
+);
+width = 1476;
+},
+{
+layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
+shapes = (
+{
+alignment = -1;
+ref = d;
+},
+{
+pos = (1101,4);
+ref = caroncomb.alt;
+}
+);
+width = 1316;
+},
+{
+layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
+shapes = (
+{
+alignment = -1;
+ref = d;
+},
+{
+pos = (1105,4);
+ref = caroncomb.alt;
+}
+);
+width = 1353;
+},
+{
+layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
+shapes = (
+{
+alignment = -1;
+ref = d;
+},
+{
+pos = (965,4);
+ref = caroncomb.alt;
+}
+);
+width = 1118;
+},
+{
+layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
+shapes = (
+{
+alignment = -1;
+ref = d;
+},
+{
+alignment = -1;
+pos = (1180,4);
+ref = caroncomb.alt;
+}
+);
+width = 1441;
+},
+{
+layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
+shapes = (
+{
+alignment = -1;
+ref = d;
+},
+{
+pos = (998,4);
+ref = caroncomb.alt;
+}
+);
+width = 1159;
+},
+{
+layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
+shapes = (
+{
+alignment = -1;
+ref = d;
+},
+{
+pos = (965,4);
+ref = caroncomb.alt;
+}
+);
+width = 1160;
+},
+{
+layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
+shapes = (
+{
+alignment = -1;
+ref = d;
+},
+{
+pos = (1017,4);
+ref = caroncomb.alt;
+}
+);
+width = 1267;
+},
+{
+layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
+shapes = (
+{
+alignment = -1;
+ref = d;
+},
+{
+pos = (894,4);
+ref = caroncomb.alt;
+}
+);
+width = 1047;
+},
+{
+layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
+shapes = (
+{
+alignment = -1;
+ref = d;
+},
+{
+pos = (1008,4);
+ref = caroncomb.alt;
+}
+);
+width = 1244;
+}
+);
+metricLeft = d;
+metricRight = caroncomb.alt;
+unicode = 271;
+}

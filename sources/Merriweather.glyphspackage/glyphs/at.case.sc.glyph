@@ -1,14 +1,12 @@
 {
-color = 0;
+color = 5;
 glyphname = at.case.sc;
-kernLeft = at;
-kernRight = at;
 layers = (
 {
 layerId = UUID0;
 shapes = (
 {
-pos = (0,248);
+pos = (0,250);
 ref = at;
 }
 );
@@ -51,7 +49,7 @@ width = 1933;
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
 shapes = (
 {
-pos = (0,248);
+pos = (0,250);
 ref = at;
 }
 );
@@ -72,7 +70,7 @@ width = 1974;
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
 shapes = (
 {
-pos = (0,248);
+pos = (0,250);
 ref = at;
 }
 );
@@ -82,7 +80,7 @@ width = 1863;
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
 shapes = (
 {
-pos = (0,248);
+pos = (0,250);
 ref = at;
 }
 );
@@ -103,7 +101,7 @@ width = 2243;
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
 shapes = (
 {
-pos = (0,248);
+pos = (0,250);
 ref = at;
 }
 );
@@ -113,7 +111,7 @@ width = 2093;
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
 shapes = (
 {
-pos = (0,248);
+pos = (0,250);
 ref = at;
 }
 );

@@ -1,8 +1,6 @@
 {
 color = 5;
 glyphname = adotbelow;
-kernLeft = a;
-kernRight = a;
 layers = (
 {
 layerId = UUID0;
@@ -11,11 +9,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (389,0);
+pos = (392,0);
 ref = dotbelowcomb;
 }
 );
-width = 1036;
+width = 1042;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -50,11 +48,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (285,0);
+pos = (282,0);
 ref = dotbelowcomb;
 }
 );
-width = 974;
+width = 971;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";

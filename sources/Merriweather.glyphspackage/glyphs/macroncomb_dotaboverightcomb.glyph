@@ -18,7 +18,7 @@ shapes = (
 ref = macroncomb;
 },
 {
-pos = (332,246);
+pos = (334,258);
 ref = dotaboverightcomb;
 }
 );
@@ -64,7 +64,7 @@ shapes = (
 ref = macroncomb;
 },
 {
-pos = (216,246);
+pos = (216,258);
 ref = dotaboverightcomb;
 }
 );
@@ -110,7 +110,7 @@ shapes = (
 ref = macroncomb;
 },
 {
-pos = (264,246);
+pos = (260,258);
 ref = dotaboverightcomb;
 }
 );

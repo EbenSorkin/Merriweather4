@@ -725,4 +725,10 @@ width = 1724;
 metricLeft = cedi;
 metricRight = cedi;
 unicode = 8382;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
 }

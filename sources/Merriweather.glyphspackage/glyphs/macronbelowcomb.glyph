@@ -1,7 +1,5 @@
 {
 glyphname = macronbelowcomb;
-kernLeft = macronbelowcomb;
-kernRight = macronbelowcomb;
 layers = (
 {
 anchors = (

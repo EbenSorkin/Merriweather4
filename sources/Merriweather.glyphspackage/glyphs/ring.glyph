@@ -1,7 +1,5 @@
 {
 glyphname = ring;
-kernLeft = ringcomb;
-kernRight = ringcomb;
 layers = (
 {
 layerId = UUID0;

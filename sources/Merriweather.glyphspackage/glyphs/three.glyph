@@ -1,7 +1,5 @@
 {
 glyphname = three;
-kernLeft = three;
-kernRight = three;
 layers = (
 {
 layerId = UUID0;
@@ -680,4 +678,7 @@ width = 1202;
 }
 );
 unicode = 51;
+userData = {
+KernOnName = three;
+};
 }

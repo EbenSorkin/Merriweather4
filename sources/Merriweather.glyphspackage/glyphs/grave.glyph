@@ -1,7 +1,5 @@
 {
 glyphname = grave;
-kernLeft = gravecomb;
-kernRight = gravecomb;
 layers = (
 {
 layerId = UUID0;

@@ -1,8 +1,6 @@
 {
 color = 4;
 glyphname = "kaverticalstroke-cy";
-kernLeft = "pe-cy";
-kernRight = "zhe-cy";
 layers = (
 {
 layerId = UUID0;

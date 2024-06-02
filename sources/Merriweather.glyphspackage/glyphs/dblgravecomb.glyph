@@ -1,13 +1,11 @@
 {
 glyphname = dblgravecomb;
-kernLeft = dblgravecomb;
-kernRight = dblgravecomb;
 layers = (
 {
 anchors = (
 {
 name = _top;
-pos = (660,1110);
+pos = (640,1110);
 },
 {
 name = top;
@@ -87,7 +85,7 @@ width = 1292;
 anchors = (
 {
 name = _top;
-pos = (698,1005);
+pos = (688,1005);
 },
 {
 name = top;
@@ -173,7 +171,7 @@ width = 1234;
 anchors = (
 {
 name = _top;
-pos = (573,1110);
+pos = (568,1110);
 },
 {
 name = top;
@@ -187,7 +185,7 @@ closed = 1;
 nodes = (
 (739,1298,l),
 (817,1352,l),
-(605,1734,l),
+(597,1734,l),
 (466,1641,l),
 (503,1541,o),
 (665,1358,o),
@@ -199,7 +197,7 @@ closed = 1;
 nodes = (
 (383,1298,l),
 (461,1352,l),
-(249,1734,l),
+(241,1734,l),
 (110,1641,l),
 (147,1541,o),
 (309,1358,o),
@@ -333,7 +331,7 @@ width = 944;
 anchors = (
 {
 name = _top;
-pos = (678,1005);
+pos = (658,1005);
 },
 {
 name = top;

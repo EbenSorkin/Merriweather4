@@ -1,7 +1,5 @@
 {
 glyphname = "umacron-cy.sc";
-kernLeft = "u-cy.sc";
-kernRight = "u-cy.sc";
 layers = (
 {
 layerId = UUID0;

@@ -1,8 +1,6 @@
 {
 color = 5;
 glyphname = umacron;
-kernLeft = u;
-kernRight = u;
 layers = (
 {
 layerId = UUID0;
@@ -11,7 +9,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (141,0);
+pos = (125,0);
 ref = macroncomb;
 }
 );
@@ -24,7 +22,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (129,1);
+pos = (113,1);
 ref = macroncomb;
 }
 );
@@ -50,7 +48,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (83,2);
+pos = (76,2);
 ref = macroncomb;
 }
 );
@@ -63,7 +61,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (165,0);
+pos = (154,0);
 ref = macroncomb;
 }
 );
@@ -76,7 +74,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (69,0);
+pos = (62,0);
 ref = macroncomb;
 }
 );
@@ -115,7 +113,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (137,0);
+pos = (134,0);
 ref = macroncomb;
 }
 );
@@ -141,7 +139,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (205,0);
+pos = (201,0);
 ref = macroncomb;
 }
 );
@@ -157,7 +155,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (139,0);
+pos = (132,0);
 ref = macroncomb;
 }
 );

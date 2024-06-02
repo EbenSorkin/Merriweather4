@@ -1,7 +1,5 @@
 {
 glyphname = "be-cy.loclSRB";
-kernLeft = o;
-kernRight = "be-cy";
 layers = (
 {
 layerId = UUID0;
@@ -61,7 +59,7 @@ nodes = (
 );
 }
 );
-width = 1112;
+width = 1126;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -121,7 +119,7 @@ nodes = (
 );
 }
 );
-width = 1211;
+width = 1212;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";

@@ -1,8 +1,6 @@
 {
 color = 5;
 glyphname = uogonek.sc;
-kernLeft = u.sc;
-kernRight = u.sc;
 layers = (
 {
 layerId = UUID0;
@@ -213,6 +211,10 @@ width = 1482;
 metricLeft = u.sc;
 metricRight = u.sc;
 userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
 RMXScaler = {
 source = Uogonek;
 };

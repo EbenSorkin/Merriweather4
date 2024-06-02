@@ -1,7 +1,5 @@
 {
 glyphname = "ushort-cy";
-kernLeft = y;
-kernRight = y;
 layers = (
 {
 layerId = UUID0;

@@ -1,7 +1,5 @@
 {
 glyphname = "O-cy";
-kernLeft = O;
-kernRight = O;
 layers = (
 {
 anchors = (
@@ -20,7 +18,7 @@ shapes = (
 ref = O;
 }
 );
-width = 1398;
+width = 1432;
 },
 {
 anchors = (
@@ -39,7 +37,7 @@ shapes = (
 ref = O;
 }
 );
-width = 1462;
+width = 1472;
 },
 {
 anchors = (
@@ -58,7 +56,7 @@ shapes = (
 ref = O;
 }
 );
-width = 1410;
+width = 1446;
 },
 {
 anchors = (

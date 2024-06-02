@@ -1,7 +1,5 @@
 {
 glyphname = "EnGe-cy";
-kernLeft = "Pe-cy";
-kernRight = T;
 layers = (
 {
 layerId = UUID0;

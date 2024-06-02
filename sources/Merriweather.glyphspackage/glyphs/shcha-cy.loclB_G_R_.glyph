@@ -1,8 +1,6 @@
 {
 color = 3;
 glyphname = "shcha-cy.loclBGR";
-kernLeft = u;
-kernRight = u;
 layers = (
 {
 layerId = UUID0;
@@ -76,11 +74,11 @@ shapes = (
 ref = "sha-cy.loclBGR";
 },
 {
-pos = (1239,0);
+pos = (1245,0);
 ref = righttooth_part.;
 }
 );
-width = 1568;
+width = 1574;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";

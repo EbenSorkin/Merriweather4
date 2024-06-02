@@ -111,4 +111,10 @@ width = 1022;
 }
 );
 unicode = 8209;
+userData = {
+KernOnSpecialSpacing = {
+L = hyphen;
+R = hyphen;
+};
+};
 }

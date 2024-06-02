@@ -1,7 +1,5 @@
 {
 glyphname = kgreenlandic;
-kernLeft = h;
-kernRight = k;
 layers = (
 {
 anchors = (

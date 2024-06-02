@@ -100,11 +100,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (-183,21);
+pos = (-174,21);
 ref = Ibar_part.;
 }
 );
-width = 716;
+width = 742;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";

@@ -1,7 +1,5 @@
 {
 glyphname = five.sc;
-kernLeft = five.sc;
-kernRight = five.sc;
 layers = (
 {
 layerId = UUID0;

@@ -1,7 +1,5 @@
 {
 glyphname = Gbreve;
-kernLeft = O;
-kernRight = G;
 layers = (
 {
 layerId = UUID0;

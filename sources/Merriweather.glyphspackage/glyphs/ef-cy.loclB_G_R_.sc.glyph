@@ -1,7 +1,5 @@
 {
 glyphname = "ef-cy.loclBGR.sc";
-kernLeft = "ef-cy.loclBGR";
-kernRight = "ef-cy.loclBGR";
 layers = (
 {
 layerId = UUID0;

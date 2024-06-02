@@ -1,7 +1,5 @@
 {
 glyphname = "endescender-cy";
-kernLeft = "pe-cy";
-kernRight = "de-cy";
 layers = (
 {
 layerId = UUID0;

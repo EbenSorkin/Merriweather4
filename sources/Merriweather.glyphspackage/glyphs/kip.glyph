@@ -1,7 +1,5 @@
 {
 glyphname = kip;
-kernLeft = kip;
-kernRight = kip;
 layers = (
 {
 layerId = UUID0;
@@ -642,4 +640,10 @@ width = 1639;
 }
 );
 unicode = 8365;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
 }

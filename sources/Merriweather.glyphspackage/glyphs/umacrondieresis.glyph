@@ -1,7 +1,5 @@
 {
 glyphname = umacrondieresis;
-kernLeft = u;
-kernRight = u;
 layers = (
 {
 layerId = UUID0;
@@ -10,11 +8,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (141,0);
+pos = (125,0);
 ref = macroncomb;
 },
 {
-pos = (261,246);
+pos = (247,258);
 ref = dieresiscomb;
 }
 );
@@ -27,11 +25,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (129,1);
+pos = (113,1);
 ref = macroncomb;
 },
 {
-pos = (227,334);
+pos = (211,334);
 ref = dieresiscomb;
 }
 );
@@ -61,11 +59,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (83,2);
+pos = (76,2);
 ref = macroncomb;
 },
 {
-pos = (153,335);
+pos = (146,335);
 ref = dieresiscomb;
 }
 );
@@ -78,11 +76,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (165,0);
+pos = (154,0);
 ref = macroncomb;
 },
 {
-pos = (195,246);
+pos = (184,258);
 ref = dieresiscomb;
 }
 );
@@ -95,11 +93,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (69,0);
+pos = (62,0);
 ref = macroncomb;
 },
 {
-pos = (93,338);
+pos = (86,338);
 ref = dieresiscomb;
 }
 );
@@ -146,11 +144,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (137,0);
+pos = (134,0);
 ref = macroncomb;
 },
 {
-pos = (202,338);
+pos = (199,338);
 ref = dieresiscomb;
 }
 );
@@ -180,11 +178,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (205,0);
+pos = (201,0);
 ref = macroncomb;
 },
 {
-pos = (248,246);
+pos = (240,258);
 ref = dieresiscomb;
 }
 );
@@ -200,11 +198,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (139,0);
+pos = (132,0);
 ref = macroncomb;
 },
 {
-pos = (219,333);
+pos = (212,333);
 ref = dieresiscomb;
 }
 );

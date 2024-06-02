@@ -1,7 +1,5 @@
 {
 glyphname = degree;
-kernLeft = degree;
-kernRight = degree;
 layers = (
 {
 layerId = UUID0;
@@ -488,4 +486,10 @@ width = 1011;
 }
 );
 unicode = 176;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
 }

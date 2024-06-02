@@ -1,7 +1,5 @@
 {
 glyphname = lozenge;
-kernLeft = lozenge;
-kernRight = lozenge;
 layers = (
 {
 layerId = UUID0;

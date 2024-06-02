@@ -1,7 +1,5 @@
 {
 glyphname = seven.tf;
-kernLeft = seven.tf;
-kernRight = seven.tf;
 layers = (
 {
 layerId = UUID0;
@@ -306,6 +304,10 @@ width = 1220;
 }
 );
 userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
 RMXScaler = {
 source = seven;
 };

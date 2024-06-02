@@ -1,8 +1,6 @@
 {
 color = 5;
 glyphname = uring;
-kernLeft = u;
-kernRight = u;
 layers = (
 {
 layerId = UUID0;
@@ -11,7 +9,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (179,0);
+pos = (163,0);
 ref = ringcomb;
 }
 );
@@ -24,7 +22,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (167,-71);
+pos = (151,-71);
 ref = ringcomb;
 }
 );
@@ -50,7 +48,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (77,0);
+pos = (70,0);
 ref = ringcomb;
 }
 );
@@ -63,7 +61,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (161,0);
+pos = (150,0);
 ref = ringcomb;
 }
 );
@@ -76,7 +74,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (173,0);
+pos = (166,0);
 ref = ringcomb;
 }
 );
@@ -115,7 +113,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (272,0);
+pos = (269,0);
 ref = ringcomb;
 }
 );
@@ -141,7 +139,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (241,0);
+pos = (237,0);
 ref = ringcomb;
 }
 );
@@ -157,7 +155,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (174,0);
+pos = (167,0);
 ref = ringcomb;
 }
 );

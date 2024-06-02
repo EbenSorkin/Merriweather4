@@ -1,7 +1,5 @@
 {
 glyphname = "pemiddlehook-cy.sc";
-kernLeft = "pemiddlehook-cy.sc";
-kernRight = "softsign-cy.sc";
 layers = (
 {
 layerId = UUID0;
@@ -49,7 +47,7 @@ weight = 2;
 width = 96;
 };
 };
-width = 2005;
+width = 2019;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -89,7 +87,7 @@ nodes = (
 ref = "pe-cy.sc";
 }
 );
-width = 2163;
+width = 2164;
 },
 {
 annotations = (

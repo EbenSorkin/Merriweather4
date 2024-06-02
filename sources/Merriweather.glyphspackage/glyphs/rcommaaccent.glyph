@@ -1,8 +1,6 @@
 {
 color = 3;
 glyphname = rcommaaccent;
-kernLeft = n;
-kernRight = r;
 layers = (
 {
 layerId = UUID0;
@@ -41,7 +39,7 @@ pos = (143,0);
 ref = commaaccentcomb;
 }
 );
-width = 839;
+width = 809;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -54,7 +52,7 @@ pos = (153,0);
 ref = commaaccentcomb;
 }
 );
-width = 794;
+width = 804;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -80,7 +78,7 @@ pos = (107,0);
 ref = commaaccentcomb;
 }
 );
-width = 740;
+width = 750;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";

@@ -1,7 +1,5 @@
 {
 glyphname = horncomb;
-kernLeft = horncomb;
-kernRight = horncomb;
 layers = (
 {
 anchors = (

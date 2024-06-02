@@ -1,8 +1,6 @@
 {
 color = 5;
 glyphname = ucircumflex;
-kernLeft = u;
-kernRight = u;
 layers = (
 {
 layerId = UUID0;
@@ -11,7 +9,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (96,0);
+pos = (80,0);
 ref = circumflexcomb;
 }
 );
@@ -24,7 +22,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (60,0);
+pos = (44,0);
 ref = circumflexcomb;
 }
 );
@@ -50,7 +48,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (-26,0);
+pos = (-33,0);
 ref = circumflexcomb;
 }
 );
@@ -63,7 +61,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (85,0);
+pos = (74,0);
 ref = circumflexcomb;
 }
 );
@@ -76,7 +74,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (64,0);
+pos = (57,0);
 ref = circumflexcomb;
 }
 );
@@ -115,7 +113,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (108,0);
+pos = (105,0);
 ref = circumflexcomb;
 }
 );
@@ -141,7 +139,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (150,0);
+pos = (146,0);
 ref = circumflexcomb;
 }
 );
@@ -157,7 +155,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (60,0);
+pos = (53,0);
 ref = circumflexcomb;
 }
 );

@@ -577,4 +577,10 @@ width = 1213;
 }
 );
 unicode = 628;
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
 }

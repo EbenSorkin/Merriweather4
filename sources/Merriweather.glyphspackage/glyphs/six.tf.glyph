@@ -1,7 +1,5 @@
 {
 glyphname = six.tf;
-kernLeft = six.tf;
-kernRight = six.tf;
 layers = (
 {
 layerId = UUID0;
@@ -642,6 +640,10 @@ width = 1220;
 }
 );
 userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
 RMXScaler = {
 source = six;
 };

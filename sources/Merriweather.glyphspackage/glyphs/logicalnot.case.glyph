@@ -1,7 +1,5 @@
 {
 glyphname = logicalnot.case;
-kernLeft = hyphen;
-kernRight = hyphen;
 layers = (
 {
 layerId = UUID0;

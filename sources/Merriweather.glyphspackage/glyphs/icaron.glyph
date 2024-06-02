@@ -1,7 +1,5 @@
 {
 glyphname = icaron;
-kernLeft = i;
-kernRight = i;
 layers = (
 {
 layerId = UUID0;

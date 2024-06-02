@@ -1,7 +1,5 @@
 {
 glyphname = Ccedillaacute;
-kernLeft = O;
-kernRight = C;
 layers = (
 {
 layerId = UUID0;

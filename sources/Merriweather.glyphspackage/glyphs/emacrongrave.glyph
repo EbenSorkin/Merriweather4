@@ -1,7 +1,5 @@
 {
 glyphname = emacrongrave;
-kernLeft = o;
-kernRight = e;
 layers = (
 {
 layerId = UUID0;
@@ -14,7 +12,7 @@ pos = (102,0);
 ref = macroncomb;
 },
 {
-pos = (49,246);
+pos = (51,258);
 ref = gravecomb;
 }
 );
@@ -82,7 +80,7 @@ pos = (159,0);
 ref = macroncomb;
 },
 {
-pos = (102,246);
+pos = (102,258);
 ref = gravecomb;
 }
 );
@@ -184,7 +182,7 @@ pos = (210,0);
 ref = macroncomb;
 },
 {
-pos = (136,246);
+pos = (132,258);
 ref = gravecomb;
 }
 );

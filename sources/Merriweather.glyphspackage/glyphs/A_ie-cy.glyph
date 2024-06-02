@@ -1,7 +1,5 @@
 {
 glyphname = "Aie-cy";
-kernLeft = AE;
-kernRight = E;
 layers = (
 {
 layerId = UUID0;
@@ -10,7 +8,7 @@ shapes = (
 ref = AE;
 }
 );
-width = 1919;
+width = 1914;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";

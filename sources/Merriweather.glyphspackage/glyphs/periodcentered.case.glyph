@@ -1,7 +1,5 @@
 {
 glyphname = periodcentered.case;
-kernLeft = periodcentered.cap;
-kernRight = periodcentered.cap;
 layers = (
 {
 layerId = UUID0;
@@ -283,4 +281,10 @@ nodes = (
 width = 397;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

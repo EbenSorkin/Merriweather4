@@ -1,7 +1,5 @@
 {
 glyphname = percent;
-kernLeft = percent;
-kernRight = percent;
 layers = (
 {
 layerId = UUID0;
@@ -1005,4 +1003,9 @@ width = 2252;
 );
 metricRight = "=|";
 unicode = 37;
+userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+};
+};
 }

@@ -1,7 +1,5 @@
 {
 glyphname = kcaron;
-kernLeft = h;
-kernRight = k;
 layers = (
 {
 layerId = UUID0;

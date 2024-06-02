@@ -1,7 +1,5 @@
 {
 glyphname = dong;
-kernLeft = dong;
-kernRight = dong;
 layers = (
 {
 layerId = UUID0;
@@ -896,4 +894,10 @@ width = 1459;
 }
 );
 unicode = 8363;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
 }

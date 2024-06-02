@@ -1,7 +1,5 @@
 {
 glyphname = j;
-kernLeft = j;
-kernRight = i;
 layers = (
 {
 layerId = UUID0;
@@ -164,4 +162,7 @@ width = 712;
 }
 );
 unicode = 106;
+userData = {
+KernOnName = j;
+};
 }

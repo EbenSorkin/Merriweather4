@@ -1,7 +1,5 @@
 {
 glyphname = eightinferior;
-kernLeft = eight.sinf;
-kernRight = eight.sinf;
 layers = (
 {
 layerId = UUID0;
@@ -125,4 +123,10 @@ width = 894;
 }
 );
 unicode = 8328;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
 }

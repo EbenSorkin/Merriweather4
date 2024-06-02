@@ -1,7 +1,5 @@
 {
 glyphname = nine.sc;
-kernLeft = nine.sc;
-kernRight = nine.sc;
 layers = (
 {
 layerId = UUID0;

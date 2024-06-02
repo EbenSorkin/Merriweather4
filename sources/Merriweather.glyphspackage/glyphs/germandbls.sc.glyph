@@ -1,8 +1,6 @@
 {
 color = 3;
 glyphname = germandbls.sc;
-kernLeft = germandbls.sc;
-kernRight = germandbls.sc;
 layers = (
 {
 layerId = UUID0;
@@ -691,6 +689,10 @@ width = 1442;
 }
 );
 userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
 RMXScaler = {
 source = Germandbls;
 };

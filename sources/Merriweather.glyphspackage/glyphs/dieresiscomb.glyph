@@ -1,7 +1,5 @@
 {
 glyphname = dieresiscomb;
-kernLeft = dieresiscomb;
-kernRight = dieresiscomb;
 layers = (
 {
 anchors = (
@@ -65,7 +63,7 @@ pos = (412,1112);
 },
 {
 name = top;
-pos = (420,1536);
+pos = (412,1536);
 }
 );
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -119,7 +117,7 @@ pos = (385,1005);
 },
 {
 name = top;
-pos = (385,1368);
+pos = (385,1375);
 }
 );
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -335,7 +333,7 @@ pos = (257,1005);
 },
 {
 name = top;
-pos = (264,1322);
+pos = (264,1334);
 }
 );
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -703,4 +701,10 @@ width = 840;
 }
 );
 unicode = 776;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

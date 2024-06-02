@@ -1,7 +1,5 @@
 {
 glyphname = sterling;
-kernLeft = sterling;
-kernRight = sterling;
 layers = (
 {
 layerId = UUID0;
@@ -824,4 +822,10 @@ width = 1693;
 }
 );
 unicode = 163;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
 }

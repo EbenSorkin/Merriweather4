@@ -1,7 +1,5 @@
 {
 glyphname = circumflexcomb_hookabovecomb.case;
-kernLeft = circumflexcomb;
-kernRight = hookabovecomb.case;
 layers = (
 {
 anchors = (

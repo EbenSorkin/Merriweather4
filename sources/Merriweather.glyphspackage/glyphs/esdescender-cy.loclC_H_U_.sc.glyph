@@ -1,7 +1,5 @@
 {
 glyphname = "esdescender-cy.loclCHU.sc";
-kernLeft = o.sc;
-kernRight = c.sc;
 layers = (
 {
 layerId = UUID0;

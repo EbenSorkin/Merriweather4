@@ -1,7 +1,5 @@
 {
 glyphname = "shhadescender-cy.sc";
-kernLeft = "shhadescender-cy.sc";
-kernRight = "shhadescender-cy.sc";
 layers = (
 {
 layerId = UUID0;

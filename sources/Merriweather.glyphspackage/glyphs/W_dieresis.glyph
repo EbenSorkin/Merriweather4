@@ -1,7 +1,5 @@
 {
 glyphname = Wdieresis;
-kernLeft = W;
-kernRight = W;
 layers = (
 {
 layerId = UUID0;

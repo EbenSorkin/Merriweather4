@@ -1,8 +1,6 @@
 {
 color = 9;
 glyphname = florin;
-kernLeft = florin;
-kernRight = florin;
 layers = (
 {
 layerId = UUID0;

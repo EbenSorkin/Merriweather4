@@ -1,7 +1,5 @@
 {
 glyphname = cedilla;
-kernLeft = cedillacomb;
-kernRight = cedillacomb;
 layers = (
 {
 layerId = UUID0;

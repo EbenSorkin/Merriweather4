@@ -1,7 +1,5 @@
 {
 glyphname = Ytilde;
-kernLeft = Y;
-kernRight = Y;
 layers = (
 {
 layerId = UUID0;

@@ -1,8 +1,6 @@
 {
 color = 10;
 glyphname = "iigrave-cy.loclBGR.sc";
-kernLeft = "pe-cy.sc";
-kernRight = h.sc;
 layers = (
 {
 layerId = UUID0;

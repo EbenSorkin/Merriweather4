@@ -1,7 +1,5 @@
 {
 glyphname = "schwa-cy";
-kernLeft = o;
-kernRight = o;
 layers = (
 {
 anchors = (

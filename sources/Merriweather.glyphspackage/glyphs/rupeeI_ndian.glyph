@@ -1,7 +1,5 @@
 {
 glyphname = rupeeIndian;
-kernLeft = rupeeIndian;
-kernRight = rupeeIndian;
 layers = (
 {
 layerId = UUID0;
@@ -608,4 +606,10 @@ width = 1520;
 }
 );
 unicode = 8377;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
 }

@@ -1,7 +1,5 @@
 {
 glyphname = zerowidthspace;
-kernLeft = space;
-kernRight = space;
 layers = (
 {
 layerId = UUID0;
@@ -57,4 +55,10 @@ width = 0;
 );
 metricWidth = zerowidthspace;
 unicode = 8203;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

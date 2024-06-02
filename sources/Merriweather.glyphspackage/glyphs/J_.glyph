@@ -1,8 +1,6 @@
 {
 color = 4;
 glyphname = J;
-kernLeft = J;
-kernRight = J;
 layers = (
 {
 anchors = (
@@ -137,7 +135,7 @@ nodes = (
 );
 }
 );
-width = 716;
+width = 742;
 },
 {
 anchors = (
@@ -550,4 +548,7 @@ width = 843;
 );
 metricWidth = I;
 unicode = 74;
+userData = {
+KernOnName = J;
+};
 }

@@ -1,7 +1,5 @@
 {
 glyphname = "we-cy.sc";
-kernLeft = w.sc;
-kernRight = w.sc;
 layers = (
 {
 anchors = (

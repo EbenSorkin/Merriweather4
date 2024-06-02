@@ -1,7 +1,5 @@
 {
 glyphname = "kabashkir-cy.sc";
-kernLeft = t.sc;
-kernRight = "zhe-cy.sc";
 layers = (
 {
 anchors = (

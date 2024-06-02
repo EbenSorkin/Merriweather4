@@ -1,7 +1,5 @@
 {
 glyphname = Udieresis;
-kernLeft = U;
-kernRight = U;
 layers = (
 {
 layerId = UUID0;

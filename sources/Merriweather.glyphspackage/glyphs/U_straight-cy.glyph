@@ -1,7 +1,5 @@
 {
 glyphname = "Ustraight-cy";
-kernLeft = Y;
-kernRight = Y;
 layers = (
 {
 anchors = (

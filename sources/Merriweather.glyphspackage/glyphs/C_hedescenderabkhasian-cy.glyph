@@ -1,7 +1,5 @@
 {
 glyphname = "Chedescenderabkhasian-cy";
-kernLeft = "Cheabkhasian-cy";
-kernRight = O;
 layers = (
 {
 layerId = UUID0;
@@ -14,7 +12,7 @@ pos = (729,0);
 ref = cedillacomb.case;
 }
 );
-width = 1571;
+width = 1588;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -27,7 +25,7 @@ pos = (793,0);
 ref = cedillacomb.case;
 }
 );
-width = 1727;
+width = 1732;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -40,7 +38,7 @@ pos = (866,0);
 ref = cedillacomb.case;
 }
 );
-width = 1767;
+width = 1785;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";

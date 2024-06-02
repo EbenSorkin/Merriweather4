@@ -1,7 +1,5 @@
 {
 glyphname = jcircumflex;
-kernLeft = j;
-kernRight = i;
 layers = (
 {
 layerId = UUID0;

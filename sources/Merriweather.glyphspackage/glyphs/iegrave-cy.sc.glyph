@@ -1,7 +1,5 @@
 {
 glyphname = "iegrave-cy.sc";
-kernLeft = h.sc;
-kernRight = e.sc;
 layers = (
 {
 layerId = UUID0;

@@ -1,7 +1,5 @@
 {
 glyphname = six.lf;
-kernLeft = six;
-kernRight = six;
 layers = (
 {
 layerId = UUID0;

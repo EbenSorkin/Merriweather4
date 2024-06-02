@@ -1,7 +1,5 @@
 {
 glyphname = divide;
-kernLeft = hyphen;
-kernRight = hyphen;
 layers = (
 {
 layerId = UUID0;
@@ -598,4 +596,10 @@ width = 1354;
 metricLeft = hyphen;
 metricRight = hyphen;
 unicode = 247;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
 }

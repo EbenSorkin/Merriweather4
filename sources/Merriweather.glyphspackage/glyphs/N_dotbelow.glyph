@@ -1,7 +1,5 @@
 {
 glyphname = Ndotbelow;
-kernLeft = H;
-kernRight = H;
 layers = (
 {
 layerId = UUID0;

@@ -1,7 +1,5 @@
 {
 glyphname = sixperemspace;
-kernLeft = space;
-kernRight = space;
 layers = (
 {
 layerId = UUID0;
@@ -56,4 +54,10 @@ width = 334;
 }
 );
 unicode = 8198;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

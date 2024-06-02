@@ -1,7 +1,5 @@
 {
 glyphname = divisionslash;
-kernLeft = divisionslash;
-kernRight = divisionslash;
 layers = (
 {
 layerId = UUID0;

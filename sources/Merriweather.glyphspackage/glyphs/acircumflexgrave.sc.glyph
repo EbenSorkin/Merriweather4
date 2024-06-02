@@ -1,8 +1,6 @@
 {
 color = 5;
 glyphname = acircumflexgrave.sc;
-kernLeft = a.sc;
-kernRight = a.sc;
 layers = (
 {
 layerId = UUID0;
@@ -50,7 +48,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (286,180);
+pos = (289,180);
 ref = circumflexcomb_gravecomb;
 }
 );

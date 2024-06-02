@@ -1,7 +1,5 @@
 {
 glyphname = four.tosf;
-kernLeft = four.tosf;
-kernRight = four.tosf;
 layers = (
 {
 layerId = UUID0;
@@ -367,4 +365,10 @@ nodes = (
 width = 1220;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

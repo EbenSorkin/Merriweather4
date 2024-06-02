@@ -1,8 +1,6 @@
 {
 color = 4;
 glyphname = Jcrossedtail;
-kernLeft = J;
-kernRight = J;
 layers = (
 {
 background = {
@@ -470,7 +468,7 @@ nodes = (
 );
 }
 );
-width = 716;
+width = 742;
 },
 {
 background = {

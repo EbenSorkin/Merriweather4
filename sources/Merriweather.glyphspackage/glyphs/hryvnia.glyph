@@ -1,7 +1,5 @@
 {
 glyphname = hryvnia;
-kernLeft = hryvnia;
-kernRight = hryvnia;
 layers = (
 {
 layerId = UUID0;
@@ -868,4 +866,10 @@ width = 1660;
 );
 metricRight = "=|";
 unicode = 8372;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
 }

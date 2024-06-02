@@ -1,7 +1,5 @@
 {
 glyphname = "chedescenderabkhasian-cy";
-kernLeft = "cheabkhasian-cy";
-kernRight = e;
 layers = (
 {
 layerId = UUID0;

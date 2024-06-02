@@ -1,7 +1,5 @@
 {
 glyphname = Tdotaccent;
-kernLeft = T;
-kernRight = T;
 layers = (
 {
 layerId = UUID0;

@@ -1,7 +1,5 @@
 {
 glyphname = tugrik;
-kernLeft = tugrik;
-kernRight = tugrik;
 layers = (
 {
 layerId = UUID0;
@@ -524,4 +522,10 @@ width = 1785;
 }
 );
 unicode = 8366;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
 }

@@ -1,7 +1,5 @@
 {
 glyphname = "Che-cy";
-kernLeft = "Che-cy";
-kernRight = "Pe-cy";
 layers = (
 {
 anchors = (
@@ -693,4 +691,7 @@ width = 1684;
 );
 metricRight = "Pe-cy";
 unicode = 1063;
+userData = {
+KernOnName = "Che-cy";
+};
 }

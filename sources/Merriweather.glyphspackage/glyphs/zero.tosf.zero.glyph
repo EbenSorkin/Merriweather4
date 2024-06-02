@@ -1,7 +1,5 @@
 {
 glyphname = zero.tosf.zero;
-kernLeft = zero.tosf.zero;
-kernRight = zero.tosf.zero;
 layers = (
 {
 layerId = UUID0;

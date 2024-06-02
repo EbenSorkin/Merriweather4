@@ -1,7 +1,5 @@
 {
 glyphname = "de-cy";
-kernLeft = "de-cy";
-kernRight = "pe-cy";
 layers = (
 {
 guides = (

@@ -1,7 +1,5 @@
 {
 glyphname = "Schwa-cy";
-kernLeft = O;
-kernRight = O;
 layers = (
 {
 layerId = UUID0;
@@ -10,7 +8,7 @@ shapes = (
 ref = Schwa;
 }
 );
-width = 1318;
+width = 1335;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -19,7 +17,7 @@ shapes = (
 ref = Schwa;
 }
 );
-width = 1407;
+width = 1412;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -28,7 +26,7 @@ shapes = (
 ref = Schwa;
 }
 );
-width = 1415;
+width = 1433;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";

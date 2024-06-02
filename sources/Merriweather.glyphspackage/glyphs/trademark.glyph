@@ -1,7 +1,5 @@
 {
 glyphname = trademark;
-kernLeft = trademark;
-kernRight = trademark;
 layers = (
 {
 layerId = UUID0;
@@ -752,4 +750,9 @@ width = 2517;
 }
 );
 unicode = 8482;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+};
+};
 }

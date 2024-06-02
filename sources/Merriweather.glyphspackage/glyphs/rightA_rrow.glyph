@@ -1,7 +1,5 @@
 {
 glyphname = rightArrow;
-kernLeft = rightArrow;
-kernRight = rightArrow;
 layers = (
 {
 layerId = UUID0;
@@ -272,4 +270,10 @@ width = 1410;
 }
 );
 unicode = 8594;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

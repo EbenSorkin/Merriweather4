@@ -1,7 +1,5 @@
 {
 glyphname = twoinferior;
-kernLeft = two.sinf;
-kernRight = two.sinf;
 layers = (
 {
 layerId = UUID0;
@@ -125,4 +123,10 @@ width = 825;
 }
 );
 unicode = 8322;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
 }

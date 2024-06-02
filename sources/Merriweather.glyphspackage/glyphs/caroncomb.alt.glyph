@@ -1,7 +1,5 @@
 {
 glyphname = caroncomb.alt;
-kernLeft = caroncomb.alt;
-kernRight = caroncomb.alt;
 layers = (
 {
 anchors = (
@@ -403,4 +401,10 @@ nodes = (
 width = 302;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

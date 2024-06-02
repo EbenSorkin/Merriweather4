@@ -1,7 +1,5 @@
 {
 glyphname = uhornhookabove;
-kernLeft = u;
-kernRight = uhorn;
 layers = (
 {
 layerId = UUID0;
@@ -10,7 +8,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (412,0);
+pos = (396,0);
 ref = hookabovecomb;
 }
 );
@@ -23,7 +21,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (383,0);
+pos = (367,0);
 ref = hookabovecomb;
 }
 );
@@ -49,7 +47,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (322,0);
+pos = (315,0);
 ref = hookabovecomb;
 }
 );
@@ -62,7 +60,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (331,0);
+pos = (320,0);
 ref = hookabovecomb;
 }
 );
@@ -75,7 +73,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (317,0);
+pos = (310,0);
 ref = hookabovecomb;
 }
 );
@@ -114,7 +112,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (350,0);
+pos = (347,0);
 ref = hookabovecomb;
 }
 );
@@ -140,7 +138,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (366,0);
+pos = (362,0);
 ref = hookabovecomb;
 }
 );
@@ -156,7 +154,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (363,0);
+pos = (356,0);
 ref = hookabovecomb;
 }
 );

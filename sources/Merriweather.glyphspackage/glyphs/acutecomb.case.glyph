@@ -1,7 +1,5 @@
 {
 glyphname = acutecomb.case;
-kernLeft = acutecomb.case;
-kernRight = acutecomb.case;
 layers = (
 {
 anchors = (

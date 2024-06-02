@@ -1,7 +1,5 @@
 {
 glyphname = cedillacomb;
-kernLeft = cedillacomb;
-kernRight = cedillacomb;
 layers = (
 {
 anchors = (
@@ -513,4 +511,10 @@ width = 501;
 }
 );
 unicode = 807;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

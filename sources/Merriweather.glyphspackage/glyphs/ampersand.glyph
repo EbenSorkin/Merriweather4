@@ -1,7 +1,5 @@
 {
 glyphname = ampersand;
-kernLeft = ampersand;
-kernRight = ampersand;
 layers = (
 {
 layerId = UUID0;
@@ -1088,4 +1086,10 @@ width = 1662;
 }
 );
 unicode = 38;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
 }

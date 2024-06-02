@@ -1,7 +1,5 @@
 {
 glyphname = punctuationspace;
-kernLeft = space;
-kernRight = space;
 layers = (
 {
 layerId = UUID0;
@@ -56,4 +54,10 @@ width = 616;
 }
 );
 unicode = 8200;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

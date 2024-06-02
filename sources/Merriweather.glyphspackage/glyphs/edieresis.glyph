@@ -1,7 +1,5 @@
 {
 glyphname = edieresis;
-kernLeft = o;
-kernRight = e;
 layers = (
 {
 layerId = UUID0;

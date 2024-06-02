@@ -1,8 +1,6 @@
 {
 color = 3;
 glyphname = gravecomb;
-kernLeft = gravecomb;
-kernRight = gravecomb;
 layers = (
 {
 anchors = (
@@ -348,4 +346,10 @@ width = 904;
 metricLeft = hyphen;
 metricRight = hyphen;
 unicode = 768;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

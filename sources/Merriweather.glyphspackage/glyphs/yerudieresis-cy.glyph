@@ -1,7 +1,5 @@
 {
 glyphname = "yerudieresis-cy";
-kernLeft = "pe-cy";
-kernRight = "pe-cy";
 layers = (
 {
 layerId = UUID0;

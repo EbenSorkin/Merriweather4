@@ -1,7 +1,5 @@
 {
 glyphname = "Zhebreve-cy";
-kernLeft = "Zhe-cy";
-kernRight = "Zhe-cy";
 layers = (
 {
 layerId = UUID0;

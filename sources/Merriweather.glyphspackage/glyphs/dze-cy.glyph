@@ -1,7 +1,5 @@
 {
 glyphname = "dze-cy";
-kernLeft = s;
-kernRight = s;
 layers = (
 {
 layerId = UUID0;
@@ -28,7 +26,7 @@ shapes = (
 ref = s;
 }
 );
-width = 861;
+width = 874;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";

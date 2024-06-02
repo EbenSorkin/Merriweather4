@@ -1,7 +1,5 @@
 {
 glyphname = "tedescender-cy";
-kernLeft = "te-cy";
-kernRight = "te-cy";
 layers = (
 {
 layerId = UUID0;

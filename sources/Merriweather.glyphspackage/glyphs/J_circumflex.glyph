@@ -1,7 +1,5 @@
 {
 glyphname = Jcircumflex;
-kernLeft = J;
-kernRight = J;
 layers = (
 {
 layerId = UUID0;
@@ -40,7 +38,7 @@ pos = (-7,0);
 ref = circumflexcomb.case;
 }
 );
-width = 716;
+width = 742;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";

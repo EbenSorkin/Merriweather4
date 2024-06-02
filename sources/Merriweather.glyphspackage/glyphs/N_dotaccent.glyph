@@ -1,7 +1,5 @@
 {
 glyphname = Ndotaccent;
-kernLeft = H;
-kernRight = H;
 layers = (
 {
 layerId = UUID0;

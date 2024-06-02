@@ -1,7 +1,5 @@
 {
 glyphname = seven.numr;
-kernLeft = seven.sinf;
-kernRight = seven.sinf;
 layers = (
 {
 layerId = UUID0;

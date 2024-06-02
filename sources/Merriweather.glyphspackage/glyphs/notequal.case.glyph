@@ -1,7 +1,5 @@
 {
 glyphname = notequal.case;
-kernLeft = equal;
-kernRight = equal;
 layers = (
 {
 layerId = UUID0;

@@ -1,7 +1,5 @@
 {
 glyphname = horizontalbar;
-kernLeft = hyphen;
-kernRight = hyphen;
 layers = (
 {
 layerId = UUID0;
@@ -124,4 +122,10 @@ width = 2321;
 metricLeft = hyphen;
 metricRight = hyphen;
 unicode = 8213;
+userData = {
+KernOnSpecialSpacing = {
+L = dashes;
+R = dashes;
+};
+};
 }

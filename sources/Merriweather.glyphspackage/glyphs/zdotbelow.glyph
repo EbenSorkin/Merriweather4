@@ -1,8 +1,6 @@
 {
 color = 3;
 glyphname = zdotbelow;
-kernLeft = z;
-kernRight = z;
 layers = (
 {
 layerId = UUID0;
@@ -80,7 +78,7 @@ pos = (243,0);
 ref = dotbelowcomb;
 }
 );
-width = 860;
+width = 869;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -161,7 +159,7 @@ pos = (364,0);
 ref = dotbelowcomb;
 }
 );
-width = 1131;
+width = 1127;
 }
 );
 unicode = 7827;

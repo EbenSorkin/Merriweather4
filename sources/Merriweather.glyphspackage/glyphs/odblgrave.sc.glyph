@@ -1,8 +1,6 @@
 {
 color = 5;
 glyphname = odblgrave.sc;
-kernLeft = o.sc;
-kernRight = o.sc;
 layers = (
 {
 layerId = UUID0;
@@ -11,7 +9,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (12,182);
+pos = (32,182);
 ref = dblgravecomb;
 }
 );
@@ -37,7 +35,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (-21,287);
+pos = (-11,287);
 ref = dblgravecomb;
 }
 );
@@ -63,7 +61,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (-4,182);
+pos = (1,182);
 ref = dblgravecomb;
 }
 );
@@ -115,7 +113,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (15,287);
+pos = (35,287);
 ref = dblgravecomb;
 }
 );

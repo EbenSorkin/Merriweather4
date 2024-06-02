@@ -1,7 +1,5 @@
 {
 glyphname = ogonek;
-kernLeft = ogonekcomb;
-kernRight = ogonekcomb;
 layers = (
 {
 layerId = UUID0;

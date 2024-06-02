@@ -1,7 +1,5 @@
 {
 glyphname = quotedblright;
-kernLeft = quoteright;
-kernRight = quoteright;
 layers = (
 {
 background = {
@@ -62,7 +60,7 @@ pos = (403,0);
 ref = quoteright;
 }
 );
-width = 981;
+width = 952;
 },
 {
 background = {
@@ -123,7 +121,7 @@ pos = (488,0);
 ref = quoteright;
 }
 );
-width = 1094;
+width = 1100;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -132,11 +130,11 @@ shapes = (
 ref = quoteright;
 },
 {
-pos = (381,7);
+pos = (381,0);
 ref = quoteright;
 }
 );
-width = 858;
+width = 923;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -145,11 +143,11 @@ shapes = (
 ref = quoteright;
 },
 {
-pos = (523,0);
+pos = (513,0);
 ref = quoteright;
 }
 );
-width = 1129;
+width = 1139;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -171,11 +169,11 @@ shapes = (
 ref = quoteright;
 },
 {
-pos = (381,7);
+pos = (381,0);
 ref = quoteright;
 }
 );
-width = 858;
+width = 878;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -188,7 +186,7 @@ pos = (302,7);
 ref = quoteright;
 }
 );
-width = 744;
+width = 734;
 },
 {
 background = {
@@ -262,7 +260,7 @@ pos = (411,7);
 ref = quoteright;
 }
 );
-width = 888;
+width = 933;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -271,11 +269,11 @@ shapes = (
 ref = quoteright;
 },
 {
-pos = (302,7);
+pos = (302,0);
 ref = quoteright;
 }
 );
-width = 744;
+width = 754;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -291,7 +289,7 @@ ref = quoteright;
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1021;
+width = 1017;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -300,14 +298,20 @@ shapes = (
 ref = quoteright;
 },
 {
-pos = (505,0);
+pos = (495,0);
 ref = quoteright;
 }
 );
-width = 1111;
+width = 1117;
 }
 );
 metricLeft = quoteright;
 metricRight = quoteright;
 unicode = 8221;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
 }

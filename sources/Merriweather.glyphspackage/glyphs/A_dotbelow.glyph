@@ -1,7 +1,5 @@
 {
 glyphname = Adotbelow;
-kernLeft = A;
-kernRight = A;
 layers = (
 {
 layerId = UUID0;

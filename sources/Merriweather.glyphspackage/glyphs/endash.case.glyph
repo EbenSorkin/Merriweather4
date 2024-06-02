@@ -1,8 +1,6 @@
 {
 color = 10;
 glyphname = endash.case;
-kernLeft = hyphen;
-kernRight = hyphen;
 layers = (
 {
 layerId = UUID0;
@@ -136,4 +134,10 @@ width = 1542;
 );
 metricLeft = hyphen;
 metricRight = hyphen;
+userData = {
+KernOnSpecialSpacing = {
+L = dashes;
+R = dashes;
+};
+};
 }

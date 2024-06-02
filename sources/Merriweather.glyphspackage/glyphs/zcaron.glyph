@@ -1,7 +1,5 @@
 {
 glyphname = zcaron;
-kernLeft = z;
-kernRight = z;
 layers = (
 {
 layerId = UUID0;
@@ -10,7 +8,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (44,0);
+pos = (54,0);
 ref = caroncomb;
 }
 );
@@ -23,7 +21,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (-23,0);
+pos = (-3,0);
 ref = caroncomb;
 }
 );
@@ -36,7 +34,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (-17,0);
+pos = (-7,0);
 ref = caroncomb;
 }
 );
@@ -49,7 +47,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (-82,0);
+pos = (-67,0);
 ref = caroncomb;
 }
 );
@@ -62,7 +60,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (59,0);
+pos = (69,0);
 ref = caroncomb;
 }
 );
@@ -75,11 +73,11 @@ shapes = (
 ref = z;
 },
 {
-pos = (-26,0);
+pos = (21,0);
 ref = caroncomb;
 }
 );
-width = 860;
+width = 869;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -88,7 +86,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (-24,0);
+pos = (-4,0);
 ref = caroncomb;
 }
 );
@@ -114,7 +112,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (47,0);
+pos = (71,0);
 ref = caroncomb;
 }
 );
@@ -127,7 +125,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (18,0);
+pos = (28,0);
 ref = caroncomb;
 }
 );
@@ -140,7 +138,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (129,0);
+pos = (145,0);
 ref = caroncomb;
 }
 );
@@ -156,11 +154,11 @@ shapes = (
 ref = z;
 },
 {
-pos = (-13,0);
+pos = (7,0);
 ref = caroncomb;
 }
 );
-width = 1131;
+width = 1127;
 }
 );
 unicode = 382;

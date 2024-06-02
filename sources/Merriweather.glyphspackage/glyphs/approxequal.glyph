@@ -1,7 +1,5 @@
 {
 glyphname = approxequal;
-kernLeft = approxequal;
-kernRight = approxequal;
 layers = (
 {
 layerId = UUID0;
@@ -178,4 +176,10 @@ width = 1369;
 metricLeft = hyphen;
 metricRight = hyphen;
 unicode = 8776;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
 }

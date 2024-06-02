@@ -9,7 +9,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (-114,28);
+pos = (-128,28);
 ref = belt_part.;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (-101,58);
+pos = (-102,58);
 ref = belt_part.;
 }
 );
@@ -48,11 +48,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (-177,58);
+pos = (-157,58);
 ref = belt_part.;
 }
 );
-width = 1092;
+width = 1112;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -87,11 +87,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (-131,148);
+pos = (-119,148);
 ref = belt_part.;
 }
 );
-width = 1090;
+width = 1102;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -100,11 +100,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (-167,128);
+pos = (-141,128);
 ref = belt_part.;
 }
 );
-width = 1201;
+width = 1227;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";

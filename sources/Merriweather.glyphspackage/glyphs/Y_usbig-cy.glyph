@@ -1,7 +1,5 @@
 {
 glyphname = "Yusbig-cy";
-kernLeft = "Yusbig-cy";
-kernRight = "Yusbig-cy";
 layers = (
 {
 layerId = UUID0;

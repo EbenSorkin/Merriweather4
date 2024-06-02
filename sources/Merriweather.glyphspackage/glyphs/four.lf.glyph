@@ -1,7 +1,5 @@
 {
 glyphname = four.lf;
-kernLeft = four;
-kernRight = four;
 layers = (
 {
 layerId = UUID0;

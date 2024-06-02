@@ -1,8 +1,6 @@
 {
 color = 3;
 glyphname = "yu-cy.loclBGR";
-kernLeft = h;
-kernRight = o;
 layers = (
 {
 layerId = UUID0;
@@ -57,7 +55,7 @@ nodes = (
 );
 }
 );
-width = 1737;
+width = 1751;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -112,7 +110,7 @@ nodes = (
 );
 }
 );
-width = 1857;
+width = 1858;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";

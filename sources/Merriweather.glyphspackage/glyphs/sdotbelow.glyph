@@ -1,8 +1,6 @@
 {
 color = 3;
 glyphname = sdotbelow;
-kernLeft = s;
-kernRight = s;
 layers = (
 {
 layerId = UUID0;
@@ -37,11 +35,11 @@ shapes = (
 ref = s;
 },
 {
-pos = (239,0);
+pos = (244,0);
 ref = dotbelowcomb;
 }
 );
-width = 861;
+width = 874;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";

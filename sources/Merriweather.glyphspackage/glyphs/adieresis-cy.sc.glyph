@@ -1,7 +1,5 @@
 {
 glyphname = "adieresis-cy.sc";
-kernLeft = a.sc;
-kernRight = a.sc;
 layers = (
 {
 layerId = UUID0;
@@ -49,7 +47,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (236,180);
+pos = (239,180);
 ref = dieresiscomb;
 }
 );

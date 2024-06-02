@@ -1,7 +1,5 @@
 {
 glyphname = "yat-cy.sc";
-kernLeft = "yat-cy.sc";
-kernRight = "softsign-cy.sc";
 layers = (
 {
 layerId = UUID0;

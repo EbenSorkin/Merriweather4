@@ -1,7 +1,5 @@
 {
 glyphname = peso;
-kernLeft = peso;
-kernRight = peso;
 layers = (
 {
 layerId = UUID0;
@@ -1124,4 +1122,10 @@ width = 1625;
 }
 );
 unicode = 8369;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
 }

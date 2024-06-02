@@ -1,8 +1,6 @@
 {
 color = 3;
 glyphname = gdotaccent;
-kernLeft = g;
-kernRight = g;
 layers = (
 {
 layerId = UUID0;

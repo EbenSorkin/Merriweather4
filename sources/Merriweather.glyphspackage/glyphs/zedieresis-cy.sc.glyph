@@ -1,7 +1,5 @@
 {
 glyphname = "zedieresis-cy.sc";
-kernLeft = "ze-cy.sc";
-kernRight = b.sc;
 layers = (
 {
 layerId = UUID0;

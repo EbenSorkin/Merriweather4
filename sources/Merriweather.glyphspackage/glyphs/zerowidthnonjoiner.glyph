@@ -1,7 +1,5 @@
 {
 glyphname = zerowidthnonjoiner;
-kernLeft = space;
-kernRight = space;
 layers = (
 {
 layerId = UUID0;

@@ -1,7 +1,5 @@
 {
 glyphname = "Ereversed-cy";
-kernLeft = "Ze-cy";
-kernRight = O;
 layers = (
 {
 anchors = (
@@ -51,7 +49,7 @@ nodes = (
 );
 }
 );
-width = 1260;
+width = 1277;
 },
 {
 anchors = (
@@ -101,7 +99,7 @@ nodes = (
 );
 }
 );
-width = 1353;
+width = 1358;
 },
 {
 anchors = (
@@ -151,7 +149,7 @@ nodes = (
 );
 }
 );
-width = 1241;
+width = 1259;
 },
 {
 anchors = (

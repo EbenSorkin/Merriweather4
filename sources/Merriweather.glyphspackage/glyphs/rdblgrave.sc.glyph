@@ -1,8 +1,6 @@
 {
 color = 5;
 glyphname = rdblgrave.sc;
-kernLeft = h.sc;
-kernRight = r.sc;
 layers = (
 {
 layerId = UUID0;
@@ -11,7 +9,7 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (-50,182);
+pos = (-30,182);
 ref = dblgravecomb;
 }
 );
@@ -37,7 +35,7 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (-32,287);
+pos = (-22,287);
 ref = dblgravecomb;
 }
 );
@@ -63,7 +61,7 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (12,182);
+pos = (17,182);
 ref = dblgravecomb;
 }
 );
@@ -115,7 +113,7 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (-8,287);
+pos = (12,287);
 ref = dblgravecomb;
 }
 );

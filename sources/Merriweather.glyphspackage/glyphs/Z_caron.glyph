@@ -1,7 +1,5 @@
 {
 glyphname = Zcaron;
-kernLeft = Z;
-kernRight = Z;
 layers = (
 {
 layerId = UUID0;

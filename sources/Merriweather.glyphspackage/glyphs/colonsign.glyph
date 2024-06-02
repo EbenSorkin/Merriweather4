@@ -1,7 +1,5 @@
 {
 glyphname = colonsign;
-kernLeft = colonsign;
-kernRight = colonsign;
 layers = (
 {
 layerId = UUID0;
@@ -1028,4 +1026,10 @@ width = 1678;
 }
 );
 unicode = 8353;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
 }

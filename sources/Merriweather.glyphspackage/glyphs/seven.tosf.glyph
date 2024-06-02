@@ -1,7 +1,5 @@
 {
 glyphname = seven.tosf;
-kernLeft = seven.tosf;
-kernRight = seven.tosf;
 layers = (
 {
 layerId = UUID0;
@@ -295,4 +293,10 @@ nodes = (
 width = 1220;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

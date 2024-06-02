@@ -1,7 +1,5 @@
 {
 glyphname = "We-cy";
-kernLeft = W;
-kernRight = W;
 layers = (
 {
 layerId = UUID0;

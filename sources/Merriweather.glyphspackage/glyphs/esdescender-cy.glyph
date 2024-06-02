@@ -1,7 +1,5 @@
 {
 glyphname = "esdescender-cy";
-kernLeft = o;
-kernRight = "es-cy";
 layers = (
 {
 layerId = UUID0;
@@ -23,7 +21,7 @@ nodes = (
 ref = c;
 }
 );
-width = 987;
+width = 1001;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -45,7 +43,7 @@ nodes = (
 ref = c;
 }
 );
-width = 1027;
+width = 1028;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";

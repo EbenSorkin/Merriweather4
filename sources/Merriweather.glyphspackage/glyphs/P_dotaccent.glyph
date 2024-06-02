@@ -1,7 +1,5 @@
 {
 glyphname = Pdotaccent;
-kernLeft = H;
-kernRight = P;
 layers = (
 {
 layerId = UUID0;
@@ -36,11 +34,11 @@ shapes = (
 ref = P;
 },
 {
-pos = (322,0);
+pos = (348,0);
 ref = dotaccentcomb.case;
 }
 );
-width = 1316;
+width = 1342;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -49,11 +47,11 @@ shapes = (
 ref = P;
 },
 {
-pos = (228,0);
+pos = (248,0);
 ref = dotaccentcomb.case;
 }
 );
-width = 1210;
+width = 1230;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -101,11 +99,11 @@ shapes = (
 ref = P;
 },
 {
-pos = (286,0);
+pos = (298,0);
 ref = dotaccentcomb.case;
 }
 );
-width = 1086;
+width = 1098;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";

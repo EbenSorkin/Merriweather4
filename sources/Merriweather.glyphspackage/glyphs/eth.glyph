@@ -1,8 +1,6 @@
 {
 color = 4;
 glyphname = eth;
-kernLeft = eth;
-kernRight = eth;
 layers = (
 {
 layerId = UUID0;

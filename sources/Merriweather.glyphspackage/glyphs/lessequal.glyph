@@ -1,8 +1,6 @@
 {
 color = 0;
 glyphname = lessequal;
-kernLeft = lessequal;
-kernRight = lessequal;
 layers = (
 {
 layerId = UUID0;

@@ -1,13 +1,11 @@
 {
 glyphname = Iogonek;
-kernLeft = I;
-kernRight = I;
 layers = (
 {
 guides = (
 {
 angle = 270;
-pos = (-4017,213);
+pos = (-5297,213);
 }
 );
 layerId = UUID0;
@@ -42,11 +40,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (146,2);
+pos = (149,2);
 ref = ogonekcomb.case;
 }
 );
-width = 716;
+width = 742;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";

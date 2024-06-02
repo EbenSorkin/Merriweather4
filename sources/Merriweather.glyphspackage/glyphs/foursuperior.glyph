@@ -1,7 +1,5 @@
 {
 glyphname = foursuperior;
-kernLeft = four.numr;
-kernRight = four.sups;
 layers = (
 {
 layerId = UUID0;
@@ -125,4 +123,10 @@ width = 913;
 }
 );
 unicode = 8308;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
 }

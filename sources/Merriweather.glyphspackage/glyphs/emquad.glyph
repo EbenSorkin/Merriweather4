@@ -1,7 +1,5 @@
 {
 glyphname = emquad;
-kernLeft = space;
-kernRight = space;
 layers = (
 {
 layerId = UUID0;
@@ -56,4 +54,10 @@ width = 2000;
 }
 );
 unicode = 8193;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

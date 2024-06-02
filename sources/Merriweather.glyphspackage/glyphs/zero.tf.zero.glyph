@@ -1,7 +1,5 @@
 {
 glyphname = zero.tf.zero;
-kernLeft = zero.tf.zero;
-kernRight = zero.tf.zero;
 layers = (
 {
 layerId = UUID0;

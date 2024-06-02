@@ -1,7 +1,5 @@
 {
 glyphname = otildedieresis;
-kernLeft = o;
-kernRight = o;
 layers = (
 {
 layerId = UUID0;
@@ -10,15 +8,15 @@ shapes = (
 ref = o;
 },
 {
-pos = (190,0);
+pos = (204,0);
 ref = tildecomb;
 },
 {
-pos = (238,333);
+pos = (252,333);
 ref = dieresiscomb;
 }
 );
-width = 1116;
+width = 1144;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -27,15 +25,15 @@ shapes = (
 ref = o;
 },
 {
-pos = (207,0);
+pos = (208,0);
 ref = tildecomb;
 },
 {
-pos = (192,393);
+pos = (193,393);
 ref = dieresiscomb;
 }
 );
-width = 1207;
+width = 1209;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";

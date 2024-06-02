@@ -607,4 +607,10 @@ width = 547;
 metricLeft = "=i+10";
 metricRight = "=i+10";
 unicode = 8305;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
 }

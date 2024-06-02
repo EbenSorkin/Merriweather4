@@ -1,7 +1,5 @@
 {
 glyphname = "aie-cy";
-kernLeft = a;
-kernRight = e;
 layers = (
 {
 layerId = UUID0;
@@ -10,7 +8,7 @@ shapes = (
 ref = ae;
 }
 );
-width = 1658;
+width = 1661;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -37,7 +35,7 @@ shapes = (
 ref = ae;
 }
 );
-width = 1554;
+width = 1551;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -82,7 +80,7 @@ shapes = (
 ref = ae;
 }
 );
-width = 1622;
+width = 1632;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -103,7 +101,7 @@ ref = ae;
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1802;
+width = 1810;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";

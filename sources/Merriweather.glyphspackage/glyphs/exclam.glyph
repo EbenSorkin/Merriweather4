@@ -1,7 +1,5 @@
 {
 glyphname = exclam;
-kernLeft = exclam;
-kernRight = exclam;
 layers = (
 {
 layerId = UUID0;
@@ -393,4 +391,10 @@ width = 624;
 );
 metricRight = "=|";
 unicode = 33;
+userData = {
+KernOnName = exclam;
+KernOnSpecialSpacing = {
+L = "spaced-off";
+};
+};
 }

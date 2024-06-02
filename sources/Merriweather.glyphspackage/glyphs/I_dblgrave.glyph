@@ -1,7 +1,5 @@
 {
 glyphname = Idblgrave;
-kernLeft = I;
-kernRight = I;
 layers = (
 {
 layerId = UUID0;
@@ -36,11 +34,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (-307,-10);
+pos = (-298,-10);
 ref = dblgravecomb.case;
 }
 );
-width = 716;
+width = 742;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";

@@ -1,7 +1,5 @@
 {
 glyphname = "kadescender-cy";
-kernLeft = "pe-cy";
-kernRight = "zhe-cy";
 layers = (
 {
 layerId = UUID0;

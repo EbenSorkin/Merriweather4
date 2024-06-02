@@ -1,7 +1,5 @@
 {
 glyphname = thorn;
-kernLeft = b;
-kernRight = b;
 layers = (
 {
 layerId = UUID0;

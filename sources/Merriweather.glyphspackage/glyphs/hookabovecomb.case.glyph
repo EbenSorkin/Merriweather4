@@ -1,7 +1,5 @@
 {
 glyphname = hookabovecomb.case;
-kernLeft = hookabovecomb.case;
-kernRight = hookabovecomb.case;
 layers = (
 {
 anchors = (

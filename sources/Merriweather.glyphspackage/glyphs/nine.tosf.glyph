@@ -1,7 +1,5 @@
 {
 glyphname = nine.tosf;
-kernLeft = nine.tosf;
-kernRight = nine.tosf;
 layers = (
 {
 layerId = UUID0;
@@ -607,4 +605,10 @@ nodes = (
 width = 1220;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

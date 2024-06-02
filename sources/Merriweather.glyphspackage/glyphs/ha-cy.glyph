@@ -1,7 +1,5 @@
 {
 glyphname = "ha-cy";
-kernLeft = x;
-kernRight = x;
 layers = (
 {
 layerId = UUID0;

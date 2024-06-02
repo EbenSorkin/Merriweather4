@@ -1,7 +1,5 @@
 {
 glyphname = "ve-cy.loclBGR.sc";
-kernLeft = "ve-cy.loclBGR.sc";
-kernRight = b.sc;
 layers = (
 {
 layerId = UUID0;

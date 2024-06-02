@@ -1,7 +1,5 @@
 {
 glyphname = circumflexcomb.case;
-kernLeft = circumflexcomb.case;
-kernRight = circumflexcomb.case;
 layers = (
 {
 anchors = (

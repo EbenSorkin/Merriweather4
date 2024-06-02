@@ -1,8 +1,6 @@
 {
 color = 4;
 glyphname = Schwa;
-kernLeft = O;
-kernRight = O;
 layers = (
 {
 anchors = (
@@ -63,7 +61,7 @@ nodes = (
 );
 }
 );
-width = 1318;
+width = 1335;
 },
 {
 anchors = (
@@ -124,7 +122,7 @@ nodes = (
 );
 }
 );
-width = 1407;
+width = 1412;
 },
 {
 anchors = (
@@ -185,7 +183,7 @@ nodes = (
 );
 }
 );
-width = 1415;
+width = 1433;
 },
 {
 anchors = (

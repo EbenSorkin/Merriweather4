@@ -1,8 +1,6 @@
 {
 color = 5;
 glyphname = uhorntilde.sc;
-kernLeft = u.sc;
-kernRight = uhorn.sc;
 layers = (
 {
 layerId = UUID0;

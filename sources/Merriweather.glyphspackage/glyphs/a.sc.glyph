@@ -1,8 +1,6 @@
 {
 color = 4;
 glyphname = a.sc;
-kernLeft = a.sc;
-kernRight = a.sc;
 layers = (
 {
 anchors = (
@@ -20,7 +18,7 @@ pos = (1332,18);
 },
 {
 name = ringhalfr;
-pos = (106,1234);
+pos = (106,1292);
 },
 {
 name = top;
@@ -87,7 +85,7 @@ pos = (1368,18);
 },
 {
 name = ringhalfr;
-pos = (85,1234);
+pos = (85,1292);
 },
 {
 name = top;
@@ -146,7 +144,7 @@ pos = (1249,17);
 },
 {
 name = ringhalfr;
-pos = (110,1234);
+pos = (110,1292);
 },
 {
 name = top;
@@ -220,11 +218,11 @@ pos = (1248,18);
 },
 {
 name = ringhalfr;
-pos = (85,1234);
+pos = (85,1292);
 },
 {
 name = top;
-pos = (631,1292);
+pos = (634,1292);
 }
 );
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -279,7 +277,7 @@ pos = (1242,18);
 },
 {
 name = ringhalfr;
-pos = (106,1234);
+pos = (106,1292);
 },
 {
 name = top;
@@ -346,7 +344,7 @@ pos = (1079,17);
 },
 {
 name = ringhalfr;
-pos = (60,1234);
+pos = (60,1292);
 },
 {
 name = top;
@@ -405,7 +403,7 @@ pos = (1058,17);
 },
 {
 name = ringhalfr;
-pos = (110,1234);
+pos = (110,1292);
 },
 {
 name = top;
@@ -472,7 +470,7 @@ pos = (1228,17);
 },
 {
 name = ringhalfr;
-pos = (110,1234);
+pos = (110,1292);
 },
 {
 name = top;
@@ -539,7 +537,7 @@ pos = (1299,17);
 },
 {
 name = ringhalfr;
-pos = (110,1234);
+pos = (110,1292);
 },
 {
 name = top;
@@ -598,7 +596,7 @@ pos = (1298,17);
 },
 {
 name = ringhalfr;
-pos = (110,1234);
+pos = (110,1292);
 },
 {
 name = top;
@@ -665,7 +663,7 @@ pos = (1382,18);
 },
 {
 name = ringhalfr;
-pos = (106,1234);
+pos = (106,1292);
 },
 {
 name = top;
@@ -733,7 +731,7 @@ pos = (1438,18);
 },
 {
 name = ringhalfr;
-pos = (85,1234);
+pos = (85,1292);
 },
 {
 name = top;
@@ -778,6 +776,10 @@ width = 1423;
 }
 );
 userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
 RMXScaler = {
 source = A;
 };

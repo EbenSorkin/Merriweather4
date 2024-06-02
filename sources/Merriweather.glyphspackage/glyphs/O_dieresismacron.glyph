@@ -1,7 +1,5 @@
 {
 glyphname = Odieresismacron;
-kernLeft = O;
-kernRight = O;
 layers = (
 {
 layerId = UUID0;
@@ -10,15 +8,15 @@ shapes = (
 ref = O;
 },
 {
-pos = (245,0);
+pos = (262,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (256,332);
+pos = (273,332);
 ref = macroncomb.case;
 }
 );
-width = 1398;
+width = 1432;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -27,15 +25,15 @@ shapes = (
 ref = O;
 },
 {
-pos = (171,0);
+pos = (176,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (225,407);
+pos = (230,407);
 ref = macroncomb.case;
 }
 );
-width = 1462;
+width = 1472;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -44,15 +42,15 @@ shapes = (
 ref = O;
 },
 {
-pos = (196,0);
+pos = (214,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (211,402);
+pos = (229,402);
 ref = macroncomb.case;
 }
 );
-width = 1410;
+width = 1446;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";

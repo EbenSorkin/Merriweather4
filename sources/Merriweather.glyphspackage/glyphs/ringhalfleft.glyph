@@ -1,7 +1,5 @@
 {
 glyphname = ringhalfleft;
-kernLeft = ringhalfleft;
-kernRight = ringhalfleft;
 layers = (
 {
 layerId = UUID0;

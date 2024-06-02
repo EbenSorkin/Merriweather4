@@ -1,7 +1,5 @@
 {
 glyphname = "yeru-cy.sc";
-kernLeft = "pe-cy.sc";
-kernRight = "pe-cy.sc";
 layers = (
 {
 anchors = (

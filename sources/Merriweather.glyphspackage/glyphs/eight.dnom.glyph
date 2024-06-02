@@ -1,7 +1,5 @@
 {
 glyphname = eight.dnom;
-kernLeft = eight.sinf;
-kernRight = eight.sinf;
 layers = (
 {
 layerId = UUID0;

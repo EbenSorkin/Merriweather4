@@ -1,7 +1,5 @@
 {
 glyphname = "Je-cy";
-kernLeft = J;
-kernRight = J;
 layers = (
 {
 layerId = UUID0;
@@ -28,7 +26,7 @@ shapes = (
 ref = J;
 }
 );
-width = 716;
+width = 742;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";

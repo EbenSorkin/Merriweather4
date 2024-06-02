@@ -1,8 +1,6 @@
 {
 color = 4;
 glyphname = "Pemiddlehook-cy";
-kernLeft = "Pe-cy";
-kernRight = "Softsign-cy";
 layers = (
 {
 anchors = (
@@ -100,7 +98,7 @@ nodes = (
 );
 }
 );
-width = 2086;
+width = 2100;
 },
 {
 anchors = (
@@ -163,7 +161,7 @@ nodes = (
 );
 }
 );
-width = 2278;
+width = 2279;
 },
 {
 anchors = (

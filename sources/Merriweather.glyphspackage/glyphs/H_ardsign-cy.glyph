@@ -1,7 +1,5 @@
 {
 glyphname = "Hardsign-cy";
-kernLeft = T;
-kernRight = "Softsign-cy";
 layers = (
 {
 layerId = UUID0;

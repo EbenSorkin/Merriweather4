@@ -1,7 +1,5 @@
 {
 glyphname = Ncommaaccent;
-kernLeft = H;
-kernRight = H;
 layers = (
 {
 layerId = UUID0;

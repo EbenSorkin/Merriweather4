@@ -1,7 +1,5 @@
 {
 glyphname = radical;
-kernLeft = radical;
-kernRight = radical;
 layers = (
 {
 layerId = UUID0;

@@ -1,7 +1,5 @@
 {
 glyphname = eogonek;
-kernLeft = o;
-kernRight = e;
 layers = (
 {
 layerId = UUID0;

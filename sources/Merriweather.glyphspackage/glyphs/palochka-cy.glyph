@@ -1,7 +1,5 @@
 {
 glyphname = "palochka-cy";
-kernLeft = l;
-kernRight = l;
 layers = (
 {
 layerId = UUID0;

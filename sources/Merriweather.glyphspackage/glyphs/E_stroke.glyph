@@ -56,7 +56,7 @@ pos = (-136,0);
 ref = UCEslash_part.;
 }
 );
-width = 1145;
+width = 1165;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -98,7 +98,7 @@ pos = (-136,0);
 ref = UCEslash_part.;
 }
 );
-width = 1158;
+width = 1170;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -112,7 +112,7 @@ pos = (-136,0);
 ref = UCEslash_part.;
 }
 );
-width = 1271;
+width = 1297;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -154,7 +154,7 @@ pos = (-136,0);
 ref = UCEslash_part.;
 }
 );
-width = 1236;
+width = 1233;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -168,7 +168,7 @@ pos = (-56,0);
 ref = UCEslash_part.;
 }
 );
-width = 1321;
+width = 1333;
 }
 );
 metricLeft = E;

@@ -1,7 +1,5 @@
 {
 glyphname = parenleft;
-kernLeft = parenleft;
-kernRight = parenleft;
 layers = (
 {
 layerId = UUID0;
@@ -310,4 +308,10 @@ width = 896;
 metricLeft = "=|parenright";
 metricRight = "=|parenright";
 unicode = 40;
+userData = {
+KernOnName = parenleft;
+KernOnSpecialSpacing = {
+R = parenthesis;
+};
+};
 }

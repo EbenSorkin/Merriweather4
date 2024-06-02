@@ -1,7 +1,5 @@
 {
 glyphname = brevebelowcomb.case;
-kernLeft = brevecomb;
-kernRight = brevecomb;
 layers = (
 {
 anchors = (

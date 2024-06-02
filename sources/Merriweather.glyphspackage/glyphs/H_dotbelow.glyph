@@ -1,7 +1,5 @@
 {
 glyphname = Hdotbelow;
-kernLeft = H;
-kernRight = H;
 layers = (
 {
 layerId = UUID0;
@@ -36,11 +34,11 @@ shapes = (
 ref = H;
 },
 {
-pos = (567,0);
+pos = (593,0);
 ref = dotbelowcomb;
 }
 );
-width = 1518;
+width = 1570;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -49,11 +47,11 @@ shapes = (
 ref = H;
 },
 {
-pos = (513,0);
+pos = (533,0);
 ref = dotbelowcomb;
 }
 );
-width = 1429;
+width = 1469;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -101,11 +99,11 @@ shapes = (
 ref = H;
 },
 {
-pos = (577,0);
+pos = (589,0);
 ref = dotbelowcomb;
 }
 );
-width = 1379;
+width = 1403;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";

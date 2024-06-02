@@ -1,7 +1,5 @@
 {
 glyphname = three.dnom;
-kernLeft = three.sinf;
-kernRight = three.sinf;
 layers = (
 {
 layerId = UUID0;

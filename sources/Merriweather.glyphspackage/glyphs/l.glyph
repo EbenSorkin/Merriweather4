@@ -1,7 +1,5 @@
 {
 glyphname = l;
-kernLeft = l;
-kernRight = l;
 layers = (
 {
 anchors = (
@@ -644,4 +642,7 @@ width = 700;
 }
 );
 unicode = 108;
+userData = {
+KernOnName = l;
+};
 }

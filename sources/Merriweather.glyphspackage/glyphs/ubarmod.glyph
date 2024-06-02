@@ -100,11 +100,11 @@ shapes = (
 ref = umod;
 },
 {
-pos = (-179,92);
+pos = (-173,92);
 ref = modbar_part.;
 }
 );
-width = 896;
+width = 902;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";

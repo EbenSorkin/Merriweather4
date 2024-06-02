@@ -1,8 +1,6 @@
 {
 color = 3;
 glyphname = "en-cy.loclBGR";
-kernLeft = "pe-cy";
-kernRight = "pe-cy";
 layers = (
 {
 layerId = UUID0;

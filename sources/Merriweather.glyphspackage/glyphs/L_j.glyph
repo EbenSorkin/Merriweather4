@@ -1,7 +1,5 @@
 {
 glyphname = Lj;
-kernLeft = H;
-kernRight = i;
 layers = (
 {
 layerId = UUID0;
@@ -10,11 +8,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (1225,0);
+pos = (1162,0);
 ref = j;
 }
 );
-width = 1849;
+width = 1786;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -23,11 +21,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (1289,0);
+pos = (1241,0);
 ref = j;
 }
 );
-width = 1995;
+width = 1947;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -36,11 +34,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (1201,0);
+pos = (1212,0);
 ref = j;
 }
 );
-width = 1781;
+width = 1792;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -49,11 +47,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (1092,0);
+pos = (1112,0);
 ref = j;
 }
 );
-width = 1703;
+width = 1723;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -62,11 +60,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (1046,0);
+pos = (1022,0);
 ref = j;
 }
 );
-width = 1559;
+width = 1535;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -75,11 +73,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (1059,0);
+pos = (1081,0);
 ref = j;
 }
 );
-width = 1580;
+width = 1602;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -88,11 +86,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (944,0);
+pos = (939,0);
 ref = j;
 }
 );
-width = 1408;
+width = 1403;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -101,11 +99,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (1090,0);
+pos = (1089,0);
 ref = j;
 }
 );
-width = 1554;
+width = 1553;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -127,11 +125,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (1171,0);
+pos = (1137,0);
 ref = j;
 }
 );
-width = 1637;
+width = 1603;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -140,14 +138,14 @@ shapes = (
 ref = L;
 },
 {
-pos = (1260,0);
+pos = (1187,0);
 ref = j;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1884;
+width = 1811;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -156,11 +154,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (1330,0);
+pos = (1284,0);
 ref = j;
 }
 );
-width = 2042;
+width = 1996;
 }
 );
 unicode = 456;

@@ -1,8 +1,6 @@
 {
 color = 5;
 glyphname = agrave.sc;
-kernLeft = a.sc;
-kernRight = a.sc;
 layers = (
 {
 layerId = UUID0;
@@ -50,7 +48,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (110,180);
+pos = (113,180);
 ref = gravecomb;
 }
 );
@@ -164,4 +162,10 @@ ref = gravecomb;
 width = 1423;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
 }

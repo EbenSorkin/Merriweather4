@@ -1,7 +1,5 @@
 {
 glyphname = "pemiddlehook-cy";
-kernLeft = "pe-cy";
-kernRight = "pemiddlehook-cy";
 layers = (
 {
 layerId = UUID0;

@@ -1,7 +1,5 @@
 {
 glyphname = emacronacute;
-kernLeft = o;
-kernRight = e;
 layers = (
 {
 layerId = UUID0;
@@ -14,7 +12,7 @@ pos = (102,0);
 ref = macroncomb;
 },
 {
-pos = (255,246);
+pos = (257,258);
 ref = acutecomb;
 }
 );
@@ -82,7 +80,7 @@ pos = (159,0);
 ref = macroncomb;
 },
 {
-pos = (279,246);
+pos = (279,258);
 ref = acutecomb;
 }
 );
@@ -184,7 +182,7 @@ pos = (210,0);
 ref = macroncomb;
 },
 {
-pos = (328,246);
+pos = (324,258);
 ref = acutecomb;
 }
 );

@@ -1,8 +1,6 @@
 {
 color = 5;
 glyphname = aringacute.sc;
-kernLeft = a.sc;
-kernRight = a.sc;
 layers = (
 {
 anchors = (
@@ -17,12 +15,8 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (393,-194);
-ref = ringcomb.case;
-},
-{
-pos = (657,145);
-ref = acutecomb.case;
+pos = (248,182);
+ref = ringacutecomb;
 }
 );
 userData = {
@@ -48,12 +42,8 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (373,-194);
-ref = ringcomb.case;
-},
-{
-pos = (662,185);
-ref = acutecomb.case;
+pos = (223,180);
+ref = ringacutecomb;
 }
 );
 width = 1371;
@@ -71,12 +61,8 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (390,-194);
-ref = ringcomb.case;
-},
-{
-pos = (559,135);
-ref = acutecomb.case;
+pos = (240,287);
+ref = ringacutecomb;
 }
 );
 width = 1225;
@@ -94,12 +80,8 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (308,-194);
-ref = ringcomb.case;
-},
-{
-pos = (602,185);
-ref = acutecomb.case;
+pos = (163,180);
+ref = ringacutecomb;
 }
 );
 width = 1253;
@@ -117,12 +99,8 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (343,-194);
-ref = ringcomb.case;
-},
-{
-pos = (657,145);
-ref = acutecomb.case;
+pos = (271,182);
+ref = ringacutecomb;
 }
 );
 userData = {
@@ -148,12 +126,8 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (327,-194);
-ref = ringcomb.case;
-},
-{
-pos = (513,135);
-ref = acutecomb.case;
+pos = (192,287);
+ref = ringacutecomb;
 }
 );
 width = 1086;
@@ -171,12 +145,8 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (316,-194);
-ref = ringcomb.case;
-},
-{
-pos = (520,135);
-ref = acutecomb.case;
+pos = (190,287);
+ref = ringacutecomb;
 }
 );
 userData = {
@@ -202,12 +172,8 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (397,-194);
-ref = ringcomb.case;
-},
-{
-pos = (579,135);
-ref = acutecomb.case;
+pos = (254,287);
+ref = ringacutecomb;
 }
 );
 width = 1221;
@@ -225,12 +191,8 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (394,-194);
-ref = ringcomb.case;
-},
-{
-pos = (617,135);
-ref = acutecomb.case;
+pos = (291,287);
+ref = ringacutecomb;
 }
 );
 width = 1252;
@@ -248,12 +210,8 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (444,-194);
-ref = ringcomb.case;
-},
-{
-pos = (642,135);
-ref = acutecomb.case;
+pos = (297,287);
+ref = ringacutecomb;
 }
 );
 userData = {
@@ -279,12 +237,8 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (418,-194);
-ref = ringcomb.case;
-},
-{
-pos = (752,145);
-ref = acutecomb.case;
+pos = (341,182);
+ref = ringacutecomb;
 }
 );
 userData = {
@@ -311,12 +265,8 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (408,-194);
-ref = ringcomb.case;
-},
-{
-pos = (707,185);
-ref = acutecomb.case;
+pos = (266,180);
+ref = ringacutecomb;
 }
 );
 width = 1423;

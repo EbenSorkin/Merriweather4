@@ -1,8 +1,6 @@
 {
 color = 3;
 glyphname = "hardsign-cy.loclBGR";
-kernLeft = "te-cy";
-kernRight = "softsign-cy";
 layers = (
 {
 layerId = UUID0;

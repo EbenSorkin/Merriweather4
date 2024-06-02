@@ -1,7 +1,5 @@
 {
 glyphname = "ge-cy.loclSRB";
-kernLeft = "ge-cy.loclBGR";
-kernRight = "ge-cy.loclBGR";
 layers = (
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -46,7 +44,7 @@ shapes = (
 ref = "ge-cy.loclBGR";
 }
 );
-width = 1002;
+width = 1022;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -91,7 +89,7 @@ shapes = (
 ref = "ge-cy.loclBGR";
 }
 );
-width = 887;
+width = 892;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";

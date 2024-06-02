@@ -1,7 +1,5 @@
 {
 glyphname = "ze-cy.sc";
-kernLeft = "ze-cy.sc";
-kernRight = b.sc;
 layers = (
 {
 anchors = (

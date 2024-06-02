@@ -1,7 +1,5 @@
 {
 glyphname = exclamdouble;
-kernLeft = exclam;
-kernRight = exclam;
 layers = (
 {
 layerId = UUID0;

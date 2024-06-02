@@ -1,7 +1,5 @@
 {
 glyphname = onesuperior;
-kernLeft = one.sinf;
-kernRight = one.sinf;
 layers = (
 {
 layerId = UUID0;
@@ -125,4 +123,10 @@ width = 649;
 }
 );
 unicode = 185;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
 }

@@ -1,7 +1,5 @@
 {
 glyphname = cedillacomb.case;
-kernLeft = cedillacomb;
-kernRight = cedillacomb;
 layers = (
 {
 anchors = (

@@ -1,7 +1,5 @@
 {
 glyphname = euro;
-kernLeft = euro;
-kernRight = euro;
 layers = (
 {
 layerId = UUID0;
@@ -1394,4 +1392,10 @@ width = 1646;
 }
 );
 unicode = 8364;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
 }

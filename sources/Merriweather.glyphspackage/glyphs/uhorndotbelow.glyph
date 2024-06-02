@@ -1,7 +1,5 @@
 {
 glyphname = uhorndotbelow;
-kernLeft = u;
-kernRight = uhorn;
 layers = (
 {
 layerId = UUID0;

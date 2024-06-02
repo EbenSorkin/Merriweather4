@@ -1,7 +1,5 @@
 {
 glyphname = macroncomb.case;
-kernLeft = macroncomb.case;
-kernRight = macroncomb.case;
 layers = (
 {
 anchors = (

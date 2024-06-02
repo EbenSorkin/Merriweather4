@@ -1,8 +1,6 @@
 {
 color = 4;
 glyphname = eng;
-kernLeft = n;
-kernRight = i;
 layers = (
 {
 anchors = (

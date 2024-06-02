@@ -1,8 +1,6 @@
 {
 color = 4;
 glyphname = AE;
-kernLeft = AE;
-kernRight = E;
 layers = (
 {
 anchors = (
@@ -65,7 +63,7 @@ nodes = (
 );
 }
 );
-width = 1919;
+width = 1914;
 },
 {
 anchors = (

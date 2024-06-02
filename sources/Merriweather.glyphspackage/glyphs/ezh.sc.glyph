@@ -1,8 +1,6 @@
 {
 color = 4;
 glyphname = ezh.sc;
-kernLeft = ezh.sc;
-kernRight = ezh.sc;
 layers = (
 {
 anchors = (

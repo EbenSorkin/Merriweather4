@@ -1,7 +1,5 @@
 {
 glyphname = dotaccent;
-kernLeft = dotaccentcomb;
-kernRight = dotaccentcomb;
 layers = (
 {
 layerId = UUID0;

@@ -1,7 +1,5 @@
 {
 glyphname = aeacute;
-kernLeft = a;
-kernRight = e;
 layers = (
 {
 layerId = UUID0;
@@ -10,11 +8,11 @@ shapes = (
 ref = ae;
 },
 {
-pos = (529,0);
+pos = (532,0);
 ref = acutecomb;
 }
 );
-width = 1658;
+width = 1661;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -49,11 +47,11 @@ shapes = (
 ref = ae;
 },
 {
-pos = (432,0);
+pos = (429,0);
 ref = acutecomb;
 }
 );
-width = 1554;
+width = 1551;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -114,11 +112,11 @@ shapes = (
 ref = ae;
 },
 {
-pos = (661,0);
+pos = (671,0);
 ref = acutecomb;
 }
 );
-width = 1622;
+width = 1632;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -140,14 +138,14 @@ shapes = (
 ref = ae;
 },
 {
-pos = (646,0);
+pos = (654,0);
 ref = acutecomb;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1802;
+width = 1810;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";

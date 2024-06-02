@@ -1,7 +1,5 @@
 {
 glyphname = ringcomb;
-kernLeft = ringcomb;
-kernRight = ringcomb;
 layers = (
 {
 anchors = (
@@ -654,4 +652,10 @@ width = 931;
 metricLeft = hyphen;
 metricRight = hyphen;
 unicode = 778;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

@@ -1,7 +1,5 @@
 {
 glyphname = naira;
-kernLeft = naira;
-kernRight = naira;
 layers = (
 {
 layerId = UUID0;
@@ -1034,4 +1032,10 @@ width = 2101;
 }
 );
 unicode = 8358;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
 }

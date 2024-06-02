@@ -1,7 +1,5 @@
 {
 glyphname = "te-cy";
-kernLeft = "te-cy";
-kernRight = "te-cy";
 layers = (
 {
 layerId = UUID0;
@@ -333,4 +331,7 @@ width = 1340;
 );
 metricRight = "=|";
 unicode = 1090;
+userData = {
+KernOnName = "te-cy";
+};
 }

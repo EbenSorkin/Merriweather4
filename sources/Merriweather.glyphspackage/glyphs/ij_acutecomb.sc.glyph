@@ -1,7 +1,5 @@
 {
 glyphname = ij_acutecomb.sc;
-kernLeft = i.sc;
-kernRight = j.sc;
 layers = (
 {
 layerId = UUID0;
@@ -10,7 +8,7 @@ shapes = (
 ref = iacute.sc;
 },
 {
-pos = (694,0);
+pos = (669,0);
 ref = jacute.sc;
 }
 );
@@ -22,7 +20,7 @@ weight = 2;
 width = 96;
 };
 };
-width = 1409;
+width = 1384;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -31,11 +29,11 @@ shapes = (
 ref = iacute.sc;
 },
 {
-pos = (803,0);
+pos = (776,0);
 ref = jacute.sc;
 }
 );
-width = 1621;
+width = 1594;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -44,11 +42,11 @@ shapes = (
 ref = iacute.sc;
 },
 {
-pos = (758,0);
+pos = (784,0);
 ref = jacute.sc;
 }
 );
-width = 1486;
+width = 1512;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -70,7 +68,7 @@ shapes = (
 ref = iacute.sc;
 },
 {
-pos = (635,0);
+pos = (606,0);
 ref = jacute.sc;
 }
 );
@@ -82,7 +80,7 @@ weight = 2;
 width = 96;
 };
 };
-width = 1363;
+width = 1334;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -91,11 +89,11 @@ shapes = (
 ref = iacute.sc;
 },
 {
-pos = (682,0);
+pos = (724,0);
 ref = jacute.sc;
 }
 );
-width = 1376;
+width = 1418;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -104,7 +102,7 @@ shapes = (
 ref = iacute.sc;
 },
 {
-pos = (485,0);
+pos = (502,0);
 ref = jacute.sc;
 }
 );
@@ -116,7 +114,7 @@ weight = 2;
 width = 96;
 };
 };
-width = 998;
+width = 1015;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -146,11 +144,11 @@ shapes = (
 ref = iacute.sc;
 },
 {
-pos = (735,0);
+pos = (772,0);
 ref = jacute.sc;
 }
 );
-width = 1467;
+width = 1504;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -180,7 +178,7 @@ shapes = (
 ref = iacute.sc;
 },
 {
-pos = (690,0);
+pos = (663,0);
 ref = jacute.sc;
 }
 );
@@ -193,7 +191,7 @@ width = 96;
 };
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1403;
+width = 1376;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -202,11 +200,11 @@ shapes = (
 ref = iacute.sc;
 },
 {
-pos = (828,0);
+pos = (811,0);
 ref = jacute.sc;
 }
 );
-width = 1657;
+width = 1640;
 }
 );
 metricLeft = ij.sc;

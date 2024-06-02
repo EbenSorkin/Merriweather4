@@ -1,7 +1,5 @@
 {
 glyphname = "kominje-cy";
-kernLeft = "pe-cy";
-kernRight = "komidje-cy";
 layers = (
 {
 layerId = UUID0;

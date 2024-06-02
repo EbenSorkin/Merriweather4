@@ -1,7 +1,5 @@
 {
 glyphname = guilsinglleft.case;
-kernLeft = guilsinglleft;
-kernRight = guilsinglleft;
 layers = (
 {
 layerId = UUID0;
@@ -129,4 +127,10 @@ width = 844;
 );
 metricLeft = guilsinglleft;
 metricRight = guilsinglleft;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
 }

@@ -1,7 +1,5 @@
 {
 glyphname = gmacron;
-kernLeft = g;
-kernRight = g;
 layers = (
 {
 layerId = UUID0;

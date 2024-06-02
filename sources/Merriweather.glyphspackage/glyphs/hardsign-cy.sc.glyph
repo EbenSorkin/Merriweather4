@@ -1,7 +1,5 @@
 {
 glyphname = "hardsign-cy.sc";
-kernLeft = t.sc;
-kernRight = "softsign-cy.sc";
 layers = (
 {
 anchors = (

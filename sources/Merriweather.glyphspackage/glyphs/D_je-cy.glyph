@@ -1,8 +1,6 @@
 {
 color = 4;
 glyphname = "Dje-cy";
-kernLeft = T;
-kernRight = "Softsign-cy";
 layers = (
 {
 background = {
@@ -106,7 +104,7 @@ nodes = (
 );
 }
 );
-width = 1586;
+width = 1600;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -159,7 +157,7 @@ nodes = (
 );
 }
 );
-width = 1782;
+width = 1783;
 },
 {
 background = {

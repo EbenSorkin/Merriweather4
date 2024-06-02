@@ -1,7 +1,5 @@
 {
 glyphname = four.tf;
-kernLeft = four.tf;
-kernRight = four.tf;
 layers = (
 {
 layerId = UUID0;
@@ -408,6 +406,10 @@ width = 1220;
 }
 );
 userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
 RMXScaler = {
 source = four;
 };

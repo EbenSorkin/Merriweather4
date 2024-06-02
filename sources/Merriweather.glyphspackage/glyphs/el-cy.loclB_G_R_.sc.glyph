@@ -1,7 +1,5 @@
 {
 glyphname = "el-cy.loclBGR.sc";
-kernLeft = a.sc;
-kernRight = a.sc;
 layers = (
 {
 anchors = (

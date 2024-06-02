@@ -1,8 +1,6 @@
 {
 color = 4;
 glyphname = uhorn.sc;
-kernLeft = u.sc;
-kernRight = uhorn.sc;
 layers = (
 {
 anchors = (

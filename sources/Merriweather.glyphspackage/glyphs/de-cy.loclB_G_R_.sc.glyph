@@ -1,7 +1,5 @@
 {
 glyphname = "de-cy.loclBGR.sc";
-kernLeft = a.sc;
-kernRight = a.sc;
 layers = (
 {
 layerId = UUID0;

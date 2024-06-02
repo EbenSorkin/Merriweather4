@@ -1,8 +1,6 @@
 {
 color = 5;
 glyphname = uacute;
-kernLeft = u;
-kernRight = u;
 layers = (
 {
 layerId = UUID0;
@@ -11,7 +9,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (295,0);
+pos = (279,0);
 ref = acutecomb;
 }
 );
@@ -24,7 +22,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (303,0);
+pos = (287,0);
 ref = acutecomb;
 }
 );
@@ -50,7 +48,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (203,0);
+pos = (196,0);
 ref = acutecomb;
 }
 );
@@ -63,7 +61,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (286,0);
+pos = (275,0);
 ref = acutecomb;
 }
 );
@@ -76,7 +74,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (268,0);
+pos = (261,0);
 ref = acutecomb;
 }
 );
@@ -115,7 +113,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (381,0);
+pos = (378,0);
 ref = acutecomb;
 }
 );
@@ -141,7 +139,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (321,0);
+pos = (317,0);
 ref = acutecomb;
 }
 );
@@ -157,7 +155,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (298,0);
+pos = (291,0);
 ref = acutecomb;
 }
 );

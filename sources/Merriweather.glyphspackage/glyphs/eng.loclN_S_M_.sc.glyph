@@ -1,8 +1,6 @@
 {
 color = 4;
 glyphname = eng.loclNSM.sc;
-kernLeft = n.sc;
-kernRight = j.sc;
 layers = (
 {
 anchors = (

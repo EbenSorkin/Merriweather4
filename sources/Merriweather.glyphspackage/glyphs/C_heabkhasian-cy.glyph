@@ -1,7 +1,5 @@
 {
 glyphname = "Cheabkhasian-cy";
-kernLeft = "Cheabkhasian-cy";
-kernRight = O;
 layers = (
 {
 anchors = (
@@ -71,7 +69,7 @@ nodes = (
 );
 }
 );
-width = 1571;
+width = 1588;
 },
 {
 anchors = (
@@ -141,7 +139,7 @@ nodes = (
 );
 }
 );
-width = 1727;
+width = 1732;
 },
 {
 anchors = (
@@ -211,7 +209,7 @@ nodes = (
 );
 }
 );
-width = 1767;
+width = 1785;
 },
 {
 anchors = (

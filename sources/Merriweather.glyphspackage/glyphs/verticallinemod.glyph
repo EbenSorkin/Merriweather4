@@ -1,7 +1,5 @@
 {
 glyphname = verticallinemod;
-kernLeft = verticallinemod;
-kernRight = verticallinemod;
 layers = (
 {
 layerId = UUID0;

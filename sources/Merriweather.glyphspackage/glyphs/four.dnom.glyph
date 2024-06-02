@@ -1,7 +1,5 @@
 {
 glyphname = four.dnom;
-kernLeft = four.numr;
-kernRight = four.sups;
 layers = (
 {
 layerId = UUID0;

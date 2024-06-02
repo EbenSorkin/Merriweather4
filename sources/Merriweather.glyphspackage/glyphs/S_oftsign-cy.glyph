@@ -1,7 +1,5 @@
 {
 glyphname = "Softsign-cy";
-kernLeft = "Pe-cy";
-kernRight = "Softsign-cy";
 layers = (
 {
 layerId = UUID0;

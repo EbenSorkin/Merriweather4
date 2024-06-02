@@ -1,7 +1,5 @@
 {
 glyphname = paragraph;
-kernLeft = paragraph;
-kernRight = paragraph;
 layers = (
 {
 layerId = UUID0;
@@ -476,4 +474,10 @@ width = 1772;
 }
 );
 unicode = 182;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

@@ -1,7 +1,5 @@
 {
 glyphname = ruble;
-kernLeft = ruble;
-kernRight = ruble;
 layers = (
 {
 layerId = UUID0;
@@ -765,4 +763,10 @@ width = 1546;
 );
 metricRight = "=P+20";
 unicode = 8381;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
 }

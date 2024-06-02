@@ -1,7 +1,5 @@
 {
 glyphname = periodcentered.loclCAT;
-kernLeft = periodcentered.case;
-kernRight = periodcentered.cap;
 layers = (
 {
 layerId = UUID0;

@@ -1,7 +1,5 @@
 {
 glyphname = uhorngrave;
-kernLeft = u;
-kernRight = uhorn;
 layers = (
 {
 layerId = UUID0;
@@ -10,7 +8,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (89,0);
+pos = (73,0);
 ref = gravecomb;
 }
 );
@@ -23,7 +21,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (92,0);
+pos = (76,0);
 ref = gravecomb;
 }
 );
@@ -49,7 +47,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (27,0);
+pos = (20,0);
 ref = gravecomb;
 }
 );
@@ -62,7 +60,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (109,0);
+pos = (98,0);
 ref = gravecomb;
 }
 );
@@ -75,7 +73,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (29,0);
+pos = (22,0);
 ref = gravecomb;
 }
 );
@@ -114,7 +112,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (78,0);
+pos = (75,0);
 ref = gravecomb;
 }
 );
@@ -140,7 +138,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (129,0);
+pos = (125,0);
 ref = gravecomb;
 }
 );
@@ -156,7 +154,7 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (78,0);
+pos = (71,0);
 ref = gravecomb;
 }
 );

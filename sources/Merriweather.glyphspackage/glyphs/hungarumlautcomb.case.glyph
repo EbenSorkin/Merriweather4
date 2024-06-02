@@ -1,7 +1,5 @@
 {
 glyphname = hungarumlautcomb.case;
-kernLeft = hungarumlautcomb.case;
-kernRight = hungarumlautcomb.case;
 layers = (
 {
 anchors = (

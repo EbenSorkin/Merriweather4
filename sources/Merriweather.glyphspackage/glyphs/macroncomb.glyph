@@ -1,7 +1,5 @@
 {
 glyphname = macroncomb;
-kernLeft = macroncomb;
-kernRight = macroncomb;
 layers = (
 {
 anchors = (
@@ -11,7 +9,7 @@ pos = (461,1110);
 },
 {
 name = top;
-pos = (460,1356);
+pos = (462,1368);
 }
 );
 layerId = UUID0;
@@ -111,7 +109,7 @@ pos = (346,1110);
 },
 {
 name = top;
-pos = (345,1356);
+pos = (345,1368);
 }
 );
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -261,7 +259,7 @@ pos = (391,1110);
 },
 {
 name = top;
-pos = (393,1356);
+pos = (389,1368);
 }
 );
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -311,4 +309,10 @@ width = 1000;
 metricLeft = hyphen;
 metricRight = hyphen;
 unicode = 772;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

@@ -1,7 +1,5 @@
 {
 glyphname = asciicircum;
-kernLeft = asciicircum;
-kernRight = asciicircum;
 layers = (
 {
 layerId = UUID0;
@@ -224,4 +222,10 @@ width = 1483;
 }
 );
 unicode = 94;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
 }

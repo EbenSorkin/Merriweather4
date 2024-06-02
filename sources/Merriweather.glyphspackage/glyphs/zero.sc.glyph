@@ -1,7 +1,5 @@
 {
 glyphname = zero.sc;
-kernLeft = zero.sc;
-kernRight = zero.sc;
 layers = (
 {
 layerId = UUID0;

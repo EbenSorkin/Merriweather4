@@ -1,8 +1,6 @@
 {
 color = 4;
 glyphname = aturned.sc;
-kernLeft = a.sc;
-kernRight = a.sc;
 layers = (
 {
 anchors = (

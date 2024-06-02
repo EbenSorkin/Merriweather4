@@ -1,8 +1,6 @@
 {
 color = 4;
 glyphname = d.sc;
-kernLeft = h.sc;
-kernRight = o.sc;
 layers = (
 {
 anchors = (
@@ -12,7 +10,7 @@ pos = (374,673);
 },
 {
 name = bottom;
-pos = (708,0);
+pos = (648,0);
 },
 {
 name = center;
@@ -86,7 +84,7 @@ pos = (405,673);
 },
 {
 name = bottom;
-pos = (740,0);
+pos = (695,0);
 },
 {
 name = center;
@@ -152,7 +150,7 @@ pos = (390,673);
 },
 {
 name = bottom;
-pos = (698,0);
+pos = (655,0);
 },
 {
 name = center;
@@ -226,7 +224,7 @@ pos = (387,673);
 },
 {
 name = bottom;
-pos = (726,0);
+pos = (626,0);
 },
 {
 name = center;
@@ -292,7 +290,7 @@ pos = (385,673);
 },
 {
 name = bottom;
-pos = (682,0);
+pos = (590,0);
 },
 {
 name = center;
@@ -366,7 +364,7 @@ pos = (370,673);
 },
 {
 name = bottom;
-pos = (745,0);
+pos = (575,0);
 },
 {
 name = center;
@@ -432,7 +430,7 @@ pos = (378,673);
 },
 {
 name = bottom;
-pos = (529,0);
+pos = (549,0);
 },
 {
 name = center;
@@ -506,7 +504,7 @@ pos = (394,673);
 },
 {
 name = bottom;
-pos = (660,0);
+pos = (618,0);
 },
 {
 name = center;
@@ -646,7 +644,7 @@ pos = (336,673);
 },
 {
 name = bottom;
-pos = (665,0);
+pos = (595,0);
 },
 {
 name = center;
@@ -720,7 +718,7 @@ pos = (377,673);
 },
 {
 name = bottom;
-pos = (685,0);
+pos = (635,0);
 },
 {
 name = center;
@@ -856,6 +854,10 @@ width = 1486;
 );
 metricLeft = h.sc;
 userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
 RMXScaler = {
 source = D;
 };

@@ -1,7 +1,5 @@
 {
 glyphname = "Geupturn-cy";
-kernLeft = "Pe-cy";
-kernRight = "Gheupturn-cy";
 layers = (
 {
 layerId = UUID0;

@@ -1,7 +1,5 @@
 {
 glyphname = circumflexcomb_tildecomb;
-kernLeft = circumflexcomb;
-kernRight = tildecomb;
 layers = (
 {
 anchors = (

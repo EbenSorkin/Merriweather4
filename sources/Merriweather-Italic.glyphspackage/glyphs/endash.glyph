@@ -1,0 +1,194 @@
+{
+glyphname = endash;
+layers = (
+{
+layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
+shapes = (
+{
+closed = 1;
+nodes = (
+(189,704,l),
+(171,578,l),
+(1397,578,l),
+(1416,704,l)
+);
+}
+);
+width = 1564;
+},
+{
+layerId = "27298932-82AF-4578-9425-6304FDB19058";
+shapes = (
+{
+closed = 1;
+nodes = (
+(201,737,l),
+(167,547,l),
+(1393,547,l),
+(1429,737,l)
+);
+}
+);
+width = 1572;
+},
+{
+layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
+shapes = (
+{
+closed = 1;
+nodes = (
+(197,737,l),
+(163,547,l),
+(1389,547,l),
+(1425,737,l)
+);
+}
+);
+width = 1564;
+},
+{
+layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(185,704,l),
+(167,578,l),
+(1393,578,l),
+(1412,704,l)
+);
+}
+);
+width = 1556;
+},
+{
+layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
+shapes = (
+{
+closed = 1;
+nodes = (
+(159,600,l),
+(147,520,l),
+(1371,520,l),
+(1384,600,l)
+);
+}
+);
+width = 1516;
+},
+{
+layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
+shapes = (
+{
+closed = 1;
+nodes = (
+(159,600,l),
+(147,520,l),
+(1371,520,l),
+(1384,600,l)
+);
+}
+);
+width = 1516;
+},
+{
+layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(154,600,l),
+(142,520,l),
+(1367,520,l),
+(1379,600,l)
+);
+}
+);
+width = 1506;
+},
+{
+layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
+shapes = (
+{
+closed = 1;
+nodes = (
+(154,600,l),
+(142,520,l),
+(1367,520,l),
+(1379,600,l)
+);
+}
+);
+width = 1506;
+},
+{
+layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(191,704,l),
+(173,578,l),
+(1399,578,l),
+(1418,704,l)
+);
+}
+);
+width = 1568;
+},
+{
+layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
+shapes = (
+{
+closed = 1;
+nodes = (
+(203,737,l),
+(169,547,l),
+(1395,547,l),
+(1431,737,l)
+);
+}
+);
+width = 1576;
+},
+{
+layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
+shapes = (
+{
+closed = 1;
+nodes = (
+(162,600,l),
+(150,520,l),
+(1375,520,l),
+(1387,600,l)
+);
+}
+);
+width = 1522;
+},
+{
+layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(162,600,l),
+(150,520,l),
+(1375,520,l),
+(1387,600,l)
+);
+}
+);
+width = 1522;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+unicode = 8211;
+userData = {
+KernOnSpecialSpacing = {
+L = dashes;
+R = dashes;
+};
+};
+}

@@ -1,7 +1,5 @@
 {
 glyphname = multiply.case;
-kernLeft = multiply;
-kernRight = multiply;
 layers = (
 {
 layerId = UUID0;

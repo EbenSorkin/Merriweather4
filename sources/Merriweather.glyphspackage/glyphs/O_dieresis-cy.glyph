@@ -1,7 +1,5 @@
 {
 glyphname = "Odieresis-cy";
-kernLeft = O;
-kernRight = O;
 layers = (
 {
 layerId = UUID0;
@@ -14,7 +12,7 @@ pos = (266,0);
 ref = dieresiscomb.case;
 }
 );
-width = 1398;
+width = 1432;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -27,7 +25,7 @@ pos = (172,0);
 ref = dieresiscomb.case;
 }
 );
-width = 1462;
+width = 1472;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -40,7 +38,7 @@ pos = (223,0);
 ref = dieresiscomb.case;
 }
 );
-width = 1410;
+width = 1446;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";

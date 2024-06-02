@@ -1,7 +1,5 @@
 {
 glyphname = fiveinferior;
-kernLeft = five.sinf;
-kernRight = five.sinf;
 layers = (
 {
 layerId = UUID0;
@@ -125,4 +123,10 @@ width = 774;
 }
 );
 unicode = 8325;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
 }

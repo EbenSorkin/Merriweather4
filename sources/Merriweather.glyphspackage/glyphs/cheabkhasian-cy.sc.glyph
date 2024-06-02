@@ -1,7 +1,5 @@
 {
 glyphname = "cheabkhasian-cy.sc";
-kernLeft = "cheabkhasian-cy.sc";
-kernRight = "cheabkhasian-cy.sc";
 layers = (
 {
 anchors = (

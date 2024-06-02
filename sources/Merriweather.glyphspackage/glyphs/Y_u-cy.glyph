@@ -1,7 +1,5 @@
 {
 glyphname = "Yu-cy";
-kernLeft = "Pe-cy";
-kernRight = O;
 layers = (
 {
 layerId = UUID0;
@@ -56,7 +54,7 @@ nodes = (
 );
 }
 );
-width = 2090;
+width = 2107;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -111,7 +109,7 @@ nodes = (
 );
 }
 );
-width = 2231;
+width = 2236;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -166,7 +164,7 @@ nodes = (
 );
 }
 );
-width = 2109;
+width = 2127;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";

@@ -1,7 +1,5 @@
 {
 glyphname = "kahook-cy";
-kernLeft = "pe-cy";
-kernRight = "kahook-cy";
 layers = (
 {
 layerId = UUID0;

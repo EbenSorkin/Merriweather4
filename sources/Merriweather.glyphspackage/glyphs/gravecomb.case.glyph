@@ -1,8 +1,6 @@
 {
 color = 3;
 glyphname = gravecomb.case;
-kernLeft = gravecomb.case;
-kernRight = gravecomb.case;
 layers = (
 {
 anchors = (

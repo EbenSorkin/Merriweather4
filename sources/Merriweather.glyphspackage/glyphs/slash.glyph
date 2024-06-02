@@ -1,7 +1,5 @@
 {
 glyphname = slash;
-kernLeft = slash;
-kernRight = slash;
 layers = (
 {
 layerId = UUID0;
@@ -200,4 +198,10 @@ width = 840;
 );
 metricRight = "=|";
 unicode = 47;
+userData = {
+KernOnSpecialSpacing = {
+L = slash;
+R = slash;
+};
+};
 }

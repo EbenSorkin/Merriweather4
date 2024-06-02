@@ -1,7 +1,5 @@
 {
 glyphname = less.case;
-kernLeft = less;
-kernRight = less;
 layers = (
 {
 layerId = UUID0;

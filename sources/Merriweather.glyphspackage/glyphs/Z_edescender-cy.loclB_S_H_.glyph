@@ -1,7 +1,5 @@
 {
 glyphname = "Zedescender-cy.loclBSH";
-kernLeft = "Ze-cy";
-kernRight = "Ze-cy";
 layers = (
 {
 layerId = UUID0;

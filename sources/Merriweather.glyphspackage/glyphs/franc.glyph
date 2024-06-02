@@ -1,7 +1,5 @@
 {
 glyphname = franc;
-kernLeft = franc;
-kernRight = franc;
 layers = (
 {
 anchors = (

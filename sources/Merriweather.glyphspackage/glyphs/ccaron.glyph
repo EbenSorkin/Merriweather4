@@ -1,7 +1,5 @@
 {
 glyphname = ccaron;
-kernLeft = o;
-kernRight = c;
 layers = (
 {
 layerId = UUID0;
@@ -10,11 +8,11 @@ shapes = (
 ref = c;
 },
 {
-pos = (88,0);
+pos = (102,0);
 ref = caroncomb;
 }
 );
-width = 987;
+width = 1001;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -23,11 +21,11 @@ shapes = (
 ref = c;
 },
 {
-pos = (25,0);
+pos = (26,0);
 ref = caroncomb;
 }
 );
-width = 1027;
+width = 1028;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";

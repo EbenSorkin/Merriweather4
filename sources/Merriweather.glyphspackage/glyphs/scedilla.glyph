@@ -1,7 +1,5 @@
 {
 glyphname = scedilla;
-kernLeft = s;
-kernRight = s;
 layers = (
 {
 anchors = (
@@ -78,11 +76,11 @@ shapes = (
 ref = s;
 },
 {
-pos = (230,0);
+pos = (235,0);
 ref = cedillacomb;
 }
 );
-width = 861;
+width = 874;
 },
 {
 anchors = (

@@ -1,7 +1,5 @@
 {
 glyphname = hookabovecomb;
-kernLeft = hookabovecomb;
-kernRight = hookabovecomb;
 layers = (
 {
 anchors = (

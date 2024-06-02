@@ -1,7 +1,5 @@
 {
 glyphname = circumflexcomb_acutecomb;
-kernLeft = circumflexcomb;
-kernRight = acutecomb;
 layers = (
 {
 anchors = (
@@ -127,7 +125,7 @@ width = 927;
 anchors = (
 {
 name = _top;
-pos = (345,1112);
+pos = (344,1112);
 },
 {
 name = top;

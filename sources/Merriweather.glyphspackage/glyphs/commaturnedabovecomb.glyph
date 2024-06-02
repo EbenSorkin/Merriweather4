@@ -1,7 +1,5 @@
 {
 glyphname = commaturnedabovecomb;
-kernLeft = commaturnedabovecomb;
-kernRight = commaturnedabovecomb;
 layers = (
 {
 anchors = (
@@ -525,4 +523,10 @@ width = 334;
 }
 );
 unicode = 786;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

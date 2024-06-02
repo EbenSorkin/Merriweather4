@@ -1,7 +1,5 @@
 {
 glyphname = "cheverticalstroke-cy";
-kernLeft = "che-cy";
-kernRight = "pe-cy";
 layers = (
 {
 layerId = UUID0;

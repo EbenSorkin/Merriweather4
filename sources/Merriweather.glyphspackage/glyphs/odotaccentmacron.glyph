@@ -1,7 +1,5 @@
 {
 glyphname = odotaccentmacron;
-kernLeft = o;
-kernRight = o;
 layers = (
 {
 layerId = UUID0;
@@ -10,15 +8,15 @@ shapes = (
 ref = o;
 },
 {
-pos = (259,0);
+pos = (273,0);
 ref = dotaccentcomb;
 },
 {
-pos = (97,331);
+pos = (112,362);
 ref = macroncomb;
 }
 );
-width = 1116;
+width = 1144;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -27,7 +25,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (242,0);
+pos = (243,0);
 ref = dotaccentcomb;
 },
 {
@@ -35,7 +33,7 @@ pos = (95,425);
 ref = macroncomb;
 }
 );
-width = 1207;
+width = 1209;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -48,7 +46,7 @@ pos = (223,0);
 ref = dotaccentcomb;
 },
 {
-pos = (101,383);
+pos = (102,370);
 ref = macroncomb;
 }
 );
@@ -65,7 +63,7 @@ pos = (160,0);
 ref = dotaccentcomb;
 },
 {
-pos = (63,396);
+pos = (62,426);
 ref = macroncomb;
 }
 );
@@ -82,7 +80,7 @@ pos = (267,0);
 ref = dotaccentcomb;
 },
 {
-pos = (150,331);
+pos = (151,362);
 ref = macroncomb;
 }
 );
@@ -99,7 +97,7 @@ pos = (170,0);
 ref = dotaccentcomb;
 },
 {
-pos = (36,383);
+pos = (37,370);
 ref = macroncomb;
 }
 );
@@ -116,7 +114,7 @@ pos = (207,0);
 ref = dotaccentcomb;
 },
 {
-pos = (94,288);
+pos = (96,329);
 ref = macroncomb;
 }
 );
@@ -133,7 +131,7 @@ pos = (240,0);
 ref = dotaccentcomb;
 },
 {
-pos = (109,308);
+pos = (111,329);
 ref = macroncomb;
 }
 );
@@ -150,7 +148,7 @@ pos = (316,0);
 ref = dotaccentcomb;
 },
 {
-pos = (155,383);
+pos = (158,370);
 ref = macroncomb;
 }
 );
@@ -167,7 +165,7 @@ pos = (273,0);
 ref = dotaccentcomb;
 },
 {
-pos = (115,308);
+pos = (115,329);
 ref = macroncomb;
 }
 );
@@ -184,7 +182,7 @@ pos = (386,0);
 ref = dotaccentcomb;
 },
 {
-pos = (224,331);
+pos = (225,362);
 ref = macroncomb;
 }
 );
@@ -204,7 +202,7 @@ pos = (296,0);
 ref = dotaccentcomb;
 },
 {
-pos = (152,426);
+pos = (148,424);
 ref = macroncomb;
 }
 );

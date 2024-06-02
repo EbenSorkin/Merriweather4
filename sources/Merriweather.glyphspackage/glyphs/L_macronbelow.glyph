@@ -1,7 +1,5 @@
 {
 glyphname = Lmacronbelow;
-kernLeft = H;
-kernRight = L;
 layers = (
 {
 layerId = UUID0;
@@ -36,11 +34,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (271,0);
+pos = (297,0);
 ref = macronbelowcomb.case;
 }
 );
-width = 1201;
+width = 1227;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -49,11 +47,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (241,0);
+pos = (261,0);
 ref = macronbelowcomb.case;
 }
 );
-width = 1092;
+width = 1112;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -101,11 +99,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (295,0);
+pos = (307,0);
 ref = macronbelowcomb.case;
 }
 );
-width = 1090;
+width = 1102;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";

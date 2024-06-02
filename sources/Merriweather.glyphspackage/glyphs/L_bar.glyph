@@ -92,11 +92,11 @@ ref = L;
 },
 {
 anchor = stroke;
-pos = (-24,-21);
+pos = (-12,-21);
 ref = UCstrokecomb_part.;
 }
 );
-width = 1090;
+width = 1102;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";

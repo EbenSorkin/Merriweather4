@@ -1,7 +1,5 @@
 {
 glyphname = eacute;
-kernLeft = o;
-kernRight = e;
 layers = (
 {
 layerId = UUID0;

@@ -1,7 +1,5 @@
 {
 glyphname = "En-cy";
-kernLeft = "Pe-cy";
-kernRight = "Pe-cy";
 layers = (
 {
 anchors = (
@@ -46,7 +44,7 @@ shapes = (
 ref = H;
 }
 );
-width = 1518;
+width = 1570;
 },
 {
 anchors = (
@@ -61,7 +59,7 @@ shapes = (
 ref = H;
 }
 );
-width = 1429;
+width = 1469;
 },
 {
 anchors = (
@@ -121,7 +119,7 @@ shapes = (
 ref = H;
 }
 );
-width = 1379;
+width = 1403;
 },
 {
 anchors = (

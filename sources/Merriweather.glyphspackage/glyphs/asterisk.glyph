@@ -1,8 +1,6 @@
 {
 color = 4;
 glyphname = asterisk;
-kernLeft = asterisk;
-kernRight = asterisk;
 layers = (
 {
 layerId = UUID0;
@@ -502,4 +500,10 @@ width = 1339;
 );
 metricRight = "=|";
 unicode = 42;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
 }

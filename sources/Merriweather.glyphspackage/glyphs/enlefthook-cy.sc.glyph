@@ -1,7 +1,5 @@
 {
 glyphname = "enlefthook-cy.sc";
-kernLeft = j.sc;
-kernRight = "pe-cy.sc";
 layers = (
 {
 layerId = UUID0;

@@ -1,7 +1,5 @@
 {
 glyphname = peseta;
-kernLeft = peseta;
-kernRight = peseta;
 layers = (
 {
 layerId = UUID0;

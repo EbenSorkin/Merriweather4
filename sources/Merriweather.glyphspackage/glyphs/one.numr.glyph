@@ -1,7 +1,5 @@
 {
 glyphname = one.numr;
-kernLeft = one.sinf;
-kernRight = one.sinf;
 layers = (
 {
 layerId = UUID0;

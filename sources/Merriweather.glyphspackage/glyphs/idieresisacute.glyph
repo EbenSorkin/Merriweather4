@@ -1,7 +1,5 @@
 {
 glyphname = idieresisacute;
-kernLeft = i;
-kernRight = i;
 layers = (
 {
 layerId = UUID0;
@@ -31,7 +29,7 @@ pos = (-59,0);
 ref = dieresiscomb;
 },
 {
-pos = (25,424);
+pos = (17,424);
 ref = acutecomb;
 }
 );
@@ -48,7 +46,7 @@ pos = (-75,0);
 ref = dieresiscomb;
 },
 {
-pos = (35,363);
+pos = (35,370);
 ref = acutecomb;
 }
 );
@@ -116,7 +114,7 @@ pos = (-17,0);
 ref = dieresiscomb;
 },
 {
-pos = (23,317);
+pos = (23,329);
 ref = acutecomb;
 }
 );

@@ -1,7 +1,5 @@
 {
 glyphname = Ohm;
-kernLeft = Omega;
-kernRight = Omega;
 layers = (
 {
 layerId = UUID0;

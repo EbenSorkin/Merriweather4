@@ -1,7 +1,5 @@
 {
 glyphname = "shha-cy";
-kernLeft = h;
-kernRight = n;
 layers = (
 {
 layerId = UUID0;

@@ -1,7 +1,5 @@
 {
 glyphname = three.sc;
-kernLeft = three.sc;
-kernRight = three.sc;
 layers = (
 {
 layerId = UUID0;

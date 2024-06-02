@@ -1,7 +1,5 @@
 {
 glyphname = literSign;
-kernLeft = literSign;
-kernRight = literSign;
 layers = (
 {
 layerId = UUID0;

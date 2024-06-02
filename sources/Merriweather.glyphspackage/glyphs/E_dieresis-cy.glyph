@@ -1,7 +1,5 @@
 {
 glyphname = "Edieresis-cy";
-kernLeft = "Ereversed-cy";
-kernRight = O;
 layers = (
 {
 layerId = UUID0;
@@ -14,7 +12,7 @@ pos = (129,0);
 ref = dieresiscomb.case;
 }
 );
-width = 1260;
+width = 1277;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -27,7 +25,7 @@ pos = (98,0);
 ref = dieresiscomb.case;
 }
 );
-width = 1353;
+width = 1358;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -40,7 +38,7 @@ pos = (73,-3);
 ref = dieresiscomb.case;
 }
 );
-width = 1241;
+width = 1259;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";

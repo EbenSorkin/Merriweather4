@@ -1,7 +1,5 @@
 {
 glyphname = "Enhook-cy";
-kernLeft = "Pe-cy";
-kernRight = J;
 layers = (
 {
 layerId = UUID0;
@@ -142,7 +140,7 @@ nodes = (
 );
 }
 );
-width = 1526;
+width = 1552;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";

@@ -128,11 +128,11 @@ layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
 shapes = (
 {
 angle = 180;
-pos = (712,1005);
+pos = (742,1005);
 ref = t;
 }
 );
-width = 712;
+width = 742;
 }
 );
 unicode = 647;

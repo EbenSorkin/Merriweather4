@@ -1,7 +1,5 @@
 {
 glyphname = Abrevedotbelow;
-kernLeft = A;
-kernRight = A;
 layers = (
 {
 layerId = UUID0;

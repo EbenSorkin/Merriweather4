@@ -1,7 +1,5 @@
 {
 glyphname = guarani;
-kernLeft = guarani;
-kernRight = guarani;
 layers = (
 {
 layerId = UUID0;
@@ -342,4 +340,10 @@ width = 1538;
 }
 );
 unicode = 8370;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
 }

@@ -87,7 +87,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (100,159);
+pos = (100,0);
 ref = ringhalfright;
 }
 );
@@ -100,7 +100,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (100,159);
+pos = (100,0);
 ref = ringhalfright;
 }
 );
@@ -113,7 +113,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (100,159);
+pos = (100,0);
 ref = ringhalfright;
 }
 );
@@ -126,7 +126,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (50,159);
+pos = (50,0);
 ref = ringhalfright;
 }
 );
@@ -139,7 +139,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (100,159);
+pos = (100,0);
 ref = ringhalfright;
 }
 );
@@ -152,7 +152,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (100,159);
+pos = (100,0);
 ref = ringhalfright;
 }
 );

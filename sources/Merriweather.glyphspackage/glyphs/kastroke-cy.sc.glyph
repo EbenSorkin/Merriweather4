@@ -1,8 +1,6 @@
 {
 color = 5;
 glyphname = "kastroke-cy.sc";
-kernLeft = "pe-cy.sc";
-kernRight = "zhe-cy.sc";
 layers = (
 {
 layerId = UUID0;

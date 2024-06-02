@@ -1,7 +1,5 @@
 {
 glyphname = Omacrongrave;
-kernLeft = O;
-kernRight = O;
 layers = (
 {
 layerId = UUID0;
@@ -10,15 +8,15 @@ shapes = (
 ref = O;
 },
 {
-pos = (256,0);
+pos = (273,0);
 ref = macroncomb.case;
 },
 {
-pos = (221,255);
+pos = (238,255);
 ref = gravecomb.case;
 }
 );
-width = 1398;
+width = 1432;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -27,15 +25,15 @@ shapes = (
 ref = O;
 },
 {
-pos = (226,0);
+pos = (231,0);
 ref = macroncomb.case;
 },
 {
-pos = (236,315);
+pos = (241,315);
 ref = gravecomb.case;
 }
 );
-width = 1462;
+width = 1472;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -44,15 +42,15 @@ shapes = (
 ref = O;
 },
 {
-pos = (211,0);
+pos = (229,0);
 ref = macroncomb.case;
 },
 {
-pos = (166,272);
+pos = (184,272);
 ref = gravecomb.case;
 }
 );
-width = 1410;
+width = 1446;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";

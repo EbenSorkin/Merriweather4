@@ -1,8 +1,6 @@
 {
 color = 3;
 glyphname = "iishort-cy.loclBGR";
-kernLeft = u;
-kernRight = u;
 layers = (
 {
 layerId = UUID0;
@@ -11,7 +9,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (246,0);
+pos = (230,0);
 ref = "brevecomb-cy";
 }
 );
@@ -24,7 +22,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (206,0);
+pos = (190,0);
 ref = "brevecomb-cy";
 }
 );
@@ -50,7 +48,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (146,0);
+pos = (139,0);
 ref = "brevecomb-cy";
 }
 );
@@ -63,7 +61,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (185,0);
+pos = (174,0);
 ref = "brevecomb-cy";
 }
 );
@@ -76,7 +74,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (183,0);
+pos = (176,0);
 ref = "brevecomb-cy";
 }
 );
@@ -115,7 +113,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (186,0);
+pos = (183,0);
 ref = "brevecomb-cy";
 }
 );
@@ -141,7 +139,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (220,0);
+pos = (216,0);
 ref = "brevecomb-cy";
 }
 );
@@ -157,7 +155,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (187,0);
+pos = (180,0);
 ref = "brevecomb-cy";
 }
 );

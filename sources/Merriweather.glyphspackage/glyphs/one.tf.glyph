@@ -1,7 +1,5 @@
 {
 glyphname = one.tf;
-kernLeft = one.tf;
-kernRight = one.tf;
 layers = (
 {
 layerId = UUID0;
@@ -366,6 +364,10 @@ width = 1220;
 }
 );
 userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
 RMXScaler = {
 source = one;
 };

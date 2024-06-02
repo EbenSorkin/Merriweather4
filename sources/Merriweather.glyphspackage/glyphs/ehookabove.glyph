@@ -1,7 +1,5 @@
 {
 glyphname = ehookabove;
-kernLeft = o;
-kernRight = e;
 layers = (
 {
 layerId = UUID0;

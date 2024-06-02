@@ -1,0 +1,189 @@
+{
+glyphname = dcroat;
+layers = (
+{
+layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (470,14);
+ref = ascenderbar_part.;
+}
+);
+width = 1147;
+},
+{
+layerId = "27298932-82AF-4578-9425-6304FDB19058";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (425,14);
+ref = ascenderbar_part.;
+}
+);
+width = 1225;
+},
+{
+layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (413,14);
+ref = ascenderbar_part.;
+}
+);
+width = 1263;
+},
+{
+layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (456,14);
+ref = ascenderbar_part.;
+}
+);
+width = 1186;
+},
+{
+layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (365,15);
+ref = ascenderbar_part.;
+}
+);
+width = 1127;
+},
+{
+layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (388,40);
+ref = ascenderbar_part.;
+}
+);
+width = 996;
+},
+{
+layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (345,15);
+ref = ascenderbar_part.;
+}
+);
+width = 1199;
+},
+{
+guides = (
+{
+pos = (605,1333);
+}
+);
+layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (358,40);
+ref = ascenderbar_part.;
+}
+);
+width = 1050;
+},
+{
+layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (416,14);
+ref = ascenderbar_part.;
+}
+);
+width = 1068;
+},
+{
+layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (307,24);
+ref = ascenderbar_part.;
+}
+);
+width = 1107;
+},
+{
+layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (304,70);
+ref = ascenderbar_part.;
+}
+);
+width = 939;
+},
+{
+layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (261,75);
+ref = ascenderbar_part.;
+}
+);
+width = 1031;
+},
+{
+associatedMasterId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
+layerId = "DF3456DD-0515-44F6-9FA7-2670039B70E4";
+name = "17 Aug 23, 17:07";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1126,1231,l),
+(1139,1314,l),
+(504,1314,l),
+(491,1231,l)
+);
+},
+{
+ref = d;
+}
+);
+width = 1031;
+}
+);
+metricLeft = d;
+metricWidth = d;
+unicode = 273;
+}

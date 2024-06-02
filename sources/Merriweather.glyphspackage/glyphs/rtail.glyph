@@ -219,7 +219,7 @@ nodes = (
 );
 }
 );
-width = 794;
+width = 804;
 },
 {
 background = {
@@ -438,7 +438,7 @@ nodes = (
 );
 }
 );
-width = 836;
+width = 806;
 },
 {
 background = {
@@ -546,7 +546,7 @@ nodes = (
 );
 }
 );
-width = 740;
+width = 750;
 },
 {
 background = {

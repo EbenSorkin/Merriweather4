@@ -1,7 +1,5 @@
 {
 glyphname = obreve;
-kernLeft = o;
-kernRight = o;
 layers = (
 {
 layerId = UUID0;
@@ -10,11 +8,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (231,0);
+pos = (75,0);
 ref = brevecomb;
 }
 );
-width = 1116;
+width = 1144;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -23,11 +21,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (230,0);
+pos = (61,0);
 ref = brevecomb;
 }
 );
-width = 1207;
+width = 1209;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -36,7 +34,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (244,0);
+pos = (100,0);
 ref = brevecomb;
 }
 );
@@ -49,7 +47,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (183,0);
+pos = (8,0);
 ref = brevecomb;
 }
 );
@@ -62,7 +60,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (199,0);
+pos = (99,0);
 ref = brevecomb;
 }
 );
@@ -75,7 +73,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (203,0);
+pos = (72,0);
 ref = brevecomb;
 }
 );
@@ -88,7 +86,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (191,0);
+pos = (81,0);
 ref = brevecomb;
 }
 );
@@ -101,7 +99,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (240,0);
+pos = (96,0);
 ref = brevecomb;
 }
 );
@@ -114,7 +112,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (276,0);
+pos = (182,0);
 ref = brevecomb;
 }
 );
@@ -127,7 +125,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (275,0);
+pos = (119,0);
 ref = brevecomb;
 }
 );
@@ -140,7 +138,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (268,0);
+pos = (168,0);
 ref = brevecomb;
 }
 );
@@ -156,7 +154,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (257,0);
+pos = (97,0);
 ref = brevecomb;
 }
 );

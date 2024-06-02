@@ -1,7 +1,5 @@
 {
 glyphname = "Elhook-cy";
-kernLeft = "El-cy";
-kernRight = J;
 layers = (
 {
 layerId = UUID0;
@@ -160,7 +158,7 @@ nodes = (
 );
 }
 );
-width = 1401;
+width = 1427;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";

@@ -1,7 +1,5 @@
 {
 glyphname = tdieresis;
-kernLeft = t;
-kernRight = t;
 layers = (
 {
 layerId = UUID0;
@@ -114,11 +112,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (10,287);
+pos = (25,287);
 ref = dieresiscomb;
 }
 );
-width = 712;
+width = 742;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";

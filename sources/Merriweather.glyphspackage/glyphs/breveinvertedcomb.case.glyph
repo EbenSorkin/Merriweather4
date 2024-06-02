@@ -1,7 +1,5 @@
 {
 glyphname = breveinvertedcomb.case;
-kernLeft = breveinvertedcomb.case;
-kernRight = breveinvertedcomb.case;
 layers = (
 {
 anchors = (

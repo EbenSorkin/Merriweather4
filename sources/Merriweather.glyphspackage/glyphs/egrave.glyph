@@ -1,7 +1,5 @@
 {
 glyphname = egrave;
-kernLeft = o;
-kernRight = e;
 layers = (
 {
 layerId = UUID0;

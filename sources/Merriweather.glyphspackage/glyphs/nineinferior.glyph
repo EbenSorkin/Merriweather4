@@ -1,7 +1,5 @@
 {
 glyphname = nineinferior;
-kernLeft = nine.sinf;
-kernRight = nine.sinf;
 layers = (
 {
 layerId = UUID0;
@@ -125,4 +123,10 @@ width = 891;
 }
 );
 unicode = 8329;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+};
 }

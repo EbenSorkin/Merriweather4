@@ -1,7 +1,5 @@
 {
 glyphname = backslash.case;
-kernLeft = backslash;
-kernRight = backslash;
 layers = (
 {
 layerId = UUID0;

@@ -1,7 +1,5 @@
 {
 glyphname = five.osf;
-kernLeft = five.osf;
-kernRight = five.osf;
 layers = (
 {
 layerId = UUID0;

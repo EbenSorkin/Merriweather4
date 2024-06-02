@@ -9,15 +9,15 @@ shapes = (
 ref = o;
 },
 {
-pos = (256,2);
+pos = (270,2);
 ref = ogonekcomb;
 },
 {
-pos = (97,0);
+pos = (111,0);
 ref = macroncomb;
 }
 );
-width = 1116;
+width = 1144;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -26,15 +26,15 @@ shapes = (
 ref = o;
 },
 {
-pos = (280,2);
+pos = (281,2);
 ref = ogonekcomb;
 },
 {
-pos = (94,1);
+pos = (95,1);
 ref = macroncomb;
 }
 );
-width = 1207;
+width = 1209;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";

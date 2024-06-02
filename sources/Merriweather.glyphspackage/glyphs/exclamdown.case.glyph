@@ -1,7 +1,5 @@
 {
 glyphname = exclamdown.case;
-kernLeft = exclam;
-kernRight = exclam;
 layers = (
 {
 layerId = UUID0;
@@ -135,4 +133,9 @@ width = 624;
 );
 metricLeft = exclam;
 metricRight = exclam;
+userData = {
+KernOnSpecialSpacing = {
+R = "spaced-off";
+};
+};
 }

@@ -1,7 +1,5 @@
 {
 glyphname = "enhook-cy";
-kernLeft = "pe-cy";
-kernRight = "enhook-cy";
 layers = (
 {
 layerId = UUID0;

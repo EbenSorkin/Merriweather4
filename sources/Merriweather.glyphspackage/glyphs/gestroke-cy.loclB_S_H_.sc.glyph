@@ -1,7 +1,5 @@
 {
 glyphname = "gestroke-cy.loclBSH.sc";
-kernLeft = "pe-cy.sc";
-kernRight = f.sc;
 layers = (
 {
 layerId = UUID0;

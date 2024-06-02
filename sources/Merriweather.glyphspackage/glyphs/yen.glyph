@@ -1,7 +1,5 @@
 {
 glyphname = yen;
-kernLeft = yen;
-kernRight = yen;
 layers = (
 {
 layerId = UUID0;
@@ -591,4 +589,10 @@ width = 1698;
 }
 );
 unicode = 165;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
 }

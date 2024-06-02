@@ -1,7 +1,5 @@
 {
 glyphname = acutecomb;
-kernLeft = acutecomb;
-kernRight = acutecomb;
 layers = (
 {
 anchors = (
@@ -133,15 +131,15 @@ closed = 1;
 nodes = (
 (176,1298,l),
 (272,1352,o),
-(461,1553,o),
-(506,1638,c),
+(464,1553,o),
+(509,1638,c),
 (362,1734,l),
 (110,1352,l),
 (174,1298,l)
 );
 }
 );
-width = 616;
+width = 619;
 },
 {
 anchors = (
@@ -347,4 +345,10 @@ width = 904;
 metricLeft = hyphen;
 metricRight = hyphen;
 unicode = 769;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

@@ -1,8 +1,6 @@
 {
 color = 4;
 glyphname = "Gamma-latin";
-kernLeft = V;
-kernRight = V;
 layers = (
 {
 anchors = (

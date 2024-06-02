@@ -1,7 +1,5 @@
 {
 glyphname = ecedilla;
-kernLeft = o;
-kernRight = e;
 layers = (
 {
 anchors = (

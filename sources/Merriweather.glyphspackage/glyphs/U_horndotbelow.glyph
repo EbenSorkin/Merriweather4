@@ -1,7 +1,5 @@
 {
 glyphname = Uhorndotbelow;
-kernLeft = U;
-kernRight = Uhorn;
 layers = (
 {
 layerId = UUID0;
@@ -156,7 +154,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (572,0);
+pos = (563,0);
 ref = dotbelowcomb;
 }
 );

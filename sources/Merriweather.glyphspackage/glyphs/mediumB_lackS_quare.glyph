@@ -1,7 +1,5 @@
 {
 glyphname = mediumBlackSquare;
-kernLeft = mediumBlackSquare;
-kernRight = mediumBlackSquare;
 layers = (
 {
 layerId = UUID0;

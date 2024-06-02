@@ -1,7 +1,5 @@
 {
 glyphname = circumflexcomb_gravecomb;
-kernLeft = circumflexcomb;
-kernRight = gravecomb;
 layers = (
 {
 anchors = (

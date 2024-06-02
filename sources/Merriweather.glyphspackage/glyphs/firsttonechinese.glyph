@@ -1,7 +1,5 @@
 {
 glyphname = firsttonechinese;
-kernLeft = firsttonechinese;
-kernRight = firsttonechinese;
 layers = (
 {
 layerId = UUID0;

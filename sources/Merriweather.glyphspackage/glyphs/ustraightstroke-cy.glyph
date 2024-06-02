@@ -1,7 +1,5 @@
 {
 glyphname = "ustraightstroke-cy";
-kernLeft = "ustraitstroke-cy";
-kernRight = "ustraitstroke-cy";
 layers = (
 {
 layerId = UUID0;
@@ -37,7 +35,7 @@ nodes = (
 ref = "ustraight-cy";
 }
 );
-width = 1302;
+width = 1295;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -73,7 +71,7 @@ nodes = (
 ref = "ustraight-cy";
 }
 );
-width = 1036;
+width = 1073;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -163,7 +161,7 @@ nodes = (
 ref = "ustraight-cy";
 }
 );
-width = 1013;
+width = 1099;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -181,7 +179,7 @@ nodes = (
 ref = "ustraight-cy";
 }
 );
-width = 927;
+width = 962;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -220,7 +218,7 @@ nodes = (
 ref = "ustraight-cy";
 }
 );
-width = 1211;
+width = 1279;
 }
 );
 metricLeft = v;

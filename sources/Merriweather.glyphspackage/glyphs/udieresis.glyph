@@ -1,8 +1,6 @@
 {
 color = 5;
 glyphname = udieresis;
-kernLeft = u;
-kernRight = u;
 layers = (
 {
 layerId = UUID0;
@@ -11,7 +9,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (262,0);
+pos = (246,0);
 ref = dieresiscomb;
 }
 );
@@ -24,7 +22,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (227,0);
+pos = (211,0);
 ref = dieresiscomb;
 }
 );
@@ -50,7 +48,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (153,0);
+pos = (146,0);
 ref = dieresiscomb;
 }
 );
@@ -63,7 +61,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (196,0);
+pos = (185,0);
 ref = dieresiscomb;
 }
 );
@@ -76,7 +74,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (93,0);
+pos = (86,0);
 ref = dieresiscomb;
 }
 );
@@ -115,7 +113,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (202,0);
+pos = (199,0);
 ref = dieresiscomb;
 }
 );
@@ -141,7 +139,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (246,0);
+pos = (242,0);
 ref = dieresiscomb;
 }
 );
@@ -157,7 +155,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (219,0);
+pos = (212,0);
 ref = dieresiscomb;
 }
 );

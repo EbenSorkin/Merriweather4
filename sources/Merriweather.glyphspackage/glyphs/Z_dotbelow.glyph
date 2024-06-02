@@ -1,7 +1,5 @@
 {
 glyphname = Zdotbelow;
-kernLeft = Z;
-kernRight = Z;
 layers = (
 {
 layerId = UUID0;

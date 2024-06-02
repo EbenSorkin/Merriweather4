@@ -1,7 +1,5 @@
 {
 glyphname = dotaccentcomb.case;
-kernLeft = dotaccentcomb.case;
-kernRight = dotaccentcomb.case;
 layers = (
 {
 anchors = (

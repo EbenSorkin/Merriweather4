@@ -1,7 +1,5 @@
 {
 glyphname = Uhorntilde;
-kernLeft = U;
-kernRight = Uhorn;
 layers = (
 {
 layerId = UUID0;
@@ -156,7 +154,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (252,0);
+pos = (243,0);
 ref = tildecomb.case;
 }
 );

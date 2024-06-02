@@ -1,7 +1,5 @@
 {
 glyphname = Ygrave;
-kernLeft = Y;
-kernRight = Y;
 layers = (
 {
 layerId = UUID0;

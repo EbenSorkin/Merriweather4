@@ -1,8 +1,6 @@
 {
 color = 4;
 glyphname = Whook;
-kernLeft = W;
-kernRight = W;
 layers = (
 {
 anchors = (
@@ -75,7 +73,7 @@ nodes = (
 );
 }
 );
-width = 2343;
+width = 2357;
 },
 {
 anchors = (
@@ -190,7 +188,7 @@ nodes = (
 );
 }
 );
-width = 2514;
+width = 2515;
 },
 {
 anchors = (

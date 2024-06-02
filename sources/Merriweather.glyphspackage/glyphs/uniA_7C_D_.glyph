@@ -99,11 +99,11 @@ shapes = (
 ref = S;
 },
 {
-pos = (-26,7);
+pos = (-16,7);
 ref = UCslash_part.Cstroke;
 }
 );
-width = 1231;
+width = 1264;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -116,7 +116,7 @@ pos = (-58,7);
 ref = UCslash_part.Cstroke;
 }
 );
-width = 1066;
+width = 1097;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";

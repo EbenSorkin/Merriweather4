@@ -1,8 +1,6 @@
 {
 color = 11;
 glyphname = zero.zero;
-kernLeft = zero;
-kernRight = zero;
 layers = (
 {
 layerId = UUID0;

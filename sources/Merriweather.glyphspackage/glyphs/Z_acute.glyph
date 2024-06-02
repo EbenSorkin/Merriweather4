@@ -1,7 +1,5 @@
 {
 glyphname = Zacute;
-kernLeft = Z;
-kernRight = Z;
 layers = (
 {
 layerId = UUID0;

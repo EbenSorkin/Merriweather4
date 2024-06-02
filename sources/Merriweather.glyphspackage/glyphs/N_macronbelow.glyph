@@ -1,7 +1,5 @@
 {
 glyphname = Nmacronbelow;
-kernLeft = H;
-kernRight = H;
 layers = (
 {
 layerId = UUID0;

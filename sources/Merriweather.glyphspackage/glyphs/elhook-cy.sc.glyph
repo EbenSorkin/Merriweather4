@@ -1,7 +1,5 @@
 {
 glyphname = "elhook-cy.sc";
-kernLeft = "el-cy.sc";
-kernRight = j.sc;
 layers = (
 {
 layerId = UUID0;

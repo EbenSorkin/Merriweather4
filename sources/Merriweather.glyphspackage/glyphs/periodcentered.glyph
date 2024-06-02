@@ -1,8 +1,6 @@
 {
 color = 0;
 glyphname = periodcentered;
-kernLeft = anoteleia;
-kernRight = anoteleia;
 layers = (
 {
 anchors = (
@@ -357,4 +355,10 @@ width = 397;
 }
 );
 unicode = 183;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

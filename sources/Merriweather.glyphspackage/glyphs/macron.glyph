@@ -1,7 +1,5 @@
 {
 glyphname = macron;
-kernLeft = macroncomb;
-kernRight = macroncomb;
 layers = (
 {
 layerId = UUID0;

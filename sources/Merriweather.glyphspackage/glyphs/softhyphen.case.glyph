@@ -1,8 +1,6 @@
 {
 color = 10;
 glyphname = softhyphen.case;
-kernLeft = hyphen;
-kernRight = hyphen;
 layers = (
 {
 layerId = UUID0;

@@ -1,7 +1,5 @@
 {
 glyphname = questiondown.case;
-kernLeft = questiondown;
-kernRight = questiondown;
 layers = (
 {
 layerId = UUID0;
@@ -75,7 +73,7 @@ pos = (0,290);
 ref = questiondown;
 }
 );
-width = 691;
+width = 700;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -85,7 +83,7 @@ pos = (0,290);
 ref = questiondown;
 }
 );
-width = 745;
+width = 787;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -106,7 +104,7 @@ pos = (0,290);
 ref = questiondown;
 }
 );
-width = 847;
+width = 893;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -135,4 +133,9 @@ width = 1024;
 );
 metricLeft = questiondown;
 metricRight = questiondown;
+userData = {
+KernOnSpecialSpacing = {
+R = "spaced-off";
+};
+};
 }

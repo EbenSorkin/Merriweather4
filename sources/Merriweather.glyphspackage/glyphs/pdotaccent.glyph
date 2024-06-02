@@ -1,7 +1,5 @@
 {
 glyphname = pdotaccent;
-kernLeft = p;
-kernRight = b;
 layers = (
 {
 layerId = UUID0;

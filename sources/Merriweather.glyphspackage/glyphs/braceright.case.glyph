@@ -1,7 +1,5 @@
 {
 glyphname = braceright.case;
-kernLeft = braceright;
-kernRight = braceright;
 layers = (
 {
 layerId = UUID0;
@@ -129,4 +127,9 @@ width = 1080;
 );
 metricLeft = braceright;
 metricRight = braceright;
+userData = {
+KernOnSpecialSpacing = {
+L = parenthesis;
+};
+};
 }

@@ -1,8 +1,6 @@
 {
 color = 4;
 glyphname = q.sc;
-kernLeft = o.sc;
-kernRight = q.sc;
 layers = (
 {
 layerId = UUID0;
@@ -206,6 +204,10 @@ width = 1458;
 );
 metricLeft = o.sc;
 userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
 RMXScaler = {
 source = Q;
 };

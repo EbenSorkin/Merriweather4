@@ -1,11 +1,9 @@
 {
 glyphname = nbspace;
-kernLeft = space;
-kernRight = space;
 layers = (
 {
 layerId = UUID0;
-width = 468;
+width = 268;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -58,4 +56,10 @@ width = 474;
 metricLeft = space;
 metricWidth = space;
 unicode = 160;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

@@ -1,8 +1,6 @@
 {
 color = 3;
 glyphname = "gestroke-cy.loclBSH";
-kernLeft = "ge-cy";
-kernRight = "te-cy";
 layers = (
 {
 layerId = UUID0;

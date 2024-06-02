@@ -1,7 +1,5 @@
 {
 glyphname = commaaccentcomb.case;
-kernLeft = commaaccentcomb;
-kernRight = commaaccentcomb;
 layers = (
 {
 anchors = (

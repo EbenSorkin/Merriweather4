@@ -1,8 +1,6 @@
 {
 color = 4;
 glyphname = ezh;
-kernLeft = ezh;
-kernRight = ezh;
 layers = (
 {
 anchors = (
@@ -261,7 +259,7 @@ nodes = (
 );
 }
 );
-width = 1001;
+width = 1019;
 },
 {
 anchors = (
@@ -512,7 +510,7 @@ nodes = (
 );
 }
 );
-width = 943;
+width = 920;
 },
 {
 anchors = (
@@ -974,7 +972,7 @@ nodes = (
 );
 }
 );
-width = 1105;
+width = 1101;
 }
 );
 metricLeft = z;

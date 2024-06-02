@@ -152,11 +152,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (-46,-55);
+pos = (-31,-55);
 ref = slashshortcomb;
 }
 );
-width = 712;
+width = 742;
 }
 );
 unicode = 11366;

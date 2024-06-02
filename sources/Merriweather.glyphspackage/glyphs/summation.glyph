@@ -1,7 +1,5 @@
 {
 glyphname = summation;
-kernLeft = summation;
-kernRight = summation;
 layers = (
 {
 layerId = UUID0;

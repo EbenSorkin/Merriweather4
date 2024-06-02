@@ -1,7 +1,5 @@
 {
 glyphname = commaturnedabovecomb.case;
-kernLeft = commaturnedabovecomb;
-kernRight = commaturnedabovecomb;
 layers = (
 {
 anchors = (

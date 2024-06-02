@@ -1,8 +1,6 @@
 {
 color = 4;
 glyphname = ampersand.sc;
-kernLeft = ampersand;
-kernRight = ampersand;
 layers = (
 {
 layerId = UUID0;

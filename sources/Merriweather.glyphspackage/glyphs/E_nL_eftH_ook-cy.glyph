@@ -1,7 +1,5 @@
 {
 glyphname = "EnLeftHook-cy";
-kernLeft = J;
-kernRight = "Pe-cy";
 layers = (
 {
 layerId = UUID0;

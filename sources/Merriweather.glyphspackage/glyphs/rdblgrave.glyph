@@ -1,7 +1,5 @@
 {
 glyphname = rdblgrave;
-kernLeft = n;
-kernRight = r;
 layers = (
 {
 layerId = UUID0;
@@ -10,7 +8,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (-219,0);
+pos = (-199,0);
 ref = dblgravecomb;
 }
 );
@@ -36,11 +34,11 @@ shapes = (
 ref = r;
 },
 {
-pos = (-278,0);
+pos = (-268,0);
 ref = dblgravecomb;
 }
 );
-width = 839;
+width = 809;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -53,7 +51,7 @@ pos = (-334,0);
 ref = dblgravecomb;
 }
 );
-width = 794;
+width = 804;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -62,7 +60,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (-174,0);
+pos = (-169,0);
 ref = dblgravecomb;
 }
 );
@@ -79,7 +77,7 @@ pos = (-265,0);
 ref = dblgravecomb;
 }
 );
-width = 740;
+width = 750;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -114,7 +112,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (-243,0);
+pos = (-223,0);
 ref = dblgravecomb;
 }
 );

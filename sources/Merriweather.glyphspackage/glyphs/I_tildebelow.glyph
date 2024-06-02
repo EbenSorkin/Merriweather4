@@ -8,7 +8,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-12,0);
+pos = (31,0);
 ref = tildebelowcomb;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-29,0);
+pos = (-22,0);
 ref = tildebelowcomb;
 }
 );
@@ -60,7 +60,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-11,0);
+pos = (-21,0);
 ref = tildebelowcomb;
 }
 );
@@ -99,11 +99,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (15,0);
+pos = (24,0);
 ref = tildebelowcomb;
 }
 );
-width = 716;
+width = 742;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";

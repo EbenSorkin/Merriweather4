@@ -1,7 +1,5 @@
 {
 glyphname = slashlongcomb;
-kernLeft = slashlongcomb;
-kernRight = slashlongcomb;
 layers = (
 {
 anchors = (

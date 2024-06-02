@@ -1,8 +1,6 @@
 {
 color = 4;
 glyphname = equal;
-kernLeft = equal;
-kernRight = equal;
 layers = (
 {
 layerId = UUID0;
@@ -299,4 +297,10 @@ width = 1359;
 metricLeft = hyphen;
 metricRight = hyphen;
 unicode = 61;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
 }

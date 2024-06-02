@@ -1,7 +1,5 @@
 {
 glyphname = i.dot;
-kernLeft = i;
-kernRight = i;
 layers = (
 {
 layerId = UUID0;

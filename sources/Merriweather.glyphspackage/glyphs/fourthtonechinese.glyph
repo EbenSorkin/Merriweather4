@@ -1,7 +1,5 @@
 {
 glyphname = fourthtonechinese;
-kernLeft = fourthtonechinese;
-kernRight = fourthtonechinese;
 layers = (
 {
 layerId = UUID0;

@@ -1,7 +1,5 @@
 {
 glyphname = germandbls;
-kernLeft = germandbls;
-kernRight = germandbls;
 layers = (
 {
 layerId = UUID0;

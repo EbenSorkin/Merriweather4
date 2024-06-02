@@ -1,7 +1,5 @@
 {
 glyphname = "dram-arm";
-kernLeft = "dram-arm";
-kernRight = "dram-arm";
 layers = (
 {
 layerId = UUID0;

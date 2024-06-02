@@ -9,7 +9,7 @@ shapes = (
 ref = e.sc;
 },
 {
-pos = (258,0);
+pos = (301,0);
 ref = tildebelowcomb;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = e.sc;
 },
 {
-pos = (232,0);
+pos = (239,0);
 ref = tildebelowcomb;
 }
 );
@@ -61,7 +61,7 @@ shapes = (
 ref = e.sc;
 },
 {
-pos = (215,0);
+pos = (205,0);
 ref = tildebelowcomb;
 }
 );

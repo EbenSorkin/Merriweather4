@@ -1,7 +1,5 @@
 {
 glyphname = tmacronbelow;
-kernLeft = t;
-kernRight = t;
 layers = (
 {
 layerId = UUID0;
@@ -114,11 +112,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (746,0);
+pos = (761,0);
 ref = macronbelowcomb;
 }
 );
-width = 712;
+width = 742;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";

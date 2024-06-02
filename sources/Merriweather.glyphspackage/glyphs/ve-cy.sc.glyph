@@ -1,7 +1,5 @@
 {
 glyphname = "ve-cy.sc";
-kernLeft = h.sc;
-kernRight = b.sc;
 layers = (
 {
 anchors = (

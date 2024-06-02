@@ -1,7 +1,5 @@
 {
 glyphname = tildecomb.case;
-kernLeft = tildecomb.case;
-kernRight = tildecomb.case;
 layers = (
 {
 anchors = (

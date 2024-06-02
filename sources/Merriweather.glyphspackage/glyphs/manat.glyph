@@ -1,7 +1,5 @@
 {
 glyphname = manat;
-kernLeft = manat;
-kernRight = manat;
 layers = (
 {
 layerId = UUID0;
@@ -560,4 +558,10 @@ width = 1738;
 }
 );
 unicode = 8380;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
 }

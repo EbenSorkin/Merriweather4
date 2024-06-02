@@ -1,7 +1,5 @@
 {
 glyphname = greaterequal.case;
-kernLeft = greaterequal;
-kernRight = greaterequal;
 layers = (
 {
 layerId = UUID0;

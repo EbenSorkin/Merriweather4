@@ -1,7 +1,5 @@
 {
 glyphname = integral;
-kernLeft = integral;
-kernRight = integral;
 layers = (
 {
 layerId = UUID0;

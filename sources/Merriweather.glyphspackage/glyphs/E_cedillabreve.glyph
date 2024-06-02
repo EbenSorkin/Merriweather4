@@ -1,7 +1,5 @@
 {
 glyphname = Ecedillabreve;
-kernLeft = H;
-kernRight = E;
 layers = (
 {
 layerId = UUID0;
@@ -44,15 +42,15 @@ shapes = (
 ref = E;
 },
 {
-pos = (435,0);
+pos = (461,0);
 ref = cedillacomb.case;
 },
 {
-pos = (325,0);
+pos = (351,0);
 ref = brevecomb.case;
 }
 );
-width = 1271;
+width = 1297;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -61,15 +59,15 @@ shapes = (
 ref = E;
 },
 {
-pos = (370,0);
+pos = (390,0);
 ref = cedillacomb.case;
 },
 {
-pos = (239,0);
+pos = (259,0);
 ref = brevecomb.case;
 }
 );
-width = 1145;
+width = 1165;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -129,15 +127,15 @@ shapes = (
 ref = E;
 },
 {
-pos = (409,0);
+pos = (421,0);
 ref = cedillacomb.case;
 },
 {
-pos = (326,0);
+pos = (338,0);
 ref = brevecomb.case;
 }
 );
-width = 1158;
+width = 1170;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -146,15 +144,15 @@ shapes = (
 ref = E;
 },
 {
-pos = (445,0);
+pos = (457,0);
 ref = cedillacomb.case;
 },
 {
-pos = (360,0);
+pos = (372,0);
 ref = brevecomb.case;
 }
 );
-width = 1321;
+width = 1333;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -163,15 +161,15 @@ shapes = (
 ref = E;
 },
 {
-pos = (433,0);
+pos = (430,0);
 ref = cedillacomb.case;
 },
 {
-pos = (359,0);
+pos = (356,0);
 ref = brevecomb.case;
 }
 );
-width = 1236;
+width = 1233;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";

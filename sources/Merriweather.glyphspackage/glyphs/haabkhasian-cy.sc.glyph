@@ -1,7 +1,5 @@
 {
 glyphname = "haabkhasian-cy.sc";
-kernLeft = "haabkhasian-cy.sc";
-kernRight = "haabkhasian-cy.sc";
 layers = (
 {
 layerId = UUID0;

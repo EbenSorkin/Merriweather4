@@ -1,7 +1,5 @@
 {
 glyphname = "ze-cy";
-kernLeft = "ereversed-cy";
-kernRight = "ve-cy";
 layers = (
 {
 anchors = (

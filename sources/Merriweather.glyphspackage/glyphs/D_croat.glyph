@@ -1,8 +1,6 @@
 {
 color = 5;
 glyphname = Dcroat;
-kernLeft = H;
-kernRight = O;
 layers = (
 {
 layerId = UUID0;
@@ -37,11 +35,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (-8,12);
+pos = (18,12);
 ref = shortbar_part.;
 }
 );
-width = 1420;
+width = 1446;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -50,11 +48,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (1,16);
+pos = (21,16);
 ref = shortbar_part.;
 }
 );
-width = 1308;
+width = 1328;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -102,11 +100,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (57,13);
+pos = (69,13);
 ref = shortbar_part.;
 }
 );
-width = 1334;
+width = 1346;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";

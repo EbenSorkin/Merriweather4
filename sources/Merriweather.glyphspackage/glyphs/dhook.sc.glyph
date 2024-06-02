@@ -7,30 +7,30 @@ layerId = UUID0;
 shapes = (
 {
 alignment = -1;
-pos = (283,0);
+pos = (297,0);
 ref = _dhookSC.part;
 },
 {
-pos = (-126,-194);
+pos = (-112,-194);
 ref = _hook.part;
 }
 );
-width = 1677;
+width = 1691;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
 shapes = (
 {
 alignment = -1;
-pos = (339,0);
+pos = (340,0);
 ref = _dhookSC.part;
 },
 {
-pos = (-128,-194);
+pos = (-127,-194);
 ref = _hook.part;
 }
 );
-width = 1776;
+width = 1777;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";

@@ -8,7 +8,7 @@ shapes = (
 ref = "izhitsa-cy.sc";
 },
 {
-pos = (-15,182);
+pos = (5,182);
 ref = dblgravecomb;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = "izhitsa-cy.sc";
 },
 {
-pos = (47,182);
+pos = (52,182);
 ref = dblgravecomb;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = "izhitsa-cy.sc";
 },
 {
-pos = (87,287);
+pos = (97,287);
 ref = dblgravecomb;
 }
 );
@@ -151,7 +151,7 @@ shapes = (
 ref = "izhitsa-cy.sc";
 },
 {
-pos = (154,287);
+pos = (174,287);
 ref = dblgravecomb;
 }
 );

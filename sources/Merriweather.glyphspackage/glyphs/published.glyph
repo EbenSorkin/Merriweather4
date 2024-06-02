@@ -1,7 +1,5 @@
 {
 glyphname = published;
-kernLeft = copyright;
-kernRight = copyright;
 layers = (
 {
 layerId = UUID0;
@@ -1006,4 +1004,9 @@ width = 2080;
 metricLeft = copyright;
 metricRight = copyright;
 unicode = 8471;
+userData = {
+KernOnSpecialSpacing = {
+R = symbols;
+};
+};
 }

@@ -1,7 +1,5 @@
 {
 glyphname = breve;
-kernLeft = brevecomb;
-kernRight = brevecomb;
 layers = (
 {
 layerId = UUID0;

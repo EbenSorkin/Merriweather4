@@ -1,7 +1,5 @@
 {
 glyphname = lira;
-kernLeft = lira;
-kernRight = lira;
 layers = (
 {
 layerId = UUID0;
@@ -922,4 +920,10 @@ width = 1704;
 metricLeft = sterling;
 metricRight = sterling;
 unicode = 8356;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
 }

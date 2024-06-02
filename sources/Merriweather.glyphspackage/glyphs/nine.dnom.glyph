@@ -1,7 +1,5 @@
 {
 glyphname = nine.dnom;
-kernLeft = nine.sinf;
-kernRight = nine.sinf;
 layers = (
 {
 layerId = UUID0;
