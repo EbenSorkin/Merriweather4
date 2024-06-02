@@ -366,6 +366,7 @@ metricLeft = "=|guilsinglleft";
 metricRight = "=|guilsinglleft";
 unicode = 187;
 userData = {
+KernOnName = guillemetright;
 KernOnSpecialSpacing = {
 L = quotes;
 R = quotes;

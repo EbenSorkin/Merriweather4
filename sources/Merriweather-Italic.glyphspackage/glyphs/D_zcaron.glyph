@@ -8,11 +8,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (1368,0);
+pos = (1358,0);
 ref = zcaron;
 }
 );
-width = 2398;
+width = 2388;
 },
 {
 layerId = "27298932-82AF-4578-9425-6304FDB19058";
@@ -21,11 +21,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (1489,0);
+pos = (1487,0);
 ref = zcaron;
 }
 );
-width = 2494;
+width = 2492;
 },
 {
 layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
@@ -34,11 +34,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (1578,0);
+pos = (1596,0);
 ref = zcaron;
 }
 );
-width = 2583;
+width = 2601;
 },
 {
 layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
@@ -47,11 +47,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (1493,0);
+pos = (1466,0);
 ref = zcaron;
 }
 );
-width = 2593;
+width = 2566;
 },
 {
 layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
@@ -73,11 +73,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (1320,0);
+pos = (1301,0);
 ref = zcaron;
 }
 );
-width = 2164;
+width = 2145;
 },
 {
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
@@ -86,11 +86,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (1501,0);
+pos = (1491,0);
 ref = zcaron;
 }
 );
-width = 2418;
+width = 2408;
 },
 {
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
@@ -99,11 +99,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (1340,0);
+pos = (1339,0);
 ref = zcaron;
 }
 );
-width = 2235;
+width = 2234;
 },
 {
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
@@ -112,11 +112,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (1242,0);
+pos = (1235,0);
 ref = zcaron;
 }
 );
-width = 2192;
+width = 2185;
 },
 {
 layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
@@ -138,11 +138,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (1231,0);
+pos = (1226,0);
 ref = zcaron;
 }
 );
-width = 2015;
+width = 2010;
 },
 {
 layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";

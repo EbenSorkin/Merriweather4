@@ -59,11 +59,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-29,0);
+pos = (-16,0);
 ref = dieresiscomb;
 },
 {
-pos = (219,309);
+pos = (232,309);
 ref = acutecomb;
 }
 );

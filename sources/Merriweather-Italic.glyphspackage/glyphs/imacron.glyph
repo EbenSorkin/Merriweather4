@@ -47,6 +47,7 @@ shapes = (
 ref = idotless;
 },
 {
+pos = (13,0);
 ref = macroncomb;
 }
 );

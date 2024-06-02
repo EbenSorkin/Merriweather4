@@ -113,7 +113,7 @@ pos = (245,0);
 ref = quotesingle;
 }
 );
-width = 751;
+width = 811;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -126,7 +126,7 @@ pos = (245,0);
 ref = quotesingle;
 }
 );
-width = 731;
+width = 771;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -152,7 +152,7 @@ pos = (255,0);
 ref = quotesingle;
 }
 );
-width = 721;
+width = 841;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";

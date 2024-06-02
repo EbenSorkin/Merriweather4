@@ -47,7 +47,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-69,-4);
+pos = (-56,-4);
 ref = breveinvertedcomb;
 }
 );

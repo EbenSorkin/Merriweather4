@@ -113,7 +113,7 @@ shapes = (
 ref = X;
 }
 );
-width = 1248;
+width = 1255;
 },
 {
 anchors = (

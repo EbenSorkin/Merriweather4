@@ -113,4 +113,7 @@ width = 1282;
 metricLeft = T;
 metricRight = T;
 unicode = 1058;
+userData = {
+KernOnName = "Te-cy";
+};
 }

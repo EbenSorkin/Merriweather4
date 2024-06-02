@@ -47,7 +47,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-18,0);
+pos = (-5,0);
 ref = dotaccent;
 }
 );

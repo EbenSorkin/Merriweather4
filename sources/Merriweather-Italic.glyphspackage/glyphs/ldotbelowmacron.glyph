@@ -110,15 +110,15 @@ shapes = (
 ref = l;
 },
 {
-pos = (17,0);
+pos = (22,0);
 ref = dotbelowcomb;
 },
 {
-pos = (-198,75);
+pos = (-193,75);
 ref = macroncomb.case;
 }
 );
-width = 434;
+width = 439;
 },
 {
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";

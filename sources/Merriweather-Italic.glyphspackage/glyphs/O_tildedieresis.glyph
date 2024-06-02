@@ -25,15 +25,15 @@ shapes = (
 ref = O;
 },
 {
-pos = (322,0);
+pos = (354,0);
 ref = tildecomb.case;
 },
 {
-pos = (359,406);
+pos = (391,406);
 ref = dieresiscomb.case;
 }
 );
-width = 1416;
+width = 1480;
 },
 {
 layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
@@ -59,15 +59,15 @@ shapes = (
 ref = O;
 },
 {
-pos = (410,0);
+pos = (414,0);
 ref = tildecomb.case;
 },
 {
-pos = (514,363);
+pos = (518,363);
 ref = dieresiscomb.case;
 }
 );
-width = 1470;
+width = 1478;
 },
 {
 layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
@@ -93,15 +93,15 @@ shapes = (
 ref = O;
 },
 {
-pos = (380,0);
+pos = (381,0);
 ref = tildecomb.case;
 },
 {
-pos = (393,284);
+pos = (394,284);
 ref = dieresiscomb.case;
 }
 );
-width = 1290;
+width = 1292;
 },
 {
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
@@ -110,15 +110,15 @@ shapes = (
 ref = O;
 },
 {
-pos = (454,0);
+pos = (475,0);
 ref = tildecomb.case;
 },
 {
-pos = (437,412);
+pos = (458,412);
 ref = dieresiscomb.case;
 }
 );
-width = 1507;
+width = 1549;
 },
 {
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
@@ -144,15 +144,15 @@ shapes = (
 ref = O;
 },
 {
-pos = (269,0);
+pos = (279,0);
 ref = tildecomb.case;
 },
 {
-pos = (397,363);
+pos = (407,363);
 ref = dieresiscomb.case;
 }
 );
-width = 1202;
+width = 1222;
 },
 {
 layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
@@ -161,15 +161,15 @@ shapes = (
 ref = O;
 },
 {
-pos = (259,0);
+pos = (294,0);
 ref = tildecomb.case;
 },
 {
-pos = (292,406);
+pos = (327,406);
 ref = dieresiscomb.case;
 }
 );
-width = 1262;
+width = 1332;
 },
 {
 layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
@@ -178,15 +178,15 @@ shapes = (
 ref = O;
 },
 {
-pos = (326,0);
+pos = (346,0);
 ref = tildecomb.case;
 },
 {
-pos = (351,284);
+pos = (371,284);
 ref = dieresiscomb.case;
 }
 );
-width = 1182;
+width = 1222;
 },
 {
 layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
@@ -195,15 +195,15 @@ shapes = (
 ref = O;
 },
 {
-pos = (342,0);
+pos = (373,0);
 ref = tildecomb.case;
 },
 {
-pos = (363,412);
+pos = (394,412);
 ref = dieresiscomb.case;
 }
 );
-width = 1259;
+width = 1320;
 }
 );
 unicode = 7758;

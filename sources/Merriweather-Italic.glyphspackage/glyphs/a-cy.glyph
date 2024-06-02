@@ -129,4 +129,7 @@ width = 1032;
 metricLeft = "=a+2";
 metricRight = "=a+2";
 unicode = 1072;
+userData = {
+KernOnName = "a-cy";
+};
 }

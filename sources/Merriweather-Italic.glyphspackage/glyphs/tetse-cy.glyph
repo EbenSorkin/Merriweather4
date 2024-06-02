@@ -62,7 +62,7 @@ shapes = (
 ref = "tse-cy";
 },
 {
-pos = (9052,105);
+pos = (9112,105);
 ref = macroncomb;
 }
 );
@@ -75,7 +75,7 @@ shapes = (
 ref = "tse-cy";
 },
 {
-pos = (9014,105);
+pos = (9074,105);
 ref = macroncomb;
 }
 );
@@ -144,7 +144,7 @@ shapes = (
 ref = "tse-cy";
 },
 {
-pos = (3538,105);
+pos = (3598,105);
 ref = macroncomb;
 }
 );

@@ -526,6 +526,7 @@ width = 622;
 }
 );
 userData = {
+KernOnName = j.sc;
 KernOnSpecialSpacing = {
 L = smallcaps;
 R = smallcaps;
