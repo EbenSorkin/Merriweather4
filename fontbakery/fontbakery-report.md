@@ -1,1505 +1,11764 @@
-## Fontbakery report
+## FontBakery report
 
-Fontbakery version: 0.8.9
-
-<details><summary><b>[1] Family checks</b></summary><div><details><summary>🔥 <b>FAIL:</b> Fonts have consistent underline thickness? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/post.html#com.google.fonts/check/family/underline_thickness">com.google.fonts/check/family/underline_thickness</a>)</summary><div>
+fontbakery version: 0.12.1
 
 
-* 🔥 **FAIL** Thickness of the underline is not the same across this family. In order to fix this, please make sure that the underlineThickness value is the same in the 'post' table of all of this family font files.
-Detected underlineThickness values are:
-	fonts/ttf/Merriweather-BoldItalic.ttf: 90
-	fonts/ttf/Merriweather-Bold.ttf: 104
-	fonts/ttf/Merriweather-LightItalic.ttf: 90
-	fonts/ttf/Merriweather-BlackItalic.ttf: 90
-	fonts/ttf/Merriweather-Italic.ttf: 90
-	fonts/ttf/Merriweather-Black.ttf: 110
-	fonts/ttf/Merriweather-Regular.ttf: 96
-	fonts/ttf/Merriweather-Light.ttf: 90
- [code: inconsistent-underline-thickness]
-</div></details><br></div></details><details><summary><b>[14] Merriweather-BoldItalic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+
+## Experimental checks
+
+These won't break the CI job for now, but will become effective after some time if nobody raises any concern.
 
 
-* 💔 **ERROR** Failed with IndexError: list index out of range
-* ⚠ **WARN** GF_Latin_Minorities is almost fulfilled. Missing codepoints:
-
-	- 0xA78B (LATIN CAPITAL LETTER SALTILLO)
- 
-
-	- And 0xA78C (LATIN SMALL LETTER SALTILLO)
- [code: missing-codepoints]
-* ⚠ **WARN** GF_TransLatin_Arabic is almost fulfilled. Missing codepoints:
-
-	- 0x1E34 (LATIN CAPITAL LETTER K WITH LINE BELOW)
+<details><summary>[2] Merriweather[opsz,wdth,wght].ttf</summary>
+<div>
+<details>
+    <summary>⚠️ <b>WARN</b> Validate location, size and resolution of article images. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.article.html#"></a></summary>
+    <div>
 
 
-	- 0x1E35 (LATIN SMALL LETTER K WITH LINE BELOW)
 
 
-	- 0x1E96 (LATIN SMALL LETTER H WITH LINE BELOW)
- 
-
-	- And 0x02BD (MODIFIER LETTER REVERSED COMMA)
- [code: missing-codepoints]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 625, but got 606 instead. [code: descent]
-</div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
+
+* ⚠️ **WARN** <p>Family metadata at fonts/variable does not have an article.</p>
+ [code: lacks-article]
 
 
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
- [code: http]
-</div></details><details><summary>⚠ <b>WARN:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
+
+</div>
+</details>
+
+<details>
+    <summary>🔥 <b>FAIL</b> Ensure the font's instances are in the correct order. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.varfont.html#"></a></summary>
+    <div>
 
 
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=14] [code: http-in-license-info]
-* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
- [code: http]
-</div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
 
 
-* ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* quotedblleft.ss01
-	* uni25FC
-	* Acircumflex
-	* uni03060301.case
-	* bracketleft
-	* Ohungarumlaut
-	* ntilde
-	* uni03020309.case
-	* uni04ED
-	* six.lf and 309 more.
-
-Use -F or --full-lists to disable shortening of long lists.
-</div></details><details><summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets">com.google.fonts/check/ligature_carets</a>)</summary><div>
 
 
-* ⚠ **WARN** This font lacks caret position values for ligature glyphs on its GDEF table. [code: lacks-caret-pos]
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+
+* 🔥 **FAIL** <p>The fvar table instances are not in ascending order of weight:
+- {'wght': 900.0, 'wdth': 100.0, 'opsz': 7.0}</p>
+<pre><code>- {'wght': 800.0, 'wdth': 100.0, 'opsz': 7.0}
+
+- {'wght': 700.0, 'wdth': 100.0, 'opsz': 7.0}
+
+- {'wght': 600.0, 'wdth': 100.0, 'opsz': 7.0}
+
+- {'wght': 500.0, 'wdth': 100.0, 'opsz': 7.0}
+
+- {'wght': 400.0, 'wdth': 100.0, 'opsz': 7.0}
+
+- {'wght': 300.0, 'wdth': 100.0, 'opsz': 7.0}
+</code></pre>
+ [code: instances-not-in-order]
 
 
-* ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
 
-	- f + i 
+</div>
+</details>
+</div>
+</details>
 
-	- And i + l [code: lacks-kern-info]
-</div></details><details><summary>⚠ <b>WARN:</b> Name table strings must not contain the string 'Reserved Font Name'. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/rfn">com.google.fonts/check/name/rfn</a>)</summary><div>
-
-
-* ⚠ **WARN** Name table entry contains "Reserved Font Name" for a family name ("Merriweather") that differs from the currently used family name (Merriweather), which is fine. [code: legacy-familyname]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
-
-
-* ⚠ **WARN** The stylistic set ss01 lacks a description string on the 'name' table. [code: missing-description]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
+<details><summary>[2] Merriweather-Italic[opsz,wdth,wght].ttf</summary>
+<div>
+<details>
+    <summary>⚠️ <b>WARN</b> Validate location, size and resolution of article images. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.article.html#"></a></summary>
+    <div>
 
 
-* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
 
 
-* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- logicalnot.case
 
-	- notequal.case
 
-	- infinity.case
+* ⚠️ **WARN** <p>Family metadata at fonts/variable does not have an article.</p>
+ [code: lacks-article]
 
-	- emptyset.case
 
-	- minus.case
 
-	- greaterequal.case
+</div>
+</details>
 
-	- figuredash.case
+<details>
+    <summary>🔥 <b>FAIL</b> Ensure the font's instances are in the correct order. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.varfont.html#"></a></summary>
+    <div>
 
-	- ij_acutecomb
 
-	- uni2236.case
 
-	- i.dot 
 
-	- And 13 more.
 
-Use -F or --full-lists to disable shortening of long lists.
+
+
+* 🔥 **FAIL** <p>The fvar table instances are not in ascending order of weight:
+- {'wght': 300.0, 'wdth': 100.0, 'opsz': 24.0}</p>
+<pre><code>- {'wght': 400.0, 'wdth': 100.0, 'opsz': 24.0}
+
+- {'wght': 500.0, 'wdth': 100.0, 'opsz': 24.0}
+
+- {'wght': 700.0, 'wdth': 100.0, 'opsz': 24.0}
+
+- {'wght': 700.0, 'wdth': 100.0, 'opsz': 24.0}
+
+- {'wght': 600.0, 'wdth': 100.0, 'opsz': 24.0}
+
+- {'wght': 800.0, 'wdth': 100.0, 'opsz': 24.0}
+
+- {'wght': 900.0, 'wdth': 100.0, 'opsz': 24.0}
+
+- {'wght': 300.0, 'wdth': 100.0, 'opsz': 24.0}
+
+- {'wght': 400.0, 'wdth': 100.0, 'opsz': 24.0}
+
+- {'wght': 500.0, 'wdth': 100.0, 'opsz': 24.0}
+
+- {'wght': 600.0, 'wdth': 100.0, 'opsz': 24.0}
+
+- {'wght': 700.0, 'wdth': 100.0, 'opsz': 24.0}
+
+- {'wght': 800.0, 'wdth': 100.0, 'opsz': 24.0}
+
+- {'wght': 900.0, 'wdth': 100.0, 'opsz': 24.0}
+</code></pre>
+ [code: instances-not-in-order]
+
+
+
+* 🔥 **FAIL** <p>The fvar table instances are not in ascending order of weight:
+- {'wght': 300.0, 'wdth': 100.0, 'opsz': 144.0}</p>
+<pre><code>- {'wght': 400.0, 'wdth': 100.0, 'opsz': 144.0}
+
+- {'wght': 500.0, 'wdth': 100.0, 'opsz': 144.0}
+
+- {'wght': 700.0, 'wdth': 100.0, 'opsz': 144.0}
+
+- {'wght': 600.0, 'wdth': 100.0, 'opsz': 144.0}
+
+- {'wght': 800.0, 'wdth': 100.0, 'opsz': 144.0}
+
+- {'wght': 900.0, 'wdth': 100.0, 'opsz': 144.0}
+</code></pre>
+ [code: instances-not-in-order]
+
+
+
+</div>
+</details>
+</div>
+</details>
+
+
+
+
+## All other checks
+
+
+
+<details><summary>[22] Merriweather[opsz,wdth,wght].ttf</summary>
+<div>
+<details>
+    <summary>⚠️ <b>WARN</b> The variable font 'opsz' (Optical Size) axis coordinate should be between 10 and 16 on the 'Regular' instance. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.fvar.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>The &quot;opsz&quot; (Optical Size) coordinate on the &quot;Regular&quot; instance is recommended to be a value in the range 10 to 16. Got 7.0 instead.</p>
+ [code: opsz-out-of-range]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>⚠️ <b>WARN</b> Check mark characters are in GDEF mark glyph class. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.gdef.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>The following mark characters could be in the GDEF mark glyph class:
+uni0488 (U+0488) and uni0489 (U+0489)</p>
+ [code: mark-chars]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>⚠️ <b>WARN</b> Detect any interpolation issues in the font. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>Interpolation issues were found in the font:</p>
+<pre><code>- Contour 1 start point differs in glyph 'uni0264' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 1 start point differs in glyph 'uni0264' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 1 start point differs in glyph 'uni0264' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 point 40 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 point 69 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 1 start point differs in glyph 'uni0264' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 point 40 has a kink between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 point 69 has a kink between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 start point differs in glyph 'uni2042' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 0 in glyph 'uni2042': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+
+- Contour 1 start point differs in glyph 'uni2042' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 1 in glyph 'uni2042': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+
+- Contour 2 start point differs in glyph 'uni2042' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 2 in glyph 'uni2042': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+
+- Contour 0 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 1 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+
+- Contour 2 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 2 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 1 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 1 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 2 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 2 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 0 start point differs in glyph 'uni2042' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 in glyph 'uni2042': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni2042' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 1 in glyph 'uni2042': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+
+- Contour 2 start point differs in glyph 'uni2042' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 2 in glyph 'uni2042': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+
+- Contour 0 point 0 has a kink between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 2 start point differs in glyph 'uni0467' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 2 in glyph 'uni0467': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+
+- Contour 2 start point differs in glyph 'uni0467' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 2 in glyph 'uni0467': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+
+- Contour 2 start point differs in glyph 'uni0467' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 2 in glyph 'uni0467': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 2 start point differs in glyph 'uni0467' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 2 in glyph 'uni0467': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni0482' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
+
+- Contour 0 in glyph 'uni0482': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni0482' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 0 in glyph 'uni0482': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+
+- Contour 0 start point differs in glyph 'uni0482' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 start point differs in glyph 'uni0482' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 start point differs in glyph 'uni0482' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 start point differs in glyph 'uni0250.sc' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 0 in glyph 'uni0250.sc': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+
+- Contour 1 start point differs in glyph 'uni0250.sc' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 1 in glyph 'uni0250.sc': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+
+- Contour 0 start point differs in glyph 'uni0250.sc' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 0 in glyph 'uni0250.sc': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+
+- Contour 1 start point differs in glyph 'uni0250.sc' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 1 in glyph 'uni0250.sc': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+
+- Contour 0 start point differs in glyph 'uni0250.sc' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 in glyph 'uni0250.sc': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni0250.sc' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 1 in glyph 'uni0250.sc': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni0250.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 in glyph 'uni0250.sc': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni0250.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 1 in glyph 'uni0250.sc': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni0250.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 in glyph 'uni0250.sc': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 1 start point differs in glyph 'uni0250.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 1 in glyph 'uni0250.sc': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 1 start point differs in glyph 'uni028B.loclTOD0.ss04' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 start point differs in glyph 'uni0264.sc' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 1 start point differs in glyph 'uni0264.sc' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 0 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 1 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 point 65 has a kink between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 1 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 1 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 1 start point differs in glyph 'uniA7CB' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 1 start point differs in glyph 'uniA7CB' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 point 40 has a kink between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 1 start point differs in glyph 'uniA7CB' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 point 69 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 start point differs in glyph 'a.sc' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 0 in glyph 'a.sc': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+
+- Contour 1 start point differs in glyph 'a.sc' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 1 in glyph 'a.sc': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+
+- Contour 0 start point differs in glyph 'a.sc' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 0 in glyph 'a.sc': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+
+- Contour 1 start point differs in glyph 'a.sc' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 1 in glyph 'a.sc': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+
+- Contour 0 start point differs in glyph 'a.sc' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 in glyph 'a.sc': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'a.sc' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 1 in glyph 'a.sc': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'a.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 in glyph 'a.sc': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
+
+- Contour 1 start point differs in glyph 'a.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 1 in glyph 'a.sc': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
+
+- Contour 0 start point differs in glyph 'a.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 in glyph 'a.sc': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 1 start point differs in glyph 'a.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 1 in glyph 'a.sc': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 2 start point differs in glyph 'zero.tf.zero' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
+
+- Contour 2 in glyph 'zero.tf.zero': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
+
+- Contour 2 start point differs in glyph 'zero.tf.zero' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 2 in glyph 'zero.tf.zero': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+
+- Contour 2 start point differs in glyph 'zero.tf.zero' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 2 in glyph 'zero.tf.zero': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+
+- Contour 2 start point differs in glyph 'zero.tf.zero' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 2 in glyph 'zero.tf.zero': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 2 start point differs in glyph 'zero.tf.zero' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 2 in glyph 'zero.tf.zero': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni0452' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
+
+- Contour 1 in glyph 'uni0452': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni0452' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 1 in glyph 'uni0452': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+
+- Contour 1 start point differs in glyph 'uni0452' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 1 in glyph 'uni0452': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni0452' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 1 in glyph 'uni0452': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 1 start point differs in glyph 'uni0452' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 1 in glyph 'uni0452': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+
+- Contour order differs in glyph 'uni030F.case': [0, 1] in wght=300,wdth=112,opsz=7, [1, 0] in wght=300,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni030F.case' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour order differs in glyph 'uni030F.case': [0, 1] in wght=300,wdth=87,opsz=144, [1, 0] in wght=300,wdth=112,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni030F.case' between location wght=300,wdth=87,opsz=144 and location wght=300,wdth=112,opsz=144
+
+- Contour order differs in glyph 'uni030F': [0, 1] in wght=900,wdth=100,opsz=7, [1, 0] in wght=900,wdth=100,opsz=144.
+
+- Contour order differs in glyph 'uni030F': [0, 1] in wght=900,wdth=87,opsz=7, [1, 0] in wght=900,wdth=112,opsz=7.
+
+- Contour order differs in glyph 'uni030F': [0, 1] in wght=900,wdth=112,opsz=7, [1, 0] in wght=300,wdth=100,opsz=7.
+
+- Contour order differs in glyph 'uni030F': [0, 1] in wght=300,wdth=87,opsz=144, [1, 0] in wght=300,wdth=112,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni04AA' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
+
+- Contour 0 in glyph 'uni04AA': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni04AA' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 0 in glyph 'uni04AA': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+
+- Contour 0 start point differs in glyph 'uni04AA' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+
+- Contour 0 in glyph 'uni04AA': becomes underweight between wght=900,wdth=87,opsz=144 and wght=900,wdth=112,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni04AA' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 in glyph 'uni04AA': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
+
+- Contour 0 start point differs in glyph 'ordmasculine' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
+
+- Contour 0 in glyph 'ordmasculine': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
+
+- Contour 0 start point differs in glyph 'ordmasculine' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 0 in glyph 'ordmasculine': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+
+- Contour 0 start point differs in glyph 'ordmasculine' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 in glyph 'ordmasculine': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'ordmasculine' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 in glyph 'ordmasculine': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 0 start point differs in glyph 'ordmasculine' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 in glyph 'ordmasculine': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni046B' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 1 in glyph 'uni046B': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni046B' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 1 in glyph 'uni046B': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 0 point 21 has a kink between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 point 21 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+</code></pre>
+ [code: interpolation-issues]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>⚠️ <b>WARN</b> Check math signs have the same width. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>The most common width is 1338 among a set of 6 math glyphs.
+The following math glyphs have a different width, though:</p>
+<p>Width = 1281:
+plusminus, plus</p>
+<p>Width = 1289:
+equal</p>
+<p>Width = 1326:
+logicalnot</p>
+<p>Width = 1238:
+multiply</p>
+<p>Width = 1283:
+divide</p>
+<p>Width = 1224:
+minus</p>
+<p>Width = 1389:
+approxequal</p>
+<p>Width = 1279:
+notequal</p>
+ [code: width-outliers]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>⚠️ <b>WARN</b> Checking with ots-sanitize. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>ots-sanitize passed this file, however warnings were printed:</p>
+<p>ERROR: STAT: Invalid nameID: 24
+ERROR: Table discarded</p>
+ [code: ots-sanitize-warn]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>⚠️ <b>WARN</b> Check font contains no unreachable glyphs <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>The following glyphs could not be reached by codepoint or substitution rules:</p>
+<pre><code>- I.uc
+
+- IJ_acutecomb
+
+- acute.narrow
+
+- belt_part..001
+
+- caron.alt
+
+- circumflex.narrow
+
+- cy.i_part.
+
+- dafrican.sc
+
+- dieresis.narrow
+
+- dotlessi_ogonek
+
+- f_f.sc
+
+- f_f_i.sc
+
+- f_f_l.sc
+
+- fhook.sc
+
+- grave.narrow
+
+- i.dot
+
+- ij_acutecomb
+
+- j.latnNLD
+
+- lcslash_part.
+
+- macron.narrow
+
+- ocenteredtilde.sc
+
+- ogonek.narrow
+
+- omegabroadcy.sc
+
+- tilde.narrow
+
+- tildecomb_acutecomb
+
+- u1d53
+
+- uni00AD.case
+
+- uni013B.latnMAH
+
+- uni0145.latnMAH
+
+- uni01A9.localGAD
+
+- uni01B7.localGAD
+
+- uni0268.dotless
+
+- uni03000304
+
+- uni03000358
+
+- uni03010304
+
+- uni03010307
+
+- uni03010358
+
+- uni03020358
+
+- uni03030304
+
+- uni03030308
+
+- uni03040300
+
+- uni03040301
+
+- uni03040308
+
+- uni03040358
+
+- uni03060358
+
+- uni03070304
+
+- uni03080300
+
+- uni03080301
+
+- uni03080304
+
+- uni0308030C
+
+- uni030C0307
+
+- uni030D0358
+
+- uni0438.l.sc
+
+- uni1DA4.dotless
+
+- uni2071.dotless
+
+- uniA64D.sc
+
+- upsilonafrican.sc
+</code></pre>
  [code: unreachable-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
 
-* ⚠ **WARN** This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]
-* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
 
-The following glyphs do not have the recommended number of contours:
+</div>
+</details>
 
-	- Glyph name: B	Contours detected: 4	Expected: 2 or 3
-
-	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
-
-	- Glyph name: Eth	Contours detected: 3	Expected: 2
-
-	- Glyph name: aogonek	Contours detected: 3	Expected: 2
-
-	- Glyph name: Dcroat	Contours detected: 3	Expected: 2
-
-	- Glyph name: eogonek	Contours detected: 3	Expected: 2
-
-	- Glyph name: Lslash	Contours detected: 2	Expected: 1
-
-	- Glyph name: Tbar	Contours detected: 2	Expected: 1
-
-	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: uogonek	Contours detected: 2	Expected: 1 
-
-	- And 72 more.
-
-Use -F or --full-lists to disable shortening of long lists.
- [code: contour-count]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
+<details>
+    <summary>⚠️ <b>WARN</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/shaping.html#"></a></summary>
+    <div>
 
 
-* ⚠ **WARN** No dotted circle glyph present [code: missing-dotted-circle]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
 
 
-* ⚠ **WARN** The following glyphs have jaggy segments:
-
-	* at (U+0040): B<<1211.0,287.0>-<1215.0,365.0>-<1232.0,438.0>>/B<<1232.0,438.0>-<1183.0,310.0>-<1124.5,201.5>> = 7.83826238879679
-
-	* r (U+0072): L<<456.0,924.0>--<449.0,848.0>>/B<<449.0,848.0>-<471.0,918.0>-<519.5,984.0>> = 12.18479302368706
-
-	* racute (U+0155): L<<456.0,924.0>--<449.0,848.0>>/B<<449.0,848.0>-<471.0,918.0>-<519.5,984.0>> = 12.18479302368706
-
-	* rcaron (U+0159): L<<456.0,924.0>--<449.0,848.0>>/B<<449.0,848.0>-<471.0,918.0>-<519.5,984.0>> = 12.18479302368706
-
-	* uni0157 (U+0157): L<<456.0,924.0>--<449.0,848.0>>/B<<449.0,848.0>-<471.0,918.0>-<519.5,984.0>> = 12.18479302368706
-
-	* uni0211 (U+0211): L<<456.0,924.0>--<449.0,848.0>>/B<<449.0,848.0>-<471.0,918.0>-<519.5,984.0>> = 12.18479302368706
-
-	* uni0213 (U+0213): L<<456.0,924.0>--<449.0,848.0>>/B<<449.0,848.0>-<471.0,918.0>-<519.5,984.0>> = 12.18479302368706
-
-	* uni0431 (U+0431): B<<372.0,1070.0>-<299.0,943.0>-<266.0,725.0>>/B<<266.0,725.0>-<302.0,821.0>-<367.5,902.0>> = 11.94818284587733
-
-	* uni0510 (U+0510): B<<199.0,673.5>-<307.0,777.0>-<514.0,785.0>>/B<<514.0,785.0>-<366.0,804.0>-<278.0,900.5>> = 9.528753480792071
-
-	* uni1E5B (U+1E5B): L<<456.0,924.0>--<449.0,848.0>>/B<<449.0,848.0>-<471.0,918.0>-<519.5,984.0>> = 12.18479302368706 
-
-	* And uni1E5F (U+1E5F): L<<456.0,924.0>--<449.0,848.0>>/B<<449.0,848.0>-<471.0,918.0>-<519.5,984.0>> = 12.18479302368706 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[14] Merriweather-Bold.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
-* 💔 **ERROR** Failed with IndexError: list index out of range
-* ⚠ **WARN** GF_Latin_Minorities is almost fulfilled. Missing codepoints:
 
-	- 0xA78B (LATIN CAPITAL LETTER SALTILLO)
+* ⚠️ **WARN** <p>The dot of soft dotted characters used in orthographies <em>must</em> disappear in the following strings: i̍ i̐ i̓ i᷆ i᷇ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ і́ ḭ̀ ḭ́ ḭ̄ ị̀ ị́ ị̂ ị̃ ị̄</p>
+<p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: i᷄ i᷅ i᷈ i᷉ iꚞ i̛̍ i̛̐ i̛̓ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̛᷉ i̛ꚞ i̠̇ i̠̊ i̠̋ i̠̍ i̠̐</p>
+<p>Your font fully covers the following languages that require the soft-dotted feature: Ebira (Latn, 2,200,000 speakers), Nateni (Latn, 100,000 speakers), Cicipu (Latn, 44,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Lithuanian (Latn, 2,357,094 speakers), Dutch (Latn, 31,709,104 speakers), Yala (Latn, 200,000 speakers), Nzakara (Latn, 50,000 speakers), Navajo (Latn, 166,319 speakers), Belarusian (Cyrl, 10,064,517 speakers), Zapotec (Latn, 490,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Ekpeye (Latn, 226,000 speakers), Ngbaka (Latn, 1,020,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Ma’di (Latn, 584,000 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Makaa (Latn, 221,000 speakers), Southern Kisi (Latn, 360,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Dii (Latn, 71,000 speakers), Gulay (Latn, 250,478 speakers), South Central Banda (Latn, 244,000 speakers), Sar (Latn, 500,000 speakers), Mundani (Latn, 34,000 speakers), Kom (Latn, 360,685 speakers), Avokaya (Latn, 100,000 speakers), Mango (Latn, 77,000 speakers), Aghem (Latn, 38,843 speakers), Koonzime (Latn, 40,000 speakers), Igbo (Latn, 27,823,640 speakers), Ejagham (Latn, 120,000 speakers), Mfumte (Latn, 79,000 speakers), Bafut (Latn, 158,146 speakers), Dan (Latn, 1,099,244 speakers), Lugbara (Latn, 2,200,000 speakers), Fur (Latn, 1,230,163 speakers), Basaa (Latn, 332,940 speakers).</p>
+ [code: soft-dotted]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>⚠️ <b>WARN</b> Check for codepoints not covered by METADATA subsets. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.subsets.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>The following codepoints supported by the font are not covered by
+any subsets defined in the font's metadata file, and will never
+be served. You can solve this by either manually adding additional
+subset declarations to METADATA.pb, or by editing the glyphset
+definitions.</p>
+<ul>
+<li>U+02B0 MODIFIER LETTER SMALL H: not included in any glyphset definition</li>
+<li>U+02B7 MODIFIER LETTER SMALL W: not included in any glyphset definition</li>
+<li>U+02B8 MODIFIER LETTER SMALL Y: not included in any glyphset definition</li>
+<li>U+02B9 MODIFIER LETTER PRIME: not included in any glyphset definition</li>
+<li>U+02BA MODIFIER LETTER DOUBLE PRIME: not included in any glyphset definition</li>
+<li>U+02BD MODIFIER LETTER REVERSED COMMA: not included in any glyphset definition</li>
+<li>U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition</li>
+<li>U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition</li>
+<li>U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition</li>
+<li>U+02C1 MODIFIER LETTER REVERSED GLOTTAL STOP: not included in any glyphset definition</li>
+<li>U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi</li>
+<li>U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition</li>
+<li>U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition</li>
+<li>U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition</li>
+<li>U+02CB MODIFIER LETTER GRAVE ACCENT: not included in any glyphset definition</li>
+<li>U+02CC MODIFIER LETTER LOW VERTICAL LINE: not included in any glyphset definition</li>
+<li>U+02D7 MODIFIER LETTER MINUS SIGN: not included in any glyphset definition</li>
+<li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition</li>
+<li>U+02EC MODIFIER LETTER VOICING: not included in any glyphset definition</li>
+<li>U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition</li>
+<li>U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition</li>
+<li>U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, tifinagh, cherokee</li>
+<li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: math, old-permic, tifinagh, syriac, tai-le, coptic, canadian-aboriginal, malayalam</li>
+<li>U+030A COMBINING RING ABOVE: try adding syriac</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
+<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
+<li>U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition</li>
+<li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
+<li>U+0310 COMBINING CANDRABINDU: not included in any glyphset definition</li>
+<li>U+0311 COMBINING INVERTED BREVE: try adding coptic</li>
+<li>U+0312 COMBINING TURNED COMMA ABOVE: not included in any glyphset definition</li>
+<li>U+0313 COMBINING COMMA ABOVE: try adding old-permic</li>
+<li>U+0315 COMBINING COMMA ABOVE RIGHT: not included in any glyphset definition</li>
+<li>U+031B COMBINING HORN: not included in any glyphset definition</li>
+<li>U+0320 COMBINING MINUS SIGN BELOW: try adding syriac</li>
+<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: syriac, cherokee</li>
+<li>U+0325 COMBINING RING BELOW: try adding syriac</li>
+<li>U+0326 COMBINING COMMA BELOW: not included in any glyphset definition</li>
+<li>U+0327 COMBINING CEDILLA: not included in any glyphset definition</li>
+<li>U+0328 COMBINING OGONEK: not included in any glyphset definition</li>
+<li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac</li>
+<li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
+<li>U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: tifinagh, syriac, cherokee, gothic, caucasian-albanian</li>
+<li>U+0332 COMBINING LOW LINE: not included in any glyphset definition</li>
+<li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
+<li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
+<li>U+0336 COMBINING LONG STROKE OVERLAY: not included in any glyphset definition</li>
+<li>U+0337 COMBINING SHORT SOLIDUS OVERLAY: not included in any glyphset definition</li>
+<li>U+0338 COMBINING LONG SOLIDUS OVERLAY: not included in any glyphset definition</li>
+<li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
+<li>U+035C COMBINING DOUBLE BREVE BELOW: not included in any glyphset definition</li>
+<li>U+035D COMBINING DOUBLE BREVE: not included in any glyphset definition</li>
+<li>U+035F COMBINING DOUBLE MACRON BELOW: not included in any glyphset definition</li>
+<li>U+0361 COMBINING DOUBLE INVERTED BREVE: try adding coptic</li>
+<li>U+0362 COMBINING DOUBLE RIGHTWARDS ARROW BELOW: not included in any glyphset definition</li>
+<li>U+058F ARMENIAN DRAM SIGN: try adding armenian</li>
+<li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
+<li>U+1D05 LATIN LETTER SMALL CAPITAL D: not included in any glyphset definition</li>
+<li>U+1D3A MODIFIER LETTER CAPITAL N: not included in any glyphset definition</li>
+<li>U+1D43 MODIFIER LETTER SMALL A: not included in any glyphset definition</li>
+<li>U+1D49 MODIFIER LETTER SMALL E: not included in any glyphset definition</li>
+<li>U+1D4B MODIFIER LETTER SMALL OPEN E: not included in any glyphset definition</li>
+<li>U+1D4D MODIFIER LETTER SMALL G: not included in any glyphset definition</li>
+<li>U+1D52 MODIFIER LETTER SMALL O: not included in any glyphset definition</li>
+<li>U+1D53 MODIFIER LETTER SMALL OPEN O: not included in any glyphset definition</li>
+<li>U+1D58 MODIFIER LETTER SMALL U: not included in any glyphset definition</li>
+<li>U+1D5B MODIFIER LETTER SMALL V: not included in any glyphset definition</li>
+<li>U+1D7B LATIN SMALL CAPITAL LETTER I WITH STROKE: not included in any glyphset definition</li>
+<li>U+1D7D LATIN SMALL LETTER P WITH STROKE: not included in any glyphset definition</li>
+<li>U+1D7E LATIN SMALL CAPITAL LETTER U WITH STROKE: not included in any glyphset definition</li>
+<li>U+1D91 LATIN SMALL LETTER D WITH HOOK AND TAIL: not included in any glyphset definition</li>
+<li>U+1DA4 MODIFIER LETTER SMALL I WITH STROKE: not included in any glyphset definition</li>
+<li>U+1DB6 MODIFIER LETTER SMALL U BAR: not included in any glyphset definition</li>
+<li>U+1DBB MODIFIER LETTER SMALL Z: not included in any glyphset definition</li>
+<li>U+1DBF MODIFIER LETTER SMALL THETA: not included in any glyphset definition</li>
+<li>U+1DC4 COMBINING MACRON-ACUTE: not included in any glyphset definition</li>
+<li>U+1DC5 COMBINING GRAVE-MACRON: not included in any glyphset definition</li>
+<li>U+1DC6 COMBINING MACRON-GRAVE: not included in any glyphset definition</li>
+<li>U+1DC7 COMBINING ACUTE-MACRON: not included in any glyphset definition</li>
+<li>U+1DC8 COMBINING GRAVE-ACUTE-GRAVE: not included in any glyphset definition</li>
+<li>U+1DC9 COMBINING ACUTE-GRAVE-ACUTE: not included in any glyphset definition</li>
+<li>U+1DCA COMBINING LATIN SMALL LETTER R BELOW: not included in any glyphset definition</li>
+<li>U+2000 EN QUAD: not included in any glyphset definition</li>
+<li>U+2001 EM QUAD: not included in any glyphset definition</li>
+<li>U+2003 EM SPACE: try adding nushu</li>
+<li>U+2004 THREE-PER-EM SPACE: not included in any glyphset definition</li>
+<li>U+2005 FOUR-PER-EM SPACE: not included in any glyphset definition</li>
+<li>U+2006 SIX-PER-EM SPACE: not included in any glyphset definition</li>
+<li>U+2007 FIGURE SPACE: not included in any glyphset definition</li>
+<li>U+2008 PUNCTUATION SPACE: not included in any glyphset definition</li>
+<li>U+200A HAIR SPACE: not included in any glyphset definition</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: syloti-nagri, lepcha, tifinagh, oriya, tibetan, kaithi, siddham, bengali, khudawadi, tirhuta, mahajani, buhid, duployan, mongolian, new-tai-lue, zanabazar-square, telugu, khojki, myanmar, thai, saurashtra, tagalog, devanagari, modi, tai-viet, pahawh-hmong, newa, cham, thaana, takri, batak, javanese, rejang, gujarati, grantha, chakma, brahmi, kharoshthi, sogdian, kayah-li, bhaiksuki, balinese, psalter-pahlavi, sundanese, hanifi-rohingya, sharada, tamil, gunjala-gondi, limbu, nko, hanunoo, warang-citi, malayalam, meetei-mayek, kannada, buginese, phags-pa, manichaean, avestan, khmer, dogra, syriac, tai-le, tai-tham, masaram-gondi, sinhala, arabic, yi, lao, mandaic, hatran, hebrew, gurmukhi, tagbanwa</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: syloti-nagri, lepcha, tifinagh, oriya, tibetan, kaithi, siddham, bengali, khudawadi, tirhuta, mahajani, buhid, duployan, mongolian, new-tai-lue, zanabazar-square, telugu, khojki, myanmar, thai, saurashtra, tagalog, devanagari, modi, tai-viet, pahawh-hmong, newa, cham, thaana, batak, javanese, rejang, gujarati, grantha, chakma, brahmi, kharoshthi, sogdian, kayah-li, bhaiksuki, balinese, psalter-pahlavi, sundanese, hanifi-rohingya, sharada, tamil, gunjala-gondi, limbu, nko, hanunoo, warang-citi, malayalam, meetei-mayek, kannada, buginese, phags-pa, manichaean, avestan, khmer, dogra, syriac, tai-le, tai-tham, masaram-gondi, sinhala, arabic, yi, lao, mandaic, old-hungarian, takri, hebrew, gurmukhi, tagbanwa</li>
+<li>U+2010 HYPHEN: try adding one of: syloti-nagri, kharoshthi, kaithi, armenian, kayah-li, arabic, sundanese, coptic, yi, cham, lisu, hebrew, sora-sompeng</li>
+<li>U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi</li>
+<li>U+2012 FIGURE DASH: not included in any glyphset definition</li>
+<li>U+2015 HORIZONTAL BAR: try adding adlam</li>
+<li>U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition</li>
+<li>U+201B SINGLE HIGH-REVERSED-9 QUOTATION MARK: try adding adlam</li>
+<li>U+2021 DOUBLE DAGGER: try adding adlam</li>
+<li>U+2023 TRIANGULAR BULLET: not included in any glyphset definition</li>
+<li>U+2027 HYPHENATION POINT: not included in any glyphset definition</li>
+<li>U+202F NARROW NO-BREAK SPACE: try adding one of: yi, mongolian</li>
+<li>U+2030 PER MILLE SIGN: try adding adlam</li>
+<li>U+2034 TRIPLE PRIME: try adding math</li>
+<li>U+203C DOUBLE EXCLAMATION MARK: not included in any glyphset definition</li>
+<li>U+2042 ASTERISM: not included in any glyphset definition</li>
+<li>U+204A TIRONIAN SIGN ET: not included in any glyphset definition</li>
+<li>U+2052 COMMERCIAL MINUS SIGN: not included in any glyphset definition</li>
+<li>U+2070 SUPERSCRIPT ZERO: not included in any glyphset definition</li>
+<li>U+2071 SUPERSCRIPT LATIN SMALL LETTER I: not included in any glyphset definition</li>
+<li>U+2075 SUPERSCRIPT FIVE: not included in any glyphset definition</li>
+<li>U+2076 SUPERSCRIPT SIX: not included in any glyphset definition</li>
+<li>U+2077 SUPERSCRIPT SEVEN: not included in any glyphset definition</li>
+<li>U+2078 SUPERSCRIPT EIGHT: not included in any glyphset definition</li>
+<li>U+2079 SUPERSCRIPT NINE: not included in any glyphset definition</li>
+<li>U+207F SUPERSCRIPT LATIN SMALL LETTER N: not included in any glyphset definition</li>
+<li>U+2080 SUBSCRIPT ZERO: not included in any glyphset definition</li>
+<li>U+2081 SUBSCRIPT ONE: not included in any glyphset definition</li>
+<li>U+2082 SUBSCRIPT TWO: not included in any glyphset definition</li>
+<li>U+2083 SUBSCRIPT THREE: not included in any glyphset definition</li>
+<li>U+2084 SUBSCRIPT FOUR: not included in any glyphset definition</li>
+<li>U+2085 SUBSCRIPT FIVE: not included in any glyphset definition</li>
+<li>U+2086 SUBSCRIPT SIX: not included in any glyphset definition</li>
+<li>U+2087 SUBSCRIPT SEVEN: not included in any glyphset definition</li>
+<li>U+2088 SUBSCRIPT EIGHT: not included in any glyphset definition</li>
+<li>U+2089 SUBSCRIPT NINE: not included in any glyphset definition</li>
+<li>U+2100 ACCOUNT OF: not included in any glyphset definition</li>
+<li>U+2101 ADDRESSED TO THE SUBJECT: not included in any glyphset definition</li>
+<li>U+2105 CARE OF: not included in any glyphset definition</li>
+<li>U+2106 CADA UNA: not included in any glyphset definition</li>
+<li>U+2117 SOUND RECORDING COPYRIGHT: not included in any glyphset definition</li>
+<li>U+2126 OHM SIGN: not included in any glyphset definition</li>
+<li>U+212E ESTIMATED SYMBOL: not included in any glyphset definition</li>
+<li>U+2144 TURNED SANS-SERIF CAPITAL Y: not included in any glyphset definition</li>
+<li>U+2150 VULGAR FRACTION ONE SEVENTH: not included in any glyphset definition</li>
+<li>U+2151 VULGAR FRACTION ONE NINTH: not included in any glyphset definition</li>
+<li>U+2152 VULGAR FRACTION ONE TENTH: not included in any glyphset definition</li>
+<li>U+2153 VULGAR FRACTION ONE THIRD: not included in any glyphset definition</li>
+<li>U+2154 VULGAR FRACTION TWO THIRDS: not included in any glyphset definition</li>
+<li>U+2155 VULGAR FRACTION ONE FIFTH: not included in any glyphset definition</li>
+<li>U+2156 VULGAR FRACTION TWO FIFTHS: not included in any glyphset definition</li>
+<li>U+2158 VULGAR FRACTION FOUR FIFTHS: not included in any glyphset definition</li>
+<li>U+2159 VULGAR FRACTION ONE SIXTH: not included in any glyphset definition</li>
+<li>U+215A VULGAR FRACTION FIVE SIXTHS: not included in any glyphset definition</li>
+<li>U+215B VULGAR FRACTION ONE EIGHTH: not included in any glyphset definition</li>
+<li>U+215C VULGAR FRACTION THREE EIGHTHS: not included in any glyphset definition</li>
+<li>U+215D VULGAR FRACTION FIVE EIGHTHS: not included in any glyphset definition</li>
+<li>U+215E VULGAR FRACTION SEVEN EIGHTHS: not included in any glyphset definition</li>
+<li>U+2183 ROMAN NUMERAL REVERSED ONE HUNDRED: try adding symbols</li>
+<li>U+2184 LATIN SMALL LETTER REVERSED C: not included in any glyphset definition</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2202 PARTIAL DIFFERENTIAL: try adding math</li>
+<li>U+2205 EMPTY SET: try adding math</li>
+<li>U+2206 INCREMENT: try adding math</li>
+<li>U+220F N-ARY PRODUCT: try adding math</li>
+<li>U+2211 N-ARY SUMMATION: try adding math</li>
+<li>U+2219 BULLET OPERATOR: try adding one of: math, yi, tai-tham, symbols</li>
+<li>U+221A SQUARE ROOT: try adding math</li>
+<li>U+221E INFINITY: try adding math</li>
+<li>U+222B INTEGRAL: try adding math</li>
+<li>U+2236 RATIO: try adding math</li>
+<li>U+2248 ALMOST EQUAL TO: try adding math</li>
+<li>U+2260 NOT EQUAL TO: try adding math</li>
+<li>U+2264 LESS-THAN OR EQUAL TO: try adding math</li>
+<li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
+<li>U+2266 LESS-THAN OVER EQUAL TO: try adding math</li>
+<li>U+2267 GREATER-THAN OVER EQUAL TO: try adding math</li>
+<li>U+2317 VIEWDATA SQUARE: try adding symbols</li>
+<li>U+24B6 CIRCLED LATIN CAPITAL LETTER A: try adding symbols</li>
+<li>U+24D0 CIRCLED LATIN SMALL LETTER A: try adding symbols</li>
+<li>U+25A0 BLACK SQUARE: try adding symbols</li>
+<li>U+25A1 WHITE SQUARE: try adding symbols</li>
+<li>U+25AA BLACK SMALL SQUARE: try adding symbols</li>
+<li>U+25AB WHITE SMALL SQUARE: try adding symbols</li>
+<li>U+25B2 BLACK UP-POINTING TRIANGLE: try adding symbols</li>
+<li>U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25B4 BLACK UP-POINTING SMALL TRIANGLE: try adding symbols</li>
+<li>U+25B5 WHITE UP-POINTING SMALL TRIANGLE: try adding symbols</li>
+<li>U+25B6 BLACK RIGHT-POINTING TRIANGLE: try adding symbols</li>
+<li>U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25B8 BLACK RIGHT-POINTING SMALL TRIANGLE: try adding symbols</li>
+<li>U+25B9 WHITE RIGHT-POINTING SMALL TRIANGLE: try adding symbols</li>
+<li>U+25BC BLACK DOWN-POINTING TRIANGLE: try adding symbols</li>
+<li>U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25BE BLACK DOWN-POINTING SMALL TRIANGLE: try adding symbols</li>
+<li>U+25BF WHITE DOWN-POINTING SMALL TRIANGLE: try adding symbols</li>
+<li>U+25C0 BLACK LEFT-POINTING TRIANGLE: try adding symbols</li>
+<li>U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25C2 BLACK LEFT-POINTING SMALL TRIANGLE: try adding symbols</li>
+<li>U+25C3 WHITE LEFT-POINTING SMALL TRIANGLE: try adding symbols</li>
+<li>U+25C6 BLACK DIAMOND: try adding symbols</li>
+<li>U+25C7 WHITE DIAMOND: try adding symbols</li>
+<li>U+25C9 FISHEYE: try adding symbols</li>
+<li>U+25CA LOZENGE: try adding one of: math, symbols</li>
+<li>U+25CB WHITE CIRCLE: try adding symbols</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: kaithi, buhid, miao, tai-viet, pahawh-hmong, cham, bassa-vah, batak, kayah-li, psalter-pahlavi, sharada, limbu, hanunoo, malayalam, buginese, tai-le, armenian, syloti-nagri, tifinagh, mende-kikakui, adlam, khudawadi, mongolian, telugu, khojki, tagalog, devanagari, javanese, sogdian, marchen, balinese, gunjala-gondi, warang-citi, syriac, masaram-gondi, hebrew, coptic, yi, mandaic, elbasan, tagbanwa, tibetan, tirhuta, new-tai-lue, duployan, zanabazar-square, thai, saurashtra, modi, rejang, osage, grantha, brahmi, bhaiksuki, sundanese, hanifi-rohingya, caucasian-albanian, meetei-mayek, symbols, manichaean, khmer, dogra, wancho, lepcha, old-permic, oriya, siddham, bengali, ahom, myanmar, soyombo, newa, music, thaana, gujarati, math, chakma, kharoshthi, tamil, nko, kannada, phags-pa, tai-tham, sinhala, canadian-aboriginal, lao, takri, mahajani, gurmukhi</li>
+<li>U+25CF BLACK CIRCLE: try adding symbols</li>
+<li>U+25E6 WHITE BULLET: try adding symbols</li>
+<li>U+25FC BLACK MEDIUM SQUARE: try adding symbols</li>
+<li>U+2611 BALLOT BOX WITH CHECK: try adding symbols</li>
+<li>U+2612 BALLOT BOX WITH X: try adding symbols</li>
+<li>U+2661 WHITE HEART SUIT: try adding symbols</li>
+<li>U+2665 BLACK HEART SUIT: try adding symbols</li>
+<li>U+27A1 BLACK RIGHTWARDS ARROW: try adding symbols</li>
+<li>U+27E8 MATHEMATICAL LEFT ANGLE BRACKET: try adding math</li>
+<li>U+27E9 MATHEMATICAL RIGHT ANGLE BRACKET: try adding math</li>
+<li>U+2B05 LEFTWARDS BLACK ARROW: try adding symbols</li>
+<li>U+2B06 UPWARDS BLACK ARROW: try adding symbols</li>
+<li>U+2B07 DOWNWARDS BLACK ARROW: try adding symbols</li>
+<li>U+2B08 NORTH EAST BLACK ARROW: try adding symbols</li>
+<li>U+2B09 NORTH WEST BLACK ARROW: try adding symbols</li>
+<li>U+2B0A SOUTH EAST BLACK ARROW: try adding symbols</li>
+<li>U+2B0B SOUTH WEST BLACK ARROW: try adding symbols</li>
+<li>U+2B1B BLACK LARGE SQUARE: try adding symbols</li>
+<li>U+2B1C WHITE LARGE SQUARE: try adding symbols</li>
+<li>U+2B98 THREE-D TOP-LIGHTED LEFTWARDS EQUILATERAL ARROWHEAD: try adding symbols</li>
+<li>U+2B99 THREE-D RIGHT-LIGHTED UPWARDS EQUILATERAL ARROWHEAD: try adding symbols</li>
+<li>U+2B9A THREE-D TOP-LIGHTED RIGHTWARDS EQUILATERAL ARROWHEAD: try adding symbols</li>
+<li>U+2B9B THREE-D LEFT-LIGHTED DOWNWARDS EQUILATERAL ARROWHEAD: try adding symbols</li>
+<li>U+2B9C BLACK LEFTWARDS EQUILATERAL ARROWHEAD: try adding symbols</li>
+<li>U+2B9D BLACK UPWARDS EQUILATERAL ARROWHEAD: try adding symbols</li>
+<li>U+2B9E BLACK RIGHTWARDS EQUILATERAL ARROWHEAD: try adding symbols</li>
+<li>U+2B9F BLACK DOWNWARDS EQUILATERAL ARROWHEAD: try adding symbols</li>
+<li>U+2E17 DOUBLE OBLIQUE HYPHEN: try adding coptic</li>
+<li>U+2E38 TURNED DAGGER: not included in any glyphset definition</li>
+<li>U+3003 DITTO MARK: try adding one of: chinese-traditional, chinese-simplified, japanese, yi, chinese-hongkong, phags-pa</li>
+<li>U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition</li>
+<li>U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition</li>
+<li>U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition</li>
+<li>U+A71A MODIFIER LETTER LOWER RIGHT CORNER ANGLE: not included in any glyphset definition</li>
+<li>U+A7CB : not included in any glyphset definition</li>
+<li>U+A7CC : not included in any glyphset definition</li>
+<li>U+A7CD : not included in any glyphset definition</li>
+<li>U+AB53 LATIN SMALL LETTER CHI: not included in any glyphset definition</li>
+<li>U+FB01 LATIN SMALL LIGATURE FI: not included in any glyphset definition</li>
+<li>U+FB02 LATIN SMALL LIGATURE FL: not included in any glyphset definition</li>
+</ul>
+<p>Or you can add the above codepoints to one of the subsets supported by the font: <code>cyrillic</code>, <code>cyrillic-ext</code>, <code>greek-ext</code>, <code>latin</code>, <code>latin-ext</code>, <code>vietnamese</code></p>
+ [code: unreachable-subsetting]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>⚠️ <b>WARN</b> Name table strings must not contain the string 'Reserved Font Name'. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.license.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>Name table entry contains &quot;Reserved Font Name&quot; for a family name (&quot;Merriweather&quot;) that differs from the currently used family name (Merriweather), which is fine.</p>
+ [code: legacy-familyname]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>⚠️ <b>WARN</b> Ensure files are not too large. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>Font file is 4.4Mb; ideally it should be less than 1.0Mb</p>
+ [code: large-font]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>⚠️ <b>WARN</b> Is there kerning info for non-ligated sequences? <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.gpos.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>GPOS table lacks kerning info for the following non-ligated sequences:</p>
+<pre><code>- f + i
+
+- f + l
+</code></pre>
+ [code: lacks-kern-info]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>⚠️ <b>WARN</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.meta.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>This font file does not have a 'meta' table.</p>
+ [code: lacks-meta-table]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>🔥 <b>FAIL</b> STAT table has Axis Value tables? <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.stat.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '370.58824157714844'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '780.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '370.58824157714844'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '780.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '370.58824157714844'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '780.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>🔥 <b>FAIL</b> Ensure the font supports case swapping for all its glyphs. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 🔥 **FAIL** <p>The following glyphs lack their case-swapping counterparts:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Glyph present in the font</th>
+<th align="left">Missing case-swapping counterpart</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">U+0280: LATIN LETTER SMALL CAPITAL R</td>
+<td align="left">U+01A6: LATIN LETTER YR</td>
+</tr>
+<tr>
+<td align="left">U+0460: CYRILLIC CAPITAL LETTER OMEGA</td>
+<td align="left">U+0461: CYRILLIC SMALL LETTER OMEGA</td>
+</tr>
+</tbody>
+</table>
+ [code: missing-case-counterparts]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>🔥 <b>FAIL</b> Checking OS/2 usWinAscent & usWinDescent. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 🔥 **FAIL** <p>OS/2.usWinAscent value should be equal or greater than 2476, but got 2456 instead</p>
+ [code: ascent]
+
+
+
+* 🔥 **FAIL** <p>OS/2.usWinDescent value should be equal or greater than 988, but got 606 instead</p>
+ [code: descent]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>🔥 <b>FAIL</b> Do we have the latest version of FontBakery installed? <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 🔥 **FAIL** <p>Current FontBakery version is 0.12.1, while a newer 0.12.6 is already available. Please upgrade it with 'pip install -U fontbakery'</p>
+ [code: outdated-fontbakery]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>🔥 <b>FAIL</b> Checking with fontTools.ttx <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 🔥 **FAIL** <p>WARNING: name id 24 missing from name table</p>
  
 
-	- And 0xA78C (LATIN SMALL LETTER SALTILLO)
- [code: missing-codepoints]
-* ⚠ **WARN** GF_TransLatin_Arabic is almost fulfilled. Missing codepoints:
-
-	- 0x1E34 (LATIN CAPITAL LETTER K WITH LINE BELOW)
 
 
-	- 0x1E35 (LATIN SMALL LETTER K WITH LINE BELOW)
-
-
-	- 0x1E96 (LATIN SMALL LETTER H WITH LINE BELOW)
+* 🔥 **FAIL** <p>WARNING: name id 48 missing from name table</p>
  
 
-	- And 0x02BD (MODIFIER LETTER REVERSED COMMA)
- [code: missing-codepoints]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 625, but got 606 instead. [code: descent]
-</div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
+* 🔥 **FAIL** <p>WARNING: name id 64 missing from name table</p>
+ 
 
 
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
- [code: http]
-</div></details><details><summary>⚠ <b>WARN:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
+
+* 🔥 **FAIL** <p>WARNING: name id 72 missing from name table</p>
+ 
 
 
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=14] [code: http-in-license-info]
-* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
- [code: http]
-</div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
+
+* 🔥 **FAIL** <p>WARNING: name id 144 missing from name table</p>
+ 
 
 
-* ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* quotedblleft.ss01
-	* uni25FC
-	* uni03060301.case
-	* uni04ED
-	* quotereversed.ss01
-	* one
-	* quotedblbase.ss01
-	* uni04F6
-	* uni0495
-	* uni0525 and 212 more.
-
-Use -F or --full-lists to disable shortening of long lists.
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
-* ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
 
-	- f + i 
+</div>
+</details>
 
-	- And i + l [code: lacks-kern-info]
-</div></details><details><summary>⚠ <b>WARN:</b> Name table strings must not contain the string 'Reserved Font Name'. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/rfn">com.google.fonts/check/name/rfn</a>)</summary><div>
-
-
-* ⚠ **WARN** Name table entry contains "Reserved Font Name" for a family name ("Merriweather") that differs from the currently used family name (Merriweather), which is fine. [code: legacy-familyname]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
+<details>
+    <summary>🔥 <b>FAIL</b> Ensure dotted circle glyph is present and can attach marks. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/shaping.html#"></a></summary>
+    <div>
 
 
-* ⚠ **WARN** The stylistic set ss01 lacks a description string on the 'name' table. [code: missing-description]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
-* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
 
 
-* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- quoteright.001
+* 🔥 **FAIL** <p>The following glyphs could not be attached to the dotted circle glyph:</p>
+<pre><code>- uni031B
 
-	- figuredash.case
+- uni0328
 
-	- ij_acutecomb
+- uni0334
 
-	- i.dot
+- uni0335
 
-	- I.uc
+- uni0336
 
-	- IJ_acutecomb
+- uni0337
 
-	- ij_acutecomb.ss02
+- uni0338
+</code></pre>
+ [code: unattached-dotted-circle-marks]
 
-	- ij.ss02 
 
-	- And five.001
+
+</div>
+</details>
+
+<details>
+    <summary>🔥 <b>FAIL</b> Shapes languages in all GF glyphsets. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.glyphset.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">cae_Latn (Lehar)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kss_Latn (Southern Kisi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kzr_Latn (Karang)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ybb_Latn (Yemba)</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0308 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">meq_Latn (Merey)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">snf_Latn (Noon)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bum_Latn (Bulu)</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dow_Latn (Doyayo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">sld_Latn (Sissala)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ikx_Latn (Ik)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">csk_Latn (Jola-Kasa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">gvl_Latn (Gulay)</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">tik_Latn (Tikar)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mbo_Latn (Mbo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">fue_Latn (Fulfulde, Borgu)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">cko_Latn (Anufo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">neb_Latn (Toura)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">lem_Latn (Nomaande)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ewo_Latn (Ewondo)</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kia_Latn (Kim)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kyq_Latn (Kenga)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bex_Latn (Jur Modo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mor_Latn (Moro)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dag_Latn (Dagbani)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">tnr_Latn (Ménik)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bza_Latn (Bandi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kyf_Latn (Kouya)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nku_Latn (Kulango, Bouna)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">sig_Latn (Paasaal)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bbj_Latn (Ghomala)</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mgo_Latn (Metaʼ)</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bim_Latn (Bimoba)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">yav_Latn (Yangben)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">wci_Latn (Gbe, Waci)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Requires Small-cap: ƒ; both buffers returned florin=0+1023</td>
+</tr>
+<tr>
+<td align="left">avu_Latn (Avokaya)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">vag_Latn (Vagla)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">sil_Latn (Sisaala, Tumulung)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dyo_Latn (Jola-Fonyi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">wwa_Latn (Waama)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">sav_Latn (Saafi-Saafi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">wo_Latn (Wolof)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mzw_Latn (Deg)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ncu_Latn (Chumburung)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">udu_Latn (Uduk)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nfu_Latn (Mfumte)</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">yat_Latn (Yambeta)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mcn_Latn (Masana)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">fod_Latn (Foodo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">vut_Latn (Vute)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dop_Latn (Lukpa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mdt_Latn (Mbere)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ekm_Latn (Elip)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">soy_Latn (Miyobe)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">agc_Latn (Agatu)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">acd_Latn (Gikyode)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kye_Latn (Krache)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">lmp_Latn (Limbum)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">spp_Latn (Sénoufo, Supyire)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mfq_Latn (Moba)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bqj_Latn (Bandial)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bib_Latn (Bissa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mfd_Latn (Mendankwe-Nkwen)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">shz_Latn (Syenara Senoufo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">lee_Latn (Lyélé)</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">vai_Latn (Vai (Latin))</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">moa_Latn (Mwan)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">fan_Latn (Fang)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dtm_Latn (Tomo Kan Dogon)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ttq_Latn (Tawallammat Tamajaq)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ntr_Latn (Delo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bm_Latn (Bambara)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">lg_Latn (Ganda)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dyi_Latn (Sénoufo, Djimini)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kpo_Latn (Ikposo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">rub_Latn (Gungu)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dnj_Latn (Dan)</td>
+<td align="left">Shaper didn't attach uni0302 to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030B to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030F to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030F to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030B to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030F to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030F to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030B to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030B to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030F to uni0264.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030F to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0264.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uni0264.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0264.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030B to uni0264.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030B to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0264.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect uni0181</td>
+</tr>
+<tr>
+<td align="left">mfi_Latn (Wandala)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">gux_Latn (Gourmanchéma)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">fvr_Latn (Fur)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">fuq_Latn (Central-Eastern Niger Fulfulde)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bkm_Latn (Kom)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nym_Latn (Nyamwezi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nnh_Latn (Ngiemboon)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bss_Latn (Akoose)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">etu_Latn (Ejagham)</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">lnl_Latn (South Central Banda)</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0308 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0308 to uni0259</td>
+</tr>
+<tr>
+<td align="left">sxw_Latn (Saxwe Gbe)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">daa_Latn (Dangaléat)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bqv_Latn (Koro Wachi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bud_Latn (Ntcham)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">adj_Latn (Adioukrou)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">khq_Latn (Koyra Chiini)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">lia_Latn (Limba, West-Central)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nus_Latn (Nuer)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">tem_Latn (Timne)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">gnd_Latn (Zulgo-Gemzek)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">pil_Latn (Yom)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">wan_Latn (Wan)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">log_Latn (Logo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kao_Latn (Xaasongaxango)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mnf_Latn (Mundani)</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">twq_Latn (Tasawaq)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ksf_Latn (Bafia)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ksp_Latn (Kabba)</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0308 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0308 to uni0259</td>
+</tr>
+<tr>
+<td align="left">dgi_Latn (Northern Dagara)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nmg_Latn (Kwasio)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">blo_Latn (Anii)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dnj_Latn_LR (Dan)</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni0265</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0265</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0265</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0265</td>
+</tr>
+<tr>
+<td align="left">ach_Latn (Acoli)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kqp_Latn (Kimré)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dyu_Latn (Dyula)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">fuh_Latn (Fulfulde, Western Niger)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">sbd_Latn (Southern Samo)</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0308 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0308 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ozm_Latn (Koonzime)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dur_Latn (Dii)</td>
+<td align="left">Shaper didn't attach uni0327.case to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni0327.case</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327.case to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni0327.case</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327.case to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni0327.case</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327.case to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni0327.case</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327.case to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni0327.case</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327.case to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni0327.case</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">tcd_Latn (Tafi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Requires Small-cap: ƒ; both buffers returned florin=0+1023</td>
+</tr>
+<tr>
+<td align="left">bfa_Latn (Bari)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">hag_Latn (Hanga)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mge_Latn (Mango)</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0330</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0330</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0330</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0330</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0330</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0330</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uni0330</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uni0330</td>
+</tr>
+<tr>
+<td align="left">xon_Latn (Konkomba)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dip_Latn (Dinka, Northeastern)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mev_Latn (Mano)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">azo_Latn (Awing)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">lam_Latn (Lamba)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">tuq_Latn (Tedaga)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bfd_Latn (Bafut)</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">laj_Latn (Lango [Uganda])</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mas_Latn (Masai)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nmz_Latn (Nawdm)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kqs_Latn (Kissi, Northern)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">idu_Latn (Idoma)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">las_Latn (Lama (Togo))</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">pnz_Latn (Pana (Central African Republic))</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">biv_Latn (Birifor, Southern)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nuv_Latn (Nuni, Northern)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bcw_Latn (Bana)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bzw_Latn (Basa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">avn_Latn (Avatime)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Requires Small-cap: ƒ; both buffers returned florin=0+1023</td>
+</tr>
+<tr>
+<td align="left">maw_Latn (Mampruli)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">fuc_Latn (Pulaar)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dua_Latn (Duala)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dts_Latn (Dogon, Toro So)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mwk_Latn (Kita Maninkakan)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kmy_Latn (Koma)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">sba_Latn (Ngambay)</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni0259</td>
+</tr>
+<tr>
+<td align="left">lok_Latn (Loko)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bsc_Latn (Bassari)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">gjn_Latn (Gonja)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kzc_Latn (Bondoukou Kulango)</td>
+<td align="left">Shaper didn't attach tildecomb.case to uniA7B6</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb to uniA7AE</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb to uniA7B7</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb to uniA7AE</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb to uniA7B7</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uniA7B6</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb to uniA7AE.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb to uniA7B7.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uniA7B6</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nza_Latn (Tigon Mbembe)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ife_Latn (Ifè)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ses_Latn (Koyraboro Senni)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">knf_Latn (Mankanya)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">agq_Latn (Aghem)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mnk_Latn (Mandinka)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kdh_Latn (Tem)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ny_Latn (Nyanja)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bas_Latn (Basaa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mfv_Latn (Mandjak)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">fuf_Latn (Pular)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mgc_Latn (Morokodo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">yas_Latn (Nugunu)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">gmm_Latn (Gbaya-Mbodomo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bjt_Latn (Balanta-Ganja)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">taq_Latn (Tamasheq, Latin)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dzg_Latn (Dazaga)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">xrb_Latn (Karaboro, Eastern)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ted_Latn (Krumen, Tepo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">yam_Latn (Yamba)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nhb_Latn (Beng)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">anv_Latn (Denya)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">krs_Latn (Gbaya (Sudan))</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bbo_Latn (Northern Bobo Madaré)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">pbi_Latn (Parkwa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">fmp_Latn (Fe’fe’)</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ktj_Latn (Krumen, Plapo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kus_Latn (Kusaal)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mwm_Latn (Sar)</td>
+<td align="left">Shaper didn't attach uni0304 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uni0259</td>
+</tr>
+<tr>
+<td align="left">gej_Latn (Gen)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">gng_Latn (Ngangam)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">muy_Latn (Muyang)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mua_Latn (Mundang)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">boz_Latn (Tiéyaxo Bozo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nnw_Latn (Southern Nuni)</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">gur_Latn (Frafra)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">emk_Latn (Maninkakan, Eastern)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ken_Latn (Kenyang)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">loq_Latn (Lobala)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ddn_Latn (Dendi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">naw_Latn (Nawuri)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mls_Latn (Masalit)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mbu_Latn (Mbula-Bwazza)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bzx_Latn (Bozo, Hainyaxo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">xwe_Latn (Gbe, Xwela)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">fub_Latn (Fulfulde, Adamawa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">tvu_Latn (Tunen)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">keu_Latn (Akebu)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">xed_Latn (Hdi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">byv_Latn (Medumba)</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mmu_Latn (Mmaala)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">lns_Latn (Lamnso’)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">tod_Latn (Toma)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">lgg_Latn (Lugbara)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">gkp_Latn (Kpelle, Guinea)</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni0328.case</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni0328.case</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328 to uni025B</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0190</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni025B</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni025B</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0190</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0190</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328 to uni0254</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0186</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0254</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0254</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0186</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0186</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328 to uni0259.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0259.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0259.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328 to uni025B.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0190</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni025B.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni025B.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0190</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0190</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328 to uni0254.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0186</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0254.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0254.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0186</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0186</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">knp_Latn (Kwanja)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">myk_Latn (Mamara Senoufo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">gud_Latn (Dida, Yocoboué)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bsp_Latn (Baga Sitemu)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">god_Latn (Godié)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dno_Latn (Ndrulo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nhu_Latn (Noone)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">toq_Latn (Toposa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kib_Latn (Koalib)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Requires Small-cap: ɐ; both buffers returned uni2C6F=0+1414</td>
+</tr>
+<tr>
+<td align="left">xsm_Latn (Kasem)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">cme_Latn (Cerma)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mdj_Latn (Mangbetu)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">cou_Latn (Wamey)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ade_Latn (Adele)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ahs_Latn (Ashe)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ee_Latn (Ewe)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Requires Small-cap: ƒ; both buffers returned florin=0+1023</td>
+</tr>
+<tr>
+<td align="left">kvf_Latn (Kabalai)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">gde_Latn (Gude)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ndz_Latn (Ndogo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bax_Latn (Bamun, Latin)</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mcu_Latn (Mambila, Cameroon)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">lig_Latn (Ligbi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">tpm_Latn (Tampulma)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">sok_Latn (Sokoro)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kbp_Latn (Kabiyé)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mcp_Latn (Makaa)</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">xuo_Latn (Kuo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">srr_Latn (Serer)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bze_Latn (Jenaama Bozo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ig_Latn (Igbo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">gaa_Latn (Ga)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect uni01A9</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect uni01B7</td>
+</tr>
+<tr>
+<td align="left">gov_Latn (Goo)</td>
+<td align="left">Shaper didn't attach uni0302 to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">nko_Latn (Nkonya)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">sef_Latn (Cebaara Senoufo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">jgo_Latn (Ngomba)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nfr_Latn (Nafaanra)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mur_Latn (Murle)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ffm_Latn (Maasina Fulfulde)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">pug_Latn (Phuie)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">lun_Latn (Lunda)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dje_Latn (Zarma)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ahl_Latn (Igo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ajg_Latn (Aja)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">saf_Latn (Safaliba)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ndv_Latn (Ndut)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nyb_Latn (Nyangbo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Requires Small-cap: ƒ; both buffers returned florin=0+1023</td>
+</tr>
+<tr>
+<td align="left">kkj_Latn (Kako)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bav_Latn (Vengo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">gna_Latn (Kaansa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kfo_Latn (Koro)</td>
+<td align="left">No exemplar glyphs were defined for language Koro</td>
+</tr>
+<tr>
+<td align="left">cch_Latn (Atsam)</td>
+<td align="left">No exemplar glyphs were defined for language Atsam</td>
+</tr>
+<tr>
+<td align="left">amo_Latn (Amo)</td>
+<td align="left">No exemplar glyphs were defined for language Amo</td>
+</tr>
+<tr>
+<td align="left">mgy_Latn (Mbunga)</td>
+<td align="left">No exemplar glyphs were defined for language Mbunga</td>
+</tr>
+<tr>
+<td align="left">ggn_Latn (Eastern Gurung, Latin)</td>
+<td align="left">No exemplar glyphs were defined for language Eastern Gurung, Latin</td>
+</tr>
+<tr>
+<td align="left">hna_Latn (Mina)</td>
+<td align="left">No exemplar glyphs were defined for language Mina</td>
+</tr>
+<tr>
+<td align="left">syi_Latn (Seki)</td>
+<td align="left">No exemplar glyphs were defined for language Seki</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>🔥 <b>FAIL</b> Combined length of family and style must not exceed 32 characters. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.name.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 287 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 287 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 288 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 288 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 289 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 289 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 290 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 290 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 291 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 291 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 292 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 292 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 312 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 312 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 12 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 315 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 12 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 315 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 12 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 316 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 12 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 316 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 12 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 317 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 12 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 317 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 12 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 319 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 12 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 319 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 24 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 322 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 24 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 322 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 24 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 323 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 24 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 323 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 24 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 324 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 24 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 324 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 24 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 326 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 24 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 326 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 329 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 329 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 330 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 330 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 331 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 331 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 333 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 333 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 335 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 335 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 336 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 336 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 337 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 337 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 339 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 339 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 342 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 342 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 343 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 343 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 344 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 344 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 346 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 346 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 348 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 348 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 349 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 349 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 350 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 350 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 351 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 351 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 353 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 353 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 354 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 354 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 360 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 360 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 12 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 363 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 12 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 363 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 12 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 364 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 12 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 364 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 12 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 365 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 12 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 365 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 12 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 367 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 12 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 367 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 24 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 370 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 24 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 370 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 24 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 371 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 24 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 371 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 24 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 372 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 24 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 372 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 24 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 374 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 24 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 374 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 377 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 377 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 378 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 378 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 379 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 379 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 381 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 381 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Italic Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 383 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Italic Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 383 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Italic Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 384 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Italic Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 384 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Italic Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 385 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Italic Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 385 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Italic Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 386 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Italic Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 386 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Italic Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 387 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Italic Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 387 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Italic Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 388 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Italic Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 388 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 390 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 390 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 391 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 391 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 392 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 392 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 394 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 394 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 396 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 396 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 397 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 397 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 398 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 398 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 399 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 399 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 401 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 401 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 402 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 402 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>🔥 <b>FAIL</b> Check variable font instances <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.varfont.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 🔥 **FAIL** <p>fvar instances are incorrect:</p>
+<ul>
+<li>Delete additional instances</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th align="left">Name</th>
+<th align="left">current</th>
+<th align="left">expected</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Bold 12</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 12 Cond</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 64 Italic</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 72 Cond</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 48</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 48</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 72 Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 12</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 48</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 24 Cond</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 144</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 48 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 144 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light Cond</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 144 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 144 Cond</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 12 Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 48 Cond</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 24</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 64 Cond</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 24 Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 144</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 24 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 24 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 24</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold Cond</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 48 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 24 Cond</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 24 Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 24</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 144 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 12 Cond</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 48 Cond</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 24 Cond</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 72</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 144</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 64 Italic Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 72 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 72</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 24</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 144 Cond</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 64 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold Cond</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 24 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 48</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 72</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black Cond</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 12 Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 64 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 24 Cond</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 48 Cond</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 12</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 24 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 12</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 12 Cond</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 72</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 144 Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 24 Cond</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 144</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 144</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 64 Cond</td>
+<td align="left">wght=370.58824157714844, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 12 Cond</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 72 Cond</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 72 Cond</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 48 Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 64 Cond</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 12 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 48 Cond</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 144 Cond</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 64 Italic Wide</td>
+<td align="left">wght=370.58824157714844, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 144 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 144</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 24 Cond</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 48 Cond</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 72 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 64 Italic</td>
+<td align="left">wght=780.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 24</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 12 Cond</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 72 Cond</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 144 Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 72</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 64 Italic Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 144 Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 12 Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 72 Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular Cond</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 72 Cond</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 144 Cond</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 144</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 64 Cond</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 64 Italic Wide</td>
+<td align="left">wght=780.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 12</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 64 Italic Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium Cond</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 48 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 72</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 12 Cond</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 64 Cond</td>
+<td align="left">wght=780.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 24</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 12 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 12</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 48</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 12 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 24 Cond</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 72 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 48 Cond</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 24</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 48 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 72 Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 64 Cond</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 72 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 72</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 64 Italic Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 48 Cond</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 72 Cond</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 48 Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold Cond</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 12</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 144 Cond</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 12 Cond</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 72 Cond</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 64 Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 144 Cond</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 48</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 12 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 48 Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 24 Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 64 Italic</td>
+<td align="left">wght=370.58824157714844, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 48</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 144 Cond</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=7.0</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=7.0</td>
+</tr>
+<tr>
+<td align="left">Regular</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=7.0</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=7.0</td>
+</tr>
+<tr>
+<td align="left">Medium</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=7.0</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=7.0</td>
+</tr>
+<tr>
+<td align="left">SemiBold</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=7.0</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=7.0</td>
+</tr>
+<tr>
+<td align="left">Bold</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=7.0</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=7.0</td>
+</tr>
+<tr>
+<td align="left">ExtraBold</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=7.0</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=7.0</td>
+</tr>
+<tr>
+<td align="left">Black</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=7.0</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=7.0</td>
+</tr>
+</tbody>
+</table>
+ [code: bad-fvar-instances]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>💥 <b>ERROR</b> Validate STAT particle names and values match the fallback names in GFAxisRegistry. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.axisregistry.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 💥 **ERROR** <p>Failed with AttributeError: 'NoneType' object has no attribute 'toUnicode'</p>
+<pre><code>  File &quot;/home/runner/work/Merriweather4/Merriweather4/venv-test/lib/python3.10/site-packages/fontbakery/checkrunner.py&quot;, line 213, in _run_check
+    subresults = list(subresults)
+  File &quot;/home/runner/work/Merriweather4/Merriweather4/venv-test/lib/python3.10/site-packages/fontbakery/checks/googlefonts/axisregistry.py&quot;, line 191, in com_google_fonts_check_STAT_gf_axisregistry_names
+    name = normalize_name(name_entry.toUnicode())
+
+</code></pre>
+ [code: failed-check]
+
+
+
+</div>
+</details>
+</div>
+</details>
+
+<details><summary>[31] Merriweather-Italic[opsz,wdth,wght].ttf</summary>
+<div>
+<details>
+    <summary>⚠️ <b>WARN</b> The variable font 'opsz' (Optical Size) axis coordinate should be between 10 and 16 on the 'Regular' instance. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.fvar.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>The &quot;opsz&quot; (Optical Size) coordinate on the &quot;Regular&quot; instance is recommended to be a value in the range 10 to 16. Got 7.0 instead.</p>
+ [code: opsz-out-of-range]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>⚠️ <b>WARN</b> Check mark characters are in GDEF mark glyph class. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.gdef.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>The following mark characters could be in the GDEF mark glyph class:
+uni0488 (U+0488) and uni0489 (U+0489)</p>
+ [code: mark-chars]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>⚠️ <b>WARN</b> Validates that all of the instance records in a given font have distinct data. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.fvar.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>'Bold 12 Italic' is a repeated instance record.</p>
+ [code: repeated-instance-record:Bold 12 Italic]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>⚠️ <b>WARN</b> Detect any interpolation issues in the font. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>Interpolation issues were found in the font:</p>
+<pre><code>- Contour order differs in glyph 'uni030B.case': [0, 1] in wght=900,wdth=112,opsz=144, [1, 0] in wght=300,wdth=100,opsz=144.
+
+- Contour order differs in glyph 'uni030B.case': [0, 1] in wght=300,wdth=100,opsz=144, [1, 0] in wght=300,wdth=87,opsz=7.
+
+- Contour order differs in glyph 'uni030B.case': [0, 1] in wght=300,wdth=112,opsz=7, [1, 0] in wght=300,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni0264' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 1 start point differs in glyph 'uni0264' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 1 start point differs in glyph 'uni0264' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 point 38 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 point 67 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 1 start point differs in glyph 'uni0264' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 point 38 has a kink between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 point 67 has a kink between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 start point differs in glyph 'uni2042' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 0 in glyph 'uni2042': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+
+- Contour 1 start point differs in glyph 'uni2042' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 1 in glyph 'uni2042': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+
+- Contour 2 start point differs in glyph 'uni2042' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 2 in glyph 'uni2042': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+
+- Contour 0 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 1 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+
+- Contour 2 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 2 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 1 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 1 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 2 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 2 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 0 start point differs in glyph 'uni2042' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 in glyph 'uni2042': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni2042' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 1 in glyph 'uni2042': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+
+- Contour 2 start point differs in glyph 'uni2042' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 2 in glyph 'uni2042': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni04B3.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+
+- Contour 2 start point differs in glyph 'uni04B3.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+
+- Contour 1 start point differs in glyph 'uni04B3.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 2 start point differs in glyph 'uni04B3.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 start point differs in glyph 'x.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+
+- Contour 1 start point differs in glyph 'x.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+
+- Contour 0 start point differs in glyph 'x.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 1 start point differs in glyph 'x.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 2 start point differs in glyph 'uniA7C8' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
+
+- Contour 2 in glyph 'uniA7C8': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
+
+- Contour 2 start point differs in glyph 'uniA7C8' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 2 in glyph 'uniA7C8': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+
+- Contour 2 start point differs in glyph 'uniA7C8' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+
+- Contour 2 in glyph 'uniA7C8': becomes underweight between wght=900,wdth=87,opsz=144 and wght=900,wdth=112,opsz=144.
+
+- Contour 2 start point differs in glyph 'uniA7C8' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 2 in glyph 'uniA7C8': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
+
+- Contour 0 start point differs in glyph 'l.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+
+- Contour 0 start point differs in glyph 'l.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 2 start point differs in glyph 'uni0467' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 2 in glyph 'uni0467': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+
+- Contour 2 start point differs in glyph 'uni0467' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 2 in glyph 'uni0467': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+
+- Contour 2 start point differs in glyph 'uni0467' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 2 in glyph 'uni0467': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 2 start point differs in glyph 'uni0467' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 2 in glyph 'uni0467': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni0482' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
+
+- Contour 0 in glyph 'uni0482': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni0482' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 0 in glyph 'uni0482': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+
+- Contour 0 start point differs in glyph 'uni0482' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 start point differs in glyph 'uni0482' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 start point differs in glyph 'uni0482' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 1 start point differs in glyph 'plusminus' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 1 start point differs in glyph 'plusminus' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+
+- Contour 1 start point differs in glyph 'uni019B' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 1 in glyph 'uni019B': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni019B' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 1 in glyph 'uni019B': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 1 start point differs in glyph 'uni019B' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 1 in glyph 'uni019B': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni0264.sc' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 1 start point differs in glyph 'uni0264.sc' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 0 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 1 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=87,opsz=7 and location wght=300,wdth=112,opsz=7
+
+- Contour 1 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=87,opsz=7 and location wght=300,wdth=112,opsz=7
+
+- Contour 0 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 1 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 point 42 has a kink between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 point 73 has a kink between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 point 29 has a kink between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 0 point 29 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 start point differs in glyph 'm.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+
+- Contour 0 in glyph 'm.sc': becomes underweight between wght=900,wdth=87,opsz=144 and wght=900,wdth=112,opsz=144.
+
+- Contour 0 start point differs in glyph 'm.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 in glyph 'm.sc': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni0492' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 0 in glyph 'uni0492': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+
+- Contour 0 start point differs in glyph 'uni0492' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 in glyph 'uni0492': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uniA7CB' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 1 start point differs in glyph 'uniA7CB' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 point 40 has a kink between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 1 start point differs in glyph 'uniA7CB' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 point 69 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 start point differs in glyph 'UCstrokecomb_part.' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 0 in glyph 'UCstrokecomb_part.': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+
+- Contour 0 start point differs in glyph 'UCstrokecomb_part.' between location wght=900,wdth=87,opsz=7 and location wght=900,wdth=112,opsz=7
+
+- Contour 0 in glyph 'UCstrokecomb_part.': becomes underweight between wght=900,wdth=87,opsz=7 and wght=900,wdth=112,opsz=7.
+
+- Contour 0 start point differs in glyph 'UCstrokecomb_part.' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 in glyph 'UCstrokecomb_part.': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'UCstrokecomb_part.' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+
+- Contour 0 in glyph 'UCstrokecomb_part.': becomes underweight between wght=900,wdth=87,opsz=144 and wght=900,wdth=112,opsz=144.
+
+- Contour 0 start point differs in glyph 'UCstrokecomb_part.' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 in glyph 'UCstrokecomb_part.': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 0 start point differs in glyph 'UCstrokecomb_part.' between location wght=300,wdth=87,opsz=7 and location wght=300,wdth=112,opsz=7
+
+- Contour 0 in glyph 'UCstrokecomb_part.': becomes underweight between wght=300,wdth=87,opsz=7 and wght=300,wdth=112,opsz=7.
+
+- Contour 0 start point differs in glyph 'UCstrokecomb_part.' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 in glyph 'UCstrokecomb_part.': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'UCstrokecomb_part.' between location wght=300,wdth=87,opsz=144 and location wght=300,wdth=112,opsz=144
+
+- Contour 0 in glyph 'UCstrokecomb_part.': becomes underweight between wght=300,wdth=87,opsz=144 and wght=300,wdth=112,opsz=144.
+
+- Contour 0 start point differs in glyph 'lessequal.case' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
+
+- Contour 0 in glyph 'lessequal.case': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
+
+- Contour 0 start point differs in glyph 'lessequal.case' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 0 in glyph 'lessequal.case': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+
+- Contour 0 start point differs in glyph 'lessequal.case' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 0 in glyph 'lessequal.case': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+
+- Contour 0 start point differs in glyph 'f.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+
+- Contour 0 start point differs in glyph 'f.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 start point differs in glyph 'uniA71A' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 0 in glyph 'uniA71A': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+
+- Contour 0 start point differs in glyph 'uniA71A' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 in glyph 'uniA71A': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'uniA71A' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 in glyph 'uniA71A': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 0 start point differs in glyph 'uniA71A' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 in glyph 'uniA71A': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'e.sc' between location wght=300,wdth=87,opsz=7 and location wght=300,wdth=112,opsz=7
+
+- Contour 0 start point differs in glyph 'e.sc' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 start point differs in glyph 'ae.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+
+- Contour 0 in glyph 'ae.sc': becomes underweight between wght=900,wdth=87,opsz=144 and wght=900,wdth=112,opsz=144.
+
+- Contour 0 start point differs in glyph 'ae.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 in glyph 'ae.sc': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
+
+- Contour 0 start point differs in glyph 'lessequal' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
+
+- Contour 0 in glyph 'lessequal': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
+
+- Contour 0 start point differs in glyph 'lessequal' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 0 in glyph 'lessequal': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+
+- Contour 0 start point differs in glyph 'lessequal' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 0 in glyph 'lessequal': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+
+- Contour 2 start point differs in glyph 'uni04C3' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 2 start point differs in glyph 'uni04C3' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 1 start point differs in glyph 'uni049D' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
+
+- Contour 1 in glyph 'uni049D': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
+
+- Contour 2 start point differs in glyph 'uni049D' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
+
+- Contour 2 in glyph 'uni049D': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni049D' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 1 in glyph 'uni049D': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+
+- Contour 2 start point differs in glyph 'uni049D' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 2 in glyph 'uni049D': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+
+- Contour 1 start point differs in glyph 'uni049D' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 1 in glyph 'uni049D': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+
+- Contour 2 start point differs in glyph 'uni049D' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 2 in glyph 'uni049D': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni049D' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 1 in glyph 'uni049D': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 2 start point differs in glyph 'uni049D' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 2 in glyph 'uni049D': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 1 start point differs in glyph 'uni049D' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 1 in glyph 'uni049D': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+
+- Contour 2 start point differs in glyph 'uni049D' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 2 in glyph 'uni049D': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni04CE.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+
+- Contour 1 in glyph 'uni04CE.sc': becomes underweight between wght=900,wdth=87,opsz=144 and wght=900,wdth=112,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni04CE.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 1 in glyph 'uni04CE.sc': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
+
+- Contour 0 point 25 has a kink between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 start point differs in glyph 'uni0258.sc' between location wght=300,wdth=87,opsz=7 and location wght=300,wdth=112,opsz=7
+
+- Contour 0 start point differs in glyph 'uni0258.sc' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 start point differs in glyph 'y.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+
+- Contour 0 start point differs in glyph 'y.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 point 70 has a kink between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+
+- Contour 0 point 53 has a kink between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 0 point 53 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 start point differs in glyph 'oslash.sc' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 in glyph 'oslash.sc': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'oslash.sc' between location wght=300,wdth=87,opsz=144 and location wght=300,wdth=112,opsz=144
+
+- Contour 0 start point differs in glyph 'Ibar_part.' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 0 in glyph 'Ibar_part.': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+
+- Contour 0 start point differs in glyph 'Ibar_part.' between location wght=900,wdth=87,opsz=7 and location wght=900,wdth=112,opsz=7
+
+- Contour 0 in glyph 'Ibar_part.': becomes underweight between wght=900,wdth=87,opsz=7 and wght=900,wdth=112,opsz=7.
+
+- Contour 0 start point differs in glyph 'Ibar_part.' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 in glyph 'Ibar_part.': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'Ibar_part.' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+
+- Contour 0 in glyph 'Ibar_part.': becomes underweight between wght=900,wdth=87,opsz=144 and wght=900,wdth=112,opsz=144.
+
+- Contour 0 start point differs in glyph 'Ibar_part.' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 in glyph 'Ibar_part.': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 0 start point differs in glyph 'Ibar_part.' between location wght=300,wdth=87,opsz=7 and location wght=300,wdth=112,opsz=7
+
+- Contour 0 in glyph 'Ibar_part.': becomes underweight between wght=300,wdth=87,opsz=7 and wght=300,wdth=112,opsz=7.
+
+- Contour 0 start point differs in glyph 'Ibar_part.' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 in glyph 'Ibar_part.': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'Ibar_part.' between location wght=300,wdth=87,opsz=144 and location wght=300,wdth=112,opsz=144
+
+- Contour 0 in glyph 'Ibar_part.': becomes underweight between wght=300,wdth=87,opsz=144 and wght=300,wdth=112,opsz=144.
+
+- Contour 0 point 14 has a kink between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 0 point 14 has a kink between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 start point differs in glyph 'uni048D.sc' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
+
+- Contour 0 in glyph 'uni048D.sc': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni048D.sc' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 0 in glyph 'uni048D.sc': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+
+- Contour 0 start point differs in glyph 'uni048D.sc' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 in glyph 'uni048D.sc': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni048D.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 in glyph 'uni048D.sc': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 0 start point differs in glyph 'uni048D.sc' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 in glyph 'uni048D.sc': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni045A' between location wght=300,wdth=87,opsz=144 and location wght=300,wdth=112,opsz=144
+
+- Contour 1 in glyph 'uni045A': becomes underweight between wght=300,wdth=87,opsz=144 and wght=300,wdth=112,opsz=144.
+
+- Contour 1 start point differs in glyph 'AE' between location wght=900,wdth=87,opsz=7 and location wght=900,wdth=112,opsz=7
+
+- Contour 1 in glyph 'AE': becomes underweight between wght=900,wdth=87,opsz=7 and wght=900,wdth=112,opsz=7.
+
+- Contour 1 start point differs in glyph 'AE' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 1 in glyph 'AE': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+
+- Contour 0 start point differs in glyph 'uni0336' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 0 in glyph 'uni0336': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+
+- Contour 0 start point differs in glyph 'uni0336' between location wght=900,wdth=87,opsz=7 and location wght=900,wdth=112,opsz=7
+
+- Contour 0 in glyph 'uni0336': becomes underweight between wght=900,wdth=87,opsz=7 and wght=900,wdth=112,opsz=7.
+
+- Contour 0 start point differs in glyph 'uni0336' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 in glyph 'uni0336': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni0336' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+
+- Contour 0 in glyph 'uni0336': becomes underweight between wght=900,wdth=87,opsz=144 and wght=900,wdth=112,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni0336' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 in glyph 'uni0336': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 0 start point differs in glyph 'uni0336' between location wght=300,wdth=87,opsz=7 and location wght=300,wdth=112,opsz=7
+
+- Contour 0 in glyph 'uni0336': becomes underweight between wght=300,wdth=87,opsz=7 and wght=300,wdth=112,opsz=7.
+
+- Contour 0 start point differs in glyph 'uni0336' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 in glyph 'uni0336': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni0336' between location wght=300,wdth=87,opsz=144 and location wght=300,wdth=112,opsz=144
+
+- Contour 0 in glyph 'uni0336': becomes underweight between wght=300,wdth=87,opsz=144 and wght=300,wdth=112,opsz=144.
+
+- Contour 0 start point differs in glyph 'question.ss03.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 in glyph 'question.ss03.sc': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
+
+- Contour 0 point 0 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 point 12 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 start point differs in glyph 'question.ss03.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 in glyph 'question.ss03.sc': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 0 point 8 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 point 12 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 start point differs in glyph 'uni0473' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
+
+- Contour 0 in glyph 'uni0473': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni0473' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 0 in glyph 'uni0473': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+
+- Contour 0 start point differs in glyph 'uni0473' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 in glyph 'uni0473': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni0473' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 in glyph 'uni0473': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 0 start point differs in glyph 'uni0473' between location wght=300,wdth=87,opsz=7 and location wght=300,wdth=112,opsz=7
+
+- Contour 0 in glyph 'uni0473': becomes underweight between wght=300,wdth=87,opsz=7 and wght=300,wdth=112,opsz=7.
+
+- Contour 0 start point differs in glyph 'uni2266' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
+
+- Contour 0 in glyph 'uni2266': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni2266' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
+
+- Contour 1 in glyph 'uni2266': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni2266' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 0 in glyph 'uni2266': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+
+- Contour 1 start point differs in glyph 'uni2266' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 1 in glyph 'uni2266': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+
+- Contour 0 start point differs in glyph 'uni2266' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 0 in glyph 'uni2266': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+
+- Contour 1 start point differs in glyph 'uni2266' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 1 in glyph 'uni2266': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+
+- Contour 0 start point differs in glyph 'K' between location wght=900,wdth=87,opsz=7 and location wght=900,wdth=112,opsz=7
+
+- Contour 0 start point differs in glyph 'K' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 2 start point differs in glyph 'uni0472' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+
+- Contour 2 in glyph 'uni0472': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+
+- Contour 2 start point differs in glyph 'uni0472' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+
+- Contour 2 in glyph 'uni0472': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+
+- Contour 2 start point differs in glyph 'uni0472' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 2 in glyph 'uni0472': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 2 start point differs in glyph 'uni0472' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+
+- Contour 2 in glyph 'uni0472': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+
+- Contour 0 point 98 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 start point differs in glyph 'questiondown.ss03.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 in glyph 'questiondown.ss03.sc': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
+
+- Contour 0 point 0 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 point 12 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 start point differs in glyph 'questiondown.ss03.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 in glyph 'questiondown.ss03.sc': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+
+- Contour 0 point 0 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 point 8 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+
+- Contour 0 point 12 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+</code></pre>
+ [code: interpolation-issues]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>⚠️ <b>WARN</b> Check math signs have the same width. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>The most common width is 1220 among a set of 2 math glyphs.
+The following math glyphs have a different width, though:</p>
+<p>Width = 1226:
+less</p>
+<p>Width = 1138:
+equal, notequal</p>
+<p>Width = 1225:
+greater</p>
+<p>Width = 1259:
+lessequal, logicalnot</p>
+<p>Width = 1262:
+multiply, uni2266</p>
+<p>Width = 1260:
+divide</p>
+<p>Width = 1184:
+minus</p>
+<p>Width = 1276:
+approxequal</p>
+<p>Width = 1264:
+greaterequal</p>
+<p>Width = 1270:
+uni2267</p>
+ [code: width-outliers]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>⚠️ <b>WARN</b> Checking with ots-sanitize. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>ots-sanitize passed this file, however warnings were printed:</p>
+<p>ERROR: STAT: Invalid nameID: 24
+ERROR: Table discarded</p>
+ [code: ots-sanitize-warn]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>⚠️ <b>WARN</b> Check font contains no unreachable glyphs <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>The following glyphs could not be reached by codepoint or substitution rules:</p>
+<pre><code>- I.uc
+
+- IJ_acutecomb
+
+- acute.narrow
+
+- caron.alt
+
+- circumflex.narrow
+
+- dafrican.sc
+
+- dieresis.narrow
+
+- dieresiscombcy.case
+
+- dotlessi_ogonek
+
+- f_f.sc
+
+- f_f_i.sc
+
+- f_f_l.sc
+
+- grave.narrow
+
+- i.dot
+
+- ij_acutecomb
+
+- j.latnNLD
+
+- macron.narrow
+
+- ntilde.sc.001
+
+- ringacute.case
+
+- tilde.narrow
+
+- tildecomb_acutecomb
+
+- uni013B.latnMAH
+
+- uni0145.latnMAH
+
+- uni01A9.localGAD
+
+- uni01B7.localGAD
+
+- uni0268.dotless
+
+- uni028B.loclTOD0.ss04
+
+- uni03000304
+
+- uni03000358
+
+- uni03010304
+
+- uni03010307
+
+- uni03010358
+
+- uni03020358
+
+- uni03030304
+
+- uni03030308
+
+- uni03040300
+
+- uni03040301
+
+- uni03040308
+
+- uni03040358
+
+- uni0306.narrow
+
+- uni03060358
+
+- uni03070304
+
+- uni03080300
+
+- uni03080301
+
+- uni03080304
+
+- uni0308030C
+
+- uni030C0307
+
+- uni030D0358
+
+- uni0438.l.sc
+
+- uni0442.locl
+
+- uni2071.dotless
+
+- uniA64D.sc
+</code></pre>
  [code: unreachable-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
 
-* ⚠ **WARN** This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]
-* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
 
-The following glyphs do not have the recommended number of contours:
+</div>
+</details>
 
-	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
-
-	- Glyph name: aogonek	Contours detected: 3	Expected: 2
-
-	- Glyph name: eogonek	Contours detected: 3	Expected: 2
-
-	- Glyph name: Tbar	Contours detected: 2	Expected: 1
-
-	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: ohorn	Contours detected: 3	Expected: 2
-
-	- Glyph name: uhorn	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni01E5	Contours detected: 4	Expected: 2
-
-	- Glyph name: uni01EA	Contours detected: 3	Expected: 2 
-
-	- And 45 more.
-
-Use -F or --full-lists to disable shortening of long lists.
- [code: contour-count]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
+<details>
+    <summary>⚠️ <b>WARN</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/shaping.html#"></a></summary>
+    <div>
 
 
-* ⚠ **WARN** No dotted circle glyph present [code: missing-dotted-circle]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
 
 
-* ⚠ **WARN** The following glyphs have jaggy segments:
-
-	* B (U+0042): B<<1156.5,914.0>-<1067.0,815.0>-<926.0,793.0>>/B<<926.0,793.0>-<1120.0,795.0>-<1234.0,704.0>> = 8.277605618560903
-
-	* at (U+0040): B<<1239.0,157.0>-<1234.0,239.0>-<1269.0,437.0>>/B<<1269.0,437.0>-<1226.0,321.0>-<1166.5,214.5>> = 10.314735316705564
-
-	* three (U+0033): B<<766.5,866.0>-<678.0,812.0>-<581.0,778.0>>/B<<581.0,778.0>-<714.0,790.0>-<818.0,754.0>> = 14.160768502097877
-
-	* threeeighths (U+215C): B<<606.5,1208.5>-<523.0,1140.0>-<408.0,1107.0>>/B<<408.0,1107.0>-<517.0,1122.0>-<589.5,1097.5>> = 8.175652372319918
-
-	* threequarters (U+00BE): B<<606.5,1208.5>-<523.0,1140.0>-<408.0,1107.0>>/B<<408.0,1107.0>-<517.0,1122.0>-<589.5,1097.5>> = 8.175652372319918
-
-	* uni00B3 (U+00B3): B<<606.5,1428.5>-<523.0,1360.0>-<408.0,1327.0>>/B<<408.0,1327.0>-<517.0,1342.0>-<589.5,1317.5>> = 8.175652372319918
-
-	* uni0412 (U+0412): B<<1156.5,914.0>-<1067.0,815.0>-<926.0,793.0>>/B<<926.0,793.0>-<1120.0,795.0>-<1234.0,704.0>> = 8.277605618560903
-
-	* uni0417 (U+0417): B<<893.0,842.0>-<809.0,798.0>-<728.0,784.0>>/B<<728.0,784.0>-<932.0,775.0>-<1046.5,677.5>> = 12.332209671516617
-
-	* uni0498 (U+0498): B<<893.0,842.0>-<809.0,798.0>-<728.0,784.0>>/B<<728.0,784.0>-<932.0,775.0>-<1046.5,677.5>> = 12.332209671516617
-
-	* uni04DE (U+04DE): B<<893.0,842.0>-<809.0,798.0>-<728.0,784.0>>/B<<728.0,784.0>-<932.0,775.0>-<1046.5,677.5>> = 12.332209671516617 
-
-	* And 9 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
 
 
-* ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
 
-	* A (U+0041): L<<-27.0,0.0>--<-28.0,119.0>>
-
-	* Aacute (U+00C1): L<<-27.0,0.0>--<-28.0,119.0>>
-
-	* Abreve (U+0102): L<<-27.0,0.0>--<-28.0,119.0>>
-
-	* Acircumflex (U+00C2): L<<-27.0,0.0>--<-28.0,119.0>>
-
-	* Adieresis (U+00C4): L<<-27.0,0.0>--<-28.0,119.0>>
-
-	* Agrave (U+00C0): L<<-27.0,0.0>--<-28.0,119.0>>
-
-	* Amacron (U+0100): L<<-27.0,0.0>--<-28.0,119.0>>
-
-	* Aogonek (U+0104): L<<-27.0,0.0>--<-28.0,119.0>>
-
-	* Aring (U+00C5): L<<-27.0,0.0>--<-28.0,119.0>>
-
-	* Aringacute (U+01FA): L<<-27.0,0.0>--<-28.0,119.0>> 
-
-	* And 111 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[14] Merriweather-LightItalic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+* ⚠️ **WARN** <p>The dot of soft dotted characters used in orthographies <em>must</em> disappear in the following strings: i̍ i̐ i̓ i᷆ i᷇ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ і́ ḭ̀ ḭ́ ḭ̄ ị̀ ị́ ị̂ ị̃ ị̄</p>
+<p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: i᷄ i᷅ i᷈ i᷉ iꚞ i̛̍ i̛̐ i̛̓ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̛᷉ i̛ꚞ i̠̇ i̠̊ i̠̋ i̠̍ i̠̐</p>
+<p>Your font fully covers the following languages that require the soft-dotted feature: Ebira (Latn, 2,200,000 speakers), Nateni (Latn, 100,000 speakers), Cicipu (Latn, 44,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Lithuanian (Latn, 2,357,094 speakers), Dutch (Latn, 31,709,104 speakers), Yala (Latn, 200,000 speakers), Nzakara (Latn, 50,000 speakers), Navajo (Latn, 166,319 speakers), Belarusian (Cyrl, 10,064,517 speakers), Zapotec (Latn, 490,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Ekpeye (Latn, 226,000 speakers), Ngbaka (Latn, 1,020,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Ma’di (Latn, 584,000 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Makaa (Latn, 221,000 speakers), Southern Kisi (Latn, 360,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Dii (Latn, 71,000 speakers), Gulay (Latn, 250,478 speakers), South Central Banda (Latn, 244,000 speakers), Sar (Latn, 500,000 speakers), Mundani (Latn, 34,000 speakers), Kom (Latn, 360,685 speakers), Avokaya (Latn, 100,000 speakers), Mango (Latn, 77,000 speakers), Aghem (Latn, 38,843 speakers), Koonzime (Latn, 40,000 speakers), Igbo (Latn, 27,823,640 speakers), Ejagham (Latn, 120,000 speakers), Mfumte (Latn, 79,000 speakers), Bafut (Latn, 158,146 speakers), Dan (Latn, 1,099,244 speakers), Lugbara (Latn, 2,200,000 speakers), Fur (Latn, 1,230,163 speakers), Basaa (Latn, 332,940 speakers).</p>
+ [code: soft-dotted]
 
 
-* 💔 **ERROR** Failed with IndexError: list index out of range
-* ⚠ **WARN** GF_Latin_Minorities is almost fulfilled. Missing codepoints:
 
-	- 0xA78B (LATIN CAPITAL LETTER SALTILLO)
+</div>
+</details>
+
+<details>
+    <summary>⚠️ <b>WARN</b> Check for codepoints not covered by METADATA subsets. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.subsets.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>The following codepoints supported by the font are not covered by
+any subsets defined in the font's metadata file, and will never
+be served. You can solve this by either manually adding additional
+subset declarations to METADATA.pb, or by editing the glyphset
+definitions.</p>
+<ul>
+<li>U+02B0 MODIFIER LETTER SMALL H: not included in any glyphset definition</li>
+<li>U+02B7 MODIFIER LETTER SMALL W: not included in any glyphset definition</li>
+<li>U+02B8 MODIFIER LETTER SMALL Y: not included in any glyphset definition</li>
+<li>U+02B9 MODIFIER LETTER PRIME: not included in any glyphset definition</li>
+<li>U+02BA MODIFIER LETTER DOUBLE PRIME: not included in any glyphset definition</li>
+<li>U+02BD MODIFIER LETTER REVERSED COMMA: not included in any glyphset definition</li>
+<li>U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition</li>
+<li>U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition</li>
+<li>U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition</li>
+<li>U+02C1 MODIFIER LETTER REVERSED GLOTTAL STOP: not included in any glyphset definition</li>
+<li>U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi</li>
+<li>U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition</li>
+<li>U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition</li>
+<li>U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition</li>
+<li>U+02CB MODIFIER LETTER GRAVE ACCENT: not included in any glyphset definition</li>
+<li>U+02CC MODIFIER LETTER LOW VERTICAL LINE: not included in any glyphset definition</li>
+<li>U+02D7 MODIFIER LETTER MINUS SIGN: not included in any glyphset definition</li>
+<li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition</li>
+<li>U+02EC MODIFIER LETTER VOICING: not included in any glyphset definition</li>
+<li>U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition</li>
+<li>U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition</li>
+<li>U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, tifinagh, cherokee</li>
+<li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: math, old-permic, tifinagh, syriac, tai-le, coptic, canadian-aboriginal, malayalam</li>
+<li>U+030A COMBINING RING ABOVE: try adding syriac</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
+<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
+<li>U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition</li>
+<li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
+<li>U+0310 COMBINING CANDRABINDU: not included in any glyphset definition</li>
+<li>U+0311 COMBINING INVERTED BREVE: try adding coptic</li>
+<li>U+0312 COMBINING TURNED COMMA ABOVE: not included in any glyphset definition</li>
+<li>U+0313 COMBINING COMMA ABOVE: try adding old-permic</li>
+<li>U+0315 COMBINING COMMA ABOVE RIGHT: not included in any glyphset definition</li>
+<li>U+031B COMBINING HORN: not included in any glyphset definition</li>
+<li>U+0320 COMBINING MINUS SIGN BELOW: try adding syriac</li>
+<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: syriac, cherokee</li>
+<li>U+0325 COMBINING RING BELOW: try adding syriac</li>
+<li>U+0326 COMBINING COMMA BELOW: not included in any glyphset definition</li>
+<li>U+0327 COMBINING CEDILLA: not included in any glyphset definition</li>
+<li>U+0328 COMBINING OGONEK: not included in any glyphset definition</li>
+<li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac</li>
+<li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
+<li>U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: tifinagh, syriac, cherokee, gothic, caucasian-albanian</li>
+<li>U+0332 COMBINING LOW LINE: not included in any glyphset definition</li>
+<li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
+<li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
+<li>U+0336 COMBINING LONG STROKE OVERLAY: not included in any glyphset definition</li>
+<li>U+0337 COMBINING SHORT SOLIDUS OVERLAY: not included in any glyphset definition</li>
+<li>U+0338 COMBINING LONG SOLIDUS OVERLAY: not included in any glyphset definition</li>
+<li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
+<li>U+035C COMBINING DOUBLE BREVE BELOW: not included in any glyphset definition</li>
+<li>U+035D COMBINING DOUBLE BREVE: not included in any glyphset definition</li>
+<li>U+035F COMBINING DOUBLE MACRON BELOW: not included in any glyphset definition</li>
+<li>U+0361 COMBINING DOUBLE INVERTED BREVE: try adding coptic</li>
+<li>U+0362 COMBINING DOUBLE RIGHTWARDS ARROW BELOW: not included in any glyphset definition</li>
+<li>U+058F ARMENIAN DRAM SIGN: try adding armenian</li>
+<li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
+<li>U+1D05 LATIN LETTER SMALL CAPITAL D: not included in any glyphset definition</li>
+<li>U+1D3A MODIFIER LETTER CAPITAL N: not included in any glyphset definition</li>
+<li>U+1D43 MODIFIER LETTER SMALL A: not included in any glyphset definition</li>
+<li>U+1D49 MODIFIER LETTER SMALL E: not included in any glyphset definition</li>
+<li>U+1D4B MODIFIER LETTER SMALL OPEN E: not included in any glyphset definition</li>
+<li>U+1D4D MODIFIER LETTER SMALL G: not included in any glyphset definition</li>
+<li>U+1D52 MODIFIER LETTER SMALL O: not included in any glyphset definition</li>
+<li>U+1D53 MODIFIER LETTER SMALL OPEN O: not included in any glyphset definition</li>
+<li>U+1D58 MODIFIER LETTER SMALL U: not included in any glyphset definition</li>
+<li>U+1D5B MODIFIER LETTER SMALL V: not included in any glyphset definition</li>
+<li>U+1D7B LATIN SMALL CAPITAL LETTER I WITH STROKE: not included in any glyphset definition</li>
+<li>U+1D7D LATIN SMALL LETTER P WITH STROKE: not included in any glyphset definition</li>
+<li>U+1D7E LATIN SMALL CAPITAL LETTER U WITH STROKE: not included in any glyphset definition</li>
+<li>U+1D91 LATIN SMALL LETTER D WITH HOOK AND TAIL: not included in any glyphset definition</li>
+<li>U+1DA4 MODIFIER LETTER SMALL I WITH STROKE: not included in any glyphset definition</li>
+<li>U+1DB6 MODIFIER LETTER SMALL U BAR: not included in any glyphset definition</li>
+<li>U+1DBB MODIFIER LETTER SMALL Z: not included in any glyphset definition</li>
+<li>U+1DBF MODIFIER LETTER SMALL THETA: not included in any glyphset definition</li>
+<li>U+1DC4 COMBINING MACRON-ACUTE: not included in any glyphset definition</li>
+<li>U+1DC5 COMBINING GRAVE-MACRON: not included in any glyphset definition</li>
+<li>U+1DC6 COMBINING MACRON-GRAVE: not included in any glyphset definition</li>
+<li>U+1DC7 COMBINING ACUTE-MACRON: not included in any glyphset definition</li>
+<li>U+1DC8 COMBINING GRAVE-ACUTE-GRAVE: not included in any glyphset definition</li>
+<li>U+1DC9 COMBINING ACUTE-GRAVE-ACUTE: not included in any glyphset definition</li>
+<li>U+1DCA COMBINING LATIN SMALL LETTER R BELOW: not included in any glyphset definition</li>
+<li>U+2000 EN QUAD: not included in any glyphset definition</li>
+<li>U+2001 EM QUAD: not included in any glyphset definition</li>
+<li>U+2003 EM SPACE: try adding nushu</li>
+<li>U+2004 THREE-PER-EM SPACE: not included in any glyphset definition</li>
+<li>U+2005 FOUR-PER-EM SPACE: not included in any glyphset definition</li>
+<li>U+2006 SIX-PER-EM SPACE: not included in any glyphset definition</li>
+<li>U+2007 FIGURE SPACE: not included in any glyphset definition</li>
+<li>U+2008 PUNCTUATION SPACE: not included in any glyphset definition</li>
+<li>U+200A HAIR SPACE: not included in any glyphset definition</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: syloti-nagri, lepcha, tifinagh, oriya, tibetan, kaithi, siddham, bengali, khudawadi, tirhuta, mahajani, buhid, duployan, mongolian, new-tai-lue, zanabazar-square, telugu, khojki, myanmar, thai, saurashtra, tagalog, devanagari, modi, tai-viet, pahawh-hmong, newa, cham, thaana, takri, batak, javanese, rejang, gujarati, grantha, chakma, brahmi, kharoshthi, sogdian, kayah-li, bhaiksuki, balinese, psalter-pahlavi, sundanese, hanifi-rohingya, sharada, tamil, gunjala-gondi, limbu, nko, hanunoo, warang-citi, malayalam, meetei-mayek, kannada, buginese, phags-pa, manichaean, avestan, khmer, dogra, syriac, tai-le, tai-tham, masaram-gondi, sinhala, arabic, yi, lao, mandaic, hatran, hebrew, gurmukhi, tagbanwa</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: syloti-nagri, lepcha, tifinagh, oriya, tibetan, kaithi, siddham, bengali, khudawadi, tirhuta, mahajani, buhid, duployan, mongolian, new-tai-lue, zanabazar-square, telugu, khojki, myanmar, thai, saurashtra, tagalog, devanagari, modi, tai-viet, pahawh-hmong, newa, cham, thaana, batak, javanese, rejang, gujarati, grantha, chakma, brahmi, kharoshthi, sogdian, kayah-li, bhaiksuki, balinese, psalter-pahlavi, sundanese, hanifi-rohingya, sharada, tamil, gunjala-gondi, limbu, nko, hanunoo, warang-citi, malayalam, meetei-mayek, kannada, buginese, phags-pa, manichaean, avestan, khmer, dogra, syriac, tai-le, tai-tham, masaram-gondi, sinhala, arabic, yi, lao, mandaic, old-hungarian, takri, hebrew, gurmukhi, tagbanwa</li>
+<li>U+2010 HYPHEN: try adding one of: syloti-nagri, kharoshthi, kaithi, armenian, kayah-li, arabic, sundanese, coptic, yi, cham, lisu, hebrew, sora-sompeng</li>
+<li>U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi</li>
+<li>U+2012 FIGURE DASH: not included in any glyphset definition</li>
+<li>U+2015 HORIZONTAL BAR: try adding adlam</li>
+<li>U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition</li>
+<li>U+201B SINGLE HIGH-REVERSED-9 QUOTATION MARK: try adding adlam</li>
+<li>U+2021 DOUBLE DAGGER: try adding adlam</li>
+<li>U+2023 TRIANGULAR BULLET: not included in any glyphset definition</li>
+<li>U+2027 HYPHENATION POINT: not included in any glyphset definition</li>
+<li>U+202F NARROW NO-BREAK SPACE: try adding one of: yi, mongolian</li>
+<li>U+2030 PER MILLE SIGN: try adding adlam</li>
+<li>U+2034 TRIPLE PRIME: try adding math</li>
+<li>U+203C DOUBLE EXCLAMATION MARK: not included in any glyphset definition</li>
+<li>U+2042 ASTERISM: not included in any glyphset definition</li>
+<li>U+204A TIRONIAN SIGN ET: not included in any glyphset definition</li>
+<li>U+2052 COMMERCIAL MINUS SIGN: not included in any glyphset definition</li>
+<li>U+2070 SUPERSCRIPT ZERO: not included in any glyphset definition</li>
+<li>U+2071 SUPERSCRIPT LATIN SMALL LETTER I: not included in any glyphset definition</li>
+<li>U+2075 SUPERSCRIPT FIVE: not included in any glyphset definition</li>
+<li>U+2076 SUPERSCRIPT SIX: not included in any glyphset definition</li>
+<li>U+2077 SUPERSCRIPT SEVEN: not included in any glyphset definition</li>
+<li>U+2078 SUPERSCRIPT EIGHT: not included in any glyphset definition</li>
+<li>U+2079 SUPERSCRIPT NINE: not included in any glyphset definition</li>
+<li>U+207F SUPERSCRIPT LATIN SMALL LETTER N: not included in any glyphset definition</li>
+<li>U+2080 SUBSCRIPT ZERO: not included in any glyphset definition</li>
+<li>U+2081 SUBSCRIPT ONE: not included in any glyphset definition</li>
+<li>U+2082 SUBSCRIPT TWO: not included in any glyphset definition</li>
+<li>U+2083 SUBSCRIPT THREE: not included in any glyphset definition</li>
+<li>U+2084 SUBSCRIPT FOUR: not included in any glyphset definition</li>
+<li>U+2085 SUBSCRIPT FIVE: not included in any glyphset definition</li>
+<li>U+2086 SUBSCRIPT SIX: not included in any glyphset definition</li>
+<li>U+2087 SUBSCRIPT SEVEN: not included in any glyphset definition</li>
+<li>U+2088 SUBSCRIPT EIGHT: not included in any glyphset definition</li>
+<li>U+2089 SUBSCRIPT NINE: not included in any glyphset definition</li>
+<li>U+2100 ACCOUNT OF: not included in any glyphset definition</li>
+<li>U+2101 ADDRESSED TO THE SUBJECT: not included in any glyphset definition</li>
+<li>U+2105 CARE OF: not included in any glyphset definition</li>
+<li>U+2106 CADA UNA: not included in any glyphset definition</li>
+<li>U+2117 SOUND RECORDING COPYRIGHT: not included in any glyphset definition</li>
+<li>U+2126 OHM SIGN: not included in any glyphset definition</li>
+<li>U+212E ESTIMATED SYMBOL: not included in any glyphset definition</li>
+<li>U+2144 TURNED SANS-SERIF CAPITAL Y: not included in any glyphset definition</li>
+<li>U+2150 VULGAR FRACTION ONE SEVENTH: not included in any glyphset definition</li>
+<li>U+2151 VULGAR FRACTION ONE NINTH: not included in any glyphset definition</li>
+<li>U+2152 VULGAR FRACTION ONE TENTH: not included in any glyphset definition</li>
+<li>U+2153 VULGAR FRACTION ONE THIRD: not included in any glyphset definition</li>
+<li>U+2154 VULGAR FRACTION TWO THIRDS: not included in any glyphset definition</li>
+<li>U+2155 VULGAR FRACTION ONE FIFTH: not included in any glyphset definition</li>
+<li>U+2156 VULGAR FRACTION TWO FIFTHS: not included in any glyphset definition</li>
+<li>U+2158 VULGAR FRACTION FOUR FIFTHS: not included in any glyphset definition</li>
+<li>U+2159 VULGAR FRACTION ONE SIXTH: not included in any glyphset definition</li>
+<li>U+215A VULGAR FRACTION FIVE SIXTHS: not included in any glyphset definition</li>
+<li>U+215B VULGAR FRACTION ONE EIGHTH: not included in any glyphset definition</li>
+<li>U+215C VULGAR FRACTION THREE EIGHTHS: not included in any glyphset definition</li>
+<li>U+215D VULGAR FRACTION FIVE EIGHTHS: not included in any glyphset definition</li>
+<li>U+215E VULGAR FRACTION SEVEN EIGHTHS: not included in any glyphset definition</li>
+<li>U+2183 ROMAN NUMERAL REVERSED ONE HUNDRED: try adding symbols</li>
+<li>U+2184 LATIN SMALL LETTER REVERSED C: not included in any glyphset definition</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2202 PARTIAL DIFFERENTIAL: try adding math</li>
+<li>U+2205 EMPTY SET: try adding math</li>
+<li>U+2206 INCREMENT: try adding math</li>
+<li>U+220F N-ARY PRODUCT: try adding math</li>
+<li>U+2211 N-ARY SUMMATION: try adding math</li>
+<li>U+2219 BULLET OPERATOR: try adding one of: math, yi, tai-tham, symbols</li>
+<li>U+221A SQUARE ROOT: try adding math</li>
+<li>U+221E INFINITY: try adding math</li>
+<li>U+222B INTEGRAL: try adding math</li>
+<li>U+2236 RATIO: try adding math</li>
+<li>U+2248 ALMOST EQUAL TO: try adding math</li>
+<li>U+2260 NOT EQUAL TO: try adding math</li>
+<li>U+2264 LESS-THAN OR EQUAL TO: try adding math</li>
+<li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
+<li>U+2266 LESS-THAN OVER EQUAL TO: try adding math</li>
+<li>U+2267 GREATER-THAN OVER EQUAL TO: try adding math</li>
+<li>U+2317 VIEWDATA SQUARE: try adding symbols</li>
+<li>U+24B6 CIRCLED LATIN CAPITAL LETTER A: try adding symbols</li>
+<li>U+24D0 CIRCLED LATIN SMALL LETTER A: try adding symbols</li>
+<li>U+25A0 BLACK SQUARE: try adding symbols</li>
+<li>U+25A1 WHITE SQUARE: try adding symbols</li>
+<li>U+25AA BLACK SMALL SQUARE: try adding symbols</li>
+<li>U+25AB WHITE SMALL SQUARE: try adding symbols</li>
+<li>U+25B2 BLACK UP-POINTING TRIANGLE: try adding symbols</li>
+<li>U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25B4 BLACK UP-POINTING SMALL TRIANGLE: try adding symbols</li>
+<li>U+25B5 WHITE UP-POINTING SMALL TRIANGLE: try adding symbols</li>
+<li>U+25B6 BLACK RIGHT-POINTING TRIANGLE: try adding symbols</li>
+<li>U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25B8 BLACK RIGHT-POINTING SMALL TRIANGLE: try adding symbols</li>
+<li>U+25B9 WHITE RIGHT-POINTING SMALL TRIANGLE: try adding symbols</li>
+<li>U+25BC BLACK DOWN-POINTING TRIANGLE: try adding symbols</li>
+<li>U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25BE BLACK DOWN-POINTING SMALL TRIANGLE: try adding symbols</li>
+<li>U+25BF WHITE DOWN-POINTING SMALL TRIANGLE: try adding symbols</li>
+<li>U+25C0 BLACK LEFT-POINTING TRIANGLE: try adding symbols</li>
+<li>U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25C2 BLACK LEFT-POINTING SMALL TRIANGLE: try adding symbols</li>
+<li>U+25C3 WHITE LEFT-POINTING SMALL TRIANGLE: try adding symbols</li>
+<li>U+25C6 BLACK DIAMOND: try adding symbols</li>
+<li>U+25C7 WHITE DIAMOND: try adding symbols</li>
+<li>U+25C9 FISHEYE: try adding symbols</li>
+<li>U+25CA LOZENGE: try adding one of: math, symbols</li>
+<li>U+25CB WHITE CIRCLE: try adding symbols</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: kaithi, buhid, miao, tai-viet, pahawh-hmong, cham, bassa-vah, batak, kayah-li, psalter-pahlavi, sharada, limbu, hanunoo, malayalam, buginese, tai-le, armenian, syloti-nagri, tifinagh, mende-kikakui, adlam, khudawadi, mongolian, telugu, khojki, tagalog, devanagari, javanese, sogdian, marchen, balinese, gunjala-gondi, warang-citi, syriac, masaram-gondi, hebrew, coptic, yi, mandaic, elbasan, tagbanwa, tibetan, tirhuta, new-tai-lue, duployan, zanabazar-square, thai, saurashtra, modi, rejang, osage, grantha, brahmi, bhaiksuki, sundanese, hanifi-rohingya, caucasian-albanian, meetei-mayek, symbols, manichaean, khmer, dogra, wancho, lepcha, old-permic, oriya, siddham, bengali, ahom, myanmar, soyombo, newa, music, thaana, gujarati, math, chakma, kharoshthi, tamil, nko, kannada, phags-pa, tai-tham, sinhala, canadian-aboriginal, lao, takri, mahajani, gurmukhi</li>
+<li>U+25CF BLACK CIRCLE: try adding symbols</li>
+<li>U+25E6 WHITE BULLET: try adding symbols</li>
+<li>U+25FC BLACK MEDIUM SQUARE: try adding symbols</li>
+<li>U+2611 BALLOT BOX WITH CHECK: try adding symbols</li>
+<li>U+2612 BALLOT BOX WITH X: try adding symbols</li>
+<li>U+2661 WHITE HEART SUIT: try adding symbols</li>
+<li>U+2665 BLACK HEART SUIT: try adding symbols</li>
+<li>U+27A1 BLACK RIGHTWARDS ARROW: try adding symbols</li>
+<li>U+27E8 MATHEMATICAL LEFT ANGLE BRACKET: try adding math</li>
+<li>U+27E9 MATHEMATICAL RIGHT ANGLE BRACKET: try adding math</li>
+<li>U+2B05 LEFTWARDS BLACK ARROW: try adding symbols</li>
+<li>U+2B06 UPWARDS BLACK ARROW: try adding symbols</li>
+<li>U+2B07 DOWNWARDS BLACK ARROW: try adding symbols</li>
+<li>U+2B08 NORTH EAST BLACK ARROW: try adding symbols</li>
+<li>U+2B09 NORTH WEST BLACK ARROW: try adding symbols</li>
+<li>U+2B0A SOUTH EAST BLACK ARROW: try adding symbols</li>
+<li>U+2B0B SOUTH WEST BLACK ARROW: try adding symbols</li>
+<li>U+2B1B BLACK LARGE SQUARE: try adding symbols</li>
+<li>U+2B1C WHITE LARGE SQUARE: try adding symbols</li>
+<li>U+2B98 THREE-D TOP-LIGHTED LEFTWARDS EQUILATERAL ARROWHEAD: try adding symbols</li>
+<li>U+2B99 THREE-D RIGHT-LIGHTED UPWARDS EQUILATERAL ARROWHEAD: try adding symbols</li>
+<li>U+2B9A THREE-D TOP-LIGHTED RIGHTWARDS EQUILATERAL ARROWHEAD: try adding symbols</li>
+<li>U+2B9B THREE-D LEFT-LIGHTED DOWNWARDS EQUILATERAL ARROWHEAD: try adding symbols</li>
+<li>U+2B9C BLACK LEFTWARDS EQUILATERAL ARROWHEAD: try adding symbols</li>
+<li>U+2B9D BLACK UPWARDS EQUILATERAL ARROWHEAD: try adding symbols</li>
+<li>U+2B9E BLACK RIGHTWARDS EQUILATERAL ARROWHEAD: try adding symbols</li>
+<li>U+2B9F BLACK DOWNWARDS EQUILATERAL ARROWHEAD: try adding symbols</li>
+<li>U+2E17 DOUBLE OBLIQUE HYPHEN: try adding coptic</li>
+<li>U+2E38 TURNED DAGGER: not included in any glyphset definition</li>
+<li>U+3003 DITTO MARK: try adding one of: chinese-traditional, chinese-simplified, japanese, yi, chinese-hongkong, phags-pa</li>
+<li>U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition</li>
+<li>U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition</li>
+<li>U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition</li>
+<li>U+A71A MODIFIER LETTER LOWER RIGHT CORNER ANGLE: not included in any glyphset definition</li>
+<li>U+A7CB : not included in any glyphset definition</li>
+<li>U+A7CC : not included in any glyphset definition</li>
+<li>U+A7CD : not included in any glyphset definition</li>
+<li>U+AB53 LATIN SMALL LETTER CHI: not included in any glyphset definition</li>
+<li>U+FB01 LATIN SMALL LIGATURE FI: not included in any glyphset definition</li>
+<li>U+FB02 LATIN SMALL LIGATURE FL: not included in any glyphset definition</li>
+</ul>
+<p>Or you can add the above codepoints to one of the subsets supported by the font: <code>cyrillic</code>, <code>cyrillic-ext</code>, <code>greek-ext</code>, <code>latin</code>, <code>latin-ext</code>, <code>vietnamese</code></p>
+ [code: unreachable-subsetting]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>⚠️ <b>WARN</b> Name table strings must not contain the string 'Reserved Font Name'. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.license.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>Name table entry contains &quot;Reserved Font Name&quot; for a family name (&quot;Merriweather&quot;) that differs from the currently used family name (Merriweather), which is fine.</p>
+ [code: legacy-familyname]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>⚠️ <b>WARN</b> Ensure files are not too large. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>Font file is 4.3Mb; ideally it should be less than 1.0Mb</p>
+ [code: large-font]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>⚠️ <b>WARN</b> Is there kerning info for non-ligated sequences? <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.gpos.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>GPOS table lacks kerning info for the following non-ligated sequences:</p>
+<pre><code>- f + i
+
+- f + l
+</code></pre>
+ [code: lacks-kern-info]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>⚠️ <b>WARN</b> Are there caret positions declared for every ligature? <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.gdef.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>This font lacks caret position values for ligature glyphs on its GDEF table.</p>
+ [code: lacks-caret-pos]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>⚠️ <b>WARN</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.meta.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>This font file does not have a 'meta' table.</p>
+ [code: lacks-meta-table]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>⚠️ <b>WARN</b> Ensure Stylistic Sets have description. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.gsub.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* ⚠️ **WARN** <p>The stylistic set ss01 lacks a description string on the 'name' table.</p>
+ [code: missing-description]
+
+
+
+* ⚠️ **WARN** <p>The stylistic set ss02 lacks a description string on the 'name' table.</p>
+ [code: missing-description]
+
+
+
+* ⚠️ **WARN** <p>The stylistic set ss03 lacks a description string on the 'name' table.</p>
+ [code: missing-description]
+
+
+
+* ⚠️ **WARN** <p>The stylistic set ss04 lacks a description string on the 'name' table.</p>
+ [code: missing-description]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>🔥 <b>FAIL</b> Check name table IDs 1, 2, 16, 17 to conform to Italic style. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.name.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 🔥 **FAIL** <p>Name ID 17 (Typographic Subfamily Name) must contain 'Italic'.</p>
+ [code: bad-typographicsubfamilyname]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>🔥 <b>FAIL</b> Validates that when an instance record is included for the default instance, its subfamilyNameID value is set to a name ID whose string is equal to the string of either name ID 2 or 17, and its postScriptNameID value is set to a name ID whose string is equal to the string of name ID 6. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.fvar.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 🔥 **FAIL** <p>'Black Italic' instance has the same coordinates as the default instance; its subfamily name should be 'Black'</p>
+ [code: invalid-default-instance-subfamily-name]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>🔥 <b>FAIL</b> STAT table has Axis Value tables? <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.stat.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>🔥 <b>FAIL</b> Ensure the font supports case swapping for all its glyphs. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 🔥 **FAIL** <p>The following glyphs lack their case-swapping counterparts:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Glyph present in the font</th>
+<th align="left">Missing case-swapping counterpart</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">U+0280: LATIN LETTER SMALL CAPITAL R</td>
+<td align="left">U+01A6: LATIN LETTER YR</td>
+</tr>
+<tr>
+<td align="left">U+0460: CYRILLIC CAPITAL LETTER OMEGA</td>
+<td align="left">U+0461: CYRILLIC SMALL LETTER OMEGA</td>
+</tr>
+</tbody>
+</table>
+ [code: missing-case-counterparts]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>🔥 <b>FAIL</b> Checking OS/2 usWinAscent & usWinDescent. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 🔥 **FAIL** <p>OS/2.usWinAscent value should be equal or greater than 2476, but got 2456 instead</p>
+ [code: ascent]
+
+
+
+* 🔥 **FAIL** <p>OS/2.usWinDescent value should be equal or greater than 988, but got 606 instead</p>
+ [code: descent]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>🔥 <b>FAIL</b> Do we have the latest version of FontBakery installed? <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 🔥 **FAIL** <p>Current FontBakery version is 0.12.1, while a newer 0.12.6 is already available. Please upgrade it with 'pip install -U fontbakery'</p>
+ [code: outdated-fontbakery]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>🔥 <b>FAIL</b> Checking with fontTools.ttx <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 🔥 **FAIL** <p>WARNING: name id 24 missing from name table</p>
  
 
-	- And 0xA78C (LATIN SMALL LETTER SALTILLO)
- [code: missing-codepoints]
-* ⚠ **WARN** GF_TransLatin_Arabic is almost fulfilled. Missing codepoints:
-
-	- 0x1E34 (LATIN CAPITAL LETTER K WITH LINE BELOW)
 
 
-	- 0x1E35 (LATIN SMALL LETTER K WITH LINE BELOW)
-
-
-	- 0x1E96 (LATIN SMALL LETTER H WITH LINE BELOW)
+* 🔥 **FAIL** <p>WARNING: name id 48 missing from name table</p>
  
 
-	- And 0x02BD (MODIFIER LETTER REVERSED COMMA)
- [code: missing-codepoints]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 625, but got 606 instead. [code: descent]
-</div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
-
-
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
- [code: http]
-</div></details><details><summary>⚠ <b>WARN:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
-
-
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=14] [code: http-in-license-info]
-* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
- [code: http]
-</div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
-
-
-* ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* quotedblleft.ss01
-	* uni25FC
-	* Acircumflex
-	* bracketleft
-	* ntilde
-	* uni04ED
-	* six.lf
-	* quotereversed.ss01
-	* one
-	* uni0424.loclBGR and 217 more.
-
-Use -F or --full-lists to disable shortening of long lists.
-</div></details><details><summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets">com.google.fonts/check/ligature_carets</a>)</summary><div>
-
-
-* ⚠ **WARN** This font lacks caret position values for ligature glyphs on its GDEF table. [code: lacks-caret-pos]
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
-
-
-* ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
-
-	- f + i 
-
-	- And i + l [code: lacks-kern-info]
-</div></details><details><summary>⚠ <b>WARN:</b> Name table strings must not contain the string 'Reserved Font Name'. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/rfn">com.google.fonts/check/name/rfn</a>)</summary><div>
-
-
-* ⚠ **WARN** Name table entry contains "Reserved Font Name" for a family name ("Merriweather") that differs from the currently used family name (Merriweather), which is fine. [code: legacy-familyname]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
-
-
-* ⚠ **WARN** The stylistic set ss01 lacks a description string on the 'name' table. [code: missing-description]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
-
-
-* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-
-	- logicalnot.case
-
-	- notequal.case
-
-	- infinity.case
-
-	- emptyset.case
-
-	- minus.case
-
-	- greaterequal.case
-
-	- figuredash.case
-
-	- ij_acutecomb
-
-	- uni2236.case
-
-	- i.dot 
-
-	- And 13 more.
-
-Use -F or --full-lists to disable shortening of long lists.
- [code: unreachable-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
-
-
-* ⚠ **WARN** This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]
-* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
-
-The following glyphs do not have the recommended number of contours:
-
-	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
-
-	- Glyph name: Eth	Contours detected: 3	Expected: 2
-
-	- Glyph name: aogonek	Contours detected: 3	Expected: 2
-
-	- Glyph name: Dcroat	Contours detected: 3	Expected: 2
-
-	- Glyph name: eogonek	Contours detected: 3	Expected: 2
-
-	- Glyph name: Lslash	Contours detected: 2	Expected: 1
-
-	- Glyph name: Tbar	Contours detected: 2	Expected: 1
-
-	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: ohorn	Contours detected: 3	Expected: 2 
-
-	- And 66 more.
-
-Use -F or --full-lists to disable shortening of long lists.
- [code: contour-count]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
-
-
-* ⚠ **WARN** No dotted circle glyph present [code: missing-dotted-circle]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have jaggy segments:
-
-	* Q (U+0051): L<<525.0,-18.0>--<538.0,-17.0>>/B<<538.0,-17.0>-<396.0,0.0>-<300.5,86.0>> = 11.225567693469172
-
-	* at (U+0040): B<<1158.5,276.0>-<1170.0,354.0>-<1192.0,444.0>>/B<<1192.0,444.0>-<1160.0,365.0>-<1117.0,281.0>> = 8.314794413454118
-
-	* threeeighths (U+215C): B<<591.5,1193.0>-<533.0,1150.0>-<470.0,1127.0>>/B<<470.0,1127.0>-<582.0,1140.0>-<650.0,1095.0>> = 13.435318654260453
-
-	* threequarters (U+00BE): B<<591.5,1193.0>-<533.0,1150.0>-<470.0,1127.0>>/B<<470.0,1127.0>-<582.0,1140.0>-<650.0,1095.0>> = 13.435318654260453
-
-	* uni00B3 (U+00B3): B<<621.5,1413.0>-<563.0,1370.0>-<500.0,1347.0>>/B<<500.0,1347.0>-<612.0,1360.0>-<680.0,1315.0>> = 13.435318654260453
-
-	* uni0431 (U+0431): B<<320.0,1052.0>-<265.0,930.0>-<226.0,733.0>>/B<<226.0,733.0>-<267.0,828.0>-<332.5,908.0>> = 12.145984164623489
-
-	* uni051A (U+051A): L<<525.0,-18.0>--<538.0,-17.0>>/B<<538.0,-17.0>-<396.0,0.0>-<300.5,86.0>> = 11.225567693469172
-
-	* uni2083 (U+2083): B<<464.5,272.0>-<406.0,229.0>-<343.0,206.0>>/B<<343.0,206.0>-<455.0,219.0>-<523.0,174.0>> = 13.435318654260453
-
-	* uni2153 (U+2153): B<<1592.5,568.0>-<1534.0,525.0>-<1471.0,502.0>>/B<<1471.0,502.0>-<1583.0,515.0>-<1651.0,470.0>> = 13.435318654260453 
-
-	* And uni2154 (U+2154): B<<1658.5,568.0>-<1600.0,525.0>-<1537.0,502.0>>/B<<1537.0,502.0>-<1649.0,515.0>-<1717.0,470.0>> = 13.435318654260453 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[14] Merriweather-BlackItalic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
-
-
-* 💔 **ERROR** Failed with IndexError: list index out of range
-* ⚠ **WARN** GF_Latin_Minorities is almost fulfilled. Missing codepoints:
-
-	- 0xA78B (LATIN CAPITAL LETTER SALTILLO)
+* 🔥 **FAIL** <p>WARNING: name id 64 missing from name table</p>
  
 
-	- And 0xA78C (LATIN SMALL LETTER SALTILLO)
- [code: missing-codepoints]
-* ⚠ **WARN** GF_TransLatin_Arabic is almost fulfilled. Missing codepoints:
-
-	- 0x1E34 (LATIN CAPITAL LETTER K WITH LINE BELOW)
 
 
-	- 0x1E35 (LATIN SMALL LETTER K WITH LINE BELOW)
-
-
-	- 0x1E96 (LATIN SMALL LETTER H WITH LINE BELOW)
+* 🔥 **FAIL** <p>WARNING: name id 72 missing from name table</p>
  
 
-	- And 0x02BD (MODIFIER LETTER REVERSED COMMA)
- [code: missing-codepoints]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 625, but got 606 instead. [code: descent]
-</div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
-
-
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
- [code: http]
-</div></details><details><summary>⚠ <b>WARN:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
-
-
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=14] [code: http-in-license-info]
-* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
- [code: http]
-</div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
-
-
-* ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* quotedblleft.ss01
-	* uni25FC
-	* uni03060301.case
-	* bracketleft
-	* Ohungarumlaut
-	* uni1ECD
-	* ntilde
-	* uni03020309.case
-	* uni04ED
-	* six.lf and 349 more.
-
-Use -F or --full-lists to disable shortening of long lists.
-</div></details><details><summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets">com.google.fonts/check/ligature_carets</a>)</summary><div>
-
-
-* ⚠ **WARN** This font lacks caret position values for ligature glyphs on its GDEF table. [code: lacks-caret-pos]
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
-
-
-* ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
-
-	- f + i 
-
-	- And i + l [code: lacks-kern-info]
-</div></details><details><summary>⚠ <b>WARN:</b> Name table strings must not contain the string 'Reserved Font Name'. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/rfn">com.google.fonts/check/name/rfn</a>)</summary><div>
-
-
-* ⚠ **WARN** Name table entry contains "Reserved Font Name" for a family name ("Merriweather") that differs from the currently used family name (Merriweather), which is fine. [code: legacy-familyname]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
-
-
-* ⚠ **WARN** The stylistic set ss01 lacks a description string on the 'name' table. [code: missing-description]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
-
-
-* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-
-	- logicalnot.case
-
-	- notequal.case
-
-	- infinity.case
-
-	- emptyset.case
-
-	- minus.case
-
-	- greaterequal.case
-
-	- figuredash.case
-
-	- ij_acutecomb
-
-	- uni2236.case
-
-	- i.dot 
-
-	- And 13 more.
-
-Use -F or --full-lists to disable shortening of long lists.
- [code: unreachable-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
-
-
-* ⚠ **WARN** This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]
-* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
-
-The following glyphs do not have the recommended number of contours:
-
-	- Glyph name: B	Contours detected: 4	Expected: 2 or 3
-
-	- Glyph name: D	Contours detected: 3	Expected: 2
-
-	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
-
-	- Glyph name: Eth	Contours detected: 4	Expected: 2
-
-	- Glyph name: aogonek	Contours detected: 3	Expected: 2
-
-	- Glyph name: Dcaron	Contours detected: 4	Expected: 3
-
-	- Glyph name: Dcroat	Contours detected: 4	Expected: 2
-
-	- Glyph name: eogonek	Contours detected: 3	Expected: 2
-
-	- Glyph name: Lslash	Contours detected: 2	Expected: 1
-
-	- Glyph name: Tbar	Contours detected: 2	Expected: 1 
-
-	- And 90 more.
-
-Use -F or --full-lists to disable shortening of long lists.
- [code: contour-count]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
-
-
-* ⚠ **WARN** No dotted circle glyph present [code: missing-dotted-circle]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have jaggy segments:
-
-	* B (U+0042): B<<1231.0,925.5>-<1139.0,829.0>-<953.0,784.0>>/B<<953.0,784.0>-<1064.0,787.0>-<1143.5,745.5>> = 12.052384817680782
-
-	* Q (U+0051): B<<1061.0,109.5>-<946.0,25.0>-<790.0,-5.0>>/L<<790.0,-5.0>--<801.0,-4.0>> = 5.691098146923909
-
-	* at (U+0040): B<<1236.0,341.0>-<1239.0,392.0>-<1249.0,436.0>>/B<<1249.0,436.0>-<1198.0,297.0>-<1141.0,189.5>> = 7.344148075001017
-
-	* r (U+0072): L<<484.0,919.0>--<479.0,846.0>>/B<<479.0,846.0>-<501.0,923.0>-<546.5,989.0>> = 12.027147036855423
-
-	* racute (U+0155): L<<484.0,919.0>--<479.0,846.0>>/B<<479.0,846.0>-<501.0,923.0>-<546.5,989.0>> = 12.027147036855423
-
-	* rcaron (U+0159): L<<484.0,919.0>--<479.0,846.0>>/B<<479.0,846.0>-<501.0,923.0>-<546.5,989.0>> = 12.027147036855423
-
-	* uni0157 (U+0157): L<<484.0,919.0>--<479.0,846.0>>/B<<479.0,846.0>-<501.0,923.0>-<546.5,989.0>> = 12.027147036855423
-
-	* uni0211 (U+0211): L<<484.0,919.0>--<479.0,846.0>>/B<<479.0,846.0>-<501.0,923.0>-<546.5,989.0>> = 12.027147036855423
-
-	* uni0213 (U+0213): L<<484.0,919.0>--<479.0,846.0>>/B<<479.0,846.0>-<501.0,923.0>-<546.5,989.0>> = 12.027147036855423
-
-	* uni0412 (U+0412): B<<1231.0,925.5>-<1139.0,829.0>-<953.0,784.0>>/B<<953.0,784.0>-<1064.0,787.0>-<1143.5,745.5>> = 12.052384817680782 
-
-	* And 11 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[14] Merriweather-Italic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
-
-
-* 💔 **ERROR** Failed with IndexError: list index out of range
-* ⚠ **WARN** GF_Latin_Minorities is almost fulfilled. Missing codepoints:
-
-	- 0xA78B (LATIN CAPITAL LETTER SALTILLO)
+* 🔥 **FAIL** <p>WARNING: name id 144 missing from name table</p>
  
 
-	- And 0xA78C (LATIN SMALL LETTER SALTILLO)
- [code: missing-codepoints]
-* ⚠ **WARN** GF_TransLatin_Arabic is almost fulfilled. Missing codepoints:
 
-	- 0x1E34 (LATIN CAPITAL LETTER K WITH LINE BELOW)
 
 
-	- 0x1E35 (LATIN SMALL LETTER K WITH LINE BELOW)
 
+</div>
+</details>
 
-	- 0x1E96 (LATIN SMALL LETTER H WITH LINE BELOW)
- 
+<details>
+    <summary>🔥 <b>FAIL</b> Ensure dotted circle glyph is present and can attach marks. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/shaping.html#"></a></summary>
+    <div>
 
-	- And 0x02BD (MODIFIER LETTER REVERSED COMMA)
- [code: missing-codepoints]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 625, but got 606 instead. [code: descent]
-</div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
 
 
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
- [code: http]
-</div></details><details><summary>⚠ <b>WARN:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
 
 
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=14] [code: http-in-license-info]
-* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
- [code: http]
-</div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
+* 🔥 **FAIL** <p>The following glyphs could not be attached to the dotted circle glyph:</p>
+<pre><code>- uni031B
 
+- uni0328
 
-* ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* quotedblleft.ss01
-	* uni25FC
-	* uni043D.loclBGR
-	* bracketleft
-	* uni04ED
-	* Iogonek
-	* six.lf
-	* quotereversed.ss01
-	* one
-	* uni01F2 and 293 more.
+- uni0334
 
-Use -F or --full-lists to disable shortening of long lists.
-</div></details><details><summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets">com.google.fonts/check/ligature_carets</a>)</summary><div>
+- uni0335
 
+- uni0336
 
-* ⚠ **WARN** This font lacks caret position values for ligature glyphs on its GDEF table. [code: lacks-caret-pos]
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+- uni0337
 
+- uni0338
+</code></pre>
+ [code: unattached-dotted-circle-marks]
 
-* ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
 
-	- f + i 
 
-	- And i + l [code: lacks-kern-info]
-</div></details><details><summary>⚠ <b>WARN:</b> Name table strings must not contain the string 'Reserved Font Name'. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/rfn">com.google.fonts/check/name/rfn</a>)</summary><div>
+</div>
+</details>
 
+<details>
+    <summary>🔥 <b>FAIL</b> Check name ID 25 to end with "Italic" for Italic VFs. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.metadata.html#"></a></summary>
+    <div>
 
-* ⚠ **WARN** Name table entry contains "Reserved Font Name" for a family name ("Merriweather") that differs from the currently used family name (Merriweather), which is fine. [code: legacy-familyname]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
 
 
-* ⚠ **WARN** The stylistic set ss01 lacks a description string on the 'name' table. [code: missing-description]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
-* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
 
 
-* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
+* 🔥 **FAIL** <p>Name ID 25 must end with &quot;Italic&quot; for Italic fonts.</p>
+ [code: nameid25-missing-italic]
 
-	- logicalnot.case
 
-	- notequal.case
 
-	- infinity.case
+</div>
+</details>
 
-	- emptyset.case
+<details>
+    <summary>🔥 <b>FAIL</b> Shapes languages in all GF glyphsets. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.glyphset.html#"></a></summary>
+    <div>
 
-	- minus.case
+
+
+
+
+
+
+* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">cae_Latn (Lehar)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kss_Latn (Southern Kisi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kzr_Latn (Karang)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ybb_Latn (Yemba)</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0308.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0308.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">meq_Latn (Merey)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">snf_Latn (Noon)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bum_Latn (Bulu)</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dow_Latn (Doyayo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">sld_Latn (Sissala)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ikx_Latn (Ik)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">csk_Latn (Jola-Kasa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">gvl_Latn (Gulay)</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">tik_Latn (Tikar)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mbo_Latn (Mbo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">fue_Latn (Fulfulde, Borgu)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">cko_Latn (Anufo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">neb_Latn (Toura)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">lem_Latn (Nomaande)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ewo_Latn (Ewondo)</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kia_Latn (Kim)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kyq_Latn (Kenga)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bex_Latn (Jur Modo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mor_Latn (Moro)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Requires Small-cap: ꟈ; both buffers returned uniA7C8=0+1225</td>
+</tr>
+<tr>
+<td align="left">dag_Latn (Dagbani)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">tnr_Latn (Ménik)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bza_Latn (Bandi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kyf_Latn (Kouya)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nku_Latn (Kulango, Bouna)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">tuz_Latn (Turka)</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">sig_Latn (Paasaal)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bbj_Latn (Ghomala)</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mgo_Latn (Metaʼ)</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bim_Latn (Bimoba)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">yav_Latn (Yangben)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">wci_Latn (Gbe, Waci)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Requires Small-cap: ƒ; both buffers returned florin=0+985</td>
+</tr>
+<tr>
+<td align="left">avu_Latn (Avokaya)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">vag_Latn (Vagla)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">sil_Latn (Sisaala, Tumulung)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dyo_Latn (Jola-Fonyi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">wwa_Latn (Waama)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">sav_Latn (Saafi-Saafi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">wo_Latn (Wolof)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mzw_Latn (Deg)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ncu_Latn (Chumburung)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">udu_Latn (Uduk)</td>
+<td align="left">Shaper didn't attach uni0331.case to P</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0331 to p</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0331 to p</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0331.case to P</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0331 to p.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0331.case to P</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nfu_Latn (Mfumte)</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">yat_Latn (Yambeta)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mcn_Latn (Masana)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">fod_Latn (Foodo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">vut_Latn (Vute)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dop_Latn (Lukpa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mdt_Latn (Mbere)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ekm_Latn (Elip)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">soy_Latn (Miyobe)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">agc_Latn (Agatu)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">acd_Latn (Gikyode)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kye_Latn (Krache)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">lmp_Latn (Limbum)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">spp_Latn (Sénoufo, Supyire)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mfq_Latn (Moba)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bqj_Latn (Bandial)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bib_Latn (Bissa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mfd_Latn (Mendankwe-Nkwen)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">shz_Latn (Syenara Senoufo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">lee_Latn (Lyélé)</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">vai_Latn (Vai (Latin))</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">moa_Latn (Mwan)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">fan_Latn (Fang)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dtm_Latn (Tomo Kan Dogon)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ttq_Latn (Tawallammat Tamajaq)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ntr_Latn (Delo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bm_Latn (Bambara)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">lg_Latn (Ganda)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dyi_Latn (Sénoufo, Djimini)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kpo_Latn (Ikposo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">rub_Latn (Gungu)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dnj_Latn (Dan)</td>
+<td align="left">Shaper didn't attach uni0302 to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030B to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030F to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030F to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030B to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030F to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030F to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030B to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030B to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030F to uni0264.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030F to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0264.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uni0264.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0264.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030B to uni0264.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030B to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0264.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect uni0181</td>
+</tr>
+<tr>
+<td align="left">mfi_Latn (Wandala)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">gux_Latn (Gourmanchéma)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">fvr_Latn (Fur)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">fuq_Latn (Central-Eastern Niger Fulfulde)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bkm_Latn (Kom)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nym_Latn (Nyamwezi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nnh_Latn (Ngiemboon)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bss_Latn (Akoose)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">etu_Latn (Ejagham)</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">lnl_Latn (South Central Banda)</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0308.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0308.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0308.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">sxw_Latn (Saxwe Gbe)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">daa_Latn (Dangaléat)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bqv_Latn (Koro Wachi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bud_Latn (Ntcham)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">adj_Latn (Adioukrou)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">khq_Latn (Koyra Chiini)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">lia_Latn (Limba, West-Central)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nus_Latn (Nuer)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">tem_Latn (Timne)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">gnd_Latn (Zulgo-Gemzek)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">pil_Latn (Yom)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">wan_Latn (Wan)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">log_Latn (Logo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kao_Latn (Xaasongaxango)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mnf_Latn (Mundani)</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">twq_Latn (Tasawaq)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ksf_Latn (Bafia)</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ksp_Latn (Kabba)</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0308.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0308.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0308.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">dgi_Latn (Northern Dagara)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nmg_Latn (Kwasio)</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">blo_Latn (Anii)</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dnj_Latn_LR (Dan)</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni0265</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0265</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0265</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0265</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">ach_Latn (Acoli)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kqp_Latn (Kimré)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dyu_Latn (Dyula)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">fuh_Latn (Fulfulde, Western Niger)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">sbd_Latn (Southern Samo)</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0308.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0308.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0308.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ozm_Latn (Koonzime)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dur_Latn (Dii)</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni0327.case</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni0327.case</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni0327.case</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni0327.case</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni0327.case</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni0327.case</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni0327.case</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni0327.case</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni0327.case</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni0327.case</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">tcd_Latn (Tafi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Requires Small-cap: ƒ; both buffers returned florin=0+985</td>
+</tr>
+<tr>
+<td align="left">bfa_Latn (Bari)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">hag_Latn (Hanga)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mge_Latn (Mango)</td>
+<td align="left">Shaper didn't attach uni0330 to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0330</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0330</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0330</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0330</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0330</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0330</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uni0330</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uni0330</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0330</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0330</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0330</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0330</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uni0330</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uni0330</td>
+</tr>
+<tr>
+<td align="left">xon_Latn (Konkomba)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dip_Latn (Dinka, Northeastern)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mev_Latn (Mano)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">azo_Latn (Awing)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">lam_Latn (Lamba)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">tuq_Latn (Tedaga)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bfd_Latn (Bafut)</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">laj_Latn (Lango [Uganda])</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mas_Latn (Masai)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nmz_Latn (Nawdm)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kqs_Latn (Kissi, Northern)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">idu_Latn (Idoma)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">las_Latn (Lama (Togo))</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">pnz_Latn (Pana (Central African Republic))</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">biv_Latn (Birifor, Southern)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nuv_Latn (Nuni, Northern)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bcw_Latn (Bana)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bzw_Latn (Basa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">avn_Latn (Avatime)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Requires Small-cap: ƒ; both buffers returned florin=0+985</td>
+</tr>
+<tr>
+<td align="left">maw_Latn (Mampruli)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">fuc_Latn (Pulaar)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dua_Latn (Duala)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dts_Latn (Dogon, Toro So)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mwk_Latn (Kita Maninkakan)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kmy_Latn (Koma)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">sba_Latn (Ngambay)</td>
+<td align="left">Shaper didn't attach uni0330 to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0330 to uni018E</td>
+</tr>
+<tr>
+<td align="left">lok_Latn (Loko)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bsc_Latn (Bassari)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">gjn_Latn (Gonja)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kzc_Latn (Bondoukou Kulango)</td>
+<td align="left">Shaper didn't attach tildecomb.case to uniA7B6</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uniA7B6</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb to uniA7AE.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb to uniA7B7.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uniA7B6</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nza_Latn (Tigon Mbembe)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ife_Latn (Ifè)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ses_Latn (Koyraboro Senni)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">knf_Latn (Mankanya)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">agq_Latn (Aghem)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mnk_Latn (Mandinka)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kdh_Latn (Tem)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ny_Latn (Nyanja)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bas_Latn (Basaa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mfv_Latn (Mandjak)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">fuf_Latn (Pular)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mgc_Latn (Morokodo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">yas_Latn (Nugunu)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">gmm_Latn (Gbaya-Mbodomo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bjt_Latn (Balanta-Ganja)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">taq_Latn (Tamasheq, Latin)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dzg_Latn (Dazaga)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">xrb_Latn (Karaboro, Eastern)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ted_Latn (Krumen, Tepo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">yam_Latn (Yamba)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nhb_Latn (Beng)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">anv_Latn (Denya)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">krs_Latn (Gbaya (Sudan))</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bbo_Latn (Northern Bobo Madaré)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">pbi_Latn (Parkwa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">fmp_Latn (Fe’fe’)</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ktj_Latn (Krumen, Plapo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kus_Latn (Kusaal)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mwm_Latn (Sar)</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">gej_Latn (Gen)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">gng_Latn (Ngangam)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">muy_Latn (Muyang)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mua_Latn (Mundang)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">boz_Latn (Tiéyaxo Bozo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nnw_Latn (Southern Nuni)</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">gur_Latn (Frafra)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">emk_Latn (Maninkakan, Eastern)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ken_Latn (Kenyang)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">loq_Latn (Lobala)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ddn_Latn (Dendi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">naw_Latn (Nawuri)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mls_Latn (Masalit)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mbu_Latn (Mbula-Bwazza)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bzx_Latn (Bozo, Hainyaxo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">xwe_Latn (Gbe, Xwela)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">fub_Latn (Fulfulde, Adamawa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">tvu_Latn (Tunen)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">keu_Latn (Akebu)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">xed_Latn (Hdi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">byv_Latn (Medumba)</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mmu_Latn (Mmaala)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">lns_Latn (Lamnso’)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">tod_Latn (Toma)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect uni028B</td>
+</tr>
+<tr>
+<td align="left">lgg_Latn (Lugbara)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">gkp_Latn (Kpelle, Guinea)</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni0328.case</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni0328.case</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328 to uni025B</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0190</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni025B</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni025B</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0190</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0190</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328 to uni0254</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0186</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0254</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0254</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0186</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0186</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328 to uni0259.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0259.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0259.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni0328.case</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni0328.case</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328 to uni025B.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0190</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni025B.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni025B.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0190</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0190</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328 to uni0254.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0186</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0254.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0254.sc</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0186</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0328.case to uni0186</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">knp_Latn (Kwanja)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">myk_Latn (Mamara Senoufo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">gud_Latn (Dida, Yocoboué)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bsp_Latn (Baga Sitemu)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">god_Latn (Godié)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dno_Latn (Ndrulo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nhu_Latn (Noone)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">toq_Latn (Toposa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kib_Latn (Koalib)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Requires Small-cap: ɐ; both buffers returned uni2C6F=0+1320</td>
+</tr>
+<tr>
+<td align="left">xsm_Latn (Kasem)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">cme_Latn (Cerma)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mdj_Latn (Mangbetu)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">cou_Latn (Wamey)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ade_Latn (Adele)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ahs_Latn (Ashe)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ee_Latn (Ewe)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Requires Small-cap: ƒ; both buffers returned florin=0+985</td>
+</tr>
+<tr>
+<td align="left">kvf_Latn (Kabalai)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">gde_Latn (Gude)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ndz_Latn (Ndogo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bax_Latn (Bamun, Latin)</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mcu_Latn (Mambila, Cameroon)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">lig_Latn (Ligbi)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">tpm_Latn (Tampulma)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">sok_Latn (Sokoro)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">kbp_Latn (Kabiyé)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mcp_Latn (Makaa)</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">xuo_Latn (Kuo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">srr_Latn (Serer)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bze_Latn (Jenaama Bozo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ig_Latn (Igbo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">gaa_Latn (Ga)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect uni01A9</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">The locl feature did not affect uni01B7</td>
+</tr>
+<tr>
+<td align="left">gov_Latn (Goo)</td>
+<td align="left">Shaper didn't attach uni0302 to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">nko_Latn (Nkonya)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">sef_Latn (Cebaara Senoufo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">jgo_Latn (Ngomba)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nfr_Latn (Nafaanra)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">mur_Latn (Murle)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ffm_Latn (Maasina Fulfulde)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">lob_Latn (Lobi)</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">pug_Latn (Phuie)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">lun_Latn (Lunda)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">dje_Latn (Zarma)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ahl_Latn (Igo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ajg_Latn (Aja)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">saf_Latn (Safaliba)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">ndv_Latn (Ndut)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">nyb_Latn (Nyangbo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Requires Small-cap: ƒ; both buffers returned florin=0+985</td>
+</tr>
+<tr>
+<td align="left">kkj_Latn (Kako)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">bav_Latn (Vengo)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+<tr>
+<td align="left">gna_Latn (Kaansa)</td>
+<td align="left">The locl feature did not affect Eng</td>
+</tr>
+</tbody>
+</table>
+ [code: failed-language-shaping]
+
+
+
+* ⚠️ **WARN** <p>GF_Latin_African glyphset:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Language</th>
+<th align="left">FAIL messages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">kfo_Latn (Koro)</td>
+<td align="left">No exemplar glyphs were defined for language Koro</td>
+</tr>
+<tr>
+<td align="left">cch_Latn (Atsam)</td>
+<td align="left">No exemplar glyphs were defined for language Atsam</td>
+</tr>
+<tr>
+<td align="left">amo_Latn (Amo)</td>
+<td align="left">No exemplar glyphs were defined for language Amo</td>
+</tr>
+<tr>
+<td align="left">mgy_Latn (Mbunga)</td>
+<td align="left">No exemplar glyphs were defined for language Mbunga</td>
+</tr>
+<tr>
+<td align="left">ggn_Latn (Eastern Gurung, Latin)</td>
+<td align="left">No exemplar glyphs were defined for language Eastern Gurung, Latin</td>
+</tr>
+<tr>
+<td align="left">hna_Latn (Mina)</td>
+<td align="left">No exemplar glyphs were defined for language Mina</td>
+</tr>
+<tr>
+<td align="left">syi_Latn (Seki)</td>
+<td align="left">No exemplar glyphs were defined for language Seki</td>
+</tr>
+</tbody>
+</table>
+ [code: warning-language-shaping]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>🔥 <b>FAIL</b> Combined length of family and style must not exceed 32 characters. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.name.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 262 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 262 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 264 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 264 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 266 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 266 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 267 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 267 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 268 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 268 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 269 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 269 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 269 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 269 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 270 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 270 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 271 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 271 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 272 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 272 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 273 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 273 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 274 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 274 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 275 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 275 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 276 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 276 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 277 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 277 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 278 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 278 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 279 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 279 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 280 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 280 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 281 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 281 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 282 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 282 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 283 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 283 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 284 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 284 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 285 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 285 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 286 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 286 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 287 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 287 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 288 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 288 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 289 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 289 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 290 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 290 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 291 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 291 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 292 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 292 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 293 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 293 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 294 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 294 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 295 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 295 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 296 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 296 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 297 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 297 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 298 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 298 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 299 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 299 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 300 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 300 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 301 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 301 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 302 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 302 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 303 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 303 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 304 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 304 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 305 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 305 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 306 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 306 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 307 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 307 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 308 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 308 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 309 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 309 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 310 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 310 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 311 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 311 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 312 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 312 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 313 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 313 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 314 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 314 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 315 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 315 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 316 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 316 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 317 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 317 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 318 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 318 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 319 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 319 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 320 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 320 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 321 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 321 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 322 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 322 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 323 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 323 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 324 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 324 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 325 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 325 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 326 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 326 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 327 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 327 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 328 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 328 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 329 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 329 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 330 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 330 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 331 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 331 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 332 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 332 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 333 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 333 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 334 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 334 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 335 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 335 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 336 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 336 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 337 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 337 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 338 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 338 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 339 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 339 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 340 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 340 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 341 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 341 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 342 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 342 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 343 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 343 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 344 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 344 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 345 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 345 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 346 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 346 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 347 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 347 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 348 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 348 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 349 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 349 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 351 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 351 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 352 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 352 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 353 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 353 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 354 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 354 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 355 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 355 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 356 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 356 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 357 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 357 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 358 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 358 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 359 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 359 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 360 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 360 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 361 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 361 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 362 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 362 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 363 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 363 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 364 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 364 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 365 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 365 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 366 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 366 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 367 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 367 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 368 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 368 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 369 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 369 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 370 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 370 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 371 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 371 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 372 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 372 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 373 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 373 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 374 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 374 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 375 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 375 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 376 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 376 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 377 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 377 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 378 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 378 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 379 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 379 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 380 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 380 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 381 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 381 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 382 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 382 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 383 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 383 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 384 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 384 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 385 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 385 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 386 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 386 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 387 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 387 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 388 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 388 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 389 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 389 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 390 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 390 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 391 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 391 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>🔥 <b>FAIL</b> Checking file is named canonically. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 🔥 **FAIL** <p>Expected &quot;Merriweather[opsz,wdth,wght].ttf. Got Merriweather-Italic[opsz,wdth,wght].ttf.</p>
+ [code: bad-filename]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>🔥 <b>FAIL</b> Check font names are correct <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.name.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 🔥 **FAIL** <p>Font names are incorrect:</p>
+<table>
+<thead>
+<tr>
+<th align="left">nameID</th>
+<th align="left">current</th>
+<th align="left">expected</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Family Name</td>
+<td align="left">Merriweather Black</td>
+<td align="left">Merriweather Black</td>
+</tr>
+<tr>
+<td align="left">Subfamily Name</td>
+<td align="left"><strong>Italic</strong></td>
+<td align="left"><strong>Regular</strong></td>
+</tr>
+<tr>
+<td align="left">Full Name</td>
+<td align="left">Merriweather Black</td>
+<td align="left">Merriweather Black</td>
+</tr>
+<tr>
+<td align="left">Postscript Name</td>
+<td align="left">Merriweather-Black</td>
+<td align="left">Merriweather-Black</td>
+</tr>
+<tr>
+<td align="left">Typographic Family Name</td>
+<td align="left">Merriweather</td>
+<td align="left">Merriweather</td>
+</tr>
+<tr>
+<td align="left">Typographic Subfamily Name</td>
+<td align="left">Black</td>
+<td align="left">Black</td>
+</tr>
+</tbody>
+</table>
+ [code: bad-names]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>🔥 <b>FAIL</b> Check variable font instances <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.varfont.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 🔥 **FAIL** <p>fvar instances are incorrect:</p>
+<ul>
+<li>Add missing instances</li>
+<li>Delete additional instances</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th align="left">Name</th>
+<th align="left">current</th>
+<th align="left">expected</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">SemiBold 72 Cond Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 72 Wide Italic</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 144 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 48 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 64 Italic</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 48 Cond Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 72 Wide Italic</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 64 Cond Italic</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 12 Italic</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 144 Cond Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 64 Cond Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 48 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 48 Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 12 Wide Italic</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 144 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 144 Cond Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 64 Wide Italic</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 64 Cond Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 48 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 72 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 64 Wide Italic</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 144 Wide Italic</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 144 Wide Italic</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 48 Wide Italic</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 12 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 144 Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 72 Cond Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 72 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 12 Cond Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 72 Cond Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 72 Italic</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 72 Cond Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 144 Cond Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 12 Wide Italic</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 12 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 72 Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 64 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold Wide Italic</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 72 Wide Italic</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 12 Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 64 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 144 Wide Italic</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 24 Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 48 Cond Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 64 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 48 Cond Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 64 Wide Italic</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 72 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 72 Wide Italic</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 48 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 72 Cond Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 12 Cond Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 12 Cond Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 64 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 48 Cond Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold Wide Italic</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 144 Cond Italic</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 144 Cond Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 48 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 12 Wide Italic</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 48 Wide Italic</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 72 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 24 Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium Cond Italic</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 72 Cond Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 72 Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 12 Cond Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 12 Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 64 Wide Italic</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 12 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 64 Cond Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 24 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 72 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 48 Wide Italic</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 64 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 64 Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 24 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 144 Wide Italic</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 64 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 12 Wide Italic</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 72 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 12 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 144 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold Cond Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 48 Italic</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black Cond Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 24 Italic</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 48 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 144 Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 144 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 64 Cond Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 64 Cond Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 48 Cond Italic</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 48 Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 48 Cond Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 48 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 12 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 12 Cond Italic</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 144 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 144 Cond Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 12 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium Wide Italic</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 48 Cond Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold Cond Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 64 Cond Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 64 Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 144 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 48 Wide Italic</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 24 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 12 Cond Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 12 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 144 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold Cond Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular Cond Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold Wide Italic</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 72 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light Cond Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 144 Italic</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold Italic</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=7.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 64 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 24 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 144 Cond Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 12 Cond Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 72 Cond Italic</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light</td>
+<td align="left">N/A</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=7.0</td>
+</tr>
+<tr>
+<td align="left">Regular</td>
+<td align="left">N/A</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=7.0</td>
+</tr>
+<tr>
+<td align="left">Medium</td>
+<td align="left">N/A</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=7.0</td>
+</tr>
+<tr>
+<td align="left">SemiBold</td>
+<td align="left">N/A</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=7.0</td>
+</tr>
+<tr>
+<td align="left">Bold</td>
+<td align="left">N/A</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=7.0</td>
+</tr>
+<tr>
+<td align="left">ExtraBold</td>
+<td align="left">N/A</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=7.0</td>
+</tr>
+<tr>
+<td align="left">Black</td>
+<td align="left">N/A</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=7.0</td>
+</tr>
+</tbody>
+</table>
+ [code: bad-fvar-instances]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>🔥 <b>FAIL</b> Check variable font instances don't have duplicate names <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.varfont.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 🔥 **FAIL** <p>Following instances names are duplicate:</p>
+<ul>
+<li>Bold 12 Italic</li>
+</ul>
+ [code: duplicate-instance-names]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>💥 <b>ERROR</b> Validate STAT particle names and values match the fallback names in GFAxisRegistry. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.axisregistry.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 💥 **ERROR** <p>Failed with AttributeError: 'NoneType' object has no attribute 'toUnicode'</p>
+<pre><code>  File &quot;/home/runner/work/Merriweather4/Merriweather4/venv-test/lib/python3.10/site-packages/fontbakery/checkrunner.py&quot;, line 213, in _run_check
+    subresults = list(subresults)
+  File &quot;/home/runner/work/Merriweather4/Merriweather4/venv-test/lib/python3.10/site-packages/fontbakery/checks/googlefonts/axisregistry.py&quot;, line 191, in com_google_fonts_check_STAT_gf_axisregistry_names
+    name = normalize_name(name_entry.toUnicode())
+
+</code></pre>
+ [code: failed-check]
+
+
+
+</div>
+</details>
+</div>
+</details>
 
-	- greaterequal.case
 
-	- figuredash.case
 
-	- ij_acutecomb
 
-	- uni2236.case
-
-	- i.dot 
-
-	- And 13 more.
-
-Use -F or --full-lists to disable shortening of long lists.
- [code: unreachable-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
-
-
-* ⚠ **WARN** This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]
-* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
-
-The following glyphs do not have the recommended number of contours:
-
-	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
-
-	- Glyph name: Eth	Contours detected: 3	Expected: 2
-
-	- Glyph name: aogonek	Contours detected: 3	Expected: 2
-
-	- Glyph name: Dcroat	Contours detected: 3	Expected: 2
-
-	- Glyph name: eogonek	Contours detected: 3	Expected: 2
-
-	- Glyph name: Lslash	Contours detected: 2	Expected: 1
-
-	- Glyph name: Tbar	Contours detected: 2	Expected: 1
-
-	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: ohorn	Contours detected: 3	Expected: 2 
-
-	- And 66 more.
-
-Use -F or --full-lists to disable shortening of long lists.
- [code: contour-count]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
-
-
-* ⚠ **WARN** No dotted circle glyph present [code: missing-dotted-circle]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have jaggy segments:
-
-	* at (U+0040): B<<1182.0,281.0>-<1190.0,359.0>-<1210.0,441.0>>/B<<1210.0,441.0>-<1176.0,355.0>-<1133.5,270.0>> = 7.864346187174729
-
-	* r (U+0072): L<<421.0,931.0>--<411.0,851.0>>/B<<411.0,851.0>-<434.0,912.0>-<485.5,977.5>> = 13.533893714405663
-
-	* racute (U+0155): L<<421.0,931.0>--<411.0,851.0>>/B<<411.0,851.0>-<434.0,912.0>-<485.5,977.5>> = 13.533893714405663
-
-	* rcaron (U+0159): L<<421.0,931.0>--<411.0,851.0>>/B<<411.0,851.0>-<434.0,912.0>-<485.5,977.5>> = 13.533893714405663
-
-	* threeeighths (U+215C): B<<601.0,1194.0>-<540.0,1150.0>-<478.0,1127.0>>/B<<478.0,1127.0>-<589.0,1140.0>-<660.5,1094.0>> = 13.67334308484625
-
-	* threequarters (U+00BE): B<<601.0,1194.0>-<540.0,1150.0>-<478.0,1127.0>>/B<<478.0,1127.0>-<589.0,1140.0>-<660.5,1094.0>> = 13.67334308484625
-
-	* uni00B3 (U+00B3): B<<631.0,1414.0>-<570.0,1370.0>-<508.0,1347.0>>/B<<508.0,1347.0>-<619.0,1360.0>-<690.5,1314.0>> = 13.67334308484625
-
-	* uni0157 (U+0157): L<<421.0,931.0>--<411.0,851.0>>/B<<411.0,851.0>-<434.0,912.0>-<485.5,977.5>> = 13.533893714405663
-
-	* uni0211 (U+0211): L<<421.0,931.0>--<411.0,851.0>>/B<<411.0,851.0>-<434.0,912.0>-<485.5,977.5>> = 13.533893714405663
-
-	* uni0213 (U+0213): L<<421.0,931.0>--<411.0,851.0>>/B<<411.0,851.0>-<434.0,912.0>-<485.5,977.5>> = 13.533893714405663 
-
-	* And 7 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[14] Merriweather-Black.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
-
-
-* 💔 **ERROR** Failed with IndexError: list index out of range
-* ⚠ **WARN** GF_Latin_Minorities is almost fulfilled. Missing codepoints:
-
-	- 0xA78B (LATIN CAPITAL LETTER SALTILLO)
- 
-
-	- And 0xA78C (LATIN SMALL LETTER SALTILLO)
- [code: missing-codepoints]
-* ⚠ **WARN** GF_TransLatin_Arabic is almost fulfilled. Missing codepoints:
-
-	- 0x1E34 (LATIN CAPITAL LETTER K WITH LINE BELOW)
-
-
-	- 0x1E35 (LATIN SMALL LETTER K WITH LINE BELOW)
-
-
-	- 0x1E96 (LATIN SMALL LETTER H WITH LINE BELOW)
- 
-
-	- And 0x02BD (MODIFIER LETTER REVERSED COMMA)
- [code: missing-codepoints]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 625, but got 606 instead. [code: descent]
-</div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
-
-
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
- [code: http]
-</div></details><details><summary>⚠ <b>WARN:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
-
-
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=14] [code: http-in-license-info]
-* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
- [code: http]
-</div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
-
-
-* ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* quotedblleft.ss01
-	* uni25FC
-	* uni03060301.case
-	* Ohungarumlaut
-	* uni1ECD
-	* ntilde
-	* uni03020309.case
-	* uni04ED
-	* uni0401
-	* six.lf and 280 more.
-
-Use -F or --full-lists to disable shortening of long lists.
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
-
-
-* ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
-
-	- f + i 
-
-	- And i + l [code: lacks-kern-info]
-</div></details><details><summary>⚠ <b>WARN:</b> Name table strings must not contain the string 'Reserved Font Name'. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/rfn">com.google.fonts/check/name/rfn</a>)</summary><div>
-
-
-* ⚠ **WARN** Name table entry contains "Reserved Font Name" for a family name ("Merriweather") that differs from the currently used family name (Merriweather), which is fine. [code: legacy-familyname]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
-
-
-* ⚠ **WARN** The stylistic set ss01 lacks a description string on the 'name' table. [code: missing-description]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
-
-
-* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-
-	- quoteright.001
-
-	- figuredash.case
-
-	- ij_acutecomb
-
-	- i.dot
-
-	- I.uc
-
-	- IJ_acutecomb
-
-	- ij_acutecomb.ss02
-
-	- ij.ss02 
-
-	- And five.001
- [code: unreachable-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
-
-
-* ⚠ **WARN** This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]
-* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
-
-The following glyphs do not have the recommended number of contours:
-
-	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
-
-	- Glyph name: aogonek	Contours detected: 3	Expected: 2
-
-	- Glyph name: eogonek	Contours detected: 3	Expected: 2
-
-	- Glyph name: Tbar	Contours detected: 2	Expected: 1
-
-	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: ohorn	Contours detected: 3	Expected: 2
-
-	- Glyph name: uhorn	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni01E5	Contours detected: 4	Expected: 2
-
-	- Glyph name: uni01EA	Contours detected: 3	Expected: 2 
-
-	- And 55 more.
-
-Use -F or --full-lists to disable shortening of long lists.
- [code: contour-count]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
-
-
-* ⚠ **WARN** No dotted circle glyph present [code: missing-dotted-circle]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have jaggy segments:
-
-	* B (U+0042): B<<1125.0,854.5>-<1050.0,807.0>-<957.0,794.0>>/B<<957.0,794.0>-<1154.0,794.0>-<1270.5,705.5>> = 7.957525226917127
-
-	* at (U+0040): B<<1267.0,268.5>-<1275.0,336.0>-<1293.0,438.0>>/B<<1293.0,438.0>-<1251.0,322.0>-<1191.5,215.0>> = 9.895769735866496
-
-	* three (U+0033): B<<776.0,859.0>-<687.0,804.0>-<587.0,769.0>>/B<<587.0,769.0>-<719.0,781.0>-<824.5,747.0>> = 14.095617311453914
-
-	* threeeighths (U+215C): B<<621.0,1206.0>-<542.0,1137.0>-<423.0,1103.0>>/B<<423.0,1103.0>-<582.0,1118.0>-<663.5,1056.0>> = 10.55608414094943
-
-	* threequarters (U+00BE): B<<621.0,1206.0>-<542.0,1137.0>-<423.0,1103.0>>/B<<423.0,1103.0>-<582.0,1118.0>-<663.5,1056.0>> = 10.55608414094943
-
-	* uni00B3 (U+00B3): B<<621.0,1426.0>-<542.0,1357.0>-<423.0,1323.0>>/B<<423.0,1323.0>-<582.0,1338.0>-<663.5,1276.0>> = 10.55608414094943
-
-	* uni040E (U+040E): B<<579.0,412.0>-<578.0,428.0>-<574.0,444.0>>/L<<574.0,444.0>--<579.0,412.0>> = 5.15558431740624
-
-	* uni040E (U+040E): L<<574.0,444.0>--<579.0,412.0>>/B<<579.0,412.0>-<578.0,428.0>-<574.0,444.0>> = 5.304324775522795
-
-	* uni0412 (U+0412): B<<1125.0,854.5>-<1050.0,807.0>-<957.0,794.0>>/B<<957.0,794.0>-<1154.0,794.0>-<1270.5,705.5>> = 7.957525226917127
-
-	* uni0417 (U+0417): B<<933.0,842.0>-<848.0,799.0>-<764.0,784.0>>/B<<764.0,784.0>-<970.0,774.0>-<1085.5,680.0>> = 12.903838519469893 
-
-	* And 19 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
-
-	* Ccedilla (U+00C7): L<<486.0,-484.0>--<487.0,-299.0>>
-
-	* Lcaron (U+013D): L<<1114.0,1177.0>--<947.0,1178.0>>
-
-	* Scedilla (U+015E): L<<358.0,-484.0>--<359.0,-299.0>>
-
-	* Thorn (U+00DE): L<<744.0,1487.0>--<745.0,1349.0>>
-
-	* arrowright (U+2192): L<<51.0,655.0>--<50.0,875.0>>
-
-	* ccedilla (U+00E7): L<<297.0,-484.0>--<298.0,-299.0>>
-
-	* cedilla (U+00B8): L<<180.0,-484.0>--<181.0,-299.0>>
-
-	* dcaron (U+010F): L<<1376.0,1176.0>--<1209.0,1177.0>>
-
-	* dollar (U+0024): L<<583.0,-252.0>--<585.0,-20.0>>
-
-	* dollar (U+0024): L<<760.0,-16.0>--<758.0,-252.0>> 
-
-	* And 77 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[14] Merriweather-Regular.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
-
-
-* 💔 **ERROR** Failed with IndexError: list index out of range
-* ⚠ **WARN** GF_Latin_Minorities is almost fulfilled. Missing codepoints:
-
-	- 0xA78B (LATIN CAPITAL LETTER SALTILLO)
- 
-
-	- And 0xA78C (LATIN SMALL LETTER SALTILLO)
- [code: missing-codepoints]
-* ⚠ **WARN** GF_TransLatin_Arabic is almost fulfilled. Missing codepoints:
-
-	- 0x1E34 (LATIN CAPITAL LETTER K WITH LINE BELOW)
-
-
-	- 0x1E35 (LATIN SMALL LETTER K WITH LINE BELOW)
-
-
-	- 0x1E96 (LATIN SMALL LETTER H WITH LINE BELOW)
- 
-
-	- And 0x02BD (MODIFIER LETTER REVERSED COMMA)
- [code: missing-codepoints]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 625, but got 606 instead. [code: descent]
-</div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
-
-
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
- [code: http]
-</div></details><details><summary>⚠ <b>WARN:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
-
-
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=14] [code: http-in-license-info]
-* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
- [code: http]
-</div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
-
-
-* ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* quotedblleft.ss01
-	* uni25FC
-	* uni03060301.case
-	* uni01CD
-	* uni1EA6
-	* quotereversed.ss01
-	* one
-	* quotedblbase.ss01
-	* uni04FB
-	* uni050A and 151 more.
-
-Use -F or --full-lists to disable shortening of long lists.
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
-
-
-* ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
-
-	- f + i 
-
-	- And i + l [code: lacks-kern-info]
-</div></details><details><summary>⚠ <b>WARN:</b> Name table strings must not contain the string 'Reserved Font Name'. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/rfn">com.google.fonts/check/name/rfn</a>)</summary><div>
-
-
-* ⚠ **WARN** Name table entry contains "Reserved Font Name" for a family name ("Merriweather") that differs from the currently used family name (Merriweather), which is fine. [code: legacy-familyname]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
-
-
-* ⚠ **WARN** The stylistic set ss01 lacks a description string on the 'name' table. [code: missing-description]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
-
-
-* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-
-	- quoteright.001
-
-	- figuredash.case
-
-	- ij_acutecomb
-
-	- i.dot
-
-	- I.uc
-
-	- IJ_acutecomb
-
-	- ij_acutecomb.ss02
-
-	- ij.ss02 
-
-	- And five.001
- [code: unreachable-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
-
-
-* ⚠ **WARN** This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]
-* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
-
-The following glyphs do not have the recommended number of contours:
-
-	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
-
-	- Glyph name: aogonek	Contours detected: 3	Expected: 2
-
-	- Glyph name: eogonek	Contours detected: 3	Expected: 2
-
-	- Glyph name: Tbar	Contours detected: 2	Expected: 1
-
-	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: ohorn	Contours detected: 3	Expected: 2
-
-	- Glyph name: uhorn	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni01E5	Contours detected: 4	Expected: 2
-
-	- Glyph name: uni01EA	Contours detected: 3	Expected: 2 
-
-	- And 45 more.
-
-Use -F or --full-lists to disable shortening of long lists.
- [code: contour-count]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
-
-
-* ⚠ **WARN** No dotted circle glyph present [code: missing-dotted-circle]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have jaggy segments:
-
-	* B (U+0042): B<<1100.0,921.5>-<1019.0,819.0>-<875.0,793.0>>/B<<875.0,793.0>-<1067.0,797.0>-<1176.0,702.0>> = 9.041313339441118
-
-	* at (U+0040): B<<1206.5,265.5>-<1213.0,335.0>-<1231.0,435.0>>/B<<1231.0,435.0>-<1188.0,321.0>-<1127.0,215.0>> = 10.46214970922158
-
-	* three (U+0033): B<<751.5,877.5>-<665.0,824.0>-<570.0,791.0>>/B<<570.0,791.0>-<707.0,803.0>-<808.0,765.0>> = 14.149779892488562
-
-	* threeeighths (U+215C): B<<522.5,1171.5>-<456.0,1134.0>-<383.0,1113.0>>/B<<383.0,1113.0>-<497.0,1136.0>-<571.5,1113.5>> = 4.642452208560689
-
-	* threequarters (U+00BE): B<<522.5,1171.5>-<456.0,1134.0>-<383.0,1113.0>>/B<<383.0,1113.0>-<497.0,1136.0>-<571.5,1113.5>> = 4.642452208560689
-
-	* uni00B3 (U+00B3): B<<522.5,1391.5>-<456.0,1354.0>-<383.0,1333.0>>/B<<383.0,1333.0>-<497.0,1356.0>-<571.5,1333.5>> = 4.642452208560689
-
-	* uni0412 (U+0412): B<<1100.0,921.5>-<1019.0,819.0>-<875.0,793.0>>/B<<875.0,793.0>-<1067.0,797.0>-<1176.0,702.0>> = 9.041313339441118
-
-	* uni0417 (U+0417): B<<789.0,821.5>-<727.0,794.0>-<670.0,784.0>>/B<<670.0,784.0>-<871.0,777.0>-<983.5,674.0>> = 11.945195989193437
-
-	* uni0498 (U+0498): B<<789.0,821.5>-<727.0,794.0>-<670.0,784.0>>/B<<670.0,784.0>-<871.0,777.0>-<983.5,674.0>> = 11.945195989193437
-
-	* uni04DE (U+04DE): B<<789.0,821.5>-<727.0,794.0>-<670.0,784.0>>/B<<670.0,784.0>-<871.0,777.0>-<983.5,674.0>> = 11.945195989193437 
-
-	* And 9 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
-
-	* Eng (U+014A): L<<1219.0,300.0>--<1218.0,1362.0>>
-
-	* Eng (U+014A): L<<1353.0,1362.0>--<1359.0,306.0>>
-
-	* Lcaron (U+013D): L<<1014.0,1196.0>--<898.0,1197.0>>
-
-	* arrowleft (U+2190): L<<1341.0,831.0>--<1340.0,674.0>>
-
-	* asterisk (U+002A): L<<743.0,621.0>--<556.0,620.0>>
-
-	* copyright (U+00A9): L<<1355.0,1403.0>--<1354.0,1181.0>>
-
-	* dcaron (U+010F): L<<1263.0,1196.0>--<1147.0,1197.0>>
-
-	* dollar (U+0024): L<<577.0,-252.0>--<579.0,-20.0>>
-
-	* dollar (U+0024): L<<718.0,-19.0>--<716.0,-252.0>>
-
-	* h (U+0068): L<<421.0,1608.0>--<422.0,1144.0>> 
-
-	* And 77 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[14] Merriweather-Light.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
-
-
-* 💔 **ERROR** Failed with IndexError: list index out of range
-* ⚠ **WARN** GF_Latin_Minorities is almost fulfilled. Missing codepoints:
-
-	- 0xA78B (LATIN CAPITAL LETTER SALTILLO)
- 
-
-	- And 0xA78C (LATIN SMALL LETTER SALTILLO)
- [code: missing-codepoints]
-* ⚠ **WARN** GF_TransLatin_Arabic is almost fulfilled. Missing codepoints:
-
-	- 0x1E34 (LATIN CAPITAL LETTER K WITH LINE BELOW)
-
-
-	- 0x1E35 (LATIN SMALL LETTER K WITH LINE BELOW)
-
-
-	- 0x1E96 (LATIN SMALL LETTER H WITH LINE BELOW)
- 
-
-	- And 0x02BD (MODIFIER LETTER REVERSED COMMA)
- [code: missing-codepoints]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 625, but got 606 instead. [code: descent]
-</div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
-
-
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
- [code: http]
-</div></details><details><summary>⚠ <b>WARN:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
-
-
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=14] [code: http-in-license-info]
-* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
- [code: http]
-</div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
-
-
-* ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* quotedblleft.ss01
-	* uni25FC
-	* Acircumflex
-	* uni01CD
-	* uni1EA6
-	* quotereversed.ss01
-	* one
-	* quotedblbase.ss01
-	* asciicircum
-	* uni04FB and 147 more.
-
-Use -F or --full-lists to disable shortening of long lists.
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
-
-
-* ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
-
-	- f + i 
-
-	- And i + l [code: lacks-kern-info]
-</div></details><details><summary>⚠ <b>WARN:</b> Name table strings must not contain the string 'Reserved Font Name'. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/rfn">com.google.fonts/check/name/rfn</a>)</summary><div>
-
-
-* ⚠ **WARN** Name table entry contains "Reserved Font Name" for a family name ("Merriweather") that differs from the currently used family name (Merriweather), which is fine. [code: legacy-familyname]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
-
-
-* ⚠ **WARN** The stylistic set ss01 lacks a description string on the 'name' table. [code: missing-description]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
-
-
-* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-
-	- quoteright.001
-
-	- figuredash.case
-
-	- ij_acutecomb
-
-	- i.dot
-
-	- I.uc
-
-	- IJ_acutecomb
-
-	- ij_acutecomb.ss02
-
-	- ij.ss02 
-
-	- And five.001
- [code: unreachable-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
-
-
-* ⚠ **WARN** This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]
-* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
-
-The following glyphs do not have the recommended number of contours:
-
-	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
-
-	- Glyph name: aogonek	Contours detected: 3	Expected: 2
-
-	- Glyph name: eogonek	Contours detected: 3	Expected: 2
-
-	- Glyph name: Tbar	Contours detected: 2	Expected: 1
-
-	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: ohorn	Contours detected: 3	Expected: 2
-
-	- Glyph name: uhorn	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni01E5	Contours detected: 4	Expected: 2
-
-	- Glyph name: uni01EA	Contours detected: 3	Expected: 2 
-
-	- And 45 more.
-
-Use -F or --full-lists to disable shortening of long lists.
- [code: contour-count]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
-
-
-* ⚠ **WARN** No dotted circle glyph present [code: missing-dotted-circle]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have jaggy segments:
-
-	* B (U+0042): B<<1064.0,926.0>-<989.0,821.0>-<843.0,792.0>>/B<<843.0,792.0>-<1034.0,798.0>-<1139.5,700.5>> = 9.435168283007993
-
-	* at (U+0040): B<<1182.5,265.0>-<1188.0,335.0>-<1206.0,434.0>>/B<<1206.0,434.0>-<1163.0,320.0>-<1101.5,214.5>> = 10.361276962187272
-
-	* three (U+0033): B<<742.0,884.5>-<656.0,832.0>-<564.0,800.0>>/B<<564.0,800.0>-<702.0,812.0>-<801.5,772.0>> = 14.209267297700373
-
-	* threeeighths (U+215C): B<<505.5,1175.0>-<438.0,1138.0>-<368.0,1117.0>>/B<<368.0,1117.0>-<484.0,1145.0>-<560.0,1123.5>> = 3.1288098488320695
-
-	* threequarters (U+00BE): B<<505.5,1175.0>-<438.0,1138.0>-<368.0,1117.0>>/B<<368.0,1117.0>-<484.0,1145.0>-<560.0,1123.5>> = 3.1288098488320695
-
-	* uni00B3 (U+00B3): B<<505.5,1395.0>-<438.0,1358.0>-<368.0,1337.0>>/B<<368.0,1337.0>-<484.0,1365.0>-<560.0,1343.5>> = 3.1288098488320695
-
-	* uni0412 (U+0412): B<<1064.0,926.0>-<989.0,821.0>-<843.0,792.0>>/B<<843.0,792.0>-<1034.0,798.0>-<1139.5,700.5>> = 9.435168283007993
-
-	* uni0417 (U+0417): B<<749.0,821.5>-<688.0,794.0>-<633.0,784.0>>/B<<633.0,784.0>-<766.0,781.0>-<860.5,730.5>> = 11.59701335501595
-
-	* uni0498 (U+0498): B<<749.0,821.5>-<688.0,794.0>-<633.0,784.0>>/B<<633.0,784.0>-<766.0,781.0>-<860.5,730.5>> = 11.59701335501595
-
-	* uni04DE (U+04DE): B<<749.0,821.5>-<688.0,794.0>-<633.0,784.0>>/B<<633.0,784.0>-<766.0,781.0>-<860.5,730.5>> = 11.59701335501595 
-
-	* And 9 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
-
-	* Eng (U+014A): L<<1214.0,263.0>--<1212.0,1378.0>>
-
-	* Eng (U+014A): L<<1326.0,1378.0>--<1334.0,270.0>>
-
-	* dollar (U+0024): L<<574.0,-252.0>--<576.0,-20.0>>
-
-	* dollar (U+0024): L<<702.0,-20.0>--<700.0,-252.0>>
-
-	* ij (U+0133): L<<842.0,50.0>--<840.0,970.0>>
-
-	* j (U+006A): L<<248.0,50.0>--<246.0,970.0>>
-
-	* jcircumflex (U+0135): L<<248.0,50.0>--<246.0,970.0>>
-
-	* peseta (U+20A7): L<<150.0,1100.0>--<287.0,1099.0>>
-
-	* peseta (U+20A7): L<<451.0,1097.0>--<1059.0,1092.0>>
-
-	* seveneighths (U+215E): L<<414.0,625.0>--<219.0,626.0>> 
-
-	* And 39 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
-</div></details><br></div></details>
 ### Summary
 
-| 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
-|:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 8 | 9 | 96 | 886 | 57 | 719 | 0 |
-| 0% | 1% | 5% | 50% | 3% | 41% | 0% |
+| 💥 ERROR | ☠ FATAL | 🔥 FAIL | ⚠️ WARN | ⏩ SKIP | ℹ️ INFO | ✅ PASS | 🔎 DEBUG | 
+| ---|---|---|---|---|---|---|---|
+| 2 | 0 | 26 | 29 | 177 | 15 | 231 | 0 | 
+| 0% | 0% | 5% | 6% | 37% | 3% | 48% | 0% | 
+
+
 
 **Note:** The following loglevels were omitted in this report:
-* **SKIP**
-* **INFO**
-* **PASS**
-* **DEBUG**
+
+
+* SKIP
+* INFO
+* PASS
+* DEBUG
