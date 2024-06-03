@@ -108,11 +108,11 @@ alignment = -1;
 ref = l;
 },
 {
-pos = (378,4);
+pos = (383,4);
 ref = caroncomb.alt;
 }
 );
-width = 539;
+width = 544;
 },
 {
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
