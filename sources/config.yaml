@@ -56,4 +56,4 @@ stat:
 
 familyName: Merriweather
 buildStatic: false
-buildWebfont: true
+buildWebfont: false
