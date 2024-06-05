@@ -9,7 +9,7 @@ fontbakery version: 0.12.1
 These won't break the CI job for now, but will become effective after some time if nobody raises any concern.
 
 
-<details><summary>[2] Merriweather[opsz,wdth,wght].ttf</summary>
+<details><summary>[1] Merriweather[opsz,wdth,wght].ttf</summary>
 <div>
 <details>
     <summary>⚠️ <b>WARN</b> Validate location, size and resolution of article images. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.article.html#"></a></summary>
@@ -23,37 +23,6 @@ These won't break the CI job for now, but will become effective after some time 
 
 * ⚠️ **WARN** <p>Family metadata at fonts/variable does not have an article.</p>
  [code: lacks-article]
-
-
-
-</div>
-</details>
-
-<details>
-    <summary>🔥 <b>FAIL</b> Ensure the font's instances are in the correct order. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.varfont.html#"></a></summary>
-    <div>
-
-
-
-
-
-
-
-* 🔥 **FAIL** <p>The fvar table instances are not in ascending order of weight:
-- {'wght': 900.0, 'wdth': 100.0, 'opsz': 7.0}</p>
-<pre><code>- {'wght': 800.0, 'wdth': 100.0, 'opsz': 7.0}
-
-- {'wght': 700.0, 'wdth': 100.0, 'opsz': 7.0}
-
-- {'wght': 600.0, 'wdth': 100.0, 'opsz': 7.0}
-
-- {'wght': 500.0, 'wdth': 100.0, 'opsz': 7.0}
-
-- {'wght': 400.0, 'wdth': 100.0, 'opsz': 7.0}
-
-- {'wght': 300.0, 'wdth': 100.0, 'opsz': 7.0}
-</code></pre>
- [code: instances-not-in-order]
 
 
 
@@ -93,40 +62,6 @@ These won't break the CI job for now, but will become effective after some time 
 
 
 * 🔥 **FAIL** <p>The fvar table instances are not in ascending order of weight:
-- {'wght': 300.0, 'wdth': 100.0, 'opsz': 24.0}</p>
-<pre><code>- {'wght': 400.0, 'wdth': 100.0, 'opsz': 24.0}
-
-- {'wght': 500.0, 'wdth': 100.0, 'opsz': 24.0}
-
-- {'wght': 700.0, 'wdth': 100.0, 'opsz': 24.0}
-
-- {'wght': 700.0, 'wdth': 100.0, 'opsz': 24.0}
-
-- {'wght': 600.0, 'wdth': 100.0, 'opsz': 24.0}
-
-- {'wght': 800.0, 'wdth': 100.0, 'opsz': 24.0}
-
-- {'wght': 900.0, 'wdth': 100.0, 'opsz': 24.0}
-
-- {'wght': 300.0, 'wdth': 100.0, 'opsz': 24.0}
-
-- {'wght': 400.0, 'wdth': 100.0, 'opsz': 24.0}
-
-- {'wght': 500.0, 'wdth': 100.0, 'opsz': 24.0}
-
-- {'wght': 600.0, 'wdth': 100.0, 'opsz': 24.0}
-
-- {'wght': 700.0, 'wdth': 100.0, 'opsz': 24.0}
-
-- {'wght': 800.0, 'wdth': 100.0, 'opsz': 24.0}
-
-- {'wght': 900.0, 'wdth': 100.0, 'opsz': 24.0}
-</code></pre>
- [code: instances-not-in-order]
-
-
-
-* 🔥 **FAIL** <p>The fvar table instances are not in ascending order of weight:
 - {'wght': 300.0, 'wdth': 100.0, 'opsz': 144.0}</p>
 <pre><code>- {'wght': 400.0, 'wdth': 100.0, 'opsz': 144.0}
 
@@ -156,26 +91,8 @@ These won't break the CI job for now, but will become effective after some time 
 
 
 
-<details><summary>[22] Merriweather[opsz,wdth,wght].ttf</summary>
+<details><summary>[21] Merriweather[opsz,wdth,wght].ttf</summary>
 <div>
-<details>
-    <summary>⚠️ <b>WARN</b> The variable font 'opsz' (Optical Size) axis coordinate should be between 10 and 16 on the 'Regular' instance. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.fvar.html#"></a></summary>
-    <div>
-
-
-
-
-
-
-
-* ⚠️ **WARN** <p>The &quot;opsz&quot; (Optical Size) coordinate on the &quot;Regular&quot; instance is recommended to be a value in the range 10 to 16. Got 7.0 instead.</p>
- [code: opsz-out-of-range]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check mark characters are in GDEF mark glyph class. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.gdef.html#"></a></summary>
     <div>
@@ -206,125 +123,69 @@ uni0488 (U+0488) and uni0489 (U+0489)</p>
 
 
 * ⚠️ **WARN** <p>Interpolation issues were found in the font:</p>
-<pre><code>- Contour 1 start point differs in glyph 'uni0264' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+<pre><code>- Contour 1 start point differs in glyph 'uni046B' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
 
-- Contour 1 start point differs in glyph 'uni0264' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+- Contour 1 in glyph 'uni046B': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
 
-- Contour 1 start point differs in glyph 'uni0264' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 1 start point differs in glyph 'uni046B' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 
-- Contour 0 point 40 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 1 in glyph 'uni046B': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
 
-- Contour 0 point 69 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 0 start point differs in glyph 'uni0482' between location wght=900,wdth=100,opsz=12 and location wght=900,wdth=100,opsz=144
 
-- Contour 1 start point differs in glyph 'uni0264' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+- Contour 0 in glyph 'uni0482': becomes underweight between wght=900,wdth=100,opsz=12 and wght=900,wdth=100,opsz=144.
 
-- Contour 0 point 40 has a kink between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+- Contour 0 start point differs in glyph 'uni0482' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
 
-- Contour 0 point 69 has a kink between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+- Contour 0 in glyph 'uni0482': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=12.
 
-- Contour 0 start point differs in glyph 'uni2042' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+- Contour 0 start point differs in glyph 'uni0482' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
 
-- Contour 0 in glyph 'uni2042': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+- Contour 0 start point differs in glyph 'uni0482' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 
-- Contour 1 start point differs in glyph 'uni2042' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+- Contour 0 start point differs in glyph 'uni0482' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
 
-- Contour 1 in glyph 'uni2042': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+- Contour 0 start point differs in glyph 'uni0264.sc' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
 
-- Contour 2 start point differs in glyph 'uni2042' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+- Contour 1 start point differs in glyph 'uni0264.sc' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
 
-- Contour 2 in glyph 'uni2042': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+- Contour 0 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
 
-- Contour 0 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+- Contour 1 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
 
-- Contour 0 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+- Contour 0 point 65 has a kink between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
 
-- Contour 1 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+- Contour 0 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 
-- Contour 1 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+- Contour 1 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 
-- Contour 2 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+- Contour 0 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
 
-- Contour 2 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+- Contour 1 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
 
-- Contour 0 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 0 start point differs in glyph 'uni0250.sc' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
 
-- Contour 0 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+- Contour 0 in glyph 'uni0250.sc': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=12.
 
-- Contour 1 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 1 start point differs in glyph 'uni0250.sc' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
 
-- Contour 1 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+- Contour 1 in glyph 'uni0250.sc': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=12.
 
-- Contour 2 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 0 start point differs in glyph 'uni0250.sc' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
 
-- Contour 2 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+- Contour 0 in glyph 'uni0250.sc': becomes underweight between wght=900,wdth=112,opsz=12 and wght=300,wdth=100,opsz=12.
 
-- Contour 0 start point differs in glyph 'uni2042' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+- Contour 1 start point differs in glyph 'uni0250.sc' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
 
-- Contour 0 in glyph 'uni2042': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+- Contour 1 in glyph 'uni0250.sc': becomes underweight between wght=900,wdth=112,opsz=12 and wght=300,wdth=100,opsz=12.
 
-- Contour 1 start point differs in glyph 'uni2042' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+- Contour 0 start point differs in glyph 'uni0250.sc' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
 
-- Contour 1 in glyph 'uni2042': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+- Contour 0 in glyph 'uni0250.sc': becomes underweight between wght=300,wdth=100,opsz=12 and wght=900,wdth=87,opsz=144.
 
-- Contour 2 start point differs in glyph 'uni2042' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+- Contour 1 start point differs in glyph 'uni0250.sc' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
 
-- Contour 2 in glyph 'uni2042': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
-
-- Contour 0 point 0 has a kink between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
-
-- Contour 2 start point differs in glyph 'uni0467' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
-
-- Contour 2 in glyph 'uni0467': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
-
-- Contour 2 start point differs in glyph 'uni0467' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
-
-- Contour 2 in glyph 'uni0467': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
-
-- Contour 2 start point differs in glyph 'uni0467' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
-
-- Contour 2 in glyph 'uni0467': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
-
-- Contour 2 start point differs in glyph 'uni0467' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
-
-- Contour 2 in glyph 'uni0467': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
-
-- Contour 0 start point differs in glyph 'uni0482' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
-
-- Contour 0 in glyph 'uni0482': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
-
-- Contour 0 start point differs in glyph 'uni0482' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
-
-- Contour 0 in glyph 'uni0482': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
-
-- Contour 0 start point differs in glyph 'uni0482' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
-
-- Contour 0 start point differs in glyph 'uni0482' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
-
-- Contour 0 start point differs in glyph 'uni0482' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
-
-- Contour 0 start point differs in glyph 'uni0250.sc' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
-
-- Contour 0 in glyph 'uni0250.sc': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
-
-- Contour 1 start point differs in glyph 'uni0250.sc' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
-
-- Contour 1 in glyph 'uni0250.sc': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
-
-- Contour 0 start point differs in glyph 'uni0250.sc' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
-
-- Contour 0 in glyph 'uni0250.sc': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
-
-- Contour 1 start point differs in glyph 'uni0250.sc' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
-
-- Contour 1 in glyph 'uni0250.sc': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
-
-- Contour 0 start point differs in glyph 'uni0250.sc' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
-
-- Contour 0 in glyph 'uni0250.sc': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
-
-- Contour 1 start point differs in glyph 'uni0250.sc' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
-
-- Contour 1 in glyph 'uni0250.sc': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+- Contour 1 in glyph 'uni0250.sc': becomes underweight between wght=300,wdth=100,opsz=12 and wght=900,wdth=87,opsz=144.
 
 - Contour 0 start point differs in glyph 'uni0250.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
 
@@ -334,147 +195,23 @@ uni0488 (U+0488) and uni0489 (U+0489)</p>
 
 - Contour 1 in glyph 'uni0250.sc': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
 
-- Contour 0 start point differs in glyph 'uni0250.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 0 start point differs in glyph 'uni0250.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 
-- Contour 0 in glyph 'uni0250.sc': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+- Contour 0 in glyph 'uni0250.sc': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
 
-- Contour 1 start point differs in glyph 'uni0250.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 1 start point differs in glyph 'uni0250.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 
-- Contour 1 in glyph 'uni0250.sc': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+- Contour 1 in glyph 'uni0250.sc': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
 
-- Contour 1 start point differs in glyph 'uni028B.loclTOD0.ss04' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+- Contour 1 start point differs in glyph 'uni028B.loclTOD0.ss04' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
 
-- Contour 0 start point differs in glyph 'uni0264.sc' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+- Contour 0 start point differs in glyph 'uni04AA' between location wght=900,wdth=100,opsz=12 and location wght=900,wdth=100,opsz=144
 
-- Contour 1 start point differs in glyph 'uni0264.sc' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+- Contour 0 in glyph 'uni04AA': becomes underweight between wght=900,wdth=100,opsz=12 and wght=900,wdth=100,opsz=144.
 
-- Contour 0 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+- Contour 0 start point differs in glyph 'uni04AA' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
 
-- Contour 1 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
-
-- Contour 0 point 65 has a kink between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
-
-- Contour 0 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
-
-- Contour 1 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
-
-- Contour 0 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
-
-- Contour 1 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
-
-- Contour 1 start point differs in glyph 'uniA7CB' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
-
-- Contour 1 start point differs in glyph 'uniA7CB' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
-
-- Contour 0 point 40 has a kink between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
-
-- Contour 1 start point differs in glyph 'uniA7CB' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
-
-- Contour 0 point 69 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
-
-- Contour 0 start point differs in glyph 'a.sc' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
-
-- Contour 0 in glyph 'a.sc': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
-
-- Contour 1 start point differs in glyph 'a.sc' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
-
-- Contour 1 in glyph 'a.sc': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
-
-- Contour 0 start point differs in glyph 'a.sc' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
-
-- Contour 0 in glyph 'a.sc': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
-
-- Contour 1 start point differs in glyph 'a.sc' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
-
-- Contour 1 in glyph 'a.sc': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
-
-- Contour 0 start point differs in glyph 'a.sc' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
-
-- Contour 0 in glyph 'a.sc': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
-
-- Contour 1 start point differs in glyph 'a.sc' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
-
-- Contour 1 in glyph 'a.sc': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
-
-- Contour 0 start point differs in glyph 'a.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
-
-- Contour 0 in glyph 'a.sc': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
-
-- Contour 1 start point differs in glyph 'a.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
-
-- Contour 1 in glyph 'a.sc': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
-
-- Contour 0 start point differs in glyph 'a.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
-
-- Contour 0 in glyph 'a.sc': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
-
-- Contour 1 start point differs in glyph 'a.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
-
-- Contour 1 in glyph 'a.sc': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
-
-- Contour 2 start point differs in glyph 'zero.tf.zero' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
-
-- Contour 2 in glyph 'zero.tf.zero': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
-
-- Contour 2 start point differs in glyph 'zero.tf.zero' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
-
-- Contour 2 in glyph 'zero.tf.zero': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
-
-- Contour 2 start point differs in glyph 'zero.tf.zero' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
-
-- Contour 2 in glyph 'zero.tf.zero': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
-
-- Contour 2 start point differs in glyph 'zero.tf.zero' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
-
-- Contour 2 in glyph 'zero.tf.zero': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
-
-- Contour 2 start point differs in glyph 'zero.tf.zero' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
-
-- Contour 2 in glyph 'zero.tf.zero': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
-
-- Contour 1 start point differs in glyph 'uni0452' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
-
-- Contour 1 in glyph 'uni0452': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
-
-- Contour 1 start point differs in glyph 'uni0452' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
-
-- Contour 1 in glyph 'uni0452': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
-
-- Contour 1 start point differs in glyph 'uni0452' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
-
-- Contour 1 in glyph 'uni0452': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
-
-- Contour 1 start point differs in glyph 'uni0452' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
-
-- Contour 1 in glyph 'uni0452': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
-
-- Contour 1 start point differs in glyph 'uni0452' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
-
-- Contour 1 in glyph 'uni0452': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
-
-- Contour order differs in glyph 'uni030F.case': [0, 1] in wght=300,wdth=112,opsz=7, [1, 0] in wght=300,wdth=87,opsz=144.
-
-- Contour 1 start point differs in glyph 'uni030F.case' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
-
-- Contour order differs in glyph 'uni030F.case': [0, 1] in wght=300,wdth=87,opsz=144, [1, 0] in wght=300,wdth=112,opsz=144.
-
-- Contour 1 start point differs in glyph 'uni030F.case' between location wght=300,wdth=87,opsz=144 and location wght=300,wdth=112,opsz=144
-
-- Contour order differs in glyph 'uni030F': [0, 1] in wght=900,wdth=100,opsz=7, [1, 0] in wght=900,wdth=100,opsz=144.
-
-- Contour order differs in glyph 'uni030F': [0, 1] in wght=900,wdth=87,opsz=7, [1, 0] in wght=900,wdth=112,opsz=7.
-
-- Contour order differs in glyph 'uni030F': [0, 1] in wght=900,wdth=112,opsz=7, [1, 0] in wght=300,wdth=100,opsz=7.
-
-- Contour order differs in glyph 'uni030F': [0, 1] in wght=300,wdth=87,opsz=144, [1, 0] in wght=300,wdth=112,opsz=144.
-
-- Contour 0 start point differs in glyph 'uni04AA' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
-
-- Contour 0 in glyph 'uni04AA': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
-
-- Contour 0 start point differs in glyph 'uni04AA' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
-
-- Contour 0 in glyph 'uni04AA': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+- Contour 0 in glyph 'uni04AA': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=12.
 
 - Contour 0 start point differs in glyph 'uni04AA' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
 
@@ -484,37 +221,217 @@ uni0488 (U+0488) and uni0489 (U+0489)</p>
 
 - Contour 0 in glyph 'uni04AA': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
 
-- Contour 0 start point differs in glyph 'ordmasculine' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
+- Contour order differs in glyph 'uni030F': [0, 1] in wght=900,wdth=100,opsz=12, [1, 0] in wght=900,wdth=100,opsz=144.
 
-- Contour 0 in glyph 'ordmasculine': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
+- Contour order differs in glyph 'uni030F': [0, 1] in wght=900,wdth=87,opsz=12, [1, 0] in wght=900,wdth=112,opsz=12.
 
-- Contour 0 start point differs in glyph 'ordmasculine' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+- Contour order differs in glyph 'uni030F': [0, 1] in wght=900,wdth=112,opsz=12, [1, 0] in wght=300,wdth=100,opsz=12.
 
-- Contour 0 in glyph 'ordmasculine': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+- Contour order differs in glyph 'uni030F': [0, 1] in wght=300,wdth=87,opsz=144, [1, 0] in wght=300,wdth=112,opsz=144.
 
-- Contour 0 start point differs in glyph 'ordmasculine' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+- Contour 1 start point differs in glyph 'uni0264' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
 
-- Contour 0 in glyph 'ordmasculine': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+- Contour 1 start point differs in glyph 'uni0264' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
 
-- Contour 0 start point differs in glyph 'ordmasculine' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 1 start point differs in glyph 'uni0264' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 
-- Contour 0 in glyph 'ordmasculine': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+- Contour 0 point 40 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 
-- Contour 0 start point differs in glyph 'ordmasculine' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+- Contour 0 point 69 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 
-- Contour 0 in glyph 'ordmasculine': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+- Contour 1 start point differs in glyph 'uni0264' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
 
-- Contour 1 start point differs in glyph 'uni046B' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+- Contour 0 point 40 has a kink between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
 
-- Contour 1 in glyph 'uni046B': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
+- Contour 0 point 69 has a kink between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
 
-- Contour 1 start point differs in glyph 'uni046B' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 2 start point differs in glyph 'uni0467' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
 
-- Contour 1 in glyph 'uni046B': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+- Contour 2 in glyph 'uni0467': becomes underweight between wght=900,wdth=112,opsz=12 and wght=300,wdth=100,opsz=12.
 
-- Contour 0 point 21 has a kink between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+- Contour 2 start point differs in glyph 'uni0467' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
+
+- Contour 2 in glyph 'uni0467': becomes underweight between wght=300,wdth=100,opsz=12 and wght=900,wdth=87,opsz=144.
+
+- Contour 2 start point differs in glyph 'uni0467' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
+
+- Contour 2 in glyph 'uni0467': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
+
+- Contour 2 start point differs in glyph 'uni0467' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
+
+- Contour 2 in glyph 'uni0467': becomes underweight between wght=300,wdth=112,opsz=12 and wght=300,wdth=87,opsz=144.
+
+- Contour 0 point 0 has a kink between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
+
+- Contour 0 start point differs in glyph 'a.sc' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
+
+- Contour 0 in glyph 'a.sc': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=12.
+
+- Contour 1 start point differs in glyph 'a.sc' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
+
+- Contour 1 in glyph 'a.sc': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=12.
+
+- Contour 0 start point differs in glyph 'a.sc' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
+
+- Contour 0 in glyph 'a.sc': becomes underweight between wght=900,wdth=112,opsz=12 and wght=300,wdth=100,opsz=12.
+
+- Contour 1 start point differs in glyph 'a.sc' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
+
+- Contour 1 in glyph 'a.sc': becomes underweight between wght=900,wdth=112,opsz=12 and wght=300,wdth=100,opsz=12.
+
+- Contour 0 start point differs in glyph 'a.sc' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 in glyph 'a.sc': becomes underweight between wght=300,wdth=100,opsz=12 and wght=900,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'a.sc' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
+
+- Contour 1 in glyph 'a.sc': becomes underweight between wght=300,wdth=100,opsz=12 and wght=900,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'a.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 in glyph 'a.sc': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
+
+- Contour 1 start point differs in glyph 'a.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 1 in glyph 'a.sc': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
+
+- Contour 0 start point differs in glyph 'a.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
+
+- Contour 0 in glyph 'a.sc': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
+
+- Contour 1 start point differs in glyph 'a.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
+
+- Contour 1 in glyph 'a.sc': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
+
+- Contour 0 start point differs in glyph 'uni2042' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
+
+- Contour 0 in glyph 'uni2042': becomes underweight between wght=900,wdth=112,opsz=12 and wght=300,wdth=100,opsz=12.
+
+- Contour 1 start point differs in glyph 'uni2042' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
+
+- Contour 1 in glyph 'uni2042': becomes underweight between wght=900,wdth=112,opsz=12 and wght=300,wdth=100,opsz=12.
+
+- Contour 2 start point differs in glyph 'uni2042' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
+
+- Contour 2 in glyph 'uni2042': becomes underweight between wght=900,wdth=112,opsz=12 and wght=300,wdth=100,opsz=12.
+
+- Contour 0 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=12 and wght=900,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
+
+- Contour 1 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=12 and wght=900,wdth=87,opsz=144.
+
+- Contour 2 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
+
+- Contour 2 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=12 and wght=900,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
+
+- Contour 0 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
+
+- Contour 1 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
+
+- Contour 1 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
+
+- Contour 2 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
+
+- Contour 2 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
+
+- Contour 0 start point differs in glyph 'uni2042' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 in glyph 'uni2042': becomes underweight between wght=300,wdth=112,opsz=12 and wght=300,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni2042' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
+
+- Contour 1 in glyph 'uni2042': becomes underweight between wght=300,wdth=112,opsz=12 and wght=300,wdth=87,opsz=144.
+
+- Contour 2 start point differs in glyph 'uni2042' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
+
+- Contour 2 in glyph 'uni2042': becomes underweight between wght=300,wdth=112,opsz=12 and wght=300,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uniA7CB' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
+
+- Contour 1 start point differs in glyph 'uniA7CB' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 point 40 has a kink between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
+
+- Contour 1 start point differs in glyph 'uniA7CB' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 point 69 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 1 start point differs in glyph 'uni0452' between location wght=900,wdth=100,opsz=12 and location wght=900,wdth=100,opsz=144
+
+- Contour 1 in glyph 'uni0452': becomes underweight between wght=900,wdth=100,opsz=12 and wght=900,wdth=100,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni0452' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
+
+- Contour 1 in glyph 'uni0452': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=12.
+
+- Contour 1 start point differs in glyph 'uni0452' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
+
+- Contour 1 in glyph 'uni0452': becomes underweight between wght=300,wdth=100,opsz=12 and wght=900,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni0452' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
+
+- Contour 1 in glyph 'uni0452': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
+
+- Contour 1 start point differs in glyph 'uni0452' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
+
+- Contour 1 in glyph 'uni0452': becomes underweight between wght=300,wdth=112,opsz=12 and wght=300,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'ordmasculine' between location wght=900,wdth=100,opsz=12 and location wght=900,wdth=100,opsz=144
+
+- Contour 0 in glyph 'ordmasculine': becomes underweight between wght=900,wdth=100,opsz=12 and wght=900,wdth=100,opsz=144.
+
+- Contour 0 start point differs in glyph 'ordmasculine' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
+
+- Contour 0 in glyph 'ordmasculine': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=12.
+
+- Contour 0 start point differs in glyph 'ordmasculine' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 in glyph 'ordmasculine': becomes underweight between wght=300,wdth=100,opsz=12 and wght=900,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'ordmasculine' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
+
+- Contour 0 in glyph 'ordmasculine': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
+
+- Contour 0 start point differs in glyph 'ordmasculine' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 in glyph 'ordmasculine': becomes underweight between wght=300,wdth=112,opsz=12 and wght=300,wdth=87,opsz=144.
+
+- Contour 2 start point differs in glyph 'zero.tf.zero' between location wght=900,wdth=100,opsz=12 and location wght=900,wdth=100,opsz=144
+
+- Contour 2 in glyph 'zero.tf.zero': becomes underweight between wght=900,wdth=100,opsz=12 and wght=900,wdth=100,opsz=144.
+
+- Contour 2 start point differs in glyph 'zero.tf.zero' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
+
+- Contour 2 in glyph 'zero.tf.zero': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=12.
+
+- Contour 2 start point differs in glyph 'zero.tf.zero' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
+
+- Contour 2 in glyph 'zero.tf.zero': becomes underweight between wght=300,wdth=100,opsz=12 and wght=900,wdth=87,opsz=144.
+
+- Contour 2 start point differs in glyph 'zero.tf.zero' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
+
+- Contour 2 in glyph 'zero.tf.zero': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
+
+- Contour 2 start point differs in glyph 'zero.tf.zero' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
+
+- Contour 2 in glyph 'zero.tf.zero': becomes underweight between wght=300,wdth=112,opsz=12 and wght=300,wdth=87,opsz=144.
+
+- Contour 0 point 21 has a kink between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
 
 - Contour 0 point 21 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour order differs in glyph 'uni030F.case': [0, 1] in wght=300,wdth=112,opsz=12, [1, 0] in wght=300,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni030F.case' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
+
+- Contour order differs in glyph 'uni030F.case': [0, 1] in wght=300,wdth=87,opsz=144, [1, 0] in wght=300,wdth=112,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni030F.case' between location wght=300,wdth=87,opsz=144 and location wght=300,wdth=112,opsz=144
 </code></pre>
  [code: interpolation-issues]
 
@@ -722,8 +639,8 @@ ERROR: Table discarded</p>
 
 * ⚠️ **WARN** <p>The dot of soft dotted characters used in orthographies <em>must</em> disappear in the following strings: i̍ i̐ i̓ i᷆ i᷇ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ і́ ḭ̀ ḭ́ ḭ̄ ị̀ ị́ ị̂ ị̃ ị̄</p>
 <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: i᷄ i᷅ i᷈ i᷉ iꚞ i̛̍ i̛̐ i̛̓ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̛᷉ i̛ꚞ i̠̇ i̠̊ i̠̋ i̠̍ i̠̐</p>
-<p>Your font fully covers the following languages that require the soft-dotted feature: Ebira (Latn, 2,200,000 speakers), Nateni (Latn, 100,000 speakers), Cicipu (Latn, 44,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Lithuanian (Latn, 2,357,094 speakers), Dutch (Latn, 31,709,104 speakers), Yala (Latn, 200,000 speakers), Nzakara (Latn, 50,000 speakers), Navajo (Latn, 166,319 speakers), Belarusian (Cyrl, 10,064,517 speakers), Zapotec (Latn, 490,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Ekpeye (Latn, 226,000 speakers), Ngbaka (Latn, 1,020,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Ma’di (Latn, 584,000 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Makaa (Latn, 221,000 speakers), Southern Kisi (Latn, 360,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Dii (Latn, 71,000 speakers), Gulay (Latn, 250,478 speakers), South Central Banda (Latn, 244,000 speakers), Sar (Latn, 500,000 speakers), Mundani (Latn, 34,000 speakers), Kom (Latn, 360,685 speakers), Avokaya (Latn, 100,000 speakers), Mango (Latn, 77,000 speakers), Aghem (Latn, 38,843 speakers), Koonzime (Latn, 40,000 speakers), Igbo (Latn, 27,823,640 speakers), Ejagham (Latn, 120,000 speakers), Mfumte (Latn, 79,000 speakers), Bafut (Latn, 158,146 speakers), Dan (Latn, 1,099,244 speakers), Lugbara (Latn, 2,200,000 speakers), Fur (Latn, 1,230,163 speakers), Basaa (Latn, 332,940 speakers).</p>
+<p>Your font fully covers the following languages that require the soft-dotted feature: Ebira (Latn, 2,200,000 speakers), Ekpeye (Latn, 226,000 speakers), Yala (Latn, 200,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Dutch (Latn, 31,709,104 speakers), Belarusian (Cyrl, 10,064,517 speakers), Lithuanian (Latn, 2,357,094 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Bete-Bendi (Latn, 100,000 speakers), Navajo (Latn, 166,319 speakers), Nateni (Latn, 100,000 speakers), Ma’di (Latn, 584,000 speakers), Zapotec (Latn, 490,000 speakers), Nzakara (Latn, 50,000 speakers), Cicipu (Latn, 44,000 speakers), Ngbaka (Latn, 1,020,000 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Aghem (Latn, 38,843 speakers), Mfumte (Latn, 79,000 speakers), Gulay (Latn, 250,478 speakers), Bafut (Latn, 158,146 speakers), Dan (Latn, 1,099,244 speakers), South Central Banda (Latn, 244,000 speakers), Sar (Latn, 500,000 speakers), Makaa (Latn, 221,000 speakers), Basaa (Latn, 332,940 speakers), Dii (Latn, 71,000 speakers), Ejagham (Latn, 120,000 speakers), Koonzime (Latn, 40,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Igbo (Latn, 27,823,640 speakers), Fur (Latn, 1,230,163 speakers), Avokaya (Latn, 100,000 speakers), Mundani (Latn, 34,000 speakers), Lugbara (Latn, 2,200,000 speakers), Southern Kisi (Latn, 360,000 speakers), Mango (Latn, 77,000 speakers), Kom (Latn, 360,685 speakers).</p>
  [code: soft-dotted]
 
 
@@ -757,7 +674,7 @@ definitions.</p>
 <li>U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition</li>
 <li>U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition</li>
 <li>U+02C1 MODIFIER LETTER REVERSED GLOTTAL STOP: not included in any glyphset definition</li>
-<li>U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi</li>
+<li>U+02C7 CARON: try adding one of: yi, canadian-aboriginal, tifinagh</li>
 <li>U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition</li>
 <li>U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition</li>
@@ -772,12 +689,12 @@ definitions.</p>
 <li>U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition</li>
 <li>U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition</li>
 <li>U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, tifinagh, cherokee</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, tifinagh, coptic</li>
 <li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: math, old-permic, tifinagh, syriac, tai-le, coptic, canadian-aboriginal, malayalam</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, math, old-permic, malayalam, syriac, tai-le, coptic, tifinagh</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
-<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
+<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+0310 COMBINING CANDRABINDU: not included in any glyphset definition</li>
@@ -787,7 +704,7 @@ definitions.</p>
 <li>U+0315 COMBINING COMMA ABOVE RIGHT: not included in any glyphset definition</li>
 <li>U+031B COMBINING HORN: not included in any glyphset definition</li>
 <li>U+0320 COMBINING MINUS SIGN BELOW: try adding syriac</li>
-<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: syriac, cherokee</li>
+<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: cherokee, syriac</li>
 <li>U+0325 COMBINING RING BELOW: try adding syriac</li>
 <li>U+0326 COMBINING COMMA BELOW: not included in any glyphset definition</li>
 <li>U+0327 COMBINING CEDILLA: not included in any glyphset definition</li>
@@ -795,8 +712,8 @@ definitions.</p>
 <li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: tifinagh, syriac, cherokee, gothic, caucasian-albanian</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: syriac, cherokee, gothic, caucasian-albanian, tifinagh</li>
 <li>U+0332 COMBINING LOW LINE: not included in any glyphset definition</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
@@ -845,10 +762,10 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: not included in any glyphset definition</li>
 <li>U+2008 PUNCTUATION SPACE: not included in any glyphset definition</li>
 <li>U+200A HAIR SPACE: not included in any glyphset definition</li>
-<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: syloti-nagri, lepcha, tifinagh, oriya, tibetan, kaithi, siddham, bengali, khudawadi, tirhuta, mahajani, buhid, duployan, mongolian, new-tai-lue, zanabazar-square, telugu, khojki, myanmar, thai, saurashtra, tagalog, devanagari, modi, tai-viet, pahawh-hmong, newa, cham, thaana, takri, batak, javanese, rejang, gujarati, grantha, chakma, brahmi, kharoshthi, sogdian, kayah-li, bhaiksuki, balinese, psalter-pahlavi, sundanese, hanifi-rohingya, sharada, tamil, gunjala-gondi, limbu, nko, hanunoo, warang-citi, malayalam, meetei-mayek, kannada, buginese, phags-pa, manichaean, avestan, khmer, dogra, syriac, tai-le, tai-tham, masaram-gondi, sinhala, arabic, yi, lao, mandaic, hatran, hebrew, gurmukhi, tagbanwa</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: syloti-nagri, lepcha, tifinagh, oriya, tibetan, kaithi, siddham, bengali, khudawadi, tirhuta, mahajani, buhid, duployan, mongolian, new-tai-lue, zanabazar-square, telugu, khojki, myanmar, thai, saurashtra, tagalog, devanagari, modi, tai-viet, pahawh-hmong, newa, cham, thaana, batak, javanese, rejang, gujarati, grantha, chakma, brahmi, kharoshthi, sogdian, kayah-li, bhaiksuki, balinese, psalter-pahlavi, sundanese, hanifi-rohingya, sharada, tamil, gunjala-gondi, limbu, nko, hanunoo, warang-citi, malayalam, meetei-mayek, kannada, buginese, phags-pa, manichaean, avestan, khmer, dogra, syriac, tai-le, tai-tham, masaram-gondi, sinhala, arabic, yi, lao, mandaic, old-hungarian, takri, hebrew, gurmukhi, tagbanwa</li>
-<li>U+2010 HYPHEN: try adding one of: syloti-nagri, kharoshthi, kaithi, armenian, kayah-li, arabic, sundanese, coptic, yi, cham, lisu, hebrew, sora-sompeng</li>
-<li>U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: tamil, arabic, zanabazar-square, manichaean, thai, gujarati, syriac, kayah-li, saurashtra, gurmukhi, javanese, mongolian, phags-pa, thaana, devanagari, new-tai-lue, cham, balinese, hanunoo, yi, tagalog, grantha, myanmar, siddham, tirhuta, kharoshthi, syloti-nagri, lao, tai-le, hebrew, modi, tai-tham, pahawh-hmong, sharada, tibetan, avestan, rejang, tifinagh, warang-citi, brahmi, buhid, duployan, mahajani, takri, mandaic, bhaiksuki, kaithi, chakma, gunjala-gondi, bengali, oriya, nko, hatran, khudawadi, psalter-pahlavi, sundanese, sogdian, limbu, dogra, sinhala, khojki, malayalam, tagbanwa, newa, batak, meetei-mayek, telugu, lepcha, masaram-gondi, tai-viet, buginese, kannada, hanifi-rohingya, khmer</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: tamil, arabic, zanabazar-square, manichaean, thai, gujarati, syriac, kayah-li, saurashtra, gurmukhi, javanese, mongolian, phags-pa, thaana, devanagari, new-tai-lue, cham, balinese, hanunoo, yi, tagalog, grantha, myanmar, siddham, tirhuta, kharoshthi, old-hungarian, syloti-nagri, lao, tai-le, hebrew, modi, tai-tham, pahawh-hmong, sharada, tibetan, avestan, rejang, tifinagh, warang-citi, brahmi, buhid, duployan, mahajani, takri, mandaic, bhaiksuki, kaithi, chakma, gunjala-gondi, bengali, oriya, nko, khudawadi, psalter-pahlavi, sundanese, sogdian, limbu, dogra, sinhala, khojki, malayalam, tagbanwa, newa, batak, meetei-mayek, telugu, lepcha, masaram-gondi, tai-viet, buginese, kannada, hanifi-rohingya, khmer</li>
+<li>U+2010 HYPHEN: try adding one of: sundanese, yi, arabic, sora-sompeng, kharoshthi, syloti-nagri, armenian, kayah-li, kaithi, hebrew, coptic, lisu, cham</li>
+<li>U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, yi, arabic</li>
 <li>U+2012 FIGURE DASH: not included in any glyphset definition</li>
 <li>U+2015 HORIZONTAL BAR: try adding adlam</li>
 <li>U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition</li>
@@ -905,20 +822,20 @@ definitions.</p>
 <li>U+215E VULGAR FRACTION SEVEN EIGHTHS: not included in any glyphset definition</li>
 <li>U+2183 ROMAN NUMERAL REVERSED ONE HUNDRED: try adding symbols</li>
 <li>U+2184 LATIN SMALL LETTER REVERSED C: not included in any glyphset definition</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
-<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
-<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
-<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
-<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
-<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
-<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
-<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: symbols, math</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: symbols, math</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: symbols, math</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: symbols, math</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: symbols, math</li>
 <li>U+2202 PARTIAL DIFFERENTIAL: try adding math</li>
 <li>U+2205 EMPTY SET: try adding math</li>
 <li>U+2206 INCREMENT: try adding math</li>
 <li>U+220F N-ARY PRODUCT: try adding math</li>
 <li>U+2211 N-ARY SUMMATION: try adding math</li>
-<li>U+2219 BULLET OPERATOR: try adding one of: math, yi, tai-tham, symbols</li>
+<li>U+2219 BULLET OPERATOR: try adding one of: yi, symbols, math, tai-tham</li>
 <li>U+221A SQUARE ROOT: try adding math</li>
 <li>U+221E INFINITY: try adding math</li>
 <li>U+222B INTEGRAL: try adding math</li>
@@ -937,27 +854,27 @@ definitions.</p>
 <li>U+25AA BLACK SMALL SQUARE: try adding symbols</li>
 <li>U+25AB WHITE SMALL SQUARE: try adding symbols</li>
 <li>U+25B2 BLACK UP-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: symbols, math</li>
 <li>U+25B4 BLACK UP-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25B5 WHITE UP-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25B6 BLACK RIGHT-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: symbols, math</li>
 <li>U+25B8 BLACK RIGHT-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25B9 WHITE RIGHT-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25BC BLACK DOWN-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: symbols, math</li>
 <li>U+25BE BLACK DOWN-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25BF WHITE DOWN-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25C0 BLACK LEFT-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: symbols, math</li>
 <li>U+25C2 BLACK LEFT-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25C3 WHITE LEFT-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25C6 BLACK DIAMOND: try adding symbols</li>
 <li>U+25C7 WHITE DIAMOND: try adding symbols</li>
 <li>U+25C9 FISHEYE: try adding symbols</li>
-<li>U+25CA LOZENGE: try adding one of: math, symbols</li>
+<li>U+25CA LOZENGE: try adding one of: symbols, math</li>
 <li>U+25CB WHITE CIRCLE: try adding symbols</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: kaithi, buhid, miao, tai-viet, pahawh-hmong, cham, bassa-vah, batak, kayah-li, psalter-pahlavi, sharada, limbu, hanunoo, malayalam, buginese, tai-le, armenian, syloti-nagri, tifinagh, mende-kikakui, adlam, khudawadi, mongolian, telugu, khojki, tagalog, devanagari, javanese, sogdian, marchen, balinese, gunjala-gondi, warang-citi, syriac, masaram-gondi, hebrew, coptic, yi, mandaic, elbasan, tagbanwa, tibetan, tirhuta, new-tai-lue, duployan, zanabazar-square, thai, saurashtra, modi, rejang, osage, grantha, brahmi, bhaiksuki, sundanese, hanifi-rohingya, caucasian-albanian, meetei-mayek, symbols, manichaean, khmer, dogra, wancho, lepcha, old-permic, oriya, siddham, bengali, ahom, myanmar, soyombo, newa, music, thaana, gujarati, math, chakma, kharoshthi, tamil, nko, kannada, phags-pa, tai-tham, sinhala, canadian-aboriginal, lao, takri, mahajani, gurmukhi</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: saurashtra, javanese, new-tai-lue, bassa-vah, mende-kikakui, hanunoo, tagalog, grantha, adlam, pahawh-hmong, rejang, warang-citi, brahmi, duployan, mandaic, bhaiksuki, kaithi, psalter-pahlavi, oriya, nko, sundanese, dogra, tagbanwa, newa, telugu, masaram-gondi, buginese, khmer, marchen, thai, gujarati, syriac, thaana, devanagari, osage, canadian-aboriginal, myanmar, siddham, kharoshthi, tai-le, sharada, symbols, malayalam, lepcha, music, tai-viet, hanifi-rohingya, kayah-li, mongolian, phags-pa, coptic, cham, ahom, yi, syloti-nagri, lao, wancho, soyombo, chakma, miao, khojki, batak, tamil, math, zanabazar-square, manichaean, tibetan, gurmukhi, caucasian-albanian, balinese, tirhuta, hebrew, modi, tai-tham, tifinagh, buhid, mahajani, takri, elbasan, bengali, gunjala-gondi, khudawadi, sogdian, old-permic, sinhala, armenian, meetei-mayek, limbu, kannada</li>
 <li>U+25CF BLACK CIRCLE: try adding symbols</li>
 <li>U+25E6 WHITE BULLET: try adding symbols</li>
 <li>U+25FC BLACK MEDIUM SQUARE: try adding symbols</li>
@@ -987,7 +904,7 @@ definitions.</p>
 <li>U+2B9F BLACK DOWNWARDS EQUILATERAL ARROWHEAD: try adding symbols</li>
 <li>U+2E17 DOUBLE OBLIQUE HYPHEN: try adding coptic</li>
 <li>U+2E38 TURNED DAGGER: not included in any glyphset definition</li>
-<li>U+3003 DITTO MARK: try adding one of: chinese-traditional, chinese-simplified, japanese, yi, chinese-hongkong, phags-pa</li>
+<li>U+3003 DITTO MARK: try adding one of: yi, chinese-traditional, phags-pa, chinese-simplified, japanese, chinese-hongkong</li>
 <li>U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition</li>
 <li>U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition</li>
 <li>U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition</li>
@@ -1113,12 +1030,32 @@ definitions.</p>
 
 
 
-* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '370.58824157714844'</p>
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
  [code: missing-axis-value-table]
 
 
 
-* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '780.0'</p>
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
  [code: missing-axis-value-table]
 
 
@@ -1153,16 +1090,6 @@ definitions.</p>
 
 
 
-* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '370.58824157714844'</p>
- [code: missing-axis-value-table]
-
-
-
-* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '780.0'</p>
- [code: missing-axis-value-table]
-
-
-
 * 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
  [code: missing-axis-value-table]
 
@@ -1189,16 +1116,6 @@ definitions.</p>
 
 
 * 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
- [code: missing-axis-value-table]
-
-
-
-* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '370.58824157714844'</p>
- [code: missing-axis-value-table]
-
-
-
-* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '780.0'</p>
  [code: missing-axis-value-table]
 
 
@@ -1285,7 +1202,7 @@ definitions.</p>
 
 
 
-* 🔥 **FAIL** <p>Current FontBakery version is 0.12.1, while a newer 0.12.6 is already available. Please upgrade it with 'pip install -U fontbakery'</p>
+* 🔥 **FAIL** <p>Current FontBakery version is 0.12.1, while a newer 0.12.7 is already available. Please upgrade it with 'pip install -U fontbakery'</p>
  [code: outdated-fontbakery]
 
 
@@ -1430,11 +1347,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">bum_Latn (Bulu)</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -1502,11 +1419,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">ewo_Latn (Ewondo)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -1514,7 +1427,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -1578,11 +1495,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">bbj_Latn (Ghomala)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -1590,7 +1503,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -1682,11 +1599,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">nfu_Latn (Mfumte)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -1694,7 +1607,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -1790,11 +1707,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">lee_Latn (Lyélé)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -1802,7 +1715,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -1870,23 +1787,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">dnj_Latn (Dan)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030B to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030F to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030F to uniA7CB</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -1894,15 +1795,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni030B to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uniA7CB</td>
+<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -1910,11 +1803,35 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
+<td align="left">Shaper didn't attach uni030B to uniA7CB</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni0304 to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030F to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030B to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030F to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0264</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -2074,11 +1991,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">lnl_Latn (South Central Banda)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+<td align="left">Shaper didn't attach uni0308 to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0308 to uni0259</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -2146,7 +2063,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">mnf_Latn (Mundani)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -2154,7 +2071,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -2182,11 +2099,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">ksp_Latn (Kabba)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+<td align="left">Shaper didn't attach uni0308 to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0308 to uni0259</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -2214,15 +2131,15 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0265</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb to uni0265</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302 to uni0265</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0265</td>
 </tr>
 <tr>
 <td align="left">ach_Latn (Acoli)</td>
@@ -2242,19 +2159,19 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">sbd_Latn (Southern Samo)</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni0308 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -2282,15 +2199,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">dur_Latn (Dii)</td>
-<td align="left">Shaper didn't attach uni0327.case to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni0327.case</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to uni0259</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -2298,7 +2207,15 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+<td align="left">Shaper didn't attach uni0327 to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0327.case to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni0327.case</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -2374,6 +2291,10 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">mge_Latn (Mango)</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb to uni0259</td>
 </tr>
 <tr>
@@ -2383,10 +2304,6 @@ definitions.</p>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb to uni0330</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -2490,11 +2407,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">bfd_Latn (Bafut)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -2502,7 +2415,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -2770,11 +2687,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">fmp_Latn (Fe’fe’)</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0259</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -2782,7 +2695,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -2814,11 +2731,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">mwm_Latn (Sar)</td>
-<td align="left">Shaper didn't attach uni0304 to uni0259</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+<td align="left">Shaper didn't attach uni0304 to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -2850,11 +2767,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">nnw_Latn (Southern Nuni)</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -2930,11 +2847,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -2970,11 +2887,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">gkp_Latn (Kpelle, Guinea)</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+<td align="left">Shaper didn't attach gravecomb to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -3234,11 +3151,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">bax_Latn (Bamun, Latin)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -3246,7 +3159,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+<td align="left">Shaper didn't attach uni030C to uni0259</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -3294,7 +3211,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">mcp_Latn (Makaa)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
+<td align="left">Shaper didn't attach acutecomb to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -3302,7 +3219,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
+<td align="left">Shaper didn't attach uni0302 to uni0259</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -3350,10 +3267,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">gov_Latn (Goo)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb to uni0264</td>
 </tr>
 <tr>
@@ -3362,7 +3275,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
+<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -3370,7 +3283,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
+<td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0264</td>
 </tr>
 <tr>
 <td align="left">nko_Latn (Nkonya)</td>
@@ -3506,745 +3423,745 @@ definitions.</p>
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 287 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 320 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 287 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 320 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 288 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 14 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 323 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 288 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 14 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 323 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 289 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 14 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 324 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 289 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 14 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 324 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 290 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 14 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 325 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 290 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 14 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 325 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 291 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 14 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 327 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 291 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 14 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 327 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 292 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 16 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 330 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 292 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 16 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 330 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 312 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 16 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 331 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 312 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 16 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 331 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 12 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 315 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 16 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 332 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 12 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 315 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 16 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 332 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 12 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 316 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 16 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 334 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 12 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 316 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 16 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 334 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 12 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 317 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 24 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 337 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 12 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 317 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 24 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 337 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 12 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 319 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 24 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 338 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 12 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 319 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 24 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 338 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 24 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 322 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 24 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 339 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 24 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 322 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 24 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 339 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 24 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 323 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 24 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 341 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 24 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 323 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 24 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 341 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 24 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 324 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 344 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 24 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 324 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 344 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 24 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 326 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 345 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 24 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 326 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 345 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 329 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 346 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 329 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 346 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 330 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 348 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 330 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 348 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 331 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 351 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 331 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 351 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 333 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 352 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 333 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 352 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 335 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 353 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 335 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 353 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 336 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 355 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 336 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 355 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 337 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 358 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 337 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 358 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 339 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 359 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 339 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 359 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 342 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 360 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 342 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 360 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 343 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 362 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 343 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 362 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 344 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 364 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 344 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 364 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 346 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 365 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 346 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 365 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 348 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 366 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 348 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 366 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 349 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 367 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 349 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 367 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 350 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 369 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 350 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 369 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 351 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 370 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 351 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 370 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 353 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 376 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 353 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 376 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 354 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 14 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 379 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Cond' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 354 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 14 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 379 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 360 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 14 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 380 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 360 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 14 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 380 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 12 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 363 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 14 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 381 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 12 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 363 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 14 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 381 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 12 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 364 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 14 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 383 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 12 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 364 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 14 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 383 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 12 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 365 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 16 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 386 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 12 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 365 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 16 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 386 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 12 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 367 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 16 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 387 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 12 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 367 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 16 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 387 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 24 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 370 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 16 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 388 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 24 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 370 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 16 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 388 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 24 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 371 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 16 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 390 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 24 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 371 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 16 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 390 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 24 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 372 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 24 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 393 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 24 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 372 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 24 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 393 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 24 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 374 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 24 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 394 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 24 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 374 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 24 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 394 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 377 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 24 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 395 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 377 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 24 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 395 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 378 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 24 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 397 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 378 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 24 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 397 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 379 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 400 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 379 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 400 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 381 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 401 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 381 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 401 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Italic Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 383 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 402 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Italic Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 383 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 402 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Italic Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 384 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 404 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Italic Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 384 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 404 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Italic Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 385 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 407 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Italic Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 385 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 407 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Italic Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 386 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 408 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Italic Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 386 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 408 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Italic Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 387 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 409 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Italic Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 387 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 409 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Italic Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 388 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 411 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Italic Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 388 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 411 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 390 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 414 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 390 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 414 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 391 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 415 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 391 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 415 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 392 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 416 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 392 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 416 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 394 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 418 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 394 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 418 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 396 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 420 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 396 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 420 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 397 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 421 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 397 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 421 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 398 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 422 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 398 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 422 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 399 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 423 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 399 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 423 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 401 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 425 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 401 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 425 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 402 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 426 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 402 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Wide' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 426 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
@@ -4277,283 +4194,13 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">Bold 12</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 12 Cond</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 64 Italic</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 72 Cond</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 48</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 48</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 72 Wide</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 12</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 48</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 24 Cond</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 144</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 48 Wide</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 144 Wide</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light Cond</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=7.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 144 Wide</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 144 Cond</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 12 Wide</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold Wide</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=7.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 48 Cond</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 24</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular Wide</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=7.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 64 Cond</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 24 Wide</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 144</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 24 Wide</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 24 Wide</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 24</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold Cond</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=7.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 48 Wide</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 24 Cond</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 24 Wide</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light Wide</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=7.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 24</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 144 Wide</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 12 Cond</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 48 Cond</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 24 Cond</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 72</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 144</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 64 Italic Wide</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 72 Wide</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 72</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 24</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 144 Cond</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 64 Italic</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold Cond</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=7.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 24 Wide</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 48</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium Wide</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=7.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
 <td align="left">Black 72</td>
 <td align="left">wght=900.0, wdth=100.0, opsz=72.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Black Cond</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=7.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 12 Wide</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 64 Italic</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 24 Cond</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 48 Cond</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 12</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=12.0</td>
+<td align="left">Medium 14 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=14.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -4562,98 +4209,28 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Light 12</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=12.0</td>
+<td align="left">Black 14 Cond</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=14.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Light 12 Cond</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=12.0</td>
+<td align="left">Bold 16</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=16.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExtraBold 72</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=72.0</td>
+<td align="left">Light 64 Cond</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=64.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Black 144 Wide</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=144.0</td>
+<td align="left">Medium Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=12.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Light 24 Cond</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 144</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 144</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 64 Cond</td>
-<td align="left">wght=370.58824157714844, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 12 Cond</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 72 Cond</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 72 Cond</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 48 Wide</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 64 Cond</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 12 Wide</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 48 Cond</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 144 Cond</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 64 Italic Wide</td>
-<td align="left">wght=370.58824157714844, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 144 Wide</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 144</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=144.0</td>
+<td align="left">Black Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=12.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -4662,168 +4239,38 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExtraBold 48 Cond</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=48.0</td>
+<td align="left">Black 72 Cond</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=72.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Medium 72 Wide</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=72.0</td>
+<td align="left">ExtraBold 14 Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=14.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExtraBold 64 Italic</td>
-<td align="left">wght=780.0, wdth=100.0, opsz=64.0</td>
+<td align="left">Light 24 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Regular 24</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=24.0</td>
+<td align="left">SemiBold 14 Cond</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=14.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Regular 12 Cond</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=12.0</td>
+<td align="left">SemiBold 64 Cond</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=64.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Light 72 Cond</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=72.0</td>
+<td align="left">Black 24 Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Bold 144 Wide</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 72</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 64 Italic Wide</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 144 Wide</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 12 Wide</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 72 Wide</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular Cond</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=7.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 72 Cond</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 144 Cond</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 144</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 64 Cond</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 64 Italic Wide</td>
-<td align="left">wght=780.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 12</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 64 Italic Wide</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium Cond</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=7.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 48 Wide</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 72</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 12 Cond</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 64 Cond</td>
-<td align="left">wght=780.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 24</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold Wide</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=7.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 12 Wide</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 12</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 48</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 12 Wide</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 24 Cond</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 72 Wide</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=72.0</td>
+<td align="left">Medium 64 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=64.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -4832,13 +4279,83 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">SemiBold 24</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=24.0</td>
+<td align="left">Black 48</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=48.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Regular 48 Wide</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=48.0</td>
+<td align="left">Medium 14</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 14 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 144</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 48 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 72</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 144</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 16</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 72 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 24 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 72 Cond</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 16 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 144</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 72 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=12.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -4847,38 +4364,23 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Medium 64 Cond</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=64.0</td>
+<td align="left">Light 24 Cond</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Light 72 Wide</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=72.0</td>
+<td align="left">ExtraBold 48 Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=48.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Bold Wide</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=7.0</td>
+<td align="left">Bold 24 Cond</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Black Wide</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=7.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 72</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 64 Italic Wide</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 48 Cond</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=48.0</td>
+<td align="left">SemiBold 144</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=144.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -4887,38 +4389,83 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
+<td align="left">ExtraBold 16 Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 72 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium Cond</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 72 Cond</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 16</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black Cond</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 72 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 16 Cond</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 144 Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 64 Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
 <td align="left">Black 48 Wide</td>
 <td align="left">wght=900.0, wdth=112.0, opsz=48.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Bold Cond</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=7.0</td>
+<td align="left">ExtraBold 48 Cond</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=48.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Medium 12</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=12.0</td>
+<td align="left">Medium 144 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=144.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Regular 144 Cond</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=144.0</td>
+<td align="left">Bold 48</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=48.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Medium 12 Cond</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=12.0</td>
+<td align="left">Black 16 Cond</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=16.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExtraBold 72 Cond</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 64 Italic</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=64.0</td>
+<td align="left">Regular 64 Cond</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=64.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -4927,33 +4474,23 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">SemiBold 48</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=48.0</td>
+<td align="left">Regular 24 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Medium 12 Wide</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=12.0</td>
+<td align="left">SemiBold 144 Cond</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=144.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Bold 48 Wide</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=48.0</td>
+<td align="left">Black 14 Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=14.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Bold 24 Wide</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 64 Italic</td>
-<td align="left">wght=370.58824157714844, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 48</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=48.0</td>
+<td align="left">SemiBold 72</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=72.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -4962,39 +4499,539 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
+<td align="left">SemiBold 16</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 16 Cond</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 64 Cond</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 72</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 48 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 14 Cond</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 16 Cond</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 14</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 14</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 48 Cond</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 64</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 48 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 14</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 16 Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 144</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 72 Cond</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 72 Cond</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 72 Cond</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 48 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 24</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold Cond</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 144 Cond</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 14 Cond</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 144 Cond</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 64 Cond</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 144 Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 24 Cond</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 48</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 144 Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 24</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 48</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 144 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 64</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 48</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 64 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular Cond</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 48</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 64</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 144</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 24 Cond</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 64</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 24 Cond</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 16 Cond</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 14 Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 144 Cond</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 16 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 48 Cond</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 64</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 24 Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 72 Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 14</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 64 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 24</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 144 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 48 Cond</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 24</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 64 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 24 Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 64 Cond</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 64 Cond</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 14 Cond</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 16</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 64</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 16 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 144 Cond</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 48 Cond</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 14</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 14</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 72</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 48 Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold Cond</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 16 Cond</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 14 Cond</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 48</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 16 Cond</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 64 Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 16</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 24</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 24</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 144</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 16</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 14 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 64 Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 24</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 64</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 72 Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light Cond</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 16 Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 16 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 48 Cond</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 14 Cond</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 144 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 14 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 72</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold Cond</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 72</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 24 Cond</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
 <td align="left">Light</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=7.0</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=7.0</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=12.0</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=12.0</td>
 </tr>
 <tr>
 <td align="left">Regular</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=7.0</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=7.0</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=12.0</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=12.0</td>
 </tr>
 <tr>
 <td align="left">Medium</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=7.0</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=7.0</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=12.0</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=12.0</td>
 </tr>
 <tr>
 <td align="left">SemiBold</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=7.0</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=7.0</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=12.0</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=12.0</td>
 </tr>
 <tr>
 <td align="left">Bold</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=7.0</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=7.0</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=12.0</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=12.0</td>
 </tr>
 <tr>
 <td align="left">ExtraBold</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=7.0</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=7.0</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=12.0</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=12.0</td>
 </tr>
 <tr>
 <td align="left">Black</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=7.0</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=7.0</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=12.0</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=12.0</td>
 </tr>
 </tbody>
 </table>
@@ -5031,26 +5068,8 @@ definitions.</p>
 </div>
 </details>
 
-<details><summary>[31] Merriweather-Italic[opsz,wdth,wght].ttf</summary>
+<details><summary>[28] Merriweather-Italic[opsz,wdth,wght].ttf</summary>
 <div>
-<details>
-    <summary>⚠️ <b>WARN</b> The variable font 'opsz' (Optical Size) axis coordinate should be between 10 and 16 on the 'Regular' instance. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.fvar.html#"></a></summary>
-    <div>
-
-
-
-
-
-
-
-* ⚠️ **WARN** <p>The &quot;opsz&quot; (Optical Size) coordinate on the &quot;Regular&quot; instance is recommended to be a value in the range 10 to 16. Got 7.0 instead.</p>
- [code: opsz-out-of-range]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>⚠️ <b>WARN</b> Check mark characters are in GDEF mark glyph class. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.gdef.html#"></a></summary>
     <div>
@@ -5071,24 +5090,6 @@ uni0488 (U+0488) and uni0489 (U+0489)</p>
 </details>
 
 <details>
-    <summary>⚠️ <b>WARN</b> Validates that all of the instance records in a given font have distinct data. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.fvar.html#"></a></summary>
-    <div>
-
-
-
-
-
-
-
-* ⚠️ **WARN** <p>'Bold 12 Italic' is a repeated instance record.</p>
- [code: repeated-instance-record:Bold 12 Italic]
-
-
-
-</div>
-</details>
-
-<details>
     <summary>⚠️ <b>WARN</b> Detect any interpolation issues in the font. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#"></a></summary>
     <div>
 
@@ -5099,143 +5100,145 @@ uni0488 (U+0488) and uni0489 (U+0489)</p>
 
 
 * ⚠️ **WARN** <p>Interpolation issues were found in the font:</p>
-<pre><code>- Contour order differs in glyph 'uni030B.case': [0, 1] in wght=900,wdth=112,opsz=144, [1, 0] in wght=300,wdth=100,opsz=144.
+<pre><code>- Contour 0 start point differs in glyph 'K' between location wght=900,wdth=87,opsz=12 and location wght=900,wdth=112,opsz=12
 
-- Contour order differs in glyph 'uni030B.case': [0, 1] in wght=300,wdth=100,opsz=144, [1, 0] in wght=300,wdth=87,opsz=7.
+- Contour 0 start point differs in glyph 'K' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
 
-- Contour order differs in glyph 'uni030B.case': [0, 1] in wght=300,wdth=112,opsz=7, [1, 0] in wght=300,wdth=87,opsz=144.
+- Contour 1 start point differs in glyph 'uni045A' between location wght=300,wdth=87,opsz=144 and location wght=300,wdth=112,opsz=144
 
-- Contour 1 start point differs in glyph 'uni0264' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+- Contour 1 in glyph 'uni045A': becomes underweight between wght=300,wdth=87,opsz=144 and wght=300,wdth=112,opsz=144.
 
-- Contour 1 start point differs in glyph 'uni0264' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+- Contour 0 point 70 has a kink between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
 
-- Contour 1 start point differs in glyph 'uni0264' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 0 point 29 has a kink between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
 
-- Contour 0 point 38 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 0 point 29 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
 
-- Contour 0 point 67 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 0 start point differs in glyph 'uni0336' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
 
-- Contour 1 start point differs in glyph 'uni0264' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+- Contour 0 in glyph 'uni0336': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=12.
 
-- Contour 0 point 38 has a kink between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+- Contour 0 start point differs in glyph 'uni0336' between location wght=900,wdth=87,opsz=12 and location wght=900,wdth=112,opsz=12
 
-- Contour 0 point 67 has a kink between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+- Contour 0 in glyph 'uni0336': becomes underweight between wght=900,wdth=87,opsz=12 and wght=900,wdth=112,opsz=12.
 
-- Contour 0 start point differs in glyph 'uni2042' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+- Contour 0 start point differs in glyph 'uni0336' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
 
-- Contour 0 in glyph 'uni2042': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+- Contour 0 in glyph 'uni0336': becomes underweight between wght=300,wdth=100,opsz=12 and wght=900,wdth=87,opsz=144.
 
-- Contour 1 start point differs in glyph 'uni2042' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+- Contour 0 start point differs in glyph 'uni0336' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
 
-- Contour 1 in glyph 'uni2042': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+- Contour 0 in glyph 'uni0336': becomes underweight between wght=900,wdth=87,opsz=144 and wght=900,wdth=112,opsz=144.
 
-- Contour 2 start point differs in glyph 'uni2042' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+- Contour 0 start point differs in glyph 'uni0336' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 
-- Contour 2 in glyph 'uni2042': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+- Contour 0 in glyph 'uni0336': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
 
-- Contour 0 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+- Contour 0 start point differs in glyph 'uni0336' between location wght=300,wdth=87,opsz=12 and location wght=300,wdth=112,opsz=12
 
-- Contour 0 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+- Contour 0 in glyph 'uni0336': becomes underweight between wght=300,wdth=87,opsz=12 and wght=300,wdth=112,opsz=12.
 
-- Contour 1 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+- Contour 0 start point differs in glyph 'uni0336' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
 
-- Contour 1 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+- Contour 0 in glyph 'uni0336': becomes underweight between wght=300,wdth=112,opsz=12 and wght=300,wdth=87,opsz=144.
 
-- Contour 2 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+- Contour 0 start point differs in glyph 'uni0336' between location wght=300,wdth=87,opsz=144 and location wght=300,wdth=112,opsz=144
 
-- Contour 2 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+- Contour 0 in glyph 'uni0336': becomes underweight between wght=300,wdth=87,opsz=144 and wght=300,wdth=112,opsz=144.
 
-- Contour 0 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 0 start point differs in glyph 'uni048D.sc' between location wght=900,wdth=100,opsz=12 and location wght=900,wdth=100,opsz=144
 
-- Contour 0 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+- Contour 0 in glyph 'uni048D.sc': becomes underweight between wght=900,wdth=100,opsz=12 and wght=900,wdth=100,opsz=144.
 
-- Contour 1 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 0 start point differs in glyph 'uni048D.sc' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
 
-- Contour 1 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+- Contour 0 in glyph 'uni048D.sc': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=12.
 
-- Contour 2 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 0 start point differs in glyph 'uni048D.sc' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
 
-- Contour 2 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+- Contour 0 in glyph 'uni048D.sc': becomes underweight between wght=300,wdth=100,opsz=12 and wght=900,wdth=87,opsz=144.
 
-- Contour 0 start point differs in glyph 'uni2042' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+- Contour 0 start point differs in glyph 'uni048D.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 
-- Contour 0 in glyph 'uni2042': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+- Contour 0 in glyph 'uni048D.sc': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
 
-- Contour 1 start point differs in glyph 'uni2042' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+- Contour 0 start point differs in glyph 'uni048D.sc' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
 
-- Contour 1 in glyph 'uni2042': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+- Contour 0 in glyph 'uni048D.sc': becomes underweight between wght=300,wdth=112,opsz=12 and wght=300,wdth=87,opsz=144.
 
-- Contour 2 start point differs in glyph 'uni2042' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+- Contour 0 start point differs in glyph 'UCstrokecomb_part.' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
 
-- Contour 2 in glyph 'uni2042': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+- Contour 0 in glyph 'UCstrokecomb_part.': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=12.
 
-- Contour 1 start point differs in glyph 'uni04B3.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+- Contour 0 start point differs in glyph 'UCstrokecomb_part.' between location wght=900,wdth=87,opsz=12 and location wght=900,wdth=112,opsz=12
 
-- Contour 2 start point differs in glyph 'uni04B3.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+- Contour 0 in glyph 'UCstrokecomb_part.': becomes underweight between wght=900,wdth=87,opsz=12 and wght=900,wdth=112,opsz=12.
 
-- Contour 1 start point differs in glyph 'uni04B3.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+- Contour 0 start point differs in glyph 'UCstrokecomb_part.' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
 
-- Contour 2 start point differs in glyph 'uni04B3.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+- Contour 0 in glyph 'UCstrokecomb_part.': becomes underweight between wght=300,wdth=100,opsz=12 and wght=900,wdth=87,opsz=144.
 
-- Contour 0 start point differs in glyph 'x.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+- Contour 0 start point differs in glyph 'UCstrokecomb_part.' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
 
-- Contour 1 start point differs in glyph 'x.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+- Contour 0 in glyph 'UCstrokecomb_part.': becomes underweight between wght=900,wdth=87,opsz=144 and wght=900,wdth=112,opsz=144.
 
-- Contour 0 start point differs in glyph 'x.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+- Contour 0 start point differs in glyph 'UCstrokecomb_part.' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 
-- Contour 1 start point differs in glyph 'x.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+- Contour 0 in glyph 'UCstrokecomb_part.': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
 
-- Contour 2 start point differs in glyph 'uniA7C8' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
+- Contour 0 start point differs in glyph 'UCstrokecomb_part.' between location wght=300,wdth=87,opsz=12 and location wght=300,wdth=112,opsz=12
 
-- Contour 2 in glyph 'uniA7C8': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
+- Contour 0 in glyph 'UCstrokecomb_part.': becomes underweight between wght=300,wdth=87,opsz=12 and wght=300,wdth=112,opsz=12.
 
-- Contour 2 start point differs in glyph 'uniA7C8' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+- Contour 0 start point differs in glyph 'UCstrokecomb_part.' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
 
-- Contour 2 in glyph 'uniA7C8': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+- Contour 0 in glyph 'UCstrokecomb_part.': becomes underweight between wght=300,wdth=112,opsz=12 and wght=300,wdth=87,opsz=144.
 
-- Contour 2 start point differs in glyph 'uniA7C8' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+- Contour 0 start point differs in glyph 'UCstrokecomb_part.' between location wght=300,wdth=87,opsz=144 and location wght=300,wdth=112,opsz=144
 
-- Contour 2 in glyph 'uniA7C8': becomes underweight between wght=900,wdth=87,opsz=144 and wght=900,wdth=112,opsz=144.
-
-- Contour 2 start point differs in glyph 'uniA7C8' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
-
-- Contour 2 in glyph 'uniA7C8': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
+- Contour 0 in glyph 'UCstrokecomb_part.': becomes underweight between wght=300,wdth=87,opsz=144 and wght=300,wdth=112,opsz=144.
 
 - Contour 0 start point differs in glyph 'l.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
 
 - Contour 0 start point differs in glyph 'l.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
 
-- Contour 2 start point differs in glyph 'uni0467' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+- Contour 0 start point differs in glyph 'uni0482' between location wght=900,wdth=100,opsz=12 and location wght=900,wdth=100,opsz=144
 
-- Contour 2 in glyph 'uni0467': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+- Contour 0 in glyph 'uni0482': becomes underweight between wght=900,wdth=100,opsz=12 and wght=900,wdth=100,opsz=144.
 
-- Contour 2 start point differs in glyph 'uni0467' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+- Contour 0 start point differs in glyph 'uni0482' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
 
-- Contour 2 in glyph 'uni0467': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+- Contour 0 in glyph 'uni0482': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=12.
 
-- Contour 2 start point differs in glyph 'uni0467' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 0 start point differs in glyph 'uni0482' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
 
-- Contour 2 in glyph 'uni0467': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+- Contour 0 start point differs in glyph 'uni0482' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 
-- Contour 2 start point differs in glyph 'uni0467' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+- Contour 0 start point differs in glyph 'uni0482' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
 
-- Contour 2 in glyph 'uni0467': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+- Contour 0 point 25 has a kink between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
 
-- Contour 0 start point differs in glyph 'uni0482' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
+- Contour 0 start point differs in glyph 'uni0264.sc' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
 
-- Contour 0 in glyph 'uni0482': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
+- Contour 1 start point differs in glyph 'uni0264.sc' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
 
-- Contour 0 start point differs in glyph 'uni0482' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+- Contour 0 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
 
-- Contour 0 in glyph 'uni0482': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+- Contour 1 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
 
-- Contour 0 start point differs in glyph 'uni0482' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+- Contour 0 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=87,opsz=12 and location wght=300,wdth=112,opsz=12
 
-- Contour 0 start point differs in glyph 'uni0482' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 1 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=87,opsz=12 and location wght=300,wdth=112,opsz=12
 
-- Contour 0 start point differs in glyph 'uni0482' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+- Contour 0 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
 
-- Contour 1 start point differs in glyph 'plusminus' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+- Contour 1 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 point 42 has a kink between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 point 73 has a kink between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
+
+- Contour 1 start point differs in glyph 'plusminus' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
 
 - Contour 1 start point differs in glyph 'plusminus' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
 
@@ -5243,195 +5246,13 @@ uni0488 (U+0488) and uni0489 (U+0489)</p>
 
 - Contour 1 in glyph 'uni019B': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
 
-- Contour 1 start point differs in glyph 'uni019B' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 1 start point differs in glyph 'uni019B' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 
-- Contour 1 in glyph 'uni019B': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+- Contour 1 in glyph 'uni019B': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
 
-- Contour 1 start point differs in glyph 'uni019B' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+- Contour 1 start point differs in glyph 'uni019B' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
 
-- Contour 1 in glyph 'uni019B': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
-
-- Contour 0 start point differs in glyph 'uni0264.sc' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
-
-- Contour 1 start point differs in glyph 'uni0264.sc' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
-
-- Contour 0 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
-
-- Contour 1 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
-
-- Contour 0 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=87,opsz=7 and location wght=300,wdth=112,opsz=7
-
-- Contour 1 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=87,opsz=7 and location wght=300,wdth=112,opsz=7
-
-- Contour 0 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
-
-- Contour 1 start point differs in glyph 'uni0264.sc' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
-
-- Contour 0 point 42 has a kink between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
-
-- Contour 0 point 73 has a kink between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
-
-- Contour 0 point 29 has a kink between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
-
-- Contour 0 point 29 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
-
-- Contour 0 start point differs in glyph 'm.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
-
-- Contour 0 in glyph 'm.sc': becomes underweight between wght=900,wdth=87,opsz=144 and wght=900,wdth=112,opsz=144.
-
-- Contour 0 start point differs in glyph 'm.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
-
-- Contour 0 in glyph 'm.sc': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
-
-- Contour 0 start point differs in glyph 'uni0492' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
-
-- Contour 0 in glyph 'uni0492': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
-
-- Contour 0 start point differs in glyph 'uni0492' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
-
-- Contour 0 in glyph 'uni0492': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
-
-- Contour 1 start point differs in glyph 'uniA7CB' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
-
-- Contour 1 start point differs in glyph 'uniA7CB' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
-
-- Contour 0 point 40 has a kink between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
-
-- Contour 1 start point differs in glyph 'uniA7CB' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
-
-- Contour 0 point 69 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
-
-- Contour 0 start point differs in glyph 'UCstrokecomb_part.' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
-
-- Contour 0 in glyph 'UCstrokecomb_part.': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
-
-- Contour 0 start point differs in glyph 'UCstrokecomb_part.' between location wght=900,wdth=87,opsz=7 and location wght=900,wdth=112,opsz=7
-
-- Contour 0 in glyph 'UCstrokecomb_part.': becomes underweight between wght=900,wdth=87,opsz=7 and wght=900,wdth=112,opsz=7.
-
-- Contour 0 start point differs in glyph 'UCstrokecomb_part.' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
-
-- Contour 0 in glyph 'UCstrokecomb_part.': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
-
-- Contour 0 start point differs in glyph 'UCstrokecomb_part.' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
-
-- Contour 0 in glyph 'UCstrokecomb_part.': becomes underweight between wght=900,wdth=87,opsz=144 and wght=900,wdth=112,opsz=144.
-
-- Contour 0 start point differs in glyph 'UCstrokecomb_part.' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
-
-- Contour 0 in glyph 'UCstrokecomb_part.': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
-
-- Contour 0 start point differs in glyph 'UCstrokecomb_part.' between location wght=300,wdth=87,opsz=7 and location wght=300,wdth=112,opsz=7
-
-- Contour 0 in glyph 'UCstrokecomb_part.': becomes underweight between wght=300,wdth=87,opsz=7 and wght=300,wdth=112,opsz=7.
-
-- Contour 0 start point differs in glyph 'UCstrokecomb_part.' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
-
-- Contour 0 in glyph 'UCstrokecomb_part.': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
-
-- Contour 0 start point differs in glyph 'UCstrokecomb_part.' between location wght=300,wdth=87,opsz=144 and location wght=300,wdth=112,opsz=144
-
-- Contour 0 in glyph 'UCstrokecomb_part.': becomes underweight between wght=300,wdth=87,opsz=144 and wght=300,wdth=112,opsz=144.
-
-- Contour 0 start point differs in glyph 'lessequal.case' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
-
-- Contour 0 in glyph 'lessequal.case': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
-
-- Contour 0 start point differs in glyph 'lessequal.case' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
-
-- Contour 0 in glyph 'lessequal.case': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
-
-- Contour 0 start point differs in glyph 'lessequal.case' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
-
-- Contour 0 in glyph 'lessequal.case': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
-
-- Contour 0 start point differs in glyph 'f.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
-
-- Contour 0 start point differs in glyph 'f.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
-
-- Contour 0 start point differs in glyph 'uniA71A' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
-
-- Contour 0 in glyph 'uniA71A': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
-
-- Contour 0 start point differs in glyph 'uniA71A' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
-
-- Contour 0 in glyph 'uniA71A': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
-
-- Contour 0 start point differs in glyph 'uniA71A' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
-
-- Contour 0 in glyph 'uniA71A': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
-
-- Contour 0 start point differs in glyph 'uniA71A' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
-
-- Contour 0 in glyph 'uniA71A': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
-
-- Contour 0 start point differs in glyph 'e.sc' between location wght=300,wdth=87,opsz=7 and location wght=300,wdth=112,opsz=7
-
-- Contour 0 start point differs in glyph 'e.sc' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
-
-- Contour 0 start point differs in glyph 'ae.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
-
-- Contour 0 in glyph 'ae.sc': becomes underweight between wght=900,wdth=87,opsz=144 and wght=900,wdth=112,opsz=144.
-
-- Contour 0 start point differs in glyph 'ae.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
-
-- Contour 0 in glyph 'ae.sc': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
-
-- Contour 0 start point differs in glyph 'lessequal' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
-
-- Contour 0 in glyph 'lessequal': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
-
-- Contour 0 start point differs in glyph 'lessequal' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
-
-- Contour 0 in glyph 'lessequal': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
-
-- Contour 0 start point differs in glyph 'lessequal' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
-
-- Contour 0 in glyph 'lessequal': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
-
-- Contour 2 start point differs in glyph 'uni04C3' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
-
-- Contour 2 start point differs in glyph 'uni04C3' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
-
-- Contour 1 start point differs in glyph 'uni049D' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
-
-- Contour 1 in glyph 'uni049D': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
-
-- Contour 2 start point differs in glyph 'uni049D' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
-
-- Contour 2 in glyph 'uni049D': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
-
-- Contour 1 start point differs in glyph 'uni049D' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
-
-- Contour 1 in glyph 'uni049D': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
-
-- Contour 2 start point differs in glyph 'uni049D' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
-
-- Contour 2 in glyph 'uni049D': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
-
-- Contour 1 start point differs in glyph 'uni049D' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
-
-- Contour 1 in glyph 'uni049D': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
-
-- Contour 2 start point differs in glyph 'uni049D' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
-
-- Contour 2 in glyph 'uni049D': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
-
-- Contour 1 start point differs in glyph 'uni049D' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
-
-- Contour 1 in glyph 'uni049D': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
-
-- Contour 2 start point differs in glyph 'uni049D' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
-
-- Contour 2 in glyph 'uni049D': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
-
-- Contour 1 start point differs in glyph 'uni049D' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
-
-- Contour 1 in glyph 'uni049D': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
-
-- Contour 2 start point differs in glyph 'uni049D' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
-
-- Contour 2 in glyph 'uni049D': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+- Contour 1 in glyph 'uni019B': becomes underweight between wght=300,wdth=112,opsz=12 and wght=300,wdth=87,opsz=144.
 
 - Contour 1 start point differs in glyph 'uni04CE.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
 
@@ -5441,127 +5262,227 @@ uni0488 (U+0488) and uni0489 (U+0489)</p>
 
 - Contour 1 in glyph 'uni04CE.sc': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
 
-- Contour 0 point 25 has a kink between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+- Contour 0 start point differs in glyph 'oslash.sc' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
 
-- Contour 0 start point differs in glyph 'uni0258.sc' between location wght=300,wdth=87,opsz=7 and location wght=300,wdth=112,opsz=7
-
-- Contour 0 start point differs in glyph 'uni0258.sc' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
-
-- Contour 0 start point differs in glyph 'y.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
-
-- Contour 0 start point differs in glyph 'y.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
-
-- Contour 0 point 70 has a kink between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
-
-- Contour 0 point 53 has a kink between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
-
-- Contour 0 point 53 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
-
-- Contour 0 start point differs in glyph 'oslash.sc' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
-
-- Contour 0 in glyph 'oslash.sc': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+- Contour 0 in glyph 'oslash.sc': becomes underweight between wght=300,wdth=112,opsz=12 and wght=300,wdth=87,opsz=144.
 
 - Contour 0 start point differs in glyph 'oslash.sc' between location wght=300,wdth=87,opsz=144 and location wght=300,wdth=112,opsz=144
 
-- Contour 0 start point differs in glyph 'Ibar_part.' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+- Contour 0 start point differs in glyph 'ae.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
 
-- Contour 0 in glyph 'Ibar_part.': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+- Contour 0 in glyph 'ae.sc': becomes underweight between wght=900,wdth=87,opsz=144 and wght=900,wdth=112,opsz=144.
 
-- Contour 0 start point differs in glyph 'Ibar_part.' between location wght=900,wdth=87,opsz=7 and location wght=900,wdth=112,opsz=7
+- Contour 0 start point differs in glyph 'ae.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
 
-- Contour 0 in glyph 'Ibar_part.': becomes underweight between wght=900,wdth=87,opsz=7 and wght=900,wdth=112,opsz=7.
+- Contour 0 in glyph 'ae.sc': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
 
-- Contour 0 start point differs in glyph 'Ibar_part.' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+- Contour 0 start point differs in glyph 'm.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
 
-- Contour 0 in glyph 'Ibar_part.': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+- Contour 0 in glyph 'm.sc': becomes underweight between wght=900,wdth=87,opsz=144 and wght=900,wdth=112,opsz=144.
+
+- Contour 0 start point differs in glyph 'm.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 in glyph 'm.sc': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
+
+- Contour 0 start point differs in glyph 'f.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+
+- Contour 0 start point differs in glyph 'f.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 start point differs in glyph 'uni0258.sc' between location wght=300,wdth=87,opsz=12 and location wght=300,wdth=112,opsz=12
+
+- Contour 0 start point differs in glyph 'uni0258.sc' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 point 53 has a kink between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
+
+- Contour 0 point 53 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
+
+- Contour 0 point 14 has a kink between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
+
+- Contour 0 point 14 has a kink between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
+
+- Contour 2 start point differs in glyph 'uni0472' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
+
+- Contour 2 in glyph 'uni0472': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=12.
+
+- Contour 2 start point differs in glyph 'uni0472' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
+
+- Contour 2 in glyph 'uni0472': becomes underweight between wght=900,wdth=112,opsz=12 and wght=300,wdth=100,opsz=12.
+
+- Contour 2 start point differs in glyph 'uni0472' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
+
+- Contour 2 in glyph 'uni0472': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
+
+- Contour 2 start point differs in glyph 'uni0472' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
+
+- Contour 2 in glyph 'uni0472': becomes underweight between wght=300,wdth=112,opsz=12 and wght=300,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni0264' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
+
+- Contour 1 start point differs in glyph 'uni0264' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
+
+- Contour 1 start point differs in glyph 'uni0264' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
+
+- Contour 0 point 38 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
+
+- Contour 0 point 67 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
+
+- Contour 1 start point differs in glyph 'uni0264' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 point 38 has a kink between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 point 67 has a kink between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 start point differs in glyph 'Ibar_part.' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
+
+- Contour 0 in glyph 'Ibar_part.': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=12.
+
+- Contour 0 start point differs in glyph 'Ibar_part.' between location wght=900,wdth=87,opsz=12 and location wght=900,wdth=112,opsz=12
+
+- Contour 0 in glyph 'Ibar_part.': becomes underweight between wght=900,wdth=87,opsz=12 and wght=900,wdth=112,opsz=12.
+
+- Contour 0 start point differs in glyph 'Ibar_part.' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 in glyph 'Ibar_part.': becomes underweight between wght=300,wdth=100,opsz=12 and wght=900,wdth=87,opsz=144.
 
 - Contour 0 start point differs in glyph 'Ibar_part.' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
 
 - Contour 0 in glyph 'Ibar_part.': becomes underweight between wght=900,wdth=87,opsz=144 and wght=900,wdth=112,opsz=144.
 
-- Contour 0 start point differs in glyph 'Ibar_part.' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 0 start point differs in glyph 'Ibar_part.' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 
-- Contour 0 in glyph 'Ibar_part.': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+- Contour 0 in glyph 'Ibar_part.': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
 
-- Contour 0 start point differs in glyph 'Ibar_part.' between location wght=300,wdth=87,opsz=7 and location wght=300,wdth=112,opsz=7
+- Contour 0 start point differs in glyph 'Ibar_part.' between location wght=300,wdth=87,opsz=12 and location wght=300,wdth=112,opsz=12
 
-- Contour 0 in glyph 'Ibar_part.': becomes underweight between wght=300,wdth=87,opsz=7 and wght=300,wdth=112,opsz=7.
+- Contour 0 in glyph 'Ibar_part.': becomes underweight between wght=300,wdth=87,opsz=12 and wght=300,wdth=112,opsz=12.
 
-- Contour 0 start point differs in glyph 'Ibar_part.' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+- Contour 0 start point differs in glyph 'Ibar_part.' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
 
-- Contour 0 in glyph 'Ibar_part.': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+- Contour 0 in glyph 'Ibar_part.': becomes underweight between wght=300,wdth=112,opsz=12 and wght=300,wdth=87,opsz=144.
 
 - Contour 0 start point differs in glyph 'Ibar_part.' between location wght=300,wdth=87,opsz=144 and location wght=300,wdth=112,opsz=144
 
 - Contour 0 in glyph 'Ibar_part.': becomes underweight between wght=300,wdth=87,opsz=144 and wght=300,wdth=112,opsz=144.
 
-- Contour 0 point 14 has a kink between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+- Contour 2 start point differs in glyph 'uni0467' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
 
-- Contour 0 point 14 has a kink between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+- Contour 2 in glyph 'uni0467': becomes underweight between wght=900,wdth=112,opsz=12 and wght=300,wdth=100,opsz=12.
 
-- Contour 0 start point differs in glyph 'uni048D.sc' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
+- Contour 2 start point differs in glyph 'uni0467' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
 
-- Contour 0 in glyph 'uni048D.sc': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
+- Contour 2 in glyph 'uni0467': becomes underweight between wght=300,wdth=100,opsz=12 and wght=900,wdth=87,opsz=144.
 
-- Contour 0 start point differs in glyph 'uni048D.sc' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+- Contour 2 start point differs in glyph 'uni0467' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 
-- Contour 0 in glyph 'uni048D.sc': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+- Contour 2 in glyph 'uni0467': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
 
-- Contour 0 start point differs in glyph 'uni048D.sc' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+- Contour 2 start point differs in glyph 'uni0467' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
 
-- Contour 0 in glyph 'uni048D.sc': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+- Contour 2 in glyph 'uni0467': becomes underweight between wght=300,wdth=112,opsz=12 and wght=300,wdth=87,opsz=144.
 
-- Contour 0 start point differs in glyph 'uni048D.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour order differs in glyph 'uni030B.case': [0, 1] in wght=900,wdth=112,opsz=144, [1, 0] in wght=300,wdth=100,opsz=144.
 
-- Contour 0 in glyph 'uni048D.sc': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+- Contour order differs in glyph 'uni030B.case': [0, 1] in wght=300,wdth=100,opsz=144, [1, 0] in wght=300,wdth=87,opsz=12.
 
-- Contour 0 start point differs in glyph 'uni048D.sc' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+- Contour order differs in glyph 'uni030B.case': [0, 1] in wght=300,wdth=112,opsz=12, [1, 0] in wght=300,wdth=87,opsz=144.
 
-- Contour 0 in glyph 'uni048D.sc': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+- Contour 2 start point differs in glyph 'uniA7C8' between location wght=900,wdth=100,opsz=12 and location wght=900,wdth=100,opsz=144
 
-- Contour 1 start point differs in glyph 'uni045A' between location wght=300,wdth=87,opsz=144 and location wght=300,wdth=112,opsz=144
+- Contour 2 in glyph 'uniA7C8': becomes underweight between wght=900,wdth=100,opsz=12 and wght=900,wdth=100,opsz=144.
 
-- Contour 1 in glyph 'uni045A': becomes underweight between wght=300,wdth=87,opsz=144 and wght=300,wdth=112,opsz=144.
+- Contour 2 start point differs in glyph 'uniA7C8' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
 
-- Contour 1 start point differs in glyph 'AE' between location wght=900,wdth=87,opsz=7 and location wght=900,wdth=112,opsz=7
+- Contour 2 in glyph 'uniA7C8': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=12.
 
-- Contour 1 in glyph 'AE': becomes underweight between wght=900,wdth=87,opsz=7 and wght=900,wdth=112,opsz=7.
+- Contour 2 start point differs in glyph 'uniA7C8' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
 
-- Contour 1 start point differs in glyph 'AE' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
+- Contour 2 in glyph 'uniA7C8': becomes underweight between wght=900,wdth=87,opsz=144 and wght=900,wdth=112,opsz=144.
 
-- Contour 1 in glyph 'AE': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
+- Contour 2 start point differs in glyph 'uniA7C8' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
 
-- Contour 0 start point differs in glyph 'uni0336' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
+- Contour 2 in glyph 'uniA7C8': becomes underweight between wght=900,wdth=112,opsz=144 and wght=300,wdth=100,opsz=144.
 
-- Contour 0 in glyph 'uni0336': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
+- Contour 0 start point differs in glyph 'e.sc' between location wght=300,wdth=87,opsz=12 and location wght=300,wdth=112,opsz=12
 
-- Contour 0 start point differs in glyph 'uni0336' between location wght=900,wdth=87,opsz=7 and location wght=900,wdth=112,opsz=7
+- Contour 0 start point differs in glyph 'e.sc' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
 
-- Contour 0 in glyph 'uni0336': becomes underweight between wght=900,wdth=87,opsz=7 and wght=900,wdth=112,opsz=7.
+- Contour 0 start point differs in glyph 'uni2042' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
 
-- Contour 0 start point differs in glyph 'uni0336' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
+- Contour 0 in glyph 'uni2042': becomes underweight between wght=900,wdth=112,opsz=12 and wght=300,wdth=100,opsz=12.
 
-- Contour 0 in glyph 'uni0336': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
+- Contour 1 start point differs in glyph 'uni2042' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
 
-- Contour 0 start point differs in glyph 'uni0336' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+- Contour 1 in glyph 'uni2042': becomes underweight between wght=900,wdth=112,opsz=12 and wght=300,wdth=100,opsz=12.
 
-- Contour 0 in glyph 'uni0336': becomes underweight between wght=900,wdth=87,opsz=144 and wght=900,wdth=112,opsz=144.
+- Contour 2 start point differs in glyph 'uni2042' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
 
-- Contour 0 start point differs in glyph 'uni0336' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 2 in glyph 'uni2042': becomes underweight between wght=900,wdth=112,opsz=12 and wght=300,wdth=100,opsz=12.
 
-- Contour 0 in glyph 'uni0336': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+- Contour 0 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
 
-- Contour 0 start point differs in glyph 'uni0336' between location wght=300,wdth=87,opsz=7 and location wght=300,wdth=112,opsz=7
+- Contour 0 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=12 and wght=900,wdth=87,opsz=144.
 
-- Contour 0 in glyph 'uni0336': becomes underweight between wght=300,wdth=87,opsz=7 and wght=300,wdth=112,opsz=7.
+- Contour 1 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
 
-- Contour 0 start point differs in glyph 'uni0336' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
+- Contour 1 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=12 and wght=900,wdth=87,opsz=144.
 
-- Contour 0 in glyph 'uni0336': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+- Contour 2 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
 
-- Contour 0 start point differs in glyph 'uni0336' between location wght=300,wdth=87,opsz=144 and location wght=300,wdth=112,opsz=144
+- Contour 2 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=12 and wght=900,wdth=87,opsz=144.
 
-- Contour 0 in glyph 'uni0336': becomes underweight between wght=300,wdth=87,opsz=144 and wght=300,wdth=112,opsz=144.
+- Contour 0 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
+
+- Contour 0 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
+
+- Contour 1 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
+
+- Contour 1 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
+
+- Contour 2 start point differs in glyph 'uni2042' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
+
+- Contour 2 in glyph 'uni2042': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
+
+- Contour 0 start point differs in glyph 'uni2042' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 in glyph 'uni2042': becomes underweight between wght=300,wdth=112,opsz=12 and wght=300,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni2042' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
+
+- Contour 1 in glyph 'uni2042': becomes underweight between wght=300,wdth=112,opsz=12 and wght=300,wdth=87,opsz=144.
+
+- Contour 2 start point differs in glyph 'uni2042' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
+
+- Contour 2 in glyph 'uni2042': becomes underweight between wght=300,wdth=112,opsz=12 and wght=300,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uniA7CB' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
+
+- Contour 1 start point differs in glyph 'uniA7CB' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 point 40 has a kink between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
+
+- Contour 1 start point differs in glyph 'uniA7CB' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 point 69 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 start point differs in glyph 'y.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+
+- Contour 0 start point differs in glyph 'y.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 start point differs in glyph 'uniA71A' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
+
+- Contour 0 in glyph 'uniA71A': becomes underweight between wght=900,wdth=112,opsz=12 and wght=300,wdth=100,opsz=12.
+
+- Contour 0 start point differs in glyph 'uniA71A' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 in glyph 'uniA71A': becomes underweight between wght=300,wdth=100,opsz=12 and wght=900,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'uniA71A' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
+
+- Contour 0 in glyph 'uniA71A': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
+
+- Contour 0 start point differs in glyph 'uniA71A' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
+
+- Contour 0 in glyph 'uniA71A': becomes underweight between wght=300,wdth=112,opsz=12 and wght=300,wdth=87,opsz=144.
 
 - Contour 0 start point differs in glyph 'question.ss03.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
 
@@ -5571,79 +5492,159 @@ uni0488 (U+0488) and uni0489 (U+0489)</p>
 
 - Contour 0 point 12 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
 
-- Contour 0 start point differs in glyph 'question.ss03.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 0 start point differs in glyph 'question.ss03.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 
-- Contour 0 in glyph 'question.ss03.sc': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+- Contour 0 in glyph 'question.ss03.sc': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
 
-- Contour 0 point 8 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 0 point 8 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 
-- Contour 0 point 12 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
-
-- Contour 0 start point differs in glyph 'uni0473' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
-
-- Contour 0 in glyph 'uni0473': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
-
-- Contour 0 start point differs in glyph 'uni0473' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
-
-- Contour 0 in glyph 'uni0473': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
-
-- Contour 0 start point differs in glyph 'uni0473' between location wght=300,wdth=100,opsz=7 and location wght=900,wdth=87,opsz=144
-
-- Contour 0 in glyph 'uni0473': becomes underweight between wght=300,wdth=100,opsz=7 and wght=900,wdth=87,opsz=144.
-
-- Contour 0 start point differs in glyph 'uni0473' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
-
-- Contour 0 in glyph 'uni0473': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
-
-- Contour 0 start point differs in glyph 'uni0473' between location wght=300,wdth=87,opsz=7 and location wght=300,wdth=112,opsz=7
-
-- Contour 0 in glyph 'uni0473': becomes underweight between wght=300,wdth=87,opsz=7 and wght=300,wdth=112,opsz=7.
-
-- Contour 0 start point differs in glyph 'uni2266' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
-
-- Contour 0 in glyph 'uni2266': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
-
-- Contour 1 start point differs in glyph 'uni2266' between location wght=900,wdth=100,opsz=7 and location wght=900,wdth=100,opsz=144
-
-- Contour 1 in glyph 'uni2266': becomes underweight between wght=900,wdth=100,opsz=7 and wght=900,wdth=100,opsz=144.
-
-- Contour 0 start point differs in glyph 'uni2266' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
-
-- Contour 0 in glyph 'uni2266': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
-
-- Contour 1 start point differs in glyph 'uni2266' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
-
-- Contour 1 in glyph 'uni2266': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
-
-- Contour 0 start point differs in glyph 'uni2266' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
-
-- Contour 0 in glyph 'uni2266': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
-
-- Contour 1 start point differs in glyph 'uni2266' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
-
-- Contour 1 in glyph 'uni2266': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
-
-- Contour 0 start point differs in glyph 'K' between location wght=900,wdth=87,opsz=7 and location wght=900,wdth=112,opsz=7
-
-- Contour 0 start point differs in glyph 'K' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
-
-- Contour 2 start point differs in glyph 'uni0472' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=7
-
-- Contour 2 in glyph 'uni0472': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=7.
-
-- Contour 2 start point differs in glyph 'uni0472' between location wght=900,wdth=112,opsz=7 and location wght=300,wdth=100,opsz=7
-
-- Contour 2 in glyph 'uni0472': becomes underweight between wght=900,wdth=112,opsz=7 and wght=300,wdth=100,opsz=7.
-
-- Contour 2 start point differs in glyph 'uni0472' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
-
-- Contour 2 in glyph 'uni0472': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
-
-- Contour 2 start point differs in glyph 'uni0472' between location wght=300,wdth=112,opsz=7 and location wght=300,wdth=87,opsz=144
-
-- Contour 2 in glyph 'uni0472': becomes underweight between wght=300,wdth=112,opsz=7 and wght=300,wdth=87,opsz=144.
+- Contour 0 point 12 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 
 - Contour 0 point 98 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 start point differs in glyph 'x.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+
+- Contour 1 start point differs in glyph 'x.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+
+- Contour 0 start point differs in glyph 'x.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 1 start point differs in glyph 'x.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 1 start point differs in glyph 'uni049D' between location wght=900,wdth=100,opsz=12 and location wght=900,wdth=100,opsz=144
+
+- Contour 1 in glyph 'uni049D': becomes underweight between wght=900,wdth=100,opsz=12 and wght=900,wdth=100,opsz=144.
+
+- Contour 2 start point differs in glyph 'uni049D' between location wght=900,wdth=100,opsz=12 and location wght=900,wdth=100,opsz=144
+
+- Contour 2 in glyph 'uni049D': becomes underweight between wght=900,wdth=100,opsz=12 and wght=900,wdth=100,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni049D' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
+
+- Contour 1 in glyph 'uni049D': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=12.
+
+- Contour 2 start point differs in glyph 'uni049D' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
+
+- Contour 2 in glyph 'uni049D': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=12.
+
+- Contour 1 start point differs in glyph 'uni049D' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
+
+- Contour 1 in glyph 'uni049D': becomes underweight between wght=300,wdth=100,opsz=12 and wght=900,wdth=87,opsz=144.
+
+- Contour 2 start point differs in glyph 'uni049D' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
+
+- Contour 2 in glyph 'uni049D': becomes underweight between wght=300,wdth=100,opsz=12 and wght=900,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni049D' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
+
+- Contour 1 in glyph 'uni049D': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
+
+- Contour 2 start point differs in glyph 'uni049D' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
+
+- Contour 2 in glyph 'uni049D': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
+
+- Contour 1 start point differs in glyph 'uni049D' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
+
+- Contour 1 in glyph 'uni049D': becomes underweight between wght=300,wdth=112,opsz=12 and wght=300,wdth=87,opsz=144.
+
+- Contour 2 start point differs in glyph 'uni049D' between location wght=300,wdth=112,opsz=12 and location wght=300,wdth=87,opsz=144
+
+- Contour 2 in glyph 'uni049D': becomes underweight between wght=300,wdth=112,opsz=12 and wght=300,wdth=87,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni04B3.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+
+- Contour 2 start point differs in glyph 'uni04B3.sc' between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+
+- Contour 1 start point differs in glyph 'uni04B3.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 2 start point differs in glyph 'uni04B3.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 0 start point differs in glyph 'uni0473' between location wght=900,wdth=100,opsz=12 and location wght=900,wdth=100,opsz=144
+
+- Contour 0 in glyph 'uni0473': becomes underweight between wght=900,wdth=100,opsz=12 and wght=900,wdth=100,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni0473' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
+
+- Contour 0 in glyph 'uni0473': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=12.
+
+- Contour 0 start point differs in glyph 'uni0473' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 in glyph 'uni0473': becomes underweight between wght=300,wdth=100,opsz=12 and wght=900,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni0473' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
+
+- Contour 0 in glyph 'uni0473': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
+
+- Contour 0 start point differs in glyph 'uni0473' between location wght=300,wdth=87,opsz=12 and location wght=300,wdth=112,opsz=12
+
+- Contour 0 in glyph 'uni0473': becomes underweight between wght=300,wdth=87,opsz=12 and wght=300,wdth=112,opsz=12.
+
+- Contour 0 start point differs in glyph 'lessequal' between location wght=900,wdth=100,opsz=12 and location wght=900,wdth=100,opsz=144
+
+- Contour 0 in glyph 'lessequal': becomes underweight between wght=900,wdth=100,opsz=12 and wght=900,wdth=100,opsz=144.
+
+- Contour 0 start point differs in glyph 'lessequal' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
+
+- Contour 0 in glyph 'lessequal': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=12.
+
+- Contour 0 start point differs in glyph 'lessequal' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
+
+- Contour 0 in glyph 'lessequal': becomes underweight between wght=900,wdth=112,opsz=12 and wght=300,wdth=100,opsz=12.
+
+- Contour 2 start point differs in glyph 'uni04C3' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+
+- Contour 2 start point differs in glyph 'uni04C3' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
+
+- Contour 1 start point differs in glyph 'AE' between location wght=900,wdth=87,opsz=12 and location wght=900,wdth=112,opsz=12
+
+- Contour 1 in glyph 'AE': becomes underweight between wght=900,wdth=87,opsz=12 and wght=900,wdth=112,opsz=12.
+
+- Contour 1 start point differs in glyph 'AE' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
+
+- Contour 1 in glyph 'AE': becomes underweight between wght=900,wdth=112,opsz=12 and wght=300,wdth=100,opsz=12.
+
+- Contour 0 start point differs in glyph 'uni0492' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
+
+- Contour 0 in glyph 'uni0492': becomes underweight between wght=900,wdth=112,opsz=12 and wght=300,wdth=100,opsz=12.
+
+- Contour 0 start point differs in glyph 'uni0492' between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 in glyph 'uni0492': becomes underweight between wght=300,wdth=100,opsz=12 and wght=900,wdth=87,opsz=144.
+
+- Contour 0 start point differs in glyph 'lessequal.case' between location wght=900,wdth=100,opsz=12 and location wght=900,wdth=100,opsz=144
+
+- Contour 0 in glyph 'lessequal.case': becomes underweight between wght=900,wdth=100,opsz=12 and wght=900,wdth=100,opsz=144.
+
+- Contour 0 start point differs in glyph 'lessequal.case' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
+
+- Contour 0 in glyph 'lessequal.case': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=12.
+
+- Contour 0 start point differs in glyph 'lessequal.case' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
+
+- Contour 0 in glyph 'lessequal.case': becomes underweight between wght=900,wdth=112,opsz=12 and wght=300,wdth=100,opsz=12.
+
+- Contour 0 start point differs in glyph 'uni2266' between location wght=900,wdth=100,opsz=12 and location wght=900,wdth=100,opsz=144
+
+- Contour 0 in glyph 'uni2266': becomes underweight between wght=900,wdth=100,opsz=12 and wght=900,wdth=100,opsz=144.
+
+- Contour 1 start point differs in glyph 'uni2266' between location wght=900,wdth=100,opsz=12 and location wght=900,wdth=100,opsz=144
+
+- Contour 1 in glyph 'uni2266': becomes underweight between wght=900,wdth=100,opsz=12 and wght=900,wdth=100,opsz=144.
+
+- Contour 0 start point differs in glyph 'uni2266' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
+
+- Contour 0 in glyph 'uni2266': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=12.
+
+- Contour 1 start point differs in glyph 'uni2266' between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
+
+- Contour 1 in glyph 'uni2266': becomes underweight between wght=900,wdth=100,opsz=144 and wght=900,wdth=87,opsz=12.
+
+- Contour 0 start point differs in glyph 'uni2266' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
+
+- Contour 0 in glyph 'uni2266': becomes underweight between wght=900,wdth=112,opsz=12 and wght=300,wdth=100,opsz=12.
+
+- Contour 1 start point differs in glyph 'uni2266' between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
+
+- Contour 1 in glyph 'uni2266': becomes underweight between wght=900,wdth=112,opsz=12 and wght=300,wdth=100,opsz=12.
 
 - Contour 0 start point differs in glyph 'questiondown.ss03.sc' between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
 
@@ -5653,15 +5654,15 @@ uni0488 (U+0488) and uni0489 (U+0489)</p>
 
 - Contour 0 point 12 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
 
-- Contour 0 start point differs in glyph 'questiondown.ss03.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 0 start point differs in glyph 'questiondown.ss03.sc' between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 
-- Contour 0 in glyph 'questiondown.ss03.sc': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=7.
+- Contour 0 in glyph 'questiondown.ss03.sc': becomes underweight between wght=300,wdth=100,opsz=144 and wght=300,wdth=87,opsz=12.
 
-- Contour 0 point 0 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 0 point 0 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 
-- Contour 0 point 8 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 0 point 8 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 
-- Contour 0 point 12 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=7
+- Contour 0 point 12 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 </code></pre>
  [code: interpolation-issues]
 
@@ -5689,7 +5690,7 @@ equal, notequal</p>
 <p>Width = 1225:
 greater</p>
 <p>Width = 1259:
-lessequal, logicalnot</p>
+logicalnot, lessequal</p>
 <p>Width = 1262:
 multiply, uni2266</p>
 <p>Width = 1260:
@@ -5863,8 +5864,8 @@ ERROR: Table discarded</p>
 
 * ⚠️ **WARN** <p>The dot of soft dotted characters used in orthographies <em>must</em> disappear in the following strings: i̍ i̐ i̓ i᷆ i᷇ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ і́ ḭ̀ ḭ́ ḭ̄ ị̀ ị́ ị̂ ị̃ ị̄</p>
 <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: i᷄ i᷅ i᷈ i᷉ iꚞ i̛̍ i̛̐ i̛̓ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̛᷈ i̛᷉ i̛ꚞ i̠̇ i̠̊ i̠̋ i̠̍ i̠̐</p>
-<p>Your font fully covers the following languages that require the soft-dotted feature: Ebira (Latn, 2,200,000 speakers), Nateni (Latn, 100,000 speakers), Cicipu (Latn, 44,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Lithuanian (Latn, 2,357,094 speakers), Dutch (Latn, 31,709,104 speakers), Yala (Latn, 200,000 speakers), Nzakara (Latn, 50,000 speakers), Navajo (Latn, 166,319 speakers), Belarusian (Cyrl, 10,064,517 speakers), Zapotec (Latn, 490,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Ekpeye (Latn, 226,000 speakers), Ngbaka (Latn, 1,020,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Ma’di (Latn, 584,000 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Makaa (Latn, 221,000 speakers), Southern Kisi (Latn, 360,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Dii (Latn, 71,000 speakers), Gulay (Latn, 250,478 speakers), South Central Banda (Latn, 244,000 speakers), Sar (Latn, 500,000 speakers), Mundani (Latn, 34,000 speakers), Kom (Latn, 360,685 speakers), Avokaya (Latn, 100,000 speakers), Mango (Latn, 77,000 speakers), Aghem (Latn, 38,843 speakers), Koonzime (Latn, 40,000 speakers), Igbo (Latn, 27,823,640 speakers), Ejagham (Latn, 120,000 speakers), Mfumte (Latn, 79,000 speakers), Bafut (Latn, 158,146 speakers), Dan (Latn, 1,099,244 speakers), Lugbara (Latn, 2,200,000 speakers), Fur (Latn, 1,230,163 speakers), Basaa (Latn, 332,940 speakers).</p>
+<p>Your font fully covers the following languages that require the soft-dotted feature: Ebira (Latn, 2,200,000 speakers), Ekpeye (Latn, 226,000 speakers), Yala (Latn, 200,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Dutch (Latn, 31,709,104 speakers), Belarusian (Cyrl, 10,064,517 speakers), Lithuanian (Latn, 2,357,094 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Bete-Bendi (Latn, 100,000 speakers), Navajo (Latn, 166,319 speakers), Nateni (Latn, 100,000 speakers), Ma’di (Latn, 584,000 speakers), Zapotec (Latn, 490,000 speakers), Nzakara (Latn, 50,000 speakers), Cicipu (Latn, 44,000 speakers), Ngbaka (Latn, 1,020,000 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Aghem (Latn, 38,843 speakers), Mfumte (Latn, 79,000 speakers), Gulay (Latn, 250,478 speakers), Bafut (Latn, 158,146 speakers), Dan (Latn, 1,099,244 speakers), South Central Banda (Latn, 244,000 speakers), Sar (Latn, 500,000 speakers), Makaa (Latn, 221,000 speakers), Basaa (Latn, 332,940 speakers), Dii (Latn, 71,000 speakers), Ejagham (Latn, 120,000 speakers), Koonzime (Latn, 40,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Igbo (Latn, 27,823,640 speakers), Fur (Latn, 1,230,163 speakers), Avokaya (Latn, 100,000 speakers), Mundani (Latn, 34,000 speakers), Lugbara (Latn, 2,200,000 speakers), Southern Kisi (Latn, 360,000 speakers), Mango (Latn, 77,000 speakers), Kom (Latn, 360,685 speakers).</p>
  [code: soft-dotted]
 
 
@@ -5898,7 +5899,7 @@ definitions.</p>
 <li>U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition</li>
 <li>U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition</li>
 <li>U+02C1 MODIFIER LETTER REVERSED GLOTTAL STOP: not included in any glyphset definition</li>
-<li>U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi</li>
+<li>U+02C7 CARON: try adding one of: yi, canadian-aboriginal, tifinagh</li>
 <li>U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition</li>
 <li>U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition</li>
@@ -5913,12 +5914,12 @@ definitions.</p>
 <li>U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition</li>
 <li>U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition</li>
 <li>U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, tifinagh, cherokee</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, tifinagh, coptic</li>
 <li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: math, old-permic, tifinagh, syriac, tai-le, coptic, canadian-aboriginal, malayalam</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, math, old-permic, malayalam, syriac, tai-le, coptic, tifinagh</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
-<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
+<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+0310 COMBINING CANDRABINDU: not included in any glyphset definition</li>
@@ -5928,7 +5929,7 @@ definitions.</p>
 <li>U+0315 COMBINING COMMA ABOVE RIGHT: not included in any glyphset definition</li>
 <li>U+031B COMBINING HORN: not included in any glyphset definition</li>
 <li>U+0320 COMBINING MINUS SIGN BELOW: try adding syriac</li>
-<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: syriac, cherokee</li>
+<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: cherokee, syriac</li>
 <li>U+0325 COMBINING RING BELOW: try adding syriac</li>
 <li>U+0326 COMBINING COMMA BELOW: not included in any glyphset definition</li>
 <li>U+0327 COMBINING CEDILLA: not included in any glyphset definition</li>
@@ -5936,8 +5937,8 @@ definitions.</p>
 <li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: tifinagh, syriac, cherokee, gothic, caucasian-albanian</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: syriac, cherokee, gothic, caucasian-albanian, tifinagh</li>
 <li>U+0332 COMBINING LOW LINE: not included in any glyphset definition</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
@@ -5986,10 +5987,10 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: not included in any glyphset definition</li>
 <li>U+2008 PUNCTUATION SPACE: not included in any glyphset definition</li>
 <li>U+200A HAIR SPACE: not included in any glyphset definition</li>
-<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: syloti-nagri, lepcha, tifinagh, oriya, tibetan, kaithi, siddham, bengali, khudawadi, tirhuta, mahajani, buhid, duployan, mongolian, new-tai-lue, zanabazar-square, telugu, khojki, myanmar, thai, saurashtra, tagalog, devanagari, modi, tai-viet, pahawh-hmong, newa, cham, thaana, takri, batak, javanese, rejang, gujarati, grantha, chakma, brahmi, kharoshthi, sogdian, kayah-li, bhaiksuki, balinese, psalter-pahlavi, sundanese, hanifi-rohingya, sharada, tamil, gunjala-gondi, limbu, nko, hanunoo, warang-citi, malayalam, meetei-mayek, kannada, buginese, phags-pa, manichaean, avestan, khmer, dogra, syriac, tai-le, tai-tham, masaram-gondi, sinhala, arabic, yi, lao, mandaic, hatran, hebrew, gurmukhi, tagbanwa</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: syloti-nagri, lepcha, tifinagh, oriya, tibetan, kaithi, siddham, bengali, khudawadi, tirhuta, mahajani, buhid, duployan, mongolian, new-tai-lue, zanabazar-square, telugu, khojki, myanmar, thai, saurashtra, tagalog, devanagari, modi, tai-viet, pahawh-hmong, newa, cham, thaana, batak, javanese, rejang, gujarati, grantha, chakma, brahmi, kharoshthi, sogdian, kayah-li, bhaiksuki, balinese, psalter-pahlavi, sundanese, hanifi-rohingya, sharada, tamil, gunjala-gondi, limbu, nko, hanunoo, warang-citi, malayalam, meetei-mayek, kannada, buginese, phags-pa, manichaean, avestan, khmer, dogra, syriac, tai-le, tai-tham, masaram-gondi, sinhala, arabic, yi, lao, mandaic, old-hungarian, takri, hebrew, gurmukhi, tagbanwa</li>
-<li>U+2010 HYPHEN: try adding one of: syloti-nagri, kharoshthi, kaithi, armenian, kayah-li, arabic, sundanese, coptic, yi, cham, lisu, hebrew, sora-sompeng</li>
-<li>U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, arabic, yi</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: tamil, arabic, zanabazar-square, manichaean, thai, gujarati, syriac, kayah-li, saurashtra, gurmukhi, javanese, mongolian, phags-pa, thaana, devanagari, new-tai-lue, cham, balinese, hanunoo, yi, tagalog, grantha, myanmar, siddham, tirhuta, kharoshthi, syloti-nagri, lao, tai-le, hebrew, modi, tai-tham, pahawh-hmong, sharada, tibetan, avestan, rejang, tifinagh, warang-citi, brahmi, buhid, duployan, mahajani, takri, mandaic, bhaiksuki, kaithi, chakma, gunjala-gondi, bengali, oriya, nko, hatran, khudawadi, psalter-pahlavi, sundanese, sogdian, limbu, dogra, sinhala, khojki, malayalam, tagbanwa, newa, batak, meetei-mayek, telugu, lepcha, masaram-gondi, tai-viet, buginese, kannada, hanifi-rohingya, khmer</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: tamil, arabic, zanabazar-square, manichaean, thai, gujarati, syriac, kayah-li, saurashtra, gurmukhi, javanese, mongolian, phags-pa, thaana, devanagari, new-tai-lue, cham, balinese, hanunoo, yi, tagalog, grantha, myanmar, siddham, tirhuta, kharoshthi, old-hungarian, syloti-nagri, lao, tai-le, hebrew, modi, tai-tham, pahawh-hmong, sharada, tibetan, avestan, rejang, tifinagh, warang-citi, brahmi, buhid, duployan, mahajani, takri, mandaic, bhaiksuki, kaithi, chakma, gunjala-gondi, bengali, oriya, nko, khudawadi, psalter-pahlavi, sundanese, sogdian, limbu, dogra, sinhala, khojki, malayalam, tagbanwa, newa, batak, meetei-mayek, telugu, lepcha, masaram-gondi, tai-viet, buginese, kannada, hanifi-rohingya, khmer</li>
+<li>U+2010 HYPHEN: try adding one of: sundanese, yi, arabic, sora-sompeng, kharoshthi, syloti-nagri, armenian, kayah-li, kaithi, hebrew, coptic, lisu, cham</li>
+<li>U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, yi, arabic</li>
 <li>U+2012 FIGURE DASH: not included in any glyphset definition</li>
 <li>U+2015 HORIZONTAL BAR: try adding adlam</li>
 <li>U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition</li>
@@ -6046,20 +6047,20 @@ definitions.</p>
 <li>U+215E VULGAR FRACTION SEVEN EIGHTHS: not included in any glyphset definition</li>
 <li>U+2183 ROMAN NUMERAL REVERSED ONE HUNDRED: try adding symbols</li>
 <li>U+2184 LATIN SMALL LETTER REVERSED C: not included in any glyphset definition</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
-<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
-<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
-<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
-<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
-<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
-<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
-<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: symbols, math</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: symbols, math</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: symbols, math</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: symbols, math</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: symbols, math</li>
 <li>U+2202 PARTIAL DIFFERENTIAL: try adding math</li>
 <li>U+2205 EMPTY SET: try adding math</li>
 <li>U+2206 INCREMENT: try adding math</li>
 <li>U+220F N-ARY PRODUCT: try adding math</li>
 <li>U+2211 N-ARY SUMMATION: try adding math</li>
-<li>U+2219 BULLET OPERATOR: try adding one of: math, yi, tai-tham, symbols</li>
+<li>U+2219 BULLET OPERATOR: try adding one of: yi, symbols, math, tai-tham</li>
 <li>U+221A SQUARE ROOT: try adding math</li>
 <li>U+221E INFINITY: try adding math</li>
 <li>U+222B INTEGRAL: try adding math</li>
@@ -6078,27 +6079,27 @@ definitions.</p>
 <li>U+25AA BLACK SMALL SQUARE: try adding symbols</li>
 <li>U+25AB WHITE SMALL SQUARE: try adding symbols</li>
 <li>U+25B2 BLACK UP-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: symbols, math</li>
 <li>U+25B4 BLACK UP-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25B5 WHITE UP-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25B6 BLACK RIGHT-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: symbols, math</li>
 <li>U+25B8 BLACK RIGHT-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25B9 WHITE RIGHT-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25BC BLACK DOWN-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: symbols, math</li>
 <li>U+25BE BLACK DOWN-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25BF WHITE DOWN-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25C0 BLACK LEFT-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: symbols, math</li>
 <li>U+25C2 BLACK LEFT-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25C3 WHITE LEFT-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25C6 BLACK DIAMOND: try adding symbols</li>
 <li>U+25C7 WHITE DIAMOND: try adding symbols</li>
 <li>U+25C9 FISHEYE: try adding symbols</li>
-<li>U+25CA LOZENGE: try adding one of: math, symbols</li>
+<li>U+25CA LOZENGE: try adding one of: symbols, math</li>
 <li>U+25CB WHITE CIRCLE: try adding symbols</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: kaithi, buhid, miao, tai-viet, pahawh-hmong, cham, bassa-vah, batak, kayah-li, psalter-pahlavi, sharada, limbu, hanunoo, malayalam, buginese, tai-le, armenian, syloti-nagri, tifinagh, mende-kikakui, adlam, khudawadi, mongolian, telugu, khojki, tagalog, devanagari, javanese, sogdian, marchen, balinese, gunjala-gondi, warang-citi, syriac, masaram-gondi, hebrew, coptic, yi, mandaic, elbasan, tagbanwa, tibetan, tirhuta, new-tai-lue, duployan, zanabazar-square, thai, saurashtra, modi, rejang, osage, grantha, brahmi, bhaiksuki, sundanese, hanifi-rohingya, caucasian-albanian, meetei-mayek, symbols, manichaean, khmer, dogra, wancho, lepcha, old-permic, oriya, siddham, bengali, ahom, myanmar, soyombo, newa, music, thaana, gujarati, math, chakma, kharoshthi, tamil, nko, kannada, phags-pa, tai-tham, sinhala, canadian-aboriginal, lao, takri, mahajani, gurmukhi</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: saurashtra, javanese, new-tai-lue, bassa-vah, mende-kikakui, hanunoo, tagalog, grantha, adlam, pahawh-hmong, rejang, warang-citi, brahmi, duployan, mandaic, bhaiksuki, kaithi, psalter-pahlavi, oriya, nko, sundanese, dogra, tagbanwa, newa, telugu, masaram-gondi, buginese, khmer, marchen, thai, gujarati, syriac, thaana, devanagari, osage, canadian-aboriginal, myanmar, siddham, kharoshthi, tai-le, sharada, symbols, malayalam, lepcha, music, tai-viet, hanifi-rohingya, kayah-li, mongolian, phags-pa, coptic, cham, ahom, yi, syloti-nagri, lao, wancho, soyombo, chakma, miao, khojki, batak, tamil, math, zanabazar-square, manichaean, tibetan, gurmukhi, caucasian-albanian, balinese, tirhuta, hebrew, modi, tai-tham, tifinagh, buhid, mahajani, takri, elbasan, bengali, gunjala-gondi, khudawadi, sogdian, old-permic, sinhala, armenian, meetei-mayek, limbu, kannada</li>
 <li>U+25CF BLACK CIRCLE: try adding symbols</li>
 <li>U+25E6 WHITE BULLET: try adding symbols</li>
 <li>U+25FC BLACK MEDIUM SQUARE: try adding symbols</li>
@@ -6128,7 +6129,7 @@ definitions.</p>
 <li>U+2B9F BLACK DOWNWARDS EQUILATERAL ARROWHEAD: try adding symbols</li>
 <li>U+2E17 DOUBLE OBLIQUE HYPHEN: try adding coptic</li>
 <li>U+2E38 TURNED DAGGER: not included in any glyphset definition</li>
-<li>U+3003 DITTO MARK: try adding one of: chinese-traditional, chinese-simplified, japanese, yi, chinese-hongkong, phags-pa</li>
+<li>U+3003 DITTO MARK: try adding one of: yi, chinese-traditional, phags-pa, chinese-simplified, japanese, chinese-hongkong</li>
 <li>U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition</li>
 <li>U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition</li>
 <li>U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition</li>
@@ -6331,7 +6332,22 @@ definitions.</p>
 
 
 
-* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '450.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '533.3333282470703'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '720.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '819.2307739257812'</p>
  [code: missing-axis-value-table]
 
 
@@ -6371,7 +6387,22 @@ definitions.</p>
 
 
 
-* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '450.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '533.3333282470703'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '716.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '819.2307739257812'</p>
  [code: missing-axis-value-table]
 
 
@@ -6392,6 +6423,76 @@ definitions.</p>
 
 
 * 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '800.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '450.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '533.3333282470703'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '716.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '819.2307739257812'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '450.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '533.3333282470703'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '716.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '819.2307739257812'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '450.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '533.3333282470703'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '716.0'</p>
+ [code: missing-axis-value-table]
+
+
+
+* 🔥 **FAIL** <p>STAT table is missing Axis Value for 'wght' value '819.2307739257812'</p>
  [code: missing-axis-value-table]
 
 
@@ -6488,7 +6589,7 @@ definitions.</p>
 
 
 
-* 🔥 **FAIL** <p>Current FontBakery version is 0.12.1, while a newer 0.12.6 is already available. Please upgrade it with 'pip install -U fontbakery'</p>
+* 🔥 **FAIL** <p>Current FontBakery version is 0.12.1, while a newer 0.12.7 is already available. Please upgrade it with 'pip install -U fontbakery'</p>
  [code: outdated-fontbakery]
 
 
@@ -6663,11 +6764,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">bum_Latn (Bulu)</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6755,15 +6856,15 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6843,23 +6944,23 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">tuz_Latn (Turka)</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6927,15 +7028,15 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7075,15 +7176,15 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7199,15 +7300,15 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7291,23 +7392,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">dnj_Latn (Dan)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030B to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030F to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030F to uniA7CB</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7315,15 +7400,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni030B to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uniA7CB</td>
+<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7331,11 +7408,35 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
+<td align="left">Shaper didn't attach uni030B to uniA7CB</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni0304 to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030F to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030B to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030F to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0264</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7583,15 +7684,15 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">mnf_Latn (Mundani)</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7671,7 +7772,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">nmg_Latn (Kwasio)</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7679,11 +7780,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018E</td>
+<td align="left">Shaper didn't attach uni0304.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304.case to uni018E</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7723,7 +7824,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">blo_Latn (Anii)</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7731,7 +7832,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018E</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7763,11 +7864,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">dnj_Latn_LR (Dan)</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7775,23 +7876,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0265</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0265</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7803,7 +7888,23 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018E</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0265</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0265</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">ach_Latn (Acoli)</td>
@@ -7823,6 +7924,10 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">sbd_Latn (Southern Samo)</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
 </tr>
 <tr>
@@ -7832,10 +7937,6 @@ definitions.</p>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni0308.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7887,10 +7988,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni0327.case</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0327.case to uni018F</td>
 </tr>
 <tr>
@@ -7899,11 +7996,15 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0327.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni0327.case</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -8019,7 +8120,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+<td align="left">Shaper didn't attach gravecomb to uni0330</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -8031,15 +8136,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0330 to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0330</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -8199,15 +8300,15 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -8323,11 +8424,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">sba_Latn (Ngambay)</td>
-<td align="left">Shaper didn't attach uni0330 to uni018F</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+<td align="left">Shaper didn't attach uni0330 to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -8503,15 +8604,15 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0304.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -8603,11 +8704,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">nnw_Latn (Southern Nuni)</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -8687,7 +8788,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">byv_Latn (Medumba)</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -8695,7 +8796,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -8747,15 +8848,15 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">gkp_Latn (Kpelle, Guinea)</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -9035,15 +9136,15 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -9115,11 +9216,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -9179,10 +9280,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">gov_Latn (Goo)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb to uni0264</td>
 </tr>
 <tr>
@@ -9191,7 +9288,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
+<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -9199,7 +9296,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
+<td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0264</td>
 </tr>
 <tr>
 <td align="left">nko_Latn (Nkonya)</td>
@@ -9371,1513 +9472,1933 @@ definitions.</p>
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 266 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 14 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 266 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 266 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 14 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 266 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 267 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 14 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 267 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 267 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 14 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 267 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 268 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 14 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 268 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 268 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 14 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 268 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 269 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 14 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 269 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 269 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 14 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 269 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 269 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 14 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 270 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 269 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 14 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 270 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 270 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 14 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 271 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 270 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 14 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 271 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 271 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 14 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 272 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 271 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 14 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 272 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 272 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 16 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 273 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 12 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 272 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 16 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 273 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 273 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 16 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 274 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 273 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 16 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 274 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 274 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 16 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 275 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 274 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 16 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 275 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 275 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 16 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 276 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 275 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 16 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 276 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 276 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 16 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 277 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 276 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 16 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 277 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 277 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 16 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 278 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 277 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 16 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 278 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 278 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 16 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 279 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 278 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 16 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 279 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 279 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 280 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 279 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 280 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 280 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 281 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 280 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 281 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 281 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 282 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 281 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 282 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 282 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 283 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 282 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 283 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 283 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 284 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 283 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 284 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 284 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 285 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 284 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 285 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 285 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 286 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 285 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 24 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 286 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 286 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 287 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 286 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 287 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 287 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 288 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 287 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 288 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 288 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 289 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 288 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 289 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 289 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 290 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 289 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 290 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 290 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 291 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 290 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 291 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 291 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 292 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 291 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 292 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 292 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 293 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 292 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 48 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 293 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 293 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 294 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 293 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 294 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 294 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 295 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 294 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 295 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 295 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 296 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 295 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 296 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 296 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 297 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 296 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 297 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 297 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 298 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 297 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 298 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 298 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 299 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 298 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 299 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 299 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 300 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 299 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 300 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 300 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 301 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 300 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 301 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 301 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 302 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 301 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 302 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 302 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 303 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 302 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 303 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 303 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 304 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 303 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 304 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 304 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 305 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 304 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 305 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 305 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 306 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 305 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 306 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 306 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 307 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 306 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 72 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 307 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 307 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 308 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 307 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 308 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 308 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 309 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 308 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 309 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 309 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 310 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 309 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 310 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 310 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 311 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 310 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 311 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 311 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 312 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 311 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 312 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 312 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 313 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 312 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 313 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 313 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 314 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 313 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 314 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 314 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 315 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 314 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 315 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 315 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 316 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 315 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 316 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 316 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 317 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 316 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 317 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 317 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 318 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 317 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 318 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 318 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 319 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 318 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 319 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 319 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 320 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 319 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 320 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 320 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 321 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 320 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 321 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 321 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 14 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 322 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 12 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 321 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 14 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 322 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 322 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 14 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 323 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 322 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 14 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 323 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 323 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 14 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 324 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 323 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 14 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 324 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 324 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 14 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 325 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 324 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 14 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 325 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 325 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 14 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 326 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 325 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 14 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 326 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 326 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 14 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 327 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 326 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 14 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 327 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 327 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 14 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 328 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 327 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 14 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 328 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 328 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 16 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 329 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 328 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 16 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 329 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 329 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 16 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 330 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 329 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 16 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 330 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 330 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 16 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 331 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 330 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 16 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 331 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 331 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 16 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 332 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 331 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 16 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 332 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 332 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 16 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 333 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 332 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 16 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 333 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 333 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 16 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 334 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 333 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 16 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 334 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 334 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 16 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 335 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 334 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 16 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 335 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 335 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 24 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 336 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 335 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 24 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 336 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 336 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 24 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 337 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 336 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 24 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 337 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 337 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 24 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 338 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 337 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 24 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 338 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 338 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 24 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 339 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 338 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 24 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 339 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 339 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 24 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 340 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 339 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 24 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 340 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 340 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 24 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 341 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 340 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 24 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 341 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 341 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 24 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 342 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 341 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 24 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 342 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 342 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 343 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 342 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 343 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 343 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 344 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 343 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 344 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 344 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 345 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 344 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 345 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 345 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 346 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 345 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 346 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 346 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 347 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 346 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 347 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 347 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 348 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 347 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 348 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 348 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 349 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 348 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 48 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 349 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 349 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 350 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 349 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 350 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 351 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 351 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 351 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 351 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 352 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 352 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 352 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 352 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 353 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 353 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 353 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 353 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 354 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 354 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 354 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 354 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 355 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 355 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 355 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 355 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 356 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 356 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 356 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 356 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 357 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 357 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 357 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 357 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 358 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 358 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 358 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 358 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 359 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 359 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 359 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 359 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 360 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 360 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 360 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 360 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 361 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 361 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 361 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 361 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 362 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 362 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 362 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 362 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 363 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 363 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 12 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 363 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 72 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 363 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 364 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 364 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 364 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 364 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 365 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 365 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 365 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 365 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 366 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 366 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 366 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 366 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 367 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 367 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 367 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 367 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 368 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 368 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 368 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 368 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 369 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 369 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 369 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 369 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 370 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 370 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 370 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Cond Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 370 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 371 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 371 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 371 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 371 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 372 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 372 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 372 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 372 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 373 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 373 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 373 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 373 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 374 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 374 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 374 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 374 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 375 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 375 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 375 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 375 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 376 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 376 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 376 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 376 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 377 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 377 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 377 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 377 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 378 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 14 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 378 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 378 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 14 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 378 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 379 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 14 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 379 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 379 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 14 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 379 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 380 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 14 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 380 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 380 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 14 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 380 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 381 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 14 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 381 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 381 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 14 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 381 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 382 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 14 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 382 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 382 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 14 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 382 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 383 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 14 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 383 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 383 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 14 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 383 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 384 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 14 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 384 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 384 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 14 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 384 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 385 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 16 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 385 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 385 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 16 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 385 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 386 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 16 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 386 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 386 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 16 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 386 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 387 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 16 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 387 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 387 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 16 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 387 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 388 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 16 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 388 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 388 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 16 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 388 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 389 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 16 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 389 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 389 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 16 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 389 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 390 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 16 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 390 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 390 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 16 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 390 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 391 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 16 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 391 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 391 exceeds 32 characters.</p>
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 16 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 391 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 24 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 392 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 24 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 392 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 24 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 393 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 24 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 393 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 24 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 394 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 24 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 394 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 24 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 395 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 24 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 395 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 24 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 396 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 24 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 396 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 24 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 397 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 24 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 397 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 24 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 398 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 24 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 398 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 399 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 399 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 400 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 400 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 401 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 401 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 402 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 402 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 403 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 403 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 404 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 404 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 405 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 48 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 405 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 406 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 406 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 407 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 407 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 408 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 408 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 409 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 409 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 410 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 410 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 411 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 411 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 412 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 64 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 412 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 413 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 413 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 414 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 414 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 415 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 415 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 416 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 416 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 417 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 417 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 418 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 418 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 419 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 72 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 419 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 420 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Light 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 420 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 421 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Regular 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 421 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 422 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Medium 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 422 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 423 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black SemiBold 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 423 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 424 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Bold 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 424 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 425 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black ExtraBold 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 425 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 426 exceeds 32 characters.</p>
+<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
+ [code: instance-too-long]
+
+
+
+* 🔥 **FAIL** <p>Variable font instance name 'Merriweather Black Black 144 Wide Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 426 exceeds 32 characters.</p>
 <p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
  [code: instance-too-long]
 
@@ -10988,443 +11509,8 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">SemiBold 72 Cond Italic</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 72 Wide Italic</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 144 Wide Italic</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 48 Italic</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 64 Italic</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 48 Cond Italic</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black Italic</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=7.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 72 Wide Italic</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 64 Cond Italic</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 12 Italic</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 144 Cond Italic</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 64 Cond Italic</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Italic</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=7.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 48 Wide Italic</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 48 Italic</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 12 Wide Italic</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 144 Wide Italic</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 144 Cond Italic</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 64 Wide Italic</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 64 Cond Italic</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 48 Italic</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 72 Italic</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 64 Wide Italic</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 144 Wide Italic</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 144 Wide Italic</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 48 Wide Italic</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 12 Italic</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 144 Italic</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 72 Cond Italic</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 72 Italic</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 12 Cond Italic</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 72 Cond Italic</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light Wide</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=7.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 72 Italic</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 72 Cond Italic</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 144 Cond Italic</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 12 Wide Italic</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 12 Italic</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 72 Italic</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 64 Wide Italic</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold Wide Italic</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=7.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 72 Wide Italic</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 12 Italic</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 64 Italic</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 144 Wide Italic</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 24 Italic</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 48 Cond Italic</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 64 Italic</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 48 Cond Italic</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 64 Wide Italic</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 72 Italic</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 72 Wide Italic</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 48 Italic</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 72 Cond Italic</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 12 Cond Italic</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 12 Cond Italic</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 64 Wide Italic</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 48 Cond Italic</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold Wide Italic</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=7.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 144 Cond Italic</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 144 Cond Italic</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 48 Italic</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 12 Wide Italic</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 48 Wide Italic</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 72 Wide Italic</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 24 Italic</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium Cond Italic</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=7.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 72 Cond Italic</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 72 Italic</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 12 Cond Italic</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 12 Italic</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 64 Wide Italic</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium Italic</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=7.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 12 Wide Italic</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 64 Cond Italic</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 24 Italic</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 72 Wide Italic</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 48 Wide Italic</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 64 Italic</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 64 Italic</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 24 Italic</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
 <td align="left">ExtraBold 144 Wide Italic</td>
 <td align="left">wght=800.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 64 Wide Italic</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 12 Wide Italic</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 72 Wide Italic</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 12 Italic</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 144 Italic</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold Cond Italic</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=7.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -11433,48 +11519,103 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Black Cond Italic</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=7.0</td>
+<td align="left">Regular 16 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=16.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">SemiBold 24 Italic</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=24.0</td>
+<td align="left">Bold 72 Cond Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=72.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Regular 48 Wide Italic</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=48.0</td>
+<td align="left">Light 14 Cond Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=14.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Bold 144 Italic</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=144.0</td>
+<td align="left">ExtraBold 24 Wide Italic</td>
+<td align="left">wght=819.2307739257812, wdth=112.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Black 144 Wide Italic</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=144.0</td>
+<td align="left">Medium 48 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=48.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExtraBold 64 Cond Italic</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=64.0</td>
+<td align="left">Light 16 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=16.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Black 64 Cond Italic</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=64.0</td>
+<td align="left">Light 72 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=72.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Medium 48 Cond Italic</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=48.0</td>
+<td align="left">SemiBold 48 Wide Italic</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=48.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Bold 48 Italic</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=48.0</td>
+<td align="left">Bold 16 Italic</td>
+<td align="left">wght=720.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 72 Wide Italic</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 24 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 144 Cond Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 72 Italic</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 64 Wide Italic</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 24 Cond Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 64 Cond Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 64 Wide Italic</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 144 Wide Italic</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 16 Cond Italic</td>
+<td align="left">wght=450.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 24 Wide Italic</td>
+<td align="left">wght=533.3333282470703, wdth=112.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -11483,38 +11624,43 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Regular Wide Italic</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=7.0</td>
+<td align="left">Regular 24 Cond Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Light 48 Wide Italic</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=48.0</td>
+<td align="left">Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=12.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Black Wide Italic</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=7.0</td>
+<td align="left">Black 64 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=64.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExtraBold Italic</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=7.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 12 Wide Italic</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 12 Cond Italic</td>
+<td align="left">Medium 24 Cond Italic</td>
 <td align="left">wght=500.0, wdth=87.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Regular 144 Italic</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=144.0</td>
+<td align="left">Light 24 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 14 Wide Italic</td>
+<td align="left">wght=450.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 14 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 24 Italic</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -11523,128 +11669,118 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Medium 12 Italic</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=24.0</td>
+<td align="left">Regular 16 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 72 Wide Italic</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 16 Cond Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 72 Cond Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 48 Wide Italic</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=48.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
 <td align="left">Medium Wide Italic</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=7.0</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=12.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExtraBold 48 Cond Italic</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=48.0</td>
+<td align="left">Black 24 Cond Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExtraBold Cond Italic</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=7.0</td>
+<td align="left">Black 72 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=72.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Light Italic</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=7.0</td>
+<td align="left">Bold 24 Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Bold 64 Cond Italic</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=64.0</td>
+<td align="left">SemiBold 24 Cond Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Bold 64 Italic</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=64.0</td>
+<td align="left">Medium 16 Italic</td>
+<td align="left">wght=450.0, wdth=100.0, opsz=16.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Black 144 Italic</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 48 Wide Italic</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 24 Italic</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 12 Cond Italic</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 12 Wide Italic</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 144 Italic</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=144.0</td>
+<td align="left">Bold 72 Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=72.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
 <td align="left">Bold Cond Italic</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=7.0</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=12.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Regular Cond Italic</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=7.0</td>
+<td align="left">SemiBold 72 Cond Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=72.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Bold Wide Italic</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=7.0</td>
+<td align="left">SemiBold 14 Wide Italic</td>
+<td align="left">wght=533.3333282470703, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 24 Wide Italic</td>
+<td align="left">wght=450.0, wdth=112.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
 <td align="left">Bold Italic</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=7.0</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=12.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Medium 72 Italic</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=72.0</td>
+<td align="left">Light 14 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=14.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Light Cond Italic</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=7.0</td>
+<td align="left">ExtraBold 72 Wide Italic</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=72.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">SemiBold 144 Italic</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=144.0</td>
+<td align="left">Bold Wide Italic</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=12.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">SemiBold Italic</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=7.0</td>
+<td align="left">Black 24 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Regular 64 Italic</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=64.0</td>
+<td align="left">ExtraBold 64 Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=64.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Medium 24 Italic</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 144 Cond Italic</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 12 Cond Italic</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=24.0</td>
+<td align="left">ExtraBold Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=12.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -11653,64 +11789,603 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
+<td align="left">Medium 64 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 64 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 14 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 144 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 72 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 16 Cond Italic</td>
+<td align="left">wght=716.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 64 Cond Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 16 Wide Italic</td>
+<td align="left">wght=533.3333282470703, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 14 Wide Italic</td>
+<td align="left">wght=716.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 48 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 14 Cond Italic</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 72 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 14 Italic</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 72 Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 14 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium Cond Italic</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 14 Cond Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 64 Cond Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 144 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 48 Cond Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold Italic</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 64 Cond Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular Cond Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 48 Cond Italic</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 144 Cond Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 72 Cond Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 144 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 24 Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 144 Italic</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 64 Italic</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 14 Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 16 Cond Italic</td>
+<td align="left">wght=819.2307739257812, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 144 Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 48 Cond Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 14 Wide Italic</td>
+<td align="left">wght=819.2307739257812, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 144 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 64 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 16 Wide Italic</td>
+<td align="left">wght=450.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 48 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 144 Cond Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 14 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 16 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 48 Cond Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 64 Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 16 Cond Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 16 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 24 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 48 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 48 Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light Cond Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 64 Cond Italic</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 16 Wide Italic</td>
+<td align="left">wght=819.2307739257812, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 16 Wide Italic</td>
+<td align="left">wght=716.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 24 Cond Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 16 Italic</td>
+<td align="left">wght=533.3333282470703, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 48 Wide Italic</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 144 Cond Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 72 Cond Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 14 Cond Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 14 Cond Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 72 Wide Italic</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 64 Wide Italic</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 144 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 64 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 72 Cond Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 48 Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 16 Cond Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 48 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 64 Cond Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 48 Cond Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 72 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 16 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 14 Cond Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 16 Italic</td>
+<td align="left">wght=819.2307739257812, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 14 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 144 Wide Italic</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 14 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 48 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 24 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 48 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 16 Cond Italic</td>
+<td align="left">wght=533.3333282470703, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 48 Wide Italic</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 14 Cond Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 144 Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 64 Cond Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 144 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 144 Cond Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold Wide Italic</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 64 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 24 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 64 Wide Italic</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black Cond Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 144 Wide Italic</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 48 Cond Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 72 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 24 Cond Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 144 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 24 Wide Italic</td>
+<td align="left">wght=716.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 14 Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 24 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold Cond Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold Cond Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 144 Cond Italic</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold Wide Italic</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 64 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 72 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
 <td align="left">Light</td>
 <td align="left">N/A</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=7.0</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=12.0</td>
 </tr>
 <tr>
 <td align="left">Regular</td>
 <td align="left">N/A</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=7.0</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=12.0</td>
 </tr>
 <tr>
 <td align="left">Medium</td>
 <td align="left">N/A</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=7.0</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=12.0</td>
 </tr>
 <tr>
 <td align="left">SemiBold</td>
 <td align="left">N/A</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=7.0</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=12.0</td>
 </tr>
 <tr>
 <td align="left">Bold</td>
 <td align="left">N/A</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=7.0</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=12.0</td>
 </tr>
 <tr>
 <td align="left">ExtraBold</td>
 <td align="left">N/A</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=7.0</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=12.0</td>
 </tr>
 <tr>
 <td align="left">Black</td>
 <td align="left">N/A</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=7.0</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=12.0</td>
 </tr>
 </tbody>
 </table>
  [code: bad-fvar-instances]
-
-
-
-</div>
-</details>
-
-<details>
-    <summary>🔥 <b>FAIL</b> Check variable font instances don't have duplicate names <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.varfont.html#"></a></summary>
-    <div>
-
-
-
-
-
-
-
-* 🔥 **FAIL** <p>Following instances names are duplicate:</p>
-<ul>
-<li>Bold 12 Italic</li>
-</ul>
- [code: duplicate-instance-names]
 
 
 
@@ -11750,8 +12425,8 @@ definitions.</p>
 
 | 💥 ERROR | ☠ FATAL | 🔥 FAIL | ⚠️ WARN | ⏩ SKIP | ℹ️ INFO | ✅ PASS | 🔎 DEBUG | 
 | ---|---|---|---|---|---|---|---|
-| 2 | 0 | 26 | 29 | 177 | 15 | 231 | 0 | 
-| 0% | 0% | 5% | 6% | 37% | 3% | 48% | 0% | 
+| 2 | 0 | 24 | 26 | 177 | 15 | 236 | 0 | 
+| 0% | 0% | 5% | 5% | 37% | 3% | 49% | 0% | 
 
 
 
