@@ -8,11 +8,11 @@ shapes = (
 ref = c;
 },
 {
-pos = (299,0);
+pos = (302,0);
 ref = dotaccentcomb;
 }
 );
-width = 1001;
+width = 1004;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";

@@ -76,15 +76,15 @@ shapes = (
 ref = e;
 },
 {
-pos = (159,0);
+pos = (165,0);
 ref = macroncomb;
 },
 {
-pos = (102,258);
+pos = (108,258);
 ref = gravecomb;
 }
 );
-width = 930;
+width = 941;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";

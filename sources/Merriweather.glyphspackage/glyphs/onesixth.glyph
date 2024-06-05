@@ -60,15 +60,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (656,0);
+pos = (649,0);
 ref = fraction;
 },
 {
-pos = (1025,0);
+pos = (1013,0);
 ref = six.dnom;
 }
 );
-width = 1841;
+width = 1829;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -81,11 +81,11 @@ pos = (603,0);
 ref = fraction;
 },
 {
-pos = (936,0);
+pos = (932,0);
 ref = six.dnom;
 }
 );
-width = 1733;
+width = 1729;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";

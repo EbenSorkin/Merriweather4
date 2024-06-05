@@ -39,10 +39,12 @@ stat:
   - name: Optical Size
     tag: opsz
     values:
-    - name: 7
-      value: 7
     - name: 12
       value: 12
+    - name: 14
+      value: 14
+    - name: 16
+      value: 16
     - name: 24
       value: 24
     - name: 48

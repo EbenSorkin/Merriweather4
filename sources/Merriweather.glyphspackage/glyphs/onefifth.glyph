@@ -60,15 +60,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (656,0);
+pos = (649,0);
 ref = fraction;
 },
 {
-pos = (1064,0);
+pos = (1057,0);
 ref = five.dnom;
 }
 );
-width = 1822;
+width = 1815;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";

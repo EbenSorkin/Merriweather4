@@ -63,11 +63,11 @@ pos = (733,0);
 ref = fraction;
 },
 {
-pos = (1130,0);
+pos = (1129,0);
 ref = eight.dnom;
 }
 );
-width = 1973;
+width = 1972;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";

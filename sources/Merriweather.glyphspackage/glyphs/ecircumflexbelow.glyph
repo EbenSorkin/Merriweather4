@@ -35,11 +35,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (169,0);
+pos = (175,0);
 ref = circumflexbelowcomb;
 }
 );
-width = 930;
+width = 941;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";

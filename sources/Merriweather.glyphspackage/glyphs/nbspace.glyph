@@ -3,7 +3,7 @@ glyphname = nbspace;
 layers = (
 {
 layerId = UUID0;
-width = 268;
+width = 474;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -19,11 +19,11 @@ width = 350;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
-width = 330;
+width = 350;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
-width = 295;
+width = 340;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -50,7 +50,7 @@ width = 468;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
-width = 474;
+width = 468;
 }
 );
 metricLeft = space;

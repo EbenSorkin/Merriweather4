@@ -22,11 +22,11 @@ shapes = (
 ref = c;
 },
 {
-pos = (305,0);
+pos = (308,0);
 ref = cedillacomb;
 }
 );
-width = 1001;
+width = 1004;
 },
 {
 anchors = (

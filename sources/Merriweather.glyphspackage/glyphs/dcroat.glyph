@@ -9,11 +9,11 @@ shapes = (
 ref = d;
 },
 {
-pos = (393,-7);
+pos = (403,-7);
 ref = ascenderbar_part.;
 }
 );
-width = 1175;
+width = 1185;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";

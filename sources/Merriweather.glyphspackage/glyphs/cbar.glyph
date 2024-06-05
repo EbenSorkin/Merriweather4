@@ -12,7 +12,7 @@ ref = c;
 },
 {
 anchor = strokebar;
-pos = (-71,-199);
+pos = (-68,-199);
 ref = shortbar_part.;
 }
 );
