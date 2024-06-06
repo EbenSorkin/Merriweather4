@@ -151,7 +151,7 @@ shapes = (
 ref = x;
 },
 {
-pos = (41,-51);
+pos = (-97,-51);
 ref = strokelongcomb;
 }
 );

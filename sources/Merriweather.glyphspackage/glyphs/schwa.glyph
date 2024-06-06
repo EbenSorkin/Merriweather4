@@ -3,6 +3,16 @@ color = 4;
 glyphname = schwa;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (514,0);
+},
+{
+name = top;
+pos = (514,1112);
+}
+);
 background = {
 shapes = (
 {
@@ -61,6 +71,16 @@ nodes = (
 width = 1018;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (548,0);
+},
+{
+name = top;
+pos = (548,1112);
+}
+);
 background = {
 shapes = (
 {
@@ -119,6 +139,16 @@ nodes = (
 width = 1105;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (478,0);
+},
+{
+name = top;
+pos = (478,1005);
+}
+);
 background = {
 shapes = (
 {
@@ -177,6 +207,16 @@ nodes = (
 width = 966;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (465,0);
+},
+{
+name = top;
+pos = (465,1112);
+}
+);
 background = {
 shapes = (
 {
@@ -235,6 +275,16 @@ nodes = (
 width = 955;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (462,0);
+},
+{
+name = top;
+pos = (462,1112);
+}
+);
 background = {
 shapes = (
 {
@@ -293,6 +343,16 @@ nodes = (
 width = 941;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (428,0);
+},
+{
+name = top;
+pos = (428,1005);
+}
+);
 background = {
 shapes = (
 {
@@ -351,6 +411,16 @@ nodes = (
 width = 877;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (398,0);
+},
+{
+name = top;
+pos = (398,1005);
+}
+);
 background = {
 shapes = (
 {
@@ -409,6 +479,16 @@ nodes = (
 width = 805;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (438,0);
+},
+{
+name = top;
+pos = (438,1005);
+}
+);
 background = {
 shapes = (
 {
@@ -467,6 +547,16 @@ nodes = (
 width = 896;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (538,0);
+},
+{
+name = top;
+pos = (538,1005);
+}
+);
 background = {
 shapes = (
 {
@@ -525,6 +615,16 @@ nodes = (
 width = 1077;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (468,0);
+},
+{
+name = top;
+pos = (468,1005);
+}
+);
 background = {
 shapes = (
 {
@@ -583,6 +683,16 @@ nodes = (
 width = 946;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (548,0);
+},
+{
+name = top;
+pos = (548,1112);
+}
+);
 background = {
 shapes = (
 {
@@ -644,6 +754,16 @@ com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 width = 1099;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (575,0);
+},
+{
+name = top;
+pos = (575,1112);
+}
+);
 background = {
 shapes = (
 {
