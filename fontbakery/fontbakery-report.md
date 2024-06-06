@@ -149,7 +149,7 @@ uni0488 (U+0488) and uni0489 (U+0489)</p>
 * ⚠️ **WARN** <p>The most common width is 1338 among a set of 6 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 1281:
-plus, plusminus</p>
+plusminus, plus</p>
 <p>Width = 1289:
 equal</p>
 <p>Width = 1326:
@@ -334,8 +334,8 @@ ERROR: Table discarded</p>
 
 
 * ⚠️ **WARN** <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: i̯̇ i̯̊ i̯̋ i̯̍ i̯̐ i̯̒ i̯̓ i̯᷄ i̯᷅ i̯᷆ i̯᷇ i̯᷈ i̯᷉ i̯ꚞ i̴̇ i̴̊ i̴̋ i̴̍ i̴̐ i̴̒</p>
-<p>Your font fully covers the following languages that require the soft-dotted feature: Ijo, Southeast (Latn, 2,471,000 speakers), Navajo (Latn, 166,319 speakers), Lithuanian (Latn, 2,357,094 speakers), Belarusian (Cyrl, 10,064,517 speakers), Ekpeye (Latn, 226,000 speakers), Yala (Latn, 200,000 speakers), Nateni (Latn, 100,000 speakers), Ebira (Latn, 2,200,000 speakers), Cicipu (Latn, 44,000 speakers), Ngbaka (Latn, 1,020,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Bete-Bendi (Latn, 100,000 speakers), Dutch (Latn, 31,709,104 speakers), Ma’di (Latn, 584,000 speakers), Zapotec (Latn, 490,000 speakers), Nzakara (Latn, 50,000 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Lugbara (Latn, 2,200,000 speakers), Koonzime (Latn, 40,000 speakers), Kom (Latn, 360,685 speakers), Makaa (Latn, 221,000 speakers), Mango (Latn, 77,000 speakers), Mundani (Latn, 34,000 speakers), Dii (Latn, 71,000 speakers), Bafut (Latn, 158,146 speakers), Aghem (Latn, 38,843 speakers), Fur (Latn, 1,230,163 speakers), Sar (Latn, 500,000 speakers), Avokaya (Latn, 100,000 speakers), Dan (Latn, 1,099,244 speakers), South Central Banda (Latn, 244,000 speakers), Southern Kisi (Latn, 360,000 speakers), Gulay (Latn, 250,478 speakers), Igbo (Latn, 27,823,640 speakers), Mfumte (Latn, 79,000 speakers), Ejagham (Latn, 120,000 speakers), Basaa (Latn, 332,940 speakers), Kpelle, Guinea (Latn, 622,000 speakers).</p>
+<p>Your font fully covers the following languages that require the soft-dotted feature: Dutch (Latn, 31,709,104 speakers), Belarusian (Cyrl, 10,064,517 speakers), Nzakara (Latn, 50,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Zapotec (Latn, 490,000 speakers), Ma’di (Latn, 584,000 speakers), Cicipu (Latn, 44,000 speakers), Gulay (Latn, 250,478 speakers), Nateni (Latn, 100,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Ebira (Latn, 2,200,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), South Central Banda (Latn, 244,000 speakers), Sar (Latn, 500,000 speakers), Mango (Latn, 77,000 speakers), Yala (Latn, 200,000 speakers), Ekpeye (Latn, 226,000 speakers), Lithuanian (Latn, 2,357,094 speakers), Navajo (Latn, 166,319 speakers), Ngbaka (Latn, 1,020,000 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Igbo (Latn, 27,823,640 speakers), Dan (Latn, 1,099,244 speakers), Bafut (Latn, 158,146 speakers), Aghem (Latn, 38,843 speakers), Mundani (Latn, 34,000 speakers), Lugbara (Latn, 2,200,000 speakers), Kom (Latn, 360,685 speakers), Koonzime (Latn, 40,000 speakers), Fur (Latn, 1,230,163 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Avokaya (Latn, 100,000 speakers), Dii (Latn, 71,000 speakers), Mfumte (Latn, 79,000 speakers), Basaa (Latn, 332,940 speakers), Ejagham (Latn, 120,000 speakers), Southern Kisi (Latn, 360,000 speakers), Makaa (Latn, 221,000 speakers).</p>
  [code: soft-dotted]
 
 
@@ -369,7 +369,7 @@ definitions.</p>
 <li>U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition</li>
 <li>U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition</li>
 <li>U+02C1 MODIFIER LETTER REVERSED GLOTTAL STOP: not included in any glyphset definition</li>
-<li>U+02C7 CARON: try adding one of: yi, canadian-aboriginal, tifinagh</li>
+<li>U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal</li>
 <li>U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition</li>
 <li>U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition</li>
@@ -384,12 +384,12 @@ definitions.</p>
 <li>U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition</li>
 <li>U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition</li>
 <li>U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, cherokee, tifinagh</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, tifinagh, coptic</li>
 <li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: coptic, math, tifinagh, syriac, old-permic, canadian-aboriginal, malayalam, tai-le</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: math, tai-le, tifinagh, canadian-aboriginal, malayalam, syriac, coptic, old-permic</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
-<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
+<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+0310 COMBINING CANDRABINDU: not included in any glyphset definition</li>
@@ -399,7 +399,7 @@ definitions.</p>
 <li>U+0315 COMBINING COMMA ABOVE RIGHT: not included in any glyphset definition</li>
 <li>U+031B COMBINING HORN: not included in any glyphset definition</li>
 <li>U+0320 COMBINING MINUS SIGN BELOW: try adding syriac</li>
-<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: syriac, cherokee</li>
+<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: cherokee, syriac</li>
 <li>U+0325 COMBINING RING BELOW: try adding syriac</li>
 <li>U+0326 COMBINING COMMA BELOW: not included in any glyphset definition</li>
 <li>U+0327 COMBINING CEDILLA: not included in any glyphset definition</li>
@@ -407,8 +407,8 @@ definitions.</p>
 <li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: syriac, math, cherokee</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, tifinagh, syriac, gothic, caucasian-albanian</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, tifinagh, gothic, syriac, cherokee</li>
 <li>U+0332 COMBINING LOW LINE: not included in any glyphset definition</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
@@ -457,10 +457,10 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: not included in any glyphset definition</li>
 <li>U+2008 PUNCTUATION SPACE: not included in any glyphset definition</li>
 <li>U+200A HAIR SPACE: not included in any glyphset definition</li>
-<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: nko, myanmar, tai-tham, rejang, kaithi, grantha, sundanese, kannada, manichaean, hanifi-rohingya, bhaiksuki, javanese, meetei-mayek, batak, modi, oriya, tamil, zanabazar-square, chakma, lao, phags-pa, gunjala-gondi, sogdian, syloti-nagri, tai-viet, masaram-gondi, buhid, sinhala, tibetan, siddham, tagbanwa, takri, khojki, limbu, new-tai-lue, lepcha, pahawh-hmong, bengali, devanagari, syriac, thai, mongolian, dogra, tagalog, tai-le, hatran, tifinagh, hanunoo, gujarati, duployan, warang-citi, mahajani, arabic, cham, kayah-li, newa, telugu, khmer, thaana, tirhuta, khudawadi, sharada, mandaic, psalter-pahlavi, brahmi, hebrew, yi, kharoshthi, saurashtra, malayalam, gurmukhi, balinese, avestan, buginese</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: nko, myanmar, tai-tham, rejang, kaithi, grantha, sundanese, kannada, manichaean, hanifi-rohingya, bhaiksuki, javanese, meetei-mayek, batak, modi, oriya, tamil, zanabazar-square, chakma, lao, phags-pa, gunjala-gondi, sogdian, syloti-nagri, tai-viet, masaram-gondi, buhid, sinhala, tibetan, siddham, tagbanwa, takri, khojki, limbu, new-tai-lue, lepcha, pahawh-hmong, bengali, devanagari, syriac, thai, mongolian, dogra, tagalog, tai-le, tifinagh, hanunoo, gujarati, duployan, warang-citi, mahajani, old-hungarian, arabic, cham, kayah-li, newa, telugu, khmer, thaana, tirhuta, khudawadi, sharada, mandaic, psalter-pahlavi, brahmi, hebrew, yi, kharoshthi, saurashtra, malayalam, gurmukhi, balinese, avestan, buginese</li>
-<li>U+2010 HYPHEN: try adding one of: armenian, coptic, arabic, cham, kayah-li, lisu, syloti-nagri, kaithi, sundanese, sora-sompeng, yi, hebrew, kharoshthi</li>
-<li>U+2011 NON-BREAKING HYPHEN: try adding one of: yi, syloti-nagri, arabic</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: lepcha, cham, tai-le, saurashtra, balinese, newa, tifinagh, warang-citi, tirhuta, meetei-mayek, kannada, dogra, gujarati, modi, duployan, manichaean, javanese, pahawh-hmong, batak, syriac, tai-viet, avestan, limbu, mongolian, siddham, new-tai-lue, nko, thai, arabic, syloti-nagri, tagalog, myanmar, oriya, phags-pa, sharada, takri, zanabazar-square, kayah-li, gunjala-gondi, devanagari, tai-tham, khmer, sinhala, hanifi-rohingya, kharoshthi, psalter-pahlavi, tamil, hanunoo, thaana, grantha, yi, bhaiksuki, brahmi, malayalam, sundanese, khudawadi, buhid, chakma, rejang, khojki, tibetan, telugu, masaram-gondi, tagbanwa, mahajani, gurmukhi, buginese, lao, bengali, kaithi, sogdian, hatran, hebrew, mandaic</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: lepcha, cham, tai-le, saurashtra, balinese, newa, tifinagh, warang-citi, tirhuta, meetei-mayek, kannada, dogra, gujarati, modi, duployan, manichaean, javanese, pahawh-hmong, batak, syriac, tai-viet, avestan, limbu, mongolian, old-hungarian, siddham, new-tai-lue, nko, thai, arabic, syloti-nagri, tagalog, myanmar, oriya, phags-pa, sharada, takri, zanabazar-square, kayah-li, gunjala-gondi, devanagari, tai-tham, khmer, sinhala, hanifi-rohingya, kharoshthi, psalter-pahlavi, tamil, hanunoo, thaana, grantha, yi, bhaiksuki, brahmi, malayalam, sundanese, khudawadi, buhid, chakma, rejang, khojki, tibetan, telugu, masaram-gondi, tagbanwa, mahajani, gurmukhi, buginese, lao, bengali, kaithi, sogdian, hebrew, mandaic</li>
+<li>U+2010 HYPHEN: try adding one of: armenian, kharoshthi, cham, kayah-li, lisu, arabic, yi, kaithi, sora-sompeng, syloti-nagri, sundanese, coptic, hebrew</li>
+<li>U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, yi, arabic</li>
 <li>U+2012 FIGURE DASH: not included in any glyphset definition</li>
 <li>U+2015 HORIZONTAL BAR: try adding adlam</li>
 <li>U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition</li>
@@ -468,7 +468,7 @@ definitions.</p>
 <li>U+2021 DOUBLE DAGGER: try adding adlam</li>
 <li>U+2023 TRIANGULAR BULLET: not included in any glyphset definition</li>
 <li>U+2027 HYPHENATION POINT: not included in any glyphset definition</li>
-<li>U+202F NARROW NO-BREAK SPACE: try adding one of: yi, mongolian</li>
+<li>U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi</li>
 <li>U+2030 PER MILLE SIGN: try adding adlam</li>
 <li>U+2034 TRIPLE PRIME: try adding math</li>
 <li>U+203C DOUBLE EXCLAMATION MARK: not included in any glyphset definition</li>
@@ -517,20 +517,20 @@ definitions.</p>
 <li>U+215E VULGAR FRACTION SEVEN EIGHTHS: not included in any glyphset definition</li>
 <li>U+2183 ROMAN NUMERAL REVERSED ONE HUNDRED: try adding symbols</li>
 <li>U+2184 LATIN SMALL LETTER REVERSED C: not included in any glyphset definition</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math</li>
-<li>U+2195 UP DOWN ARROW: try adding one of: symbols, math</li>
-<li>U+2196 NORTH WEST ARROW: try adding one of: symbols, math</li>
-<li>U+2197 NORTH EAST ARROW: try adding one of: symbols, math</li>
-<li>U+2198 SOUTH EAST ARROW: try adding one of: symbols, math</li>
-<li>U+2199 SOUTH WEST ARROW: try adding one of: symbols, math</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
 <li>U+2202 PARTIAL DIFFERENTIAL: try adding math</li>
 <li>U+2205 EMPTY SET: try adding math</li>
 <li>U+2206 INCREMENT: try adding math</li>
 <li>U+220F N-ARY PRODUCT: try adding math</li>
 <li>U+2211 N-ARY SUMMATION: try adding math</li>
-<li>U+2219 BULLET OPERATOR: try adding one of: yi, tai-tham, symbols, math</li>
+<li>U+2219 BULLET OPERATOR: try adding one of: math, symbols, yi, tai-tham</li>
 <li>U+221A SQUARE ROOT: try adding math</li>
 <li>U+221E INFINITY: try adding math</li>
 <li>U+222B INTEGRAL: try adding math</li>
@@ -549,27 +549,27 @@ definitions.</p>
 <li>U+25AA BLACK SMALL SQUARE: try adding symbols</li>
 <li>U+25AB WHITE SMALL SQUARE: try adding symbols</li>
 <li>U+25B2 BLACK UP-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: symbols, math</li>
+<li>U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: math, symbols</li>
 <li>U+25B4 BLACK UP-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25B5 WHITE UP-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25B6 BLACK RIGHT-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: symbols, math</li>
+<li>U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: math, symbols</li>
 <li>U+25B8 BLACK RIGHT-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25B9 WHITE RIGHT-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25BC BLACK DOWN-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: symbols, math</li>
+<li>U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: math, symbols</li>
 <li>U+25BE BLACK DOWN-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25BF WHITE DOWN-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25C0 BLACK LEFT-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: symbols, math</li>
+<li>U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: math, symbols</li>
 <li>U+25C2 BLACK LEFT-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25C3 WHITE LEFT-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25C6 BLACK DIAMOND: try adding symbols</li>
 <li>U+25C7 WHITE DIAMOND: try adding symbols</li>
 <li>U+25C9 FISHEYE: try adding symbols</li>
-<li>U+25CA LOZENGE: try adding one of: symbols, math</li>
+<li>U+25CA LOZENGE: try adding one of: math, symbols</li>
 <li>U+25CB WHITE CIRCLE: try adding symbols</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: tamil, kaithi, modi, manichaean, hanifi-rohingya, meetei-mayek, batak, zanabazar-square, phags-pa, gunjala-gondi, sogdian, tai-viet, canadian-aboriginal, math, lepcha, pahawh-hmong, adlam, tagalog, duployan, mahajani, yi, brahmi, hebrew, warang-citi, buginese, rejang, grantha, oriya, bhaiksuki, syloti-nagri, ahom, takri, khojki, coptic, limbu, new-tai-lue, thai, bassa-vah, caucasian-albanian, cham, thaana, telugu, khmer, khudawadi, mandaic, psalter-pahlavi, kharoshthi, saurashtra, gurmukhi, balinese, tai-le, myanmar, tai-tham, sundanese, javanese, symbols, chakma, masaram-gondi, sinhala, tibetan, tagbanwa, elbasan, mongolian, hanunoo, marchen, kayah-li, newa, sharada, music, armenian, nko, mende-kikakui, tifinagh, kannada, lao, old-permic, buhid, miao, siddham, wancho, bengali, devanagari, syriac, dogra, soyombo, gujarati, tirhuta, osage, malayalam</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: elbasan, newa, tifinagh, soyombo, pahawh-hmong, modi, duployan, tai-viet, javanese, limbu, syloti-nagri, sharada, zanabazar-square, gunjala-gondi, devanagari, adlam, kharoshthi, mende-kikakui, miao, brahmi, sundanese, mahajani, lao, lepcha, tai-le, balinese, meetei-mayek, dogra, thai, ahom, osage, takri, khmer, symbols, psalter-pahlavi, tamil, thaana, malayalam, khudawadi, rejang, khojki, telugu, gurmukhi, buginese, canadian-aboriginal, music, hebrew, old-permic, math, caucasian-albanian, bassa-vah, saurashtra, warang-citi, kannada, syriac, manichaean, batak, new-tai-lue, nko, tagalog, myanmar, oriya, kayah-li, wancho, sinhala, hanifi-rohingya, yi, grantha, bhaiksuki, buhid, armenian, masaram-gondi, sogdian, marchen, cham, gujarati, tirhuta, mongolian, siddham, phags-pa, tai-tham, hanunoo, chakma, tibetan, tagbanwa, bengali, kaithi, coptic, mandaic</li>
 <li>U+25CF BLACK CIRCLE: try adding symbols</li>
 <li>U+25E6 WHITE BULLET: try adding symbols</li>
 <li>U+25FC BLACK MEDIUM SQUARE: try adding symbols</li>
@@ -599,7 +599,7 @@ definitions.</p>
 <li>U+2B9F BLACK DOWNWARDS EQUILATERAL ARROWHEAD: try adding symbols</li>
 <li>U+2E17 DOUBLE OBLIQUE HYPHEN: try adding coptic</li>
 <li>U+2E38 TURNED DAGGER: not included in any glyphset definition</li>
-<li>U+3003 DITTO MARK: try adding one of: phags-pa, chinese-simplified, japanese, chinese-hongkong, yi, chinese-traditional</li>
+<li>U+3003 DITTO MARK: try adding one of: yi, japanese, chinese-simplified, chinese-hongkong, phags-pa, chinese-traditional</li>
 <li>U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition</li>
 <li>U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition</li>
 <li>U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition</li>
@@ -786,26 +786,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">ybb_Latn (Yemba)</td>
-<td align="left">Shaper didn't attach uni0304 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0308 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -818,22 +798,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">bum_Latn (Bulu)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -851,18 +815,6 @@ definitions.</p>
 <tr>
 <td align="left">csk_Latn (Jola-Kasa)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-<tr>
-<td align="left">gvl_Latn (Gulay)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
 </tr>
 <tr>
 <td align="left">tik_Latn (Tikar)</td>
@@ -890,38 +842,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">ewo_Latn (Ewondo)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -966,50 +886,10 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">bbj_Latn (Ghomala)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
 <td align="left">mgo_Latn (Metaʼ)</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -1070,38 +950,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">nfu_Latn (Mfumte)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -1178,38 +1026,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">lee_Latn (Lyélé)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -1258,150 +1074,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">dnj_Latn (Dan)</td>
-<td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030F to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030B to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030F to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030B to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030F to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030F to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030B to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030B to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030F to uni0264.sc</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030F to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0264.sc</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0264.sc</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0264.sc</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030B to uni0264.sc</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030B to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0264.sc</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -1442,39 +1114,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">etu_Latn (Ejagham)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-<tr>
-<td align="left">lnl_Latn (South Central Banda)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0308 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0308 to uni0259</td>
 </tr>
 <tr>
 <td align="left">sxw_Latn (Saxwe Gbe)</td>
@@ -1534,30 +1174,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">mnf_Latn (Mundani)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -1567,22 +1183,6 @@ definitions.</p>
 <tr>
 <td align="left">ksf_Latn (Bafia)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-<tr>
-<td align="left">ksp_Latn (Kabba)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0308 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0308 to uni0259</td>
 </tr>
 <tr>
 <td align="left">dgi_Latn (Northern Dagara)</td>
@@ -1598,7 +1198,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">dnj_Latn_LR (Dan)</td>
-<td align="left">Shaper didn't attach tildecomb.case to uni0265</td>
+<td align="left">Shaper didn't attach uni0302 to uni0265</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0265</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -1606,11 +1210,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0265</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0265</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni0265</td>
 </tr>
 <tr>
 <td align="left">ach_Latn (Acoli)</td>
@@ -1630,38 +1230,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">sbd_Latn (Southern Samo)</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0308 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0308 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -1670,78 +1238,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">dur_Latn (Dii)</td>
-<td align="left">Shaper didn't attach uni0327 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327.case to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni0327.case</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327.case to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni0327.case</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327.case to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni0327.case</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327.case to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni0327.case</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327.case to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni0327.case</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327.case to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni0327.case</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -1759,98 +1255,6 @@ definitions.</p>
 <tr>
 <td align="left">hag_Latn (Hanga)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-<tr>
-<td align="left">mge_Latn (Mango)</td>
-<td align="left">Shaper didn't attach uni0330 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0330</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0330</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0330</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0330</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0330</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0330</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0330</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0330</td>
 </tr>
 <tr>
 <td align="left">xon_Latn (Konkomba)</td>
@@ -1878,38 +1282,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">bfd_Latn (Bafut)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -1989,22 +1361,6 @@ definitions.</p>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
-<td align="left">sba_Latn (Ngambay)</td>
-<td align="left">Shaper didn't attach uni0330 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni0259</td>
-</tr>
-<tr>
 <td align="left">lok_Latn (Loko)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
@@ -2018,19 +1374,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">kzc_Latn (Bondoukou Kulango)</td>
-<td align="left">Shaper didn't attach tildecomb to uniA7B7</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uniA7AE</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach tildecomb.case to uniA7B6</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uniA7AE</td>
+<td align="left">Shaper didn't attach tildecomb to uniA7B7</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -2039,10 +1387,6 @@ definitions.</p>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach tildecomb.case to uniA7B6</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uniA7AE.sc</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -2158,38 +1502,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">fmp_Latn (Fe’fe’)</td>
-<td align="left">Shaper didn't attach uni0304 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -2199,22 +1511,6 @@ definitions.</p>
 <tr>
 <td align="left">kus_Latn (Kusaal)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-<tr>
-<td align="left">mwm_Latn (Sar)</td>
-<td align="left">Shaper didn't attach uni0304 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0259</td>
 </tr>
 <tr>
 <td align="left">gej_Latn (Gen)</td>
@@ -2238,22 +1534,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">nnw_Latn (Southern Nuni)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -2314,30 +1594,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">byv_Latn (Medumba)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -2358,30 +1614,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">gkp_Latn (Kpelle, Guinea)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0328 to uni0259</td>
 </tr>
 <tr>
@@ -2394,15 +1626,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni0328.case</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0328.case to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni0328.case</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -2622,42 +1846,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">bax_Latn (Bamun, Latin)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -2682,30 +1870,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">mcp_Latn (Makaa)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -2735,30 +1899,6 @@ definitions.</p>
 <tr>
 <td align="left">^</td>
 <td align="left">The locl feature did not affect uni01B7</td>
-</tr>
-<tr>
-<td align="left">gov_Latn (Goo)</td>
-<td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0264</td>
 </tr>
 <tr>
 <td align="left">nko_Latn (Nkonya)</td>
@@ -3498,88 +2638,8 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">Black 72</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold Wide</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 48</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 14</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 24</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 48</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 24 Wide</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 72 Wide</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 16</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 24</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 64</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 72 Cnd</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 48 Cnd</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 64 Cnd</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 144 Cnd</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular Cnd</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 24 Wide</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=24.0</td>
+<td align="left">Medium 64 Cnd</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=64.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -3588,228 +2648,8 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">SemiBold 48</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 24 Wide</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 144</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 144 Cnd</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 24 Wide</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 14 Wide</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 72</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 64 Cnd</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 64</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 64 Cnd</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 14 Cnd</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 144 Wide</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 72 Wide</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 14</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 48</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 16 Cnd</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 14 Wide</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 16 Wide</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 144</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 144 Cnd</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 64 Wide</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 16</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 16 Wide</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 72 Cnd</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 14 Cnd</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 48 Cnd</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 48 Cnd</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 64 Cnd</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black Cnd</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 16 Wide</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 24 Wide</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold Wide</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 24 Cnd</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 64 Wide</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 64</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 48 Wide</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 14 Wide</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 72 Wide</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 144 Wide</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular Wide</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 14</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 72 Wide</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 144 Wide</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 64 Cnd</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 144 Wide</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=144.0</td>
+<td align="left">SemiBold 48 Cnd</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=48.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -3818,18 +2658,28 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExBold 48 Cnd</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=48.0</td>
+<td align="left">Light 16 Cnd</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=16.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Regular 48</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=48.0</td>
+<td align="left">Bold 48 Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=48.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExBold 14 Cnd</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=14.0</td>
+<td align="left">Regular Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 144 Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=144.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -3838,28 +2688,83 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
+<td align="left">Light 24 Cnd</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 48 Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 64 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 16 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 144 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 16 Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 16 Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 144</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 48 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 144 Cnd</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 144</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 144 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 72</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
 <td align="left">ExBold 24 Cnd</td>
 <td align="left">wght=800.0, wdth=87.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">SemiBold 14</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 14</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 16</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 48 Cnd</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=48.0</td>
+<td align="left">ExBold 14 Cnd</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=14.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -3868,33 +2773,8 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Black 14 Cnd</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 144</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 14</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 16 Cnd</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 144 Wide</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 16</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=16.0</td>
+<td align="left">Light 64 Cnd</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=64.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -3903,8 +2783,448 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
+<td align="left">Bold 24 Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 72</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
 <td align="left">SemiBold 64 Cnd</td>
 <td align="left">wght=600.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 144</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 14 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 72 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 64 Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 144</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 14 Cnd</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 72</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 16 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 48 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 64</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 14 Cnd</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 24</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 48</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 14 Cnd</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 16 Cnd</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 64</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 72 Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 48 Cnd</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 16 Cnd</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 144 Cnd</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 144</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 24 Cnd</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 16 Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 24 Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 72 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 64 Cnd</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 48 Cnd</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtBold 72 Cnd</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 14</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 16 Cnd</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 16</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 16 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 24 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 48 Cnd</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 72 Cnd</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 144 Cnd</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 72</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 14 Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 24</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 48 Cnd</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 16</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 144 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 144 Cnd</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold Cnd</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 48</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 144</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium Cnd</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 24 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 48</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 14</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 72</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 72 Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 48 Cnd</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 72 Cnd</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 24</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 72 Cnd</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 64 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 72</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 144</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 64 Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 48</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular Cnd</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 16 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 24</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 14 Cnd</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 72 Cnd</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 72</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 64 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 24 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 64 Cnd</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 16</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 14 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 14</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 14</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 24 Cnd</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 72 Cnd</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 64</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 64</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 72 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 48 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 64 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 14 Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 48</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=48.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -3913,8 +3233,93 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Medium 48</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=48.0</td>
+<td align="left">Medium 16 Cnd</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 64</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 16</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 14 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 24</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 144 Cond</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 14</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 16</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 48 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 64</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 144 Cnd</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 72 Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 14</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 24 Cnd</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 16</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 144 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=144.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -3928,218 +3333,8 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Bold 24 Wide</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 64</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 48 Wide</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 72 Cnd</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 14 Wide</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 144</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 24</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 16 Wide</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 16 Wide</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium Wide</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 14 Cnd</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 144</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 64 Wide</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 144 Cnd</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold Wide</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 14 Wide</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
 <td align="left">Bold Cnd</td>
 <td align="left">wght=700.0, wdth=87.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 64 Wide</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 48</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 16 Cnd</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 16 Cnd</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 72 Cnd</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 72 Cnd</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 72 Wide</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 16</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 16 Wide</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 72</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black Wide</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 72 Wide</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 144 Wide</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 48 Wide</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 24 Cnd</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 48 Wide</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 72 Cnd</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 24 Wide</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 24 Cnd</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 64 Wide</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 64 Wide</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold Cnd</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light Wide</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 64 Cnd</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 72</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=72.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -4148,53 +3343,8 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Regular 48 Wide</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 16 Cnd</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 144</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 144 Cond</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 72</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 144 Cnd</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 64</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 24</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 24</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 64</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=64.0</td>
+<td align="left">Black 64 Cnd</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=64.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -4203,78 +3353,28 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Medium 144 Cnd</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=144.0</td>
+<td align="left">SemiBold 14 Cnd</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=14.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Black 48 Cnd</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=48.0</td>
+<td align="left">Medium 14</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=14.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">SemiBold Cnd</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=12.0</td>
+<td align="left">Regular 64</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=64.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Light 14</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=14.0</td>
+<td align="left">Light 24 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Light 72</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 16</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium Cnd</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 14 Cnd</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 16 Cnd</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 16 Wide</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 16 Cnd</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtBold 72 Cnd</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 72 Wide</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 64</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light Cnd</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=12.0</td>
+<td align="left">SemiBold 16 Cnd</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=16.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -4283,28 +3383,68 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExBold 144</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=144.0</td>
+<td align="left">Black 24 Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Regular 24 Cnd</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=24.0</td>
+<td align="left">Black 16 Cnd</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=16.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Bold 72</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=72.0</td>
+<td align="left">ExBold 48 Cnd</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=48.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">SemiBold 48 Wide</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=48.0</td>
+<td align="left">Medium 72 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=72.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Bold 48 Cnd</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=48.0</td>
+<td align="left">ExBold 64 Cnd</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light Cnd</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 144 Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 72 Cnd</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 48</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold Cnd</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 144 Cnd</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 48</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black Cnd</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=12.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -4409,29 +3549,23 @@ uni0488 (U+0488) and uni0489 (U+0489)</p>
 
 
 * ⚠️ **WARN** <p>Interpolation issues were found in the font:</p>
-<pre><code>- Contour 0 point 25 has a kink between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
+<pre><code>- Contour 0 point 53 has a kink between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
+
+- Contour 0 point 53 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 
 - Contour 0 point 70 has a kink between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
 
-- Contour order differs in glyph 'uni030B.case': [0, 1] in wght=900,wdth=112,opsz=144, [1, 0] in wght=300,wdth=100,opsz=144.
-
-- Contour order differs in glyph 'uni030B.case': [0, 1] in wght=300,wdth=100,opsz=144, [1, 0] in wght=300,wdth=87,opsz=12.
-
-- Contour order differs in glyph 'uni030B.case': [0, 1] in wght=300,wdth=112,opsz=12, [1, 0] in wght=300,wdth=87,opsz=144.
-
 - Contour 0 point 98 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
 
-- Contour 0 point 29 has a kink between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
-
-- Contour 0 point 29 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+- Contour 0 point 25 has a kink between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
 
 - Contour 0 point 14 has a kink between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
 
 - Contour 0 point 14 has a kink between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
 
-- Contour 0 point 53 has a kink between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
+- Contour 0 point 29 has a kink between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
 
-- Contour 0 point 53 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
+- Contour 0 point 29 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
 </code></pre>
  [code: interpolation-issues]
 
@@ -4455,13 +3589,13 @@ The following math glyphs have a different width, though:</p>
 <p>Width = 1226:
 less</p>
 <p>Width = 1138:
-notequal, equal</p>
+equal, notequal</p>
 <p>Width = 1225:
 greater</p>
 <p>Width = 1259:
 lessequal, logicalnot</p>
 <p>Width = 1262:
-uni2266, multiply</p>
+multiply, uni2266</p>
 <p>Width = 1260:
 divide</p>
 <p>Width = 1184:
@@ -4615,6 +3749,8 @@ ERROR: Table discarded</p>
 - uni2071.dotless
 
 - uniA64D.sc
+
+- uniA7C8.sc
 </code></pre>
  [code: unreachable-glyphs]
 
@@ -4634,8 +3770,8 @@ ERROR: Table discarded</p>
 
 
 * ⚠️ **WARN** <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: i̯̇ i̯̊ i̯̋ i̯̍ i̯̐ i̯̒ i̯̓ i̯᷄ i̯᷅ i̯᷆ i̯᷇ i̯᷈ i̯᷉ i̯ꚞ i̴̇ i̴̊ i̴̋ i̴̍ i̴̐ i̴̒</p>
-<p>Your font fully covers the following languages that require the soft-dotted feature: Ijo, Southeast (Latn, 2,471,000 speakers), Navajo (Latn, 166,319 speakers), Lithuanian (Latn, 2,357,094 speakers), Belarusian (Cyrl, 10,064,517 speakers), Ekpeye (Latn, 226,000 speakers), Yala (Latn, 200,000 speakers), Nateni (Latn, 100,000 speakers), Ebira (Latn, 2,200,000 speakers), Cicipu (Latn, 44,000 speakers), Ngbaka (Latn, 1,020,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Bete-Bendi (Latn, 100,000 speakers), Dutch (Latn, 31,709,104 speakers), Ma’di (Latn, 584,000 speakers), Zapotec (Latn, 490,000 speakers), Nzakara (Latn, 50,000 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Lugbara (Latn, 2,200,000 speakers), Koonzime (Latn, 40,000 speakers), Kom (Latn, 360,685 speakers), Makaa (Latn, 221,000 speakers), Mango (Latn, 77,000 speakers), Mundani (Latn, 34,000 speakers), Dii (Latn, 71,000 speakers), Bafut (Latn, 158,146 speakers), Aghem (Latn, 38,843 speakers), Fur (Latn, 1,230,163 speakers), Sar (Latn, 500,000 speakers), Avokaya (Latn, 100,000 speakers), Dan (Latn, 1,099,244 speakers), South Central Banda (Latn, 244,000 speakers), Southern Kisi (Latn, 360,000 speakers), Gulay (Latn, 250,478 speakers), Igbo (Latn, 27,823,640 speakers), Mfumte (Latn, 79,000 speakers), Ejagham (Latn, 120,000 speakers), Basaa (Latn, 332,940 speakers), Kpelle, Guinea (Latn, 622,000 speakers).</p>
+<p>Your font fully covers the following languages that require the soft-dotted feature: Dutch (Latn, 31,709,104 speakers), Belarusian (Cyrl, 10,064,517 speakers), Nzakara (Latn, 50,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Zapotec (Latn, 490,000 speakers), Ma’di (Latn, 584,000 speakers), Cicipu (Latn, 44,000 speakers), Gulay (Latn, 250,478 speakers), Nateni (Latn, 100,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Ebira (Latn, 2,200,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), South Central Banda (Latn, 244,000 speakers), Sar (Latn, 500,000 speakers), Mango (Latn, 77,000 speakers), Yala (Latn, 200,000 speakers), Ekpeye (Latn, 226,000 speakers), Lithuanian (Latn, 2,357,094 speakers), Navajo (Latn, 166,319 speakers), Ngbaka (Latn, 1,020,000 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Igbo (Latn, 27,823,640 speakers), Dan (Latn, 1,099,244 speakers), Bafut (Latn, 158,146 speakers), Aghem (Latn, 38,843 speakers), Mundani (Latn, 34,000 speakers), Lugbara (Latn, 2,200,000 speakers), Kom (Latn, 360,685 speakers), Koonzime (Latn, 40,000 speakers), Fur (Latn, 1,230,163 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Avokaya (Latn, 100,000 speakers), Dii (Latn, 71,000 speakers), Mfumte (Latn, 79,000 speakers), Basaa (Latn, 332,940 speakers), Ejagham (Latn, 120,000 speakers), Southern Kisi (Latn, 360,000 speakers), Makaa (Latn, 221,000 speakers).</p>
  [code: soft-dotted]
 
 
@@ -4669,7 +3805,7 @@ definitions.</p>
 <li>U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition</li>
 <li>U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition</li>
 <li>U+02C1 MODIFIER LETTER REVERSED GLOTTAL STOP: not included in any glyphset definition</li>
-<li>U+02C7 CARON: try adding one of: yi, canadian-aboriginal, tifinagh</li>
+<li>U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal</li>
 <li>U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition</li>
 <li>U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition</li>
@@ -4684,12 +3820,12 @@ definitions.</p>
 <li>U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition</li>
 <li>U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition</li>
 <li>U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, cherokee, tifinagh</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, tifinagh, coptic</li>
 <li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: coptic, math, tifinagh, syriac, old-permic, canadian-aboriginal, malayalam, tai-le</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: math, tai-le, tifinagh, canadian-aboriginal, malayalam, syriac, coptic, old-permic</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
-<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
+<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+0310 COMBINING CANDRABINDU: not included in any glyphset definition</li>
@@ -4699,7 +3835,7 @@ definitions.</p>
 <li>U+0315 COMBINING COMMA ABOVE RIGHT: not included in any glyphset definition</li>
 <li>U+031B COMBINING HORN: not included in any glyphset definition</li>
 <li>U+0320 COMBINING MINUS SIGN BELOW: try adding syriac</li>
-<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: syriac, cherokee</li>
+<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: cherokee, syriac</li>
 <li>U+0325 COMBINING RING BELOW: try adding syriac</li>
 <li>U+0326 COMBINING COMMA BELOW: not included in any glyphset definition</li>
 <li>U+0327 COMBINING CEDILLA: not included in any glyphset definition</li>
@@ -4707,8 +3843,8 @@ definitions.</p>
 <li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: syriac, math, cherokee</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, tifinagh, syriac, gothic, caucasian-albanian</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, tifinagh, gothic, syriac, cherokee</li>
 <li>U+0332 COMBINING LOW LINE: not included in any glyphset definition</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
@@ -4757,10 +3893,10 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: not included in any glyphset definition</li>
 <li>U+2008 PUNCTUATION SPACE: not included in any glyphset definition</li>
 <li>U+200A HAIR SPACE: not included in any glyphset definition</li>
-<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: nko, myanmar, tai-tham, rejang, kaithi, grantha, sundanese, kannada, manichaean, hanifi-rohingya, bhaiksuki, javanese, meetei-mayek, batak, modi, oriya, tamil, zanabazar-square, chakma, lao, phags-pa, gunjala-gondi, sogdian, syloti-nagri, tai-viet, masaram-gondi, buhid, sinhala, tibetan, siddham, tagbanwa, takri, khojki, limbu, new-tai-lue, lepcha, pahawh-hmong, bengali, devanagari, syriac, thai, mongolian, dogra, tagalog, tai-le, hatran, tifinagh, hanunoo, gujarati, duployan, warang-citi, mahajani, arabic, cham, kayah-li, newa, telugu, khmer, thaana, tirhuta, khudawadi, sharada, mandaic, psalter-pahlavi, brahmi, hebrew, yi, kharoshthi, saurashtra, malayalam, gurmukhi, balinese, avestan, buginese</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: nko, myanmar, tai-tham, rejang, kaithi, grantha, sundanese, kannada, manichaean, hanifi-rohingya, bhaiksuki, javanese, meetei-mayek, batak, modi, oriya, tamil, zanabazar-square, chakma, lao, phags-pa, gunjala-gondi, sogdian, syloti-nagri, tai-viet, masaram-gondi, buhid, sinhala, tibetan, siddham, tagbanwa, takri, khojki, limbu, new-tai-lue, lepcha, pahawh-hmong, bengali, devanagari, syriac, thai, mongolian, dogra, tagalog, tai-le, tifinagh, hanunoo, gujarati, duployan, warang-citi, mahajani, old-hungarian, arabic, cham, kayah-li, newa, telugu, khmer, thaana, tirhuta, khudawadi, sharada, mandaic, psalter-pahlavi, brahmi, hebrew, yi, kharoshthi, saurashtra, malayalam, gurmukhi, balinese, avestan, buginese</li>
-<li>U+2010 HYPHEN: try adding one of: armenian, coptic, arabic, cham, kayah-li, lisu, syloti-nagri, kaithi, sundanese, sora-sompeng, yi, hebrew, kharoshthi</li>
-<li>U+2011 NON-BREAKING HYPHEN: try adding one of: yi, syloti-nagri, arabic</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: lepcha, cham, tai-le, saurashtra, balinese, newa, tifinagh, warang-citi, tirhuta, meetei-mayek, kannada, dogra, gujarati, modi, duployan, manichaean, javanese, pahawh-hmong, batak, syriac, tai-viet, avestan, limbu, mongolian, siddham, new-tai-lue, nko, thai, arabic, syloti-nagri, tagalog, myanmar, oriya, phags-pa, sharada, takri, zanabazar-square, kayah-li, gunjala-gondi, devanagari, tai-tham, khmer, sinhala, hanifi-rohingya, kharoshthi, psalter-pahlavi, tamil, hanunoo, thaana, grantha, yi, bhaiksuki, brahmi, malayalam, sundanese, khudawadi, buhid, chakma, rejang, khojki, tibetan, telugu, masaram-gondi, tagbanwa, mahajani, gurmukhi, buginese, lao, bengali, kaithi, sogdian, hatran, hebrew, mandaic</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: lepcha, cham, tai-le, saurashtra, balinese, newa, tifinagh, warang-citi, tirhuta, meetei-mayek, kannada, dogra, gujarati, modi, duployan, manichaean, javanese, pahawh-hmong, batak, syriac, tai-viet, avestan, limbu, mongolian, old-hungarian, siddham, new-tai-lue, nko, thai, arabic, syloti-nagri, tagalog, myanmar, oriya, phags-pa, sharada, takri, zanabazar-square, kayah-li, gunjala-gondi, devanagari, tai-tham, khmer, sinhala, hanifi-rohingya, kharoshthi, psalter-pahlavi, tamil, hanunoo, thaana, grantha, yi, bhaiksuki, brahmi, malayalam, sundanese, khudawadi, buhid, chakma, rejang, khojki, tibetan, telugu, masaram-gondi, tagbanwa, mahajani, gurmukhi, buginese, lao, bengali, kaithi, sogdian, hebrew, mandaic</li>
+<li>U+2010 HYPHEN: try adding one of: armenian, kharoshthi, cham, kayah-li, lisu, arabic, yi, kaithi, sora-sompeng, syloti-nagri, sundanese, coptic, hebrew</li>
+<li>U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, yi, arabic</li>
 <li>U+2012 FIGURE DASH: not included in any glyphset definition</li>
 <li>U+2015 HORIZONTAL BAR: try adding adlam</li>
 <li>U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition</li>
@@ -4768,7 +3904,7 @@ definitions.</p>
 <li>U+2021 DOUBLE DAGGER: try adding adlam</li>
 <li>U+2023 TRIANGULAR BULLET: not included in any glyphset definition</li>
 <li>U+2027 HYPHENATION POINT: not included in any glyphset definition</li>
-<li>U+202F NARROW NO-BREAK SPACE: try adding one of: yi, mongolian</li>
+<li>U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi</li>
 <li>U+2030 PER MILLE SIGN: try adding adlam</li>
 <li>U+2034 TRIPLE PRIME: try adding math</li>
 <li>U+203C DOUBLE EXCLAMATION MARK: not included in any glyphset definition</li>
@@ -4817,20 +3953,20 @@ definitions.</p>
 <li>U+215E VULGAR FRACTION SEVEN EIGHTHS: not included in any glyphset definition</li>
 <li>U+2183 ROMAN NUMERAL REVERSED ONE HUNDRED: try adding symbols</li>
 <li>U+2184 LATIN SMALL LETTER REVERSED C: not included in any glyphset definition</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
-<li>U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math</li>
-<li>U+2195 UP DOWN ARROW: try adding one of: symbols, math</li>
-<li>U+2196 NORTH WEST ARROW: try adding one of: symbols, math</li>
-<li>U+2197 NORTH EAST ARROW: try adding one of: symbols, math</li>
-<li>U+2198 SOUTH EAST ARROW: try adding one of: symbols, math</li>
-<li>U+2199 SOUTH WEST ARROW: try adding one of: symbols, math</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
 <li>U+2202 PARTIAL DIFFERENTIAL: try adding math</li>
 <li>U+2205 EMPTY SET: try adding math</li>
 <li>U+2206 INCREMENT: try adding math</li>
 <li>U+220F N-ARY PRODUCT: try adding math</li>
 <li>U+2211 N-ARY SUMMATION: try adding math</li>
-<li>U+2219 BULLET OPERATOR: try adding one of: yi, tai-tham, symbols, math</li>
+<li>U+2219 BULLET OPERATOR: try adding one of: math, symbols, yi, tai-tham</li>
 <li>U+221A SQUARE ROOT: try adding math</li>
 <li>U+221E INFINITY: try adding math</li>
 <li>U+222B INTEGRAL: try adding math</li>
@@ -4849,27 +3985,27 @@ definitions.</p>
 <li>U+25AA BLACK SMALL SQUARE: try adding symbols</li>
 <li>U+25AB WHITE SMALL SQUARE: try adding symbols</li>
 <li>U+25B2 BLACK UP-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: symbols, math</li>
+<li>U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: math, symbols</li>
 <li>U+25B4 BLACK UP-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25B5 WHITE UP-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25B6 BLACK RIGHT-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: symbols, math</li>
+<li>U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: math, symbols</li>
 <li>U+25B8 BLACK RIGHT-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25B9 WHITE RIGHT-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25BC BLACK DOWN-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: symbols, math</li>
+<li>U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: math, symbols</li>
 <li>U+25BE BLACK DOWN-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25BF WHITE DOWN-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25C0 BLACK LEFT-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: symbols, math</li>
+<li>U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: math, symbols</li>
 <li>U+25C2 BLACK LEFT-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25C3 WHITE LEFT-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25C6 BLACK DIAMOND: try adding symbols</li>
 <li>U+25C7 WHITE DIAMOND: try adding symbols</li>
 <li>U+25C9 FISHEYE: try adding symbols</li>
-<li>U+25CA LOZENGE: try adding one of: symbols, math</li>
+<li>U+25CA LOZENGE: try adding one of: math, symbols</li>
 <li>U+25CB WHITE CIRCLE: try adding symbols</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: tamil, kaithi, modi, manichaean, hanifi-rohingya, meetei-mayek, batak, zanabazar-square, phags-pa, gunjala-gondi, sogdian, tai-viet, canadian-aboriginal, math, lepcha, pahawh-hmong, adlam, tagalog, duployan, mahajani, yi, brahmi, hebrew, warang-citi, buginese, rejang, grantha, oriya, bhaiksuki, syloti-nagri, ahom, takri, khojki, coptic, limbu, new-tai-lue, thai, bassa-vah, caucasian-albanian, cham, thaana, telugu, khmer, khudawadi, mandaic, psalter-pahlavi, kharoshthi, saurashtra, gurmukhi, balinese, tai-le, myanmar, tai-tham, sundanese, javanese, symbols, chakma, masaram-gondi, sinhala, tibetan, tagbanwa, elbasan, mongolian, hanunoo, marchen, kayah-li, newa, sharada, music, armenian, nko, mende-kikakui, tifinagh, kannada, lao, old-permic, buhid, miao, siddham, wancho, bengali, devanagari, syriac, dogra, soyombo, gujarati, tirhuta, osage, malayalam</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: elbasan, newa, tifinagh, soyombo, pahawh-hmong, modi, duployan, tai-viet, javanese, limbu, syloti-nagri, sharada, zanabazar-square, gunjala-gondi, devanagari, adlam, kharoshthi, mende-kikakui, miao, brahmi, sundanese, mahajani, lao, lepcha, tai-le, balinese, meetei-mayek, dogra, thai, ahom, osage, takri, khmer, symbols, psalter-pahlavi, tamil, thaana, malayalam, khudawadi, rejang, khojki, telugu, gurmukhi, buginese, canadian-aboriginal, music, hebrew, old-permic, math, caucasian-albanian, bassa-vah, saurashtra, warang-citi, kannada, syriac, manichaean, batak, new-tai-lue, nko, tagalog, myanmar, oriya, kayah-li, wancho, sinhala, hanifi-rohingya, yi, grantha, bhaiksuki, buhid, armenian, masaram-gondi, sogdian, marchen, cham, gujarati, tirhuta, mongolian, siddham, phags-pa, tai-tham, hanunoo, chakma, tibetan, tagbanwa, bengali, kaithi, coptic, mandaic</li>
 <li>U+25CF BLACK CIRCLE: try adding symbols</li>
 <li>U+25E6 WHITE BULLET: try adding symbols</li>
 <li>U+25FC BLACK MEDIUM SQUARE: try adding symbols</li>
@@ -4899,7 +4035,7 @@ definitions.</p>
 <li>U+2B9F BLACK DOWNWARDS EQUILATERAL ARROWHEAD: try adding symbols</li>
 <li>U+2E17 DOUBLE OBLIQUE HYPHEN: try adding coptic</li>
 <li>U+2E38 TURNED DAGGER: not included in any glyphset definition</li>
-<li>U+3003 DITTO MARK: try adding one of: phags-pa, chinese-simplified, japanese, chinese-hongkong, yi, chinese-traditional</li>
+<li>U+3003 DITTO MARK: try adding one of: yi, japanese, chinese-simplified, chinese-hongkong, phags-pa, chinese-traditional</li>
 <li>U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition</li>
 <li>U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition</li>
 <li>U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition</li>
@@ -5336,38 +4472,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">ybb_Latn (Yemba)</td>
-<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0308.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0308.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -5380,30 +4484,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">bum_Latn (Bulu)</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -5421,26 +4501,6 @@ definitions.</p>
 <tr>
 <td align="left">csk_Latn (Jola-Kasa)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-<tr>
-<td align="left">gvl_Latn (Gulay)</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">tik_Latn (Tikar)</td>
@@ -5468,54 +4528,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">ewo_Latn (Ewondo)</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -5560,10 +4572,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">tuz_Latn (Turka)</td>
-<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
 </tr>
 <tr>
@@ -5573,6 +4581,10 @@ definitions.</p>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -5640,70 +4652,10 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">bbj_Latn (Ghomala)</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
 <td align="left">mgo_Latn (Metaʼ)</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -5760,11 +4712,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">udu_Latn (Uduk)</td>
-<td align="left">Shaper didn't attach uni0331.case to P</td>
+<td align="left">Shaper didn't attach uni0331 to p</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0331 to p</td>
+<td align="left">Shaper didn't attach uni0331.case to P</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -5788,54 +4740,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">nfu_Latn (Mfumte)</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -5912,54 +4816,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">lee_Latn (Lyélé)</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -6008,30 +4864,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">dnj_Latn (Dan)</td>
-<td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030F to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni030B to uni0264</td>
 </tr>
 <tr>
@@ -6040,7 +4872,23 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
+<td align="left">Shaper didn't attach uni030B to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030F to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6048,7 +4896,15 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni030B to uniA7CB</td>
+<td align="left">Shaper didn't attach acutecomb to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0264</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6104,15 +4960,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni030F to uni0264.sc</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni030F to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0264.sc</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6120,15 +4968,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0264.sc</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0304 to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0264.sc</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6136,15 +4976,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni030B to uni0264.sc</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni030B to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0264.sc</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6192,55 +5024,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">etu_Latn (Ejagham)</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-<tr>
-<td align="left">lnl_Latn (South Central Banda)</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0308.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0308.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0308.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">sxw_Latn (Saxwe Gbe)</td>
@@ -6300,42 +5084,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">mnf_Latn (Mundani)</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -6359,44 +5107,20 @@ definitions.</p>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
-<td align="left">ksp_Latn (Kabba)</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0308.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0308.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0308.case to uni018F</td>
-</tr>
-<tr>
 <td align="left">dgi_Latn (Northern Dagara)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
 <td align="left">nmg_Latn (Kwasio)</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018E</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0304.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030C.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6440,15 +5164,15 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">blo_Latn (Anii)</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018E</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6480,11 +5204,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">dnj_Latn_LR (Dan)</td>
-<td align="left">Shaper didn't attach tildecomb.case to uni0265</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0265</td>
+<td align="left">Shaper didn't attach uni0302 to uni0265</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6492,19 +5212,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0265</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018E</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0265</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6516,11 +5224,27 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to uni0265</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uni0265</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni0265</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">ach_Latn (Acoli)</td>
@@ -6540,54 +5264,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">sbd_Latn (Southern Samo)</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0308.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0308.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0308.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -6596,122 +5272,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">dur_Latn (Dii)</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni0327.case</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni0327.case</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni0327.case</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni0327.case</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni0327.case</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni0327.case</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni0327.case</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni0327.case</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni0327.case</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0327.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni0327.case</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -6729,162 +5289,6 @@ definitions.</p>
 <tr>
 <td align="left">hag_Latn (Hanga)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-<tr>
-<td align="left">mge_Latn (Mango)</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0330</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0330</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0330</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0330</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0330</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0330</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0330</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0330</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0330</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0330</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0330</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0330</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0330</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0330</td>
 </tr>
 <tr>
 <td align="left">xon_Latn (Konkomba)</td>
@@ -6912,54 +5316,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">bfd_Latn (Bafut)</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -7040,35 +5396,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">sba_Latn (Ngambay)</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni0330 to uni018E</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0330 to uni018F</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7216,54 +5548,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">fmp_Latn (Fe’fe’)</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -7273,30 +5557,6 @@ definitions.</p>
 <tr>
 <td align="left">kus_Latn (Kusaal)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-<tr>
-<td align="left">mwm_Latn (Sar)</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
 </tr>
 <tr>
 <td align="left">gej_Latn (Gen)</td>
@@ -7320,30 +5580,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">nnw_Latn (Southern Nuni)</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -7404,42 +5640,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">byv_Latn (Medumba)</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -7464,30 +5664,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">gkp_Latn (Kpelle, Guinea)</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0328 to uni0259</td>
 </tr>
 <tr>
@@ -7508,15 +5684,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni0328.case</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0328.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni0328.case</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7568,18 +5736,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0328 to uni0259.sc</td>
 </tr>
 <tr>
@@ -7600,15 +5756,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni0328.case</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0328.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni0328.case</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7748,62 +5896,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">bax_Latn (Bamun, Latin)</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -7828,42 +5920,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">mcp_Latn (Makaa)</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -7896,11 +5952,15 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">gov_Latn (Goo)</td>
-<td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
+<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302 to uni0264</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7909,10 +5969,6 @@ definitions.</p>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -10113,6 +8169,531 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
+<td align="left">Medium 64 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 16 Cnd Italic</td>
+<td align="left">wght=716.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 14 Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 144 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold Wide Italic</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 16 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 16 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 24 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 48 Cnd Italic</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 16 Wide Italic</td>
+<td align="left">wght=450.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 64 Wide Italic</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 144 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 144 Cnd Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 24 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 14 Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 64 Cnd Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 48 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold Cnd Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 14 Cnd Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 24 Cnd Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 16 Cnd Italic</td>
+<td align="left">wght=533.3333282470703, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 64 Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 14 Cnd Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold Cnd Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 72 Cnd Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 16 Wide Italic</td>
+<td align="left">wght=716.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 144 Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 48 Wide Italic</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 24 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 144 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 24 Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black Cnd Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 48 Cnd Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 144 Cnd Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 24 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 72 Wide Italic</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 24 Cnd Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 14 Wide Italic</td>
+<td align="left">wght=716.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 48 Wide Italic</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 64 Wide Italic</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 144 Cnd Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 72 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 72 Wide Italic</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 16 Wide Italic</td>
+<td align="left">wght=533.3333282470703, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 144 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 14 Cnd Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 16 Cnd Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 64 Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular Cnd Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 72 Wide Italic</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 24 Italic</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 64 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 48 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 14 Cnd Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 14 Wide Italic</td>
+<td align="left">wght=450.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 48 Cnd Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 72 Cnd Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 48 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 48 Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 64 Cnd Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 144 Cond Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 16 Italic</td>
+<td align="left">wght=450.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 144 Wide Italic</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 14 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 72 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 64 Cnd Italic</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 16 Italic</td>
+<td align="left">wght=533.3333282470703, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 72 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 48 Italic</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 72 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 14 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 16 Cnd Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 48 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 48 Cnd Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 144 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 144 Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 14 Cnd Italic</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 14 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 24 Wide Italic</td>
+<td align="left">wght=450.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 144 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 144 Cnd Italic</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 48 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 16 Cnd Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 16 Cnd Italic</td>
+<td align="left">wght=450.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 24 Cnd Italic</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 144 Wide Italic</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 144 Wide Italic</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 24 Wide Italic</td>
+<td align="left">wght=819.2307739257812, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 144 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 14 Cnd Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 14 Italic</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 72 Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 14 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 72 Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 48 Cnd Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 24 Wide Italic</td>
+<td align="left">wght=533.3333282470703, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 72 Cnd Italic</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 64 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium Wide Italic</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light Cnd Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
 <td align="left">SemiBold Italic</td>
 <td align="left">wght=600.0, wdth=100.0, opsz=12.0</td>
 <td align="left">N/A</td>
@@ -10123,268 +8704,8 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Bold 144 Wide Italic</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 14 Wide Italic</td>
-<td align="left">wght=819.2307739257812, wdth=112.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 48 Wide Italic</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium Italic</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 16 Cnd Italic</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 14 Cnd Italic</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 48 Wide Italic</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 64 Italic</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 144 Wide Italic</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 72 Wide Italic</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
 <td align="left">SemiBold 144 Italic</td>
 <td align="left">wght=600.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 48 Cnd Italic</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 14 Cnd Italic</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 48 Cnd Italic</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 72 Italic</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 14 Cnd Italic</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 16 Wide Italic</td>
-<td align="left">wght=819.2307739257812, wdth=112.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 72 Italic</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 48 Italic</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 64 Cnd Italic</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 14 Wide Italic</td>
-<td align="left">wght=716.0, wdth=112.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 48 Wide Italic</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black Italic</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light Wide Italic</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 144 Wide Italic</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 14 Italic</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 48 Cnd Italic</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 144 Wide Italic</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 16 Cnd Italic</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 64 Cnd Italic</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 24 Cnd Italic</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 48 Wide Italic</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 14 Wide Italic</td>
-<td align="left">wght=533.3333282470703, wdth=112.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 144 Italic</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 14 Italic</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 64 Cnd Italic</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 72 Cnd Italic</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 16 Cnd Italic</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 24 Wide Italic</td>
-<td align="left">wght=716.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 24 Cnd Italic</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold Wide Italic</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 24 Wide Italic</td>
-<td align="left">wght=450.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 14 Cnd Italic</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 48 Cnd Italic</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 64 Wide Italic</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 24 Cnd Italic</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 144 Cond Italic</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 14 Wide Italic</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 72 Italic</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 24 Italic</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 14 Cnd Italic</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 72 Italic</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 64 Italic</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=64.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -10393,108 +8714,33 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExBold 48 Wide Italic</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=48.0</td>
+<td align="left">Light 48 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=48.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExBold 144 Cnd Italic</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=144.0</td>
+<td align="left">Bold 16 Italic</td>
+<td align="left">wght=720.0, wdth=100.0, opsz=16.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">SemiBold Cnd Italic</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=12.0</td>
+<td align="left">Regular 72 Cnd Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=72.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">SemiBold Wide Italic</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=12.0</td>
+<td align="left">Black 14 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=14.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExBold 144 Wide Italic</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=144.0</td>
+<td align="left">Light 14 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=14.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Regular Wide Italic</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 144 Wide Italic</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 64 Wide Italic</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 14 Cnd Italic</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 24 Cnd Italic</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 64 Italic</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 144 Cnd Italic</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 144 Wide Italic</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 14 Italic</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 24 Italic</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 16 Cnd Italic</td>
-<td align="left">wght=716.0, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 24 Wide Italic</td>
-<td align="left">wght=533.3333282470703, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 144 Cnd Italic</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Italic</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 14 Italic</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 24 Italic</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=24.0</td>
+<td align="left">SemiBold 64 Italic</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=64.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -10503,23 +8749,38 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Regular 14 Italic</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=14.0</td>
+<td align="left">Bold 24 Wide Italic</td>
+<td align="left">wght=716.0, wdth=112.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Light Italic</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=12.0</td>
+<td align="left">Bold 48 Wide Italic</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=48.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExBold 14 Italic</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=14.0</td>
+<td align="left">Regular 64 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=64.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExBold 64 Italic</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=64.0</td>
+<td align="left">Light 72 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 24 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 24 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 24 Cnd Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -10528,53 +8789,13 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Regular 48 Cnd Italic</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=48.0</td>
+<td align="left">ExBold 48 Wide Italic</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=48.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExBold Wide Italic</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 144 Italic</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 144 Italic</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold Italic</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium Wide Italic</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 16 Italic</td>
-<td align="left">wght=450.0, wdth=100.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 48 Wide Italic</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 72 Wide Italic</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 16 Wide Italic</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=16.0</td>
+<td align="left">ExBold 16 Italic</td>
+<td align="left">wght=819.2307739257812, wdth=100.0, opsz=16.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -10583,18 +8804,148 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Bold 64 Italic</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=64.0</td>
+<td align="left">Light 16 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=16.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">SemiBold 16 Wide Italic</td>
-<td align="left">wght=533.3333282470703, wdth=112.0, opsz=16.0</td>
+<td align="left">Regular 24 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExBold 72 Cnd Italic</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=72.0</td>
+<td align="left">SemiBold 48 Cnd Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 72 Cond Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 64 Cnd Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 144 Cnd Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 64 Cnd Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 24 Cnd Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 64 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold Cnd Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 64 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 72 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 16 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 16 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 64 Cnd Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 48 Cnd Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 64 Wide Italic</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 14 Wide Italic</td>
+<td align="left">wght=819.2307739257812, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 24 Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 144 Cnd Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 16 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 72 Cond Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 14 Wide Italic</td>
+<td align="left">wght=533.3333282470703, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 72 Wide Italic</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 144 Wide Italic</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold Wide Italic</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 16 Cnd Italic</td>
+<td align="left">wght=819.2307739257812, wdth=87.0, opsz=16.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -10608,218 +8959,18 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">SemiBold 64 Italic</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=64.0</td>
+<td align="left">Bold Wide Italic</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=12.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Medium 72 Wide Italic</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=72.0</td>
+<td align="left">ExBold 72 Cnd Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=72.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExtraBold 24 Wide Italic</td>
-<td align="left">wght=819.2307739257812, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 72 Wide Italic</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 16 Italic</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 64 Wide Italic</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light Cnd Italic</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 72 Cnd Italic</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 16 Cnd Italic</td>
-<td align="left">wght=819.2307739257812, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 144 Italic</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold Italic</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 72 Italic</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 24 Italic</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 14 Italic</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 144 Italic</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium Cnd Italic</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 16 Wide Italic</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 72 Wide Italic</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 24 Cnd Italic</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 72 Wide Italic</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 16 Cnd Italic</td>
-<td align="left">wght=533.3333282470703, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 144 Cnd Italic</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 72 Cond Italic</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 14 Wide Italic</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 72 Italic</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 64 Wide Italic</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 24 Italic</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 64 Cnd Italic</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 72 Cond Italic</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 48 Wide Italic</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 14 Wide Italic</td>
-<td align="left">wght=450.0, wdth=112.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 48 Cnd Italic</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 64 Cnd Italic</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 144 Italic</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 48 Italic</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 48 Italic</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 48 Italic</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 144 Cnd Italic</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 16 Wide Italic</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 16 Italic</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 24 Wide Italic</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 48 Italic</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 48 Italic</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=48.0</td>
+<td align="left">ExBold 16 Wide Italic</td>
+<td align="left">wght=819.2307739257812, wdth=112.0, opsz=16.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -10828,128 +8979,33 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Bold 16 Wide Italic</td>
-<td align="left">wght=716.0, wdth=112.0, opsz=16.0</td>
+<td align="left">Medium Cnd Italic</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=12.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Medium 16 Wide Italic</td>
-<td align="left">wght=450.0, wdth=112.0, opsz=16.0</td>
+<td align="left">ExBold 48 Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=48.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Black 14 Wide Italic</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=14.0</td>
+<td align="left">Light 14 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=14.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Bold Cnd Italic</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=12.0</td>
+<td align="left">Black 48 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=48.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Regular 16 Italic</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=16.0</td>
+<td align="left">Black 72 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=72.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Regular 64 Italic</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black Cnd Italic</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 144 Cnd Italic</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 24 Wide Italic</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 72 Cnd Italic</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 16 Italic</td>
-<td align="left">wght=720.0, wdth=100.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 16 Italic</td>
-<td align="left">wght=819.2307739257812, wdth=100.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 48 Cnd Italic</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 72 Cnd Italic</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 16 Italic</td>
-<td align="left">wght=533.3333282470703, wdth=100.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 24 Italic</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 24 Italic</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 24 Wide Italic</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 48 Italic</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 64 Wide Italic</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 72 Wide Italic</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular Cnd Italic</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 64 Cnd Italic</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold Cnd Italic</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 16 Cnd Italic</td>
-<td align="left">wght=450.0, wdth=87.0, opsz=16.0</td>
+<td align="left">Black Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=12.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
