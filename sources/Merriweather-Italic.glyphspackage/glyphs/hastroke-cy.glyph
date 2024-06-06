@@ -86,7 +86,7 @@ shapes = (
 ref = x;
 },
 {
-pos = (-102,-51);
+pos = (-113,-51);
 ref = strokelongcomb;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = x;
 },
 {
-pos = (145,0);
+pos = (-60,0);
 ref = strokelongcomb;
 }
 );

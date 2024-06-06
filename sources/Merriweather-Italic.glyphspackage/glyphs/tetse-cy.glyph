@@ -39,7 +39,7 @@ pos = (9338,0);
 ref = macroncomb;
 }
 );
-width = 9878;
+width = 9888;
 },
 {
 layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
@@ -62,7 +62,7 @@ shapes = (
 ref = "tse-cy";
 },
 {
-pos = (9292,105);
+pos = (9312,105);
 ref = macroncomb;
 }
 );
@@ -75,7 +75,7 @@ shapes = (
 ref = "tse-cy";
 },
 {
-pos = (9254,105);
+pos = (9274,105);
 ref = macroncomb;
 }
 );
@@ -89,11 +89,11 @@ alignment = -1;
 ref = "tse-cy";
 },
 {
-pos = (9345,105);
+pos = (9355,105);
 ref = macroncomb;
 }
 );
-width = 9869;
+width = 9889;
 },
 {
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
@@ -103,11 +103,11 @@ alignment = -1;
 ref = "tse-cy";
 },
 {
-pos = (12875,105);
+pos = (12889,105);
 ref = macroncomb;
 }
 );
-width = 13354;
+width = 13382;
 },
 {
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
@@ -131,11 +131,11 @@ alignment = -1;
 ref = "tse-cy";
 },
 {
-pos = (3848,0);
+pos = (3858,0);
 ref = macroncomb;
 }
 );
-width = 4412;
+width = 4432;
 },
 {
 layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
@@ -144,7 +144,7 @@ shapes = (
 ref = "tse-cy";
 },
 {
-pos = (3778,105);
+pos = (3798,105);
 ref = macroncomb;
 }
 );
@@ -158,11 +158,11 @@ alignment = -1;
 ref = "tse-cy";
 },
 {
-pos = (3814,105);
+pos = (3834,105);
 ref = macroncomb;
 }
 );
-width = 4341;
+width = 4361;
 }
 );
 metricRight = "ii-cy";

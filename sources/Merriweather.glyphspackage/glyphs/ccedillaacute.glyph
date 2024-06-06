@@ -25,7 +25,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (284,0);
+pos = (324,0);
 ref = cedillacomb;
 },
 {
@@ -42,7 +42,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (254,0);
+pos = (304,0);
 ref = cedillacomb;
 },
 {
@@ -59,7 +59,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (237,0);
+pos = (287,0);
 ref = cedillacomb;
 },
 {
@@ -76,7 +76,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (247,0);
+pos = (297,0);
 ref = cedillacomb;
 },
 {
@@ -93,7 +93,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (212,0);
+pos = (262,0);
 ref = cedillacomb;
 },
 {
@@ -110,7 +110,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (229,0);
+pos = (279,0);
 ref = cedillacomb;
 },
 {
@@ -127,7 +127,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (258,0);
+pos = (318,0);
 ref = cedillacomb;
 },
 {
@@ -144,7 +144,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (265,0);
+pos = (315,0);
 ref = cedillacomb;
 },
 {
@@ -161,7 +161,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (259,0);
+pos = (309,0);
 ref = cedillacomb;
 },
 {
@@ -178,7 +178,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (298,0);
+pos = (358,0);
 ref = cedillacomb;
 },
 {
@@ -198,7 +198,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (279,0);
+pos = (369,0);
 ref = cedillacomb;
 },
 {

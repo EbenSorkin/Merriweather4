@@ -146,11 +146,11 @@ width = 806;
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
 shapes = (
 {
-pos = (10,-1422);
+pos = (0,-1422);
 ref = quoteright.ss01;
 },
 {
-pos = (440,-1422);
+pos = (430,-1422);
 ref = quoteright.ss01;
 }
 );

@@ -206,7 +206,6 @@ width = 806;
 background = {
 shapes = (
 {
-pos = (10,0);
 ref = quotedblright;
 }
 );
@@ -214,11 +213,10 @@ ref = quotedblright;
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
 shapes = (
 {
-pos = (10,0);
 ref = quoteright.ss01;
 },
 {
-pos = (440,0);
+pos = (430,0);
 ref = quoteright.ss01;
 }
 );

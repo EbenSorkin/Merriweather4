@@ -18,7 +18,7 @@ pos = (181,-120);
 ref = shortbar_part.;
 }
 );
-width = 1998;
+width = 1995;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -36,7 +36,7 @@ pos = (178,-120);
 ref = shortbar_part.;
 }
 );
-width = 2142;
+width = 2139;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -185,7 +185,7 @@ pos = (159,-120);
 ref = shortbar_part.;
 }
 );
-width = 1850;
+width = 1848;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
