@@ -44,7 +44,7 @@ width = 1353;
 anchors = (
 {
 name = top;
-pos = (506,1486);
+pos = (510,1486);
 }
 );
 color = 10;
@@ -54,7 +54,7 @@ shapes = (
 ref = "Softsign-cy";
 },
 {
-pos = (30,584);
+pos = (34,584);
 ref = strokelongcomb;
 }
 );

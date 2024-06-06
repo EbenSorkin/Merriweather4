@@ -8,7 +8,7 @@ shapes = (
 ref = verticallineabovecomb;
 },
 {
-pos = (289,625);
+pos = (316,625);
 ref = dotaboverightcomb;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = verticallineabovecomb;
 },
 {
-pos = (309,607);
+pos = (331,607);
 ref = dotaboverightcomb;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = verticallineabovecomb;
 },
 {
-pos = (214,625);
+pos = (244,625);
 ref = dotaboverightcomb;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = verticallineabovecomb;
 },
 {
-pos = (164,607);
+pos = (190,607);
 ref = dotaboverightcomb;
 }
 );
@@ -60,7 +60,7 @@ shapes = (
 ref = verticallineabovecomb;
 },
 {
-pos = (216,625);
+pos = (232,625);
 ref = dotaboverightcomb;
 }
 );
@@ -73,7 +73,7 @@ shapes = (
 ref = verticallineabovecomb;
 },
 {
-pos = (163,607);
+pos = (196,607);
 ref = dotaboverightcomb;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = verticallineabovecomb;
 },
 {
-pos = (178,548);
+pos = (197,548);
 ref = dotaboverightcomb;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = verticallineabovecomb;
 },
 {
-pos = (135,581);
+pos = (139,581);
 ref = dotaboverightcomb;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = verticallineabovecomb;
 },
 {
-pos = (194,548);
+pos = (209,548);
 ref = dotaboverightcomb;
 }
 );
@@ -125,7 +125,7 @@ shapes = (
 ref = verticallineabovecomb;
 },
 {
-pos = (147,581);
+pos = (157,581);
 ref = dotaboverightcomb;
 }
 );
@@ -138,7 +138,7 @@ shapes = (
 ref = verticallineabovecomb;
 },
 {
-pos = (166,548);
+pos = (188,548);
 ref = dotaboverightcomb;
 }
 );
@@ -151,7 +151,7 @@ shapes = (
 ref = verticallineabovecomb;
 },
 {
-pos = (117,581);
+pos = (133,581);
 ref = dotaboverightcomb;
 }
 );

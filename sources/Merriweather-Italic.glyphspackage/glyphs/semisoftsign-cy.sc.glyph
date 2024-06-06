@@ -9,7 +9,7 @@ shapes = (
 ref = "softsign-cy.sc";
 },
 {
-pos = (66,419);
+pos = (719,419);
 ref = strokeshortcomb;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = "softsign-cy.sc";
 },
 {
-pos = (16,419);
+pos = (352,419);
 ref = strokeshortcomb;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = "softsign-cy.sc";
 },
 {
-pos = (96,419);
+pos = (354,419);
 ref = strokeshortcomb;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = "softsign-cy.sc";
 },
 {
-pos = (115,419);
+pos = (451,419);
 ref = strokeshortcomb;
 }
 );
@@ -58,7 +58,7 @@ width = 1174;
 guides = (
 {
 angle = 82.1918;
-pos = (89,837);
+pos = (245,837);
 }
 );
 layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
@@ -67,7 +67,7 @@ shapes = (
 ref = "softsign-cy.sc";
 },
 {
-pos = (-14,419);
+pos = (142,419);
 ref = strokeshortcomb;
 }
 );
@@ -80,7 +80,7 @@ shapes = (
 ref = "softsign-cy.sc";
 },
 {
-pos = (-24,419);
+pos = (156,419);
 ref = strokeshortcomb;
 }
 );
@@ -93,7 +93,7 @@ shapes = (
 ref = "softsign-cy.sc";
 },
 {
-pos = (66,419);
+pos = (180,419);
 ref = strokeshortcomb;
 }
 );
@@ -106,7 +106,7 @@ shapes = (
 ref = "softsign-cy.sc";
 },
 {
-pos = (96,419);
+pos = (216,419);
 ref = strokeshortcomb;
 }
 );
@@ -118,10 +118,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(747,929,l),
-(758,1015,l),
-(168,1015,l),
-(158,929,l)
+(1095,929,l),
+(1106,1015,l),
+(516,1015,l),
+(506,929,l)
 );
 }
 );
@@ -132,7 +132,7 @@ shapes = (
 ref = "softsign-cy.sc";
 },
 {
-pos = (116,419);
+pos = (464,419);
 ref = strokeshortcomb;
 }
 );
@@ -145,7 +145,7 @@ shapes = (
 ref = "softsign-cy.sc";
 },
 {
-pos = (136,419);
+pos = (370,419);
 ref = strokeshortcomb;
 }
 );
@@ -158,7 +158,7 @@ shapes = (
 ref = "softsign-cy.sc";
 },
 {
-pos = (76,419);
+pos = (400,419);
 ref = strokeshortcomb;
 }
 );
@@ -171,7 +171,7 @@ shapes = (
 ref = "softsign-cy.sc";
 },
 {
-pos = (96,419);
+pos = (156,419);
 ref = strokeshortcomb;
 }
 );
