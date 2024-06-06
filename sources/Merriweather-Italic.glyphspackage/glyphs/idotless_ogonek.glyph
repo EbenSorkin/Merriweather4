@@ -21,7 +21,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-38,0);
+pos = (-49,0);
 ref = ogonek;
 }
 );
@@ -60,7 +60,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-18,0);
+pos = (-26,0);
 ref = ogonek;
 }
 );
@@ -73,7 +73,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-50,0);
+pos = (-62,0);
 ref = ogonek;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-66,0);
+pos = (-56,0);
 ref = ogonek;
 }
 );

@@ -8,8 +8,12 @@ name = _topright;
 pos = (40,1110);
 },
 {
+name = top;
+pos = (97,1459);
+},
+{
 name = topright;
-pos = (410,1368);
+pos = (434,1368);
 }
 );
 layerId = UUID0;
@@ -43,8 +47,12 @@ name = _topright;
 pos = (90,1112);
 },
 {
+name = top;
+pos = (90,1459);
+},
+{
 name = topright;
-pos = (542,1406);
+pos = (531,1406);
 }
 );
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -78,8 +86,12 @@ name = _topright;
 pos = (-10,1005);
 },
 {
+name = top;
+pos = (35,1459);
+},
+{
 name = topright;
-pos = (416,1304);
+pos = (403,1304);
 }
 );
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -111,6 +123,10 @@ anchors = (
 {
 name = _topright;
 pos = (90,1112);
+},
+{
+name = top;
+pos = (90,1459);
 },
 {
 name = topright;
@@ -148,6 +164,10 @@ name = _topright;
 pos = (40,1110);
 },
 {
+name = top;
+pos = (97,1459);
+},
+{
 name = topright;
 pos = (410,1368);
 }
@@ -181,6 +201,10 @@ anchors = (
 {
 name = _topright;
 pos = (-10,1005);
+},
+{
+name = top;
+pos = (35,1459);
 },
 {
 name = topright;
@@ -218,6 +242,10 @@ name = _topright;
 pos = (-50,1005);
 },
 {
+name = top;
+pos = (-21,1459);
+},
+{
 name = topright;
 pos = (255,1294);
 }
@@ -251,6 +279,10 @@ anchors = (
 {
 name = _topright;
 pos = (-50,1005);
+},
+{
+name = top;
+pos = (-21,1459);
 },
 {
 name = topright;
@@ -288,6 +320,10 @@ name = _topright;
 pos = (-10,1005);
 },
 {
+name = top;
+pos = (35,1459);
+},
+{
 name = topright;
 pos = (416,1304);
 }
@@ -323,6 +359,10 @@ name = _topright;
 pos = (-50,1005);
 },
 {
+name = top;
+pos = (-21,1459);
+},
+{
 name = topright;
 pos = (255,1294);
 }
@@ -356,6 +396,10 @@ anchors = (
 {
 name = _topright;
 pos = (40,1110);
+},
+{
+name = top;
+pos = (97,1459);
 },
 {
 name = topright;
@@ -394,6 +438,10 @@ anchors = (
 {
 name = _topright;
 pos = (90,1112);
+},
+{
+name = top;
+pos = (90,1459);
 },
 {
 name = topright;
