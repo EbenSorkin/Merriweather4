@@ -98,11 +98,11 @@ pos = (801,0);
 ref = fraction;
 },
 {
-pos = (1191,0);
+pos = (1195,0);
 ref = five.dnom;
 }
 );
-width = 1897;
+width = 1901;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -179,18 +179,18 @@ shapes = (
 ref = four.numr;
 },
 {
-pos = (855,0);
+pos = (856,0);
 ref = fraction;
 },
 {
-pos = (1247,0);
+pos = (1248,0);
 ref = five.dnom;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 2051;
+width = 2052;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";

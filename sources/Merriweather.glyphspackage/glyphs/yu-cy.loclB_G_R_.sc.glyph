@@ -176,7 +176,7 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (670,0);
+pos = (668,0);
 ref = o.sc;
 },
 {

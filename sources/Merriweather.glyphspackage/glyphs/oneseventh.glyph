@@ -94,15 +94,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (583,0);
+pos = (585,0);
 ref = fraction;
 },
 {
-pos = (998,0);
+pos = (1000,0);
 ref = seven.dnom;
 }
 );
-width = 1701;
+width = 1703;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";

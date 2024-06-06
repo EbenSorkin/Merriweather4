@@ -93,15 +93,15 @@ shapes = (
 ref = three.numr;
 },
 {
-pos = (693,0);
+pos = (683,0);
 ref = fraction;
 },
 {
-pos = (1009,0);
+pos = (990,0);
 ref = four.dnom;
 }
 );
-width = 1810;
+width = 1791;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -165,11 +165,11 @@ pos = (724,0);
 ref = fraction;
 },
 {
-pos = (987,0);
+pos = (985,0);
 ref = four.dnom;
 }
 );
-width = 1831;
+width = 1829;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";

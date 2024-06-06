@@ -21,11 +21,11 @@ shapes = (
 ref = "Ka-cy";
 },
 {
-pos = (15,621);
+pos = (19,621);
 ref = barmod;
 }
 );
-width = 1433;
+width = 1437;
 },
 {
 layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
@@ -60,11 +60,11 @@ shapes = (
 ref = "Ka-cy";
 },
 {
-pos = (105,650);
+pos = (117,650);
 ref = barmod;
 }
 );
-width = 1461;
+width = 1473;
 },
 {
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";

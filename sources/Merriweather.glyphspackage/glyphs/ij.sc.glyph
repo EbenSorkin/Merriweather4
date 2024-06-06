@@ -139,14 +139,14 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (668,0);
+pos = (662,0);
 ref = j.sc;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1381;
+width = 1375;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -155,11 +155,11 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (808,0);
+pos = (801,0);
 ref = j.sc;
 }
 );
-width = 1637;
+width = 1630;
 }
 );
 }

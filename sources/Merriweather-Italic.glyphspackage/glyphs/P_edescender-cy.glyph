@@ -60,7 +60,7 @@ shapes = (
 ref = "Pe-cy";
 },
 {
-pos = (1116,0);
+pos = (1107,0);
 ref = righttooth_part.;
 }
 );

@@ -114,19 +114,19 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (583,0);
+pos = (585,0);
 ref = fraction;
 },
 {
-pos = (957,0);
+pos = (959,0);
 ref = one.dnom;
 },
 {
-pos = (1536,0);
+pos = (1538,0);
 ref = zero.dnom;
 }
 );
-width = 2433;
+width = 2435;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -223,18 +223,18 @@ pos = (656,0);
 ref = fraction;
 },
 {
-pos = (1038,0);
+pos = (1039,0);
 ref = one.dnom;
 },
 {
-pos = (1694,0);
+pos = (1695,0);
 ref = zero.dnom;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 2586;
+width = 2587;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
