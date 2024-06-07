@@ -21,7 +21,7 @@ shapes = (
 ref = "che-cy.sc";
 },
 {
-pos = (169,182);
+pos = (199,182);
 ref = dieresiscomb;
 }
 );

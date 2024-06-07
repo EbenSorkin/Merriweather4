@@ -165,7 +165,7 @@ pos = (430,0);
 ref = cedillacomb.case;
 },
 {
-pos = (356,0);
+pos = (354,0);
 ref = brevecomb.case;
 }
 );

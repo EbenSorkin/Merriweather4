@@ -3,6 +3,16 @@ color = 4;
 glyphname = hturned;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (604,0);
+},
+{
+name = top;
+pos = (584,1112);
+}
+);
 background = {
 shapes = (
 {
@@ -55,6 +65,16 @@ nodes = (
 width = 1243;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (614,0);
+},
+{
+name = top;
+pos = (594,1112);
+}
+);
 background = {
 shapes = (
 {
@@ -106,6 +126,16 @@ nodes = (
 width = 1298;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (544,0);
+},
+{
+name = top;
+pos = (524,1112);
+}
+);
 background = {
 shapes = (
 {
@@ -157,6 +187,16 @@ nodes = (
 width = 1042;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (544,0);
+},
+{
+name = top;
+pos = (524,1112);
+}
+);
 background = {
 shapes = (
 {
@@ -209,6 +249,16 @@ nodes = (
 width = 1136;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (584,0);
+},
+{
+name = top;
+pos = (564,1112);
+}
+);
 background = {
 shapes = (
 {
@@ -261,6 +311,16 @@ nodes = (
 width = 1231;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (634,0);
+},
+{
+name = top;
+pos = (614,1112);
+}
+);
 background = {
 shapes = (
 {
@@ -312,6 +372,16 @@ nodes = (
 width = 1318;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (524,0);
+},
+{
+name = top;
+pos = (504,1005);
+}
+);
 background = {
 shapes = (
 {
@@ -363,6 +433,16 @@ nodes = (
 width = 1009;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (584,0);
+},
+{
+name = top;
+pos = (564,1005);
+}
+);
 background = {
 shapes = (
 {
@@ -414,6 +494,16 @@ nodes = (
 width = 1132;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (504,0);
+},
+{
+name = top;
+pos = (484,1005);
+}
+);
 background = {
 shapes = (
 {
@@ -465,6 +555,16 @@ nodes = (
 width = 973;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (554,0);
+},
+{
+name = top;
+pos = (534,1005);
+}
+);
 background = {
 shapes = (
 {
@@ -517,6 +617,16 @@ nodes = (
 width = 1040;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (544,0);
+},
+{
+name = top;
+pos = (524,1005);
+}
+);
 background = {
 shapes = (
 {
@@ -568,6 +678,16 @@ nodes = (
 width = 1087;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (594,0);
+},
+{
+name = top;
+pos = (574,1005);
+}
+);
 background = {
 shapes = (
 {
