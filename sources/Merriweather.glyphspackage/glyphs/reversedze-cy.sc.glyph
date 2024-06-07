@@ -2,6 +2,20 @@
 glyphname = "reversedze-cy.sc";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (644,0);
+},
+{
+name = ogonek;
+pos = (851,14);
+},
+{
+name = top;
+pos = (641,1292);
+}
+);
 layerId = UUID0;
 shapes = (
 {
@@ -66,6 +80,20 @@ width = 96;
 width = 1120;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (594,0);
+},
+{
+name = ogonek;
+pos = (801,14);
+},
+{
+name = top;
+pos = (591,1292);
+}
+);
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
 shapes = (
 {
@@ -122,6 +150,20 @@ nodes = (
 width = 1203;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (684,0);
+},
+{
+name = ogonek;
+pos = (891,14);
+},
+{
+name = top;
+pos = (681,1292);
+}
+);
 annotations = (
 {
 pos = (1146,1255);
@@ -185,6 +227,20 @@ nodes = (
 width = 1242;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (524,0);
+},
+{
+name = ogonek;
+pos = (731,14);
+},
+{
+name = top;
+pos = (521,1292);
+}
+);
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
 shapes = (
 {
@@ -241,6 +297,20 @@ nodes = (
 width = 1012;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (444,0);
+},
+{
+name = ogonek;
+pos = (651,14);
+},
+{
+name = top;
+pos = (441,1292);
+}
+);
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
 shapes = (
 {
@@ -297,6 +367,20 @@ nodes = (
 width = 898;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (554,0);
+},
+{
+name = ogonek;
+pos = (761,14);
+},
+{
+name = top;
+pos = (551,1292);
+}
+);
 annotations = (
 {
 pos = (951,1255);
@@ -360,6 +444,20 @@ nodes = (
 width = 1024;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (514,0);
+},
+{
+name = ogonek;
+pos = (721,14);
+},
+{
+name = top;
+pos = (511,1292);
+}
+);
 annotations = (
 {
 pos = (831,1256);
@@ -423,6 +521,20 @@ nodes = (
 width = 931;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (604,0);
+},
+{
+name = ogonek;
+pos = (811,14);
+},
+{
+name = top;
+pos = (601,1292);
+}
+);
 annotations = (
 {
 pos = (965,1257);
@@ -486,6 +598,20 @@ nodes = (
 width = 1083;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (734,0);
+},
+{
+name = ogonek;
+pos = (941,14);
+},
+{
+name = top;
+pos = (731,1292);
+}
+);
 annotations = (
 {
 pos = (1244,1255);
@@ -554,6 +680,20 @@ nodes = (
 width = 1349;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (684,0);
+},
+{
+name = ogonek;
+pos = (891,14);
+},
+{
+name = top;
+pos = (681,1292);
+}
+);
 annotations = (
 {
 pos = (1097,1257);
@@ -617,6 +757,20 @@ nodes = (
 width = 1234;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (684,0);
+},
+{
+name = ogonek;
+pos = (891,14);
+},
+{
+name = top;
+pos = (681,1292);
+}
+);
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
 shapes = (
 {
@@ -673,6 +827,20 @@ nodes = (
 width = 1238;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (724,0);
+},
+{
+name = ogonek;
+pos = (931,14);
+},
+{
+name = top;
+pos = (721,1292);
+}
+);
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
 shapes = (
 {

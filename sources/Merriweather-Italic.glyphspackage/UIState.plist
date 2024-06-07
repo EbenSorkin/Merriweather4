@@ -1,24 +1,19 @@
 {
 displayStrings = (
-"i̩̍",
-"",
-"i̦̍ /iringbelow",
-"/hungarumlautcomb.case",
-"ə",
-"/o.sc/ramshorn.sc",
-"/d.sc/g.sc/eng.sc/p.sc/qhooktail.sc h",
-"/d.sc/h.sc/qhooktail.sc",
+"ꟋO",
+"ƎE",
+"Ɤ",
 "ƏO",
-"/uniA7C8.sc ꟈ",
-"ɥu",
-"ЧꞍH",
-"/che-cy.sc/hturned.sc",
-"ɤo",
-Ppo,
-"/p.sc",
-"ʊ",
-"ꞷ",
-"ꞶO",
-"ɐ"
+"əo",
+"ɛo",
+"ƐO",
+"ɛ",
+"ɔo",
+"CƆO",
+"ɔ",
+"/schwa.sc",
+"Ə/schwa.sc",
+"Ɔ/oopen.sc",
+"Ǝ"
 );
 }
