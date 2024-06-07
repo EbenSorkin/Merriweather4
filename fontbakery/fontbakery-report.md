@@ -266,10 +266,6 @@ ERROR: Table discarded</p>
 
 - uni0145.latnMAH
 
-- uni01A9.localGAD
-
-- uni01B7.localGAD
-
 - uni03000304
 
 - uni03000358
@@ -334,8 +330,8 @@ ERROR: Table discarded</p>
 
 
 * ⚠️ **WARN** <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: i̯̇ i̯̊ i̯̋ i̯̍ i̯̐ i̯̒ i̯̓ i̯᷄ i̯᷅ i̯᷆ i̯᷇ i̯᷈ i̯᷉ i̯ꚞ i̴̇ i̴̊ i̴̋ i̴̍ i̴̐ i̴̒</p>
-<p>Your font fully covers the following languages that require the soft-dotted feature: Dutch (Latn, 31,709,104 speakers), Belarusian (Cyrl, 10,064,517 speakers), Nzakara (Latn, 50,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Zapotec (Latn, 490,000 speakers), Ma’di (Latn, 584,000 speakers), Cicipu (Latn, 44,000 speakers), Gulay (Latn, 250,478 speakers), Nateni (Latn, 100,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Ebira (Latn, 2,200,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), South Central Banda (Latn, 244,000 speakers), Sar (Latn, 500,000 speakers), Mango (Latn, 77,000 speakers), Yala (Latn, 200,000 speakers), Ekpeye (Latn, 226,000 speakers), Lithuanian (Latn, 2,357,094 speakers), Navajo (Latn, 166,319 speakers), Ngbaka (Latn, 1,020,000 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Igbo (Latn, 27,823,640 speakers), Dan (Latn, 1,099,244 speakers), Bafut (Latn, 158,146 speakers), Aghem (Latn, 38,843 speakers), Mundani (Latn, 34,000 speakers), Lugbara (Latn, 2,200,000 speakers), Kom (Latn, 360,685 speakers), Koonzime (Latn, 40,000 speakers), Fur (Latn, 1,230,163 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Avokaya (Latn, 100,000 speakers), Dii (Latn, 71,000 speakers), Mfumte (Latn, 79,000 speakers), Basaa (Latn, 332,940 speakers), Ejagham (Latn, 120,000 speakers), Southern Kisi (Latn, 360,000 speakers), Makaa (Latn, 221,000 speakers).</p>
+<p>Your font fully covers the following languages that require the soft-dotted feature: Ma’di (Latn, 584,000 speakers), Dutch (Latn, 31,709,104 speakers), Nzakara (Latn, 50,000 speakers), Yala (Latn, 200,000 speakers), Navajo (Latn, 166,319 speakers), Mango (Latn, 77,000 speakers), Zapotec (Latn, 490,000 speakers), Lithuanian (Latn, 2,357,094 speakers), Cicipu (Latn, 44,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Ebira (Latn, 2,200,000 speakers), Sar (Latn, 500,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Nateni (Latn, 100,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Gulay (Latn, 250,478 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), South Central Banda (Latn, 244,000 speakers), Ekpeye (Latn, 226,000 speakers), Ngbaka (Latn, 1,020,000 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Ejagham (Latn, 120,000 speakers), Aghem (Latn, 38,843 speakers), Bafut (Latn, 158,146 speakers), Avokaya (Latn, 100,000 speakers), Dii (Latn, 71,000 speakers), Fur (Latn, 1,230,163 speakers), Mfumte (Latn, 79,000 speakers), Mundani (Latn, 34,000 speakers), Koonzime (Latn, 40,000 speakers), Igbo (Latn, 27,823,640 speakers), Southern Kisi (Latn, 360,000 speakers), Kom (Latn, 360,685 speakers), Dan (Latn, 1,099,244 speakers), Lugbara (Latn, 2,200,000 speakers), Makaa (Latn, 221,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Basaa (Latn, 332,940 speakers).</p>
  [code: soft-dotted]
 
 
@@ -369,27 +365,27 @@ definitions.</p>
 <li>U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition</li>
 <li>U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition</li>
 <li>U+02C1 MODIFIER LETTER REVERSED GLOTTAL STOP: not included in any glyphset definition</li>
-<li>U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal</li>
+<li>U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi</li>
 <li>U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition</li>
 <li>U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition</li>
 <li>U+02CB MODIFIER LETTER GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+02CC MODIFIER LETTER LOW VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+02D7 MODIFIER LETTER MINUS SIGN: not included in any glyphset definition</li>
-<li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
-<li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
-<li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition</li>
 <li>U+02EC MODIFIER LETTER VOICING: not included in any glyphset definition</li>
 <li>U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition</li>
 <li>U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition</li>
 <li>U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, tifinagh, coptic</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, cherokee, math, coptic</li>
 <li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: math, tai-le, tifinagh, canadian-aboriginal, malayalam, syriac, coptic, old-permic</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, syriac, tai-le, old-permic, canadian-aboriginal, coptic, tifinagh, math</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
-<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
+<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+0310 COMBINING CANDRABINDU: not included in any glyphset definition</li>
@@ -407,8 +403,8 @@ definitions.</p>
 <li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, tifinagh, gothic, syriac, cherokee</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, gothic, syriac, tifinagh, cherokee</li>
 <li>U+0332 COMBINING LOW LINE: not included in any glyphset definition</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
@@ -457,10 +453,10 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: not included in any glyphset definition</li>
 <li>U+2008 PUNCTUATION SPACE: not included in any glyphset definition</li>
 <li>U+200A HAIR SPACE: not included in any glyphset definition</li>
-<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: lepcha, cham, tai-le, saurashtra, balinese, newa, tifinagh, warang-citi, tirhuta, meetei-mayek, kannada, dogra, gujarati, modi, duployan, manichaean, javanese, pahawh-hmong, batak, syriac, tai-viet, avestan, limbu, mongolian, siddham, new-tai-lue, nko, thai, arabic, syloti-nagri, tagalog, myanmar, oriya, phags-pa, sharada, takri, zanabazar-square, kayah-li, gunjala-gondi, devanagari, tai-tham, khmer, sinhala, hanifi-rohingya, kharoshthi, psalter-pahlavi, tamil, hanunoo, thaana, grantha, yi, bhaiksuki, brahmi, malayalam, sundanese, khudawadi, buhid, chakma, rejang, khojki, tibetan, telugu, masaram-gondi, tagbanwa, mahajani, gurmukhi, buginese, lao, bengali, kaithi, sogdian, hatran, hebrew, mandaic</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: lepcha, cham, tai-le, saurashtra, balinese, newa, tifinagh, warang-citi, tirhuta, meetei-mayek, kannada, dogra, gujarati, modi, duployan, manichaean, javanese, pahawh-hmong, batak, syriac, tai-viet, avestan, limbu, mongolian, old-hungarian, siddham, new-tai-lue, nko, thai, arabic, syloti-nagri, tagalog, myanmar, oriya, phags-pa, sharada, takri, zanabazar-square, kayah-li, gunjala-gondi, devanagari, tai-tham, khmer, sinhala, hanifi-rohingya, kharoshthi, psalter-pahlavi, tamil, hanunoo, thaana, grantha, yi, bhaiksuki, brahmi, malayalam, sundanese, khudawadi, buhid, chakma, rejang, khojki, tibetan, telugu, masaram-gondi, tagbanwa, mahajani, gurmukhi, buginese, lao, bengali, kaithi, sogdian, hebrew, mandaic</li>
-<li>U+2010 HYPHEN: try adding one of: armenian, kharoshthi, cham, kayah-li, lisu, arabic, yi, kaithi, sora-sompeng, syloti-nagri, sundanese, coptic, hebrew</li>
-<li>U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, yi, arabic</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: saurashtra, khojki, rejang, limbu, mandaic, buginese, lao, kannada, masaram-gondi, yi, newa, mongolian, thaana, tirhuta, hanunoo, psalter-pahlavi, telugu, avestan, duployan, kharoshthi, sharada, takri, tifinagh, gujarati, modi, phags-pa, sogdian, gurmukhi, hanifi-rohingya, tai-le, sinhala, thai, new-tai-lue, tagbanwa, syriac, arabic, hatran, tai-tham, dogra, meetei-mayek, nko, zanabazar-square, buhid, khudawadi, malayalam, manichaean, tai-viet, bhaiksuki, cham, brahmi, hebrew, tagalog, tamil, grantha, bengali, javanese, kaithi, syloti-nagri, tibetan, myanmar, warang-citi, batak, mahajani, siddham, kayah-li, lepcha, sundanese, balinese, gunjala-gondi, chakma, devanagari, oriya, pahawh-hmong, khmer</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: saurashtra, khojki, rejang, limbu, mandaic, buginese, lao, kannada, masaram-gondi, yi, newa, mongolian, thaana, tirhuta, hanunoo, psalter-pahlavi, telugu, avestan, duployan, kharoshthi, sharada, takri, tifinagh, gujarati, modi, phags-pa, sogdian, gurmukhi, hanifi-rohingya, tai-le, sinhala, thai, new-tai-lue, tagbanwa, syriac, arabic, tai-tham, dogra, meetei-mayek, nko, zanabazar-square, buhid, khudawadi, malayalam, manichaean, tai-viet, bhaiksuki, cham, brahmi, hebrew, tagalog, tamil, grantha, bengali, javanese, kaithi, syloti-nagri, tibetan, myanmar, warang-citi, batak, mahajani, siddham, kayah-li, old-hungarian, lepcha, sundanese, balinese, gunjala-gondi, chakma, devanagari, oriya, pahawh-hmong, khmer</li>
+<li>U+2010 HYPHEN: try adding one of: kayah-li, lisu, cham, sundanese, hebrew, armenian, syloti-nagri, yi, kaithi, coptic, arabic, kharoshthi, sora-sompeng</li>
+<li>U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, yi, syloti-nagri</li>
 <li>U+2012 FIGURE DASH: not included in any glyphset definition</li>
 <li>U+2015 HORIZONTAL BAR: try adding adlam</li>
 <li>U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition</li>
@@ -517,20 +513,20 @@ definitions.</p>
 <li>U+215E VULGAR FRACTION SEVEN EIGHTHS: not included in any glyphset definition</li>
 <li>U+2183 ROMAN NUMERAL REVERSED ONE HUNDRED: try adding symbols</li>
 <li>U+2184 LATIN SMALL LETTER REVERSED C: not included in any glyphset definition</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
-<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
-<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
-<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
-<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
-<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
-<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
-<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: symbols, math</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: symbols, math</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: symbols, math</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: symbols, math</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: symbols, math</li>
 <li>U+2202 PARTIAL DIFFERENTIAL: try adding math</li>
 <li>U+2205 EMPTY SET: try adding math</li>
 <li>U+2206 INCREMENT: try adding math</li>
 <li>U+220F N-ARY PRODUCT: try adding math</li>
 <li>U+2211 N-ARY SUMMATION: try adding math</li>
-<li>U+2219 BULLET OPERATOR: try adding one of: math, symbols, yi, tai-tham</li>
+<li>U+2219 BULLET OPERATOR: try adding one of: tai-tham, yi, symbols, math</li>
 <li>U+221A SQUARE ROOT: try adding math</li>
 <li>U+221E INFINITY: try adding math</li>
 <li>U+222B INTEGRAL: try adding math</li>
@@ -549,27 +545,27 @@ definitions.</p>
 <li>U+25AA BLACK SMALL SQUARE: try adding symbols</li>
 <li>U+25AB WHITE SMALL SQUARE: try adding symbols</li>
 <li>U+25B2 BLACK UP-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: symbols, math</li>
 <li>U+25B4 BLACK UP-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25B5 WHITE UP-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25B6 BLACK RIGHT-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: symbols, math</li>
 <li>U+25B8 BLACK RIGHT-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25B9 WHITE RIGHT-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25BC BLACK DOWN-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: symbols, math</li>
 <li>U+25BE BLACK DOWN-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25BF WHITE DOWN-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25C0 BLACK LEFT-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: symbols, math</li>
 <li>U+25C2 BLACK LEFT-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25C3 WHITE LEFT-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25C6 BLACK DIAMOND: try adding symbols</li>
 <li>U+25C7 WHITE DIAMOND: try adding symbols</li>
 <li>U+25C9 FISHEYE: try adding symbols</li>
-<li>U+25CA LOZENGE: try adding one of: math, symbols</li>
+<li>U+25CA LOZENGE: try adding one of: symbols, math</li>
 <li>U+25CB WHITE CIRCLE: try adding symbols</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: elbasan, newa, tifinagh, soyombo, pahawh-hmong, modi, duployan, tai-viet, javanese, limbu, syloti-nagri, sharada, zanabazar-square, gunjala-gondi, devanagari, adlam, kharoshthi, mende-kikakui, miao, brahmi, sundanese, mahajani, lao, lepcha, tai-le, balinese, meetei-mayek, dogra, thai, ahom, osage, takri, khmer, symbols, psalter-pahlavi, tamil, thaana, malayalam, khudawadi, rejang, khojki, telugu, gurmukhi, buginese, canadian-aboriginal, music, hebrew, old-permic, math, caucasian-albanian, bassa-vah, saurashtra, warang-citi, kannada, syriac, manichaean, batak, new-tai-lue, nko, tagalog, myanmar, oriya, kayah-li, wancho, sinhala, hanifi-rohingya, yi, grantha, bhaiksuki, buhid, armenian, masaram-gondi, sogdian, marchen, cham, gujarati, tirhuta, mongolian, siddham, phags-pa, tai-tham, hanunoo, chakma, tibetan, tagbanwa, bengali, kaithi, coptic, mandaic</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: limbu, masaram-gondi, wancho, yi, newa, modi, thai, new-tai-lue, tagbanwa, buhid, manichaean, malayalam, old-permic, kaithi, tibetan, batak, balinese, music, pahawh-hmong, marchen, mandaic, symbols, kannada, psalter-pahlavi, telugu, phags-pa, hanifi-rohingya, syriac, dogra, meetei-mayek, khudawadi, mende-kikakui, bhaiksuki, tagalog, brahmi, javanese, warang-citi, syloti-nagri, myanmar, kayah-li, lepcha, chakma, oriya, saurashtra, khojki, thaana, hanunoo, kharoshthi, duployan, takri, math, gujarati, sogdian, gurmukhi, sinhala, coptic, tai-tham, caucasian-albanian, tai-viet, hebrew, grantha, bengali, gunjala-gondi, devanagari, rejang, lao, khmer, ahom, buginese, soyombo, armenian, mongolian, tirhuta, tifinagh, sharada, miao, tai-le, bassa-vah, nko, zanabazar-square, osage, cham, tamil, canadian-aboriginal, adlam, mahajani, siddham, elbasan, sundanese</li>
 <li>U+25CF BLACK CIRCLE: try adding symbols</li>
 <li>U+25E6 WHITE BULLET: try adding symbols</li>
 <li>U+25FC BLACK MEDIUM SQUARE: try adding symbols</li>
@@ -599,7 +595,7 @@ definitions.</p>
 <li>U+2B9F BLACK DOWNWARDS EQUILATERAL ARROWHEAD: try adding symbols</li>
 <li>U+2E17 DOUBLE OBLIQUE HYPHEN: try adding coptic</li>
 <li>U+2E38 TURNED DAGGER: not included in any glyphset definition</li>
-<li>U+3003 DITTO MARK: try adding one of: yi, japanese, chinese-simplified, chinese-hongkong, phags-pa, chinese-traditional</li>
+<li>U+3003 DITTO MARK: try adding one of: chinese-hongkong, phags-pa, yi, chinese-simplified, chinese-traditional, japanese</li>
 <li>U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition</li>
 <li>U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition</li>
 <li>U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition</li>
@@ -905,10 +901,6 @@ definitions.</p>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
-<td align="left">^</td>
-<td align="left">Requires Small-cap: ƒ; both buffers returned florin=0+1023</td>
-</tr>
-<tr>
 <td align="left">avu_Latn (Avokaya)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
@@ -1197,22 +1189,6 @@ definitions.</p>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
-<td align="left">dnj_Latn_LR (Dan)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0265</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0265</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0265</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb.case to uni0265</td>
-</tr>
-<tr>
 <td align="left">ach_Latn (Acoli)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
@@ -1243,10 +1219,6 @@ definitions.</p>
 <tr>
 <td align="left">tcd_Latn (Tafi)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Requires Small-cap: ƒ; both buffers returned florin=0+1023</td>
 </tr>
 <tr>
 <td align="left">bfa_Latn (Bari)</td>
@@ -1333,10 +1305,6 @@ definitions.</p>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
-<td align="left">^</td>
-<td align="left">Requires Small-cap: ƒ; both buffers returned florin=0+1023</td>
-</tr>
-<tr>
 <td align="left">maw_Latn (Mampruli)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
@@ -1374,30 +1342,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">kzc_Latn (Bondoukou Kulango)</td>
-<td align="left">Shaper didn't attach tildecomb.case to uniA7B6</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uniA7B7</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uniA7B7</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb.case to uniA7B6</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uniA7B7.sc</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb.case to uniA7B6</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -1614,147 +1558,15 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">gkp_Latn (Kpelle, Guinea)</td>
-<td align="left">Shaper didn't attach uni0328 to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni0259</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328 to uni025B</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni0190</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni025B</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni025B</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni0190</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni0190</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328 to uni0254</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni0186</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni0254</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni0254</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni0186</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni0186</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328 to uni0259.sc</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni0259.sc</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni0259.sc</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni018F</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0328 to uni025B.sc</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni0190</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0328.case to uni025B.sc</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni0328.case to uni025B.sc</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni0190</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni0190</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328 to uni0254.sc</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni0186</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni0254.sc</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni0254.sc</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni0186</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0328.case to uni0186</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -1797,10 +1609,6 @@ definitions.</p>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
-<td align="left">^</td>
-<td align="left">Requires Small-cap: ɐ; both buffers returned uni2C6F=0+1414</td>
-</tr>
-<tr>
 <td align="left">xsm_Latn (Kasem)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
@@ -1827,10 +1635,6 @@ definitions.</p>
 <tr>
 <td align="left">ee_Latn (Ewe)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Requires Small-cap: ƒ; both buffers returned florin=0+1023</td>
 </tr>
 <tr>
 <td align="left">kvf_Latn (Kabalai)</td>
@@ -1893,14 +1697,6 @@ definitions.</p>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
-<td align="left">^</td>
-<td align="left">The locl feature did not affect uni01A9</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">The locl feature did not affect uni01B7</td>
-</tr>
-<tr>
 <td align="left">nko_Latn (Nkonya)</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
@@ -1955,10 +1751,6 @@ definitions.</p>
 <tr>
 <td align="left">nyb_Latn (Nyangbo)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Requires Small-cap: ƒ; both buffers returned florin=0+1023</td>
 </tr>
 <tr>
 <td align="left">kkj_Latn (Kako)</td>
@@ -2638,423 +2430,8 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">Medium 64 Cnd</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 24 Cnd</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 48 Cnd</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 24</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 16 Cnd</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 48 Wide</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular Wide</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold Wide</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 144 Wide</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 14 Wide</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 24 Cnd</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 48 Wide</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 64 Wide</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 16 Wide</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 144 Wide</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 16 Wide</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 16 Wide</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 144</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 48 Wide</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium Wide</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 144 Cnd</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 144</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 144 Wide</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 72</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 24 Cnd</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 14 Cnd</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 64 Wide</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 64 Cnd</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 48 Wide</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 24 Wide</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 72</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 64 Cnd</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 144</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 14 Wide</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 72 Wide</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 64 Wide</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 144</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 14 Cnd</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 72</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 16 Wide</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 48 Wide</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 64</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 14 Cnd</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold Wide</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 24</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 48</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 14 Cnd</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 16 Cnd</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 64</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 72 Wide</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 48 Cnd</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 16 Cnd</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 144 Cnd</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 144</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 24 Cnd</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 16 Wide</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 24 Wide</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 72 Wide</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 64 Cnd</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 48 Cnd</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtBold 72 Cnd</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 14</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 16 Cnd</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 16</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 16 Wide</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 24 Wide</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 48 Cnd</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 72 Cnd</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 144 Cnd</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 72</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 14 Wide</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 24</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 48 Cnd</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 16</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 144 Wide</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 144 Cnd</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold Cnd</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 48</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 144</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium Cnd</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 24 Wide</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 48</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 14</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 72</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=72.0</td>
+<td align="left">Light 72</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=72.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -3063,53 +2440,8 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Black 48 Cnd</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 72 Cnd</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 24</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold Wide</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 72 Cnd</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 64 Wide</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 72</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 144</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 64 Wide</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 48</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=48.0</td>
+<td align="left">Black 144</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=144.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -3118,113 +2450,13 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Light 16 Wide</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=16.0</td>
+<td align="left">Medium 24 Cnd</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExBold 24</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 14 Cnd</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 72 Cnd</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 72</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 64 Wide</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 24 Wide</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 64 Cnd</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 16</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 14 Wide</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 14</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 14</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 24 Cnd</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 72 Cnd</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 64</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 64</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 72 Wide</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 48 Wide</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 64 Wide</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 14 Wide</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 48</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=48.0</td>
+<td align="left">Light 64 Cnd</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=64.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -3233,23 +2465,23 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Medium 16 Cnd</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=16.0</td>
+<td align="left">SemiBold 16 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=16.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Black Wide</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=12.0</td>
+<td align="left">SemiBold 72 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=72.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExBold 64</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=64.0</td>
+<td align="left">SemiBold 144</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=144.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExBold 16</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=16.0</td>
+<td align="left">Medium Cnd</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=12.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -3258,48 +2490,13 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">SemiBold 24</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=24.0</td>
+<td align="left">Light 24 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Black 144 Cond</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 14</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 16</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 48 Wide</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 64</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 144 Cnd</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light Wide</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 72 Wide</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=72.0</td>
+<td align="left">Bold 16 Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=16.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -3308,108 +2505,8 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Medium 24 Cnd</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 16</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 144 Wide</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 16</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 14 Wide</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold Cnd</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 14 Cnd</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 64 Cnd</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 24 Cnd</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 14 Cnd</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 14</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 64</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 24 Wide</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 16 Cnd</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 24</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 24 Wide</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 16 Cnd</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 48 Cnd</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 72 Wide</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 64 Cnd</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light Cnd</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=12.0</td>
+<td align="left">Light 64</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=64.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -3418,13 +2515,283 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
+<td align="left">Light 144 Cnd</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 14</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 16 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 144 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 14</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 14</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 48</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 16 Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 16 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 48 Cnd</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 64 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 48 Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 14 Cnd</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 48</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold Cnd</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 24 Cnd</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 24 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 72</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 72 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 64 Cnd</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 144</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 48 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 16</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 144</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 48 Cnd</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 64</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 72 Cnd</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 14 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 64 Cnd</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 14 Cnd</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 14 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 24</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtBold 72 Cnd</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 144 Cnd</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 48 Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 16 Cnd</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 144 Cnd</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 14</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 24 Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 64 Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 72 Cnd</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 64 Cnd</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 24 Cnd</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 16 Cnd</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 72</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
 <td align="left">Regular 72 Cnd</td>
 <td align="left">wght=400.0, wdth=87.0, opsz=72.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExBold 48</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=48.0</td>
+<td align="left">Medium 16 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 24 Cnd</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 64 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 64</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 72</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 16 Cnd</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 16</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=16.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -3433,8 +2800,283 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Light 144 Cnd</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=144.0</td>
+<td align="left">SemiBold 64</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 144</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 64 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 48</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 16</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 16</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 144 Cond</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black Cnd</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 144 Cnd</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 24 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 24</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 16</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 144</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 24</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 48 Cnd</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 64 Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 48 Cnd</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 48 Cnd</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 72 Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 48</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 16</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 144 Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 16</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 24 Cnd</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 14 Cnd</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 16 Cnd</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 64 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 14 Cnd</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 24</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 64</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 72</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 72 Cnd</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 14</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 72 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 14</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular Wide</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 48 Cnd</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 144 Cnd</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 64</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 24</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 16 Cnd</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 14 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 16 Cnd</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 72 Cnd</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 144 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 144</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 24 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 48 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 48 Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 24 Cnd</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 14 Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 72 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 144 Cnd</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold Wide</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=12.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -3443,8 +3085,158 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Black Cnd</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=12.0</td>
+<td align="left">Light 72 Cnd</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 24 Cnd</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 24</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 14 Cnd</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 72</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 24 Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 144 Wide</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 64 Cnd</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 16 Cnd</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 144 Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 48</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 72 Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 14 Cnd</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 64 Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light Cnd</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 16 Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 64 Cnd</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold Cnd</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 72</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 48 Wide</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 48</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 14 Cnd</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 64</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 14 Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 64 Cnd</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 24 Wide</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 14 Wide</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 24</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 48 Wide</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 48 Cnd</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=48.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -3549,23 +3341,23 @@ uni0488 (U+0488) and uni0489 (U+0489)</p>
 
 
 * ⚠️ **WARN** <p>Interpolation issues were found in the font:</p>
-<pre><code>- Contour 0 point 53 has a kink between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
+<pre><code>- Contour 0 point 29 has a kink between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
 
-- Contour 0 point 53 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
-
-- Contour 0 point 70 has a kink between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
-
-- Contour 0 point 98 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
-
-- Contour 0 point 25 has a kink between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
+- Contour 0 point 29 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
 
 - Contour 0 point 14 has a kink between location wght=900,wdth=112,opsz=12 and location wght=300,wdth=100,opsz=12
 
 - Contour 0 point 14 has a kink between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
 
-- Contour 0 point 29 has a kink between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
+- Contour 0 point 98 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
 
-- Contour 0 point 29 has a kink between location wght=900,wdth=112,opsz=144 and location wght=300,wdth=100,opsz=144
+- Contour 0 point 25 has a kink between location wght=300,wdth=100,opsz=12 and location wght=900,wdth=87,opsz=144
+
+- Contour 0 point 70 has a kink between location wght=900,wdth=87,opsz=144 and location wght=900,wdth=112,opsz=144
+
+- Contour 0 point 53 has a kink between location wght=900,wdth=100,opsz=144 and location wght=900,wdth=87,opsz=12
+
+- Contour 0 point 53 has a kink between location wght=300,wdth=100,opsz=144 and location wght=300,wdth=87,opsz=12
 </code></pre>
  [code: interpolation-issues]
 
@@ -3593,7 +3385,7 @@ equal, notequal</p>
 <p>Width = 1225:
 greater</p>
 <p>Width = 1259:
-lessequal, logicalnot</p>
+logicalnot, lessequal</p>
 <p>Width = 1262:
 multiply, uni2266</p>
 <p>Width = 1260:
@@ -3694,10 +3486,6 @@ ERROR: Table discarded</p>
 
 - uni0145.latnMAH
 
-- uni01A9.localGAD
-
-- uni01B7.localGAD
-
 - uni028B.loclTOD0.ss04
 
 - uni03000304
@@ -3770,8 +3558,8 @@ ERROR: Table discarded</p>
 
 
 * ⚠️ **WARN** <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: i̯̇ i̯̊ i̯̋ i̯̍ i̯̐ i̯̒ i̯̓ i̯᷄ i̯᷅ i̯᷆ i̯᷇ i̯᷈ i̯᷉ i̯ꚞ i̴̇ i̴̊ i̴̋ i̴̍ i̴̐ i̴̒</p>
-<p>Your font fully covers the following languages that require the soft-dotted feature: Dutch (Latn, 31,709,104 speakers), Belarusian (Cyrl, 10,064,517 speakers), Nzakara (Latn, 50,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Zapotec (Latn, 490,000 speakers), Ma’di (Latn, 584,000 speakers), Cicipu (Latn, 44,000 speakers), Gulay (Latn, 250,478 speakers), Nateni (Latn, 100,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Ebira (Latn, 2,200,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), South Central Banda (Latn, 244,000 speakers), Sar (Latn, 500,000 speakers), Mango (Latn, 77,000 speakers), Yala (Latn, 200,000 speakers), Ekpeye (Latn, 226,000 speakers), Lithuanian (Latn, 2,357,094 speakers), Navajo (Latn, 166,319 speakers), Ngbaka (Latn, 1,020,000 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Igbo (Latn, 27,823,640 speakers), Dan (Latn, 1,099,244 speakers), Bafut (Latn, 158,146 speakers), Aghem (Latn, 38,843 speakers), Mundani (Latn, 34,000 speakers), Lugbara (Latn, 2,200,000 speakers), Kom (Latn, 360,685 speakers), Koonzime (Latn, 40,000 speakers), Fur (Latn, 1,230,163 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Avokaya (Latn, 100,000 speakers), Dii (Latn, 71,000 speakers), Mfumte (Latn, 79,000 speakers), Basaa (Latn, 332,940 speakers), Ejagham (Latn, 120,000 speakers), Southern Kisi (Latn, 360,000 speakers), Makaa (Latn, 221,000 speakers).</p>
+<p>Your font fully covers the following languages that require the soft-dotted feature: Ma’di (Latn, 584,000 speakers), Dutch (Latn, 31,709,104 speakers), Nzakara (Latn, 50,000 speakers), Yala (Latn, 200,000 speakers), Navajo (Latn, 166,319 speakers), Mango (Latn, 77,000 speakers), Zapotec (Latn, 490,000 speakers), Lithuanian (Latn, 2,357,094 speakers), Cicipu (Latn, 44,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Ebira (Latn, 2,200,000 speakers), Sar (Latn, 500,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Nateni (Latn, 100,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Gulay (Latn, 250,478 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), South Central Banda (Latn, 244,000 speakers), Ekpeye (Latn, 226,000 speakers), Ngbaka (Latn, 1,020,000 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Ejagham (Latn, 120,000 speakers), Aghem (Latn, 38,843 speakers), Bafut (Latn, 158,146 speakers), Avokaya (Latn, 100,000 speakers), Dii (Latn, 71,000 speakers), Fur (Latn, 1,230,163 speakers), Mfumte (Latn, 79,000 speakers), Mundani (Latn, 34,000 speakers), Koonzime (Latn, 40,000 speakers), Igbo (Latn, 27,823,640 speakers), Southern Kisi (Latn, 360,000 speakers), Kom (Latn, 360,685 speakers), Dan (Latn, 1,099,244 speakers), Lugbara (Latn, 2,200,000 speakers), Makaa (Latn, 221,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Basaa (Latn, 332,940 speakers).</p>
  [code: soft-dotted]
 
 
@@ -3805,27 +3593,27 @@ definitions.</p>
 <li>U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition</li>
 <li>U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition</li>
 <li>U+02C1 MODIFIER LETTER REVERSED GLOTTAL STOP: not included in any glyphset definition</li>
-<li>U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal</li>
+<li>U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi</li>
 <li>U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition</li>
 <li>U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition</li>
 <li>U+02CB MODIFIER LETTER GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+02CC MODIFIER LETTER LOW VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+02D7 MODIFIER LETTER MINUS SIGN: not included in any glyphset definition</li>
-<li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
-<li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
-<li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition</li>
 <li>U+02EC MODIFIER LETTER VOICING: not included in any glyphset definition</li>
 <li>U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition</li>
 <li>U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition</li>
 <li>U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, tifinagh, coptic</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, cherokee, math, coptic</li>
 <li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: math, tai-le, tifinagh, canadian-aboriginal, malayalam, syriac, coptic, old-permic</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, syriac, tai-le, old-permic, canadian-aboriginal, coptic, tifinagh, math</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
-<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
+<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+0310 COMBINING CANDRABINDU: not included in any glyphset definition</li>
@@ -3843,8 +3631,8 @@ definitions.</p>
 <li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, tifinagh, gothic, syriac, cherokee</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, gothic, syriac, tifinagh, cherokee</li>
 <li>U+0332 COMBINING LOW LINE: not included in any glyphset definition</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
@@ -3893,10 +3681,10 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: not included in any glyphset definition</li>
 <li>U+2008 PUNCTUATION SPACE: not included in any glyphset definition</li>
 <li>U+200A HAIR SPACE: not included in any glyphset definition</li>
-<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: lepcha, cham, tai-le, saurashtra, balinese, newa, tifinagh, warang-citi, tirhuta, meetei-mayek, kannada, dogra, gujarati, modi, duployan, manichaean, javanese, pahawh-hmong, batak, syriac, tai-viet, avestan, limbu, mongolian, siddham, new-tai-lue, nko, thai, arabic, syloti-nagri, tagalog, myanmar, oriya, phags-pa, sharada, takri, zanabazar-square, kayah-li, gunjala-gondi, devanagari, tai-tham, khmer, sinhala, hanifi-rohingya, kharoshthi, psalter-pahlavi, tamil, hanunoo, thaana, grantha, yi, bhaiksuki, brahmi, malayalam, sundanese, khudawadi, buhid, chakma, rejang, khojki, tibetan, telugu, masaram-gondi, tagbanwa, mahajani, gurmukhi, buginese, lao, bengali, kaithi, sogdian, hatran, hebrew, mandaic</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: lepcha, cham, tai-le, saurashtra, balinese, newa, tifinagh, warang-citi, tirhuta, meetei-mayek, kannada, dogra, gujarati, modi, duployan, manichaean, javanese, pahawh-hmong, batak, syriac, tai-viet, avestan, limbu, mongolian, old-hungarian, siddham, new-tai-lue, nko, thai, arabic, syloti-nagri, tagalog, myanmar, oriya, phags-pa, sharada, takri, zanabazar-square, kayah-li, gunjala-gondi, devanagari, tai-tham, khmer, sinhala, hanifi-rohingya, kharoshthi, psalter-pahlavi, tamil, hanunoo, thaana, grantha, yi, bhaiksuki, brahmi, malayalam, sundanese, khudawadi, buhid, chakma, rejang, khojki, tibetan, telugu, masaram-gondi, tagbanwa, mahajani, gurmukhi, buginese, lao, bengali, kaithi, sogdian, hebrew, mandaic</li>
-<li>U+2010 HYPHEN: try adding one of: armenian, kharoshthi, cham, kayah-li, lisu, arabic, yi, kaithi, sora-sompeng, syloti-nagri, sundanese, coptic, hebrew</li>
-<li>U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, yi, arabic</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: saurashtra, khojki, rejang, limbu, mandaic, buginese, lao, kannada, masaram-gondi, yi, newa, mongolian, thaana, tirhuta, hanunoo, psalter-pahlavi, telugu, avestan, duployan, kharoshthi, sharada, takri, tifinagh, gujarati, modi, phags-pa, sogdian, gurmukhi, hanifi-rohingya, tai-le, sinhala, thai, new-tai-lue, tagbanwa, syriac, arabic, hatran, tai-tham, dogra, meetei-mayek, nko, zanabazar-square, buhid, khudawadi, malayalam, manichaean, tai-viet, bhaiksuki, cham, brahmi, hebrew, tagalog, tamil, grantha, bengali, javanese, kaithi, syloti-nagri, tibetan, myanmar, warang-citi, batak, mahajani, siddham, kayah-li, lepcha, sundanese, balinese, gunjala-gondi, chakma, devanagari, oriya, pahawh-hmong, khmer</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: saurashtra, khojki, rejang, limbu, mandaic, buginese, lao, kannada, masaram-gondi, yi, newa, mongolian, thaana, tirhuta, hanunoo, psalter-pahlavi, telugu, avestan, duployan, kharoshthi, sharada, takri, tifinagh, gujarati, modi, phags-pa, sogdian, gurmukhi, hanifi-rohingya, tai-le, sinhala, thai, new-tai-lue, tagbanwa, syriac, arabic, tai-tham, dogra, meetei-mayek, nko, zanabazar-square, buhid, khudawadi, malayalam, manichaean, tai-viet, bhaiksuki, cham, brahmi, hebrew, tagalog, tamil, grantha, bengali, javanese, kaithi, syloti-nagri, tibetan, myanmar, warang-citi, batak, mahajani, siddham, kayah-li, old-hungarian, lepcha, sundanese, balinese, gunjala-gondi, chakma, devanagari, oriya, pahawh-hmong, khmer</li>
+<li>U+2010 HYPHEN: try adding one of: kayah-li, lisu, cham, sundanese, hebrew, armenian, syloti-nagri, yi, kaithi, coptic, arabic, kharoshthi, sora-sompeng</li>
+<li>U+2011 NON-BREAKING HYPHEN: try adding one of: arabic, yi, syloti-nagri</li>
 <li>U+2012 FIGURE DASH: not included in any glyphset definition</li>
 <li>U+2015 HORIZONTAL BAR: try adding adlam</li>
 <li>U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition</li>
@@ -3953,20 +3741,20 @@ definitions.</p>
 <li>U+215E VULGAR FRACTION SEVEN EIGHTHS: not included in any glyphset definition</li>
 <li>U+2183 ROMAN NUMERAL REVERSED ONE HUNDRED: try adding symbols</li>
 <li>U+2184 LATIN SMALL LETTER REVERSED C: not included in any glyphset definition</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
-<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
-<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
-<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
-<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
-<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
-<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
-<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: symbols, math</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: symbols, math</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: symbols, math</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: symbols, math</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: symbols, math</li>
 <li>U+2202 PARTIAL DIFFERENTIAL: try adding math</li>
 <li>U+2205 EMPTY SET: try adding math</li>
 <li>U+2206 INCREMENT: try adding math</li>
 <li>U+220F N-ARY PRODUCT: try adding math</li>
 <li>U+2211 N-ARY SUMMATION: try adding math</li>
-<li>U+2219 BULLET OPERATOR: try adding one of: math, symbols, yi, tai-tham</li>
+<li>U+2219 BULLET OPERATOR: try adding one of: tai-tham, yi, symbols, math</li>
 <li>U+221A SQUARE ROOT: try adding math</li>
 <li>U+221E INFINITY: try adding math</li>
 <li>U+222B INTEGRAL: try adding math</li>
@@ -3985,27 +3773,27 @@ definitions.</p>
 <li>U+25AA BLACK SMALL SQUARE: try adding symbols</li>
 <li>U+25AB WHITE SMALL SQUARE: try adding symbols</li>
 <li>U+25B2 BLACK UP-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25B3 WHITE UP-POINTING TRIANGLE: try adding one of: symbols, math</li>
 <li>U+25B4 BLACK UP-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25B5 WHITE UP-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25B6 BLACK RIGHT-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25B7 WHITE RIGHT-POINTING TRIANGLE: try adding one of: symbols, math</li>
 <li>U+25B8 BLACK RIGHT-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25B9 WHITE RIGHT-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25BC BLACK DOWN-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25BD WHITE DOWN-POINTING TRIANGLE: try adding one of: symbols, math</li>
 <li>U+25BE BLACK DOWN-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25BF WHITE DOWN-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25C0 BLACK LEFT-POINTING TRIANGLE: try adding symbols</li>
-<li>U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: math, symbols</li>
+<li>U+25C1 WHITE LEFT-POINTING TRIANGLE: try adding one of: symbols, math</li>
 <li>U+25C2 BLACK LEFT-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25C3 WHITE LEFT-POINTING SMALL TRIANGLE: try adding symbols</li>
 <li>U+25C6 BLACK DIAMOND: try adding symbols</li>
 <li>U+25C7 WHITE DIAMOND: try adding symbols</li>
 <li>U+25C9 FISHEYE: try adding symbols</li>
-<li>U+25CA LOZENGE: try adding one of: math, symbols</li>
+<li>U+25CA LOZENGE: try adding one of: symbols, math</li>
 <li>U+25CB WHITE CIRCLE: try adding symbols</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: elbasan, newa, tifinagh, soyombo, pahawh-hmong, modi, duployan, tai-viet, javanese, limbu, syloti-nagri, sharada, zanabazar-square, gunjala-gondi, devanagari, adlam, kharoshthi, mende-kikakui, miao, brahmi, sundanese, mahajani, lao, lepcha, tai-le, balinese, meetei-mayek, dogra, thai, ahom, osage, takri, khmer, symbols, psalter-pahlavi, tamil, thaana, malayalam, khudawadi, rejang, khojki, telugu, gurmukhi, buginese, canadian-aboriginal, music, hebrew, old-permic, math, caucasian-albanian, bassa-vah, saurashtra, warang-citi, kannada, syriac, manichaean, batak, new-tai-lue, nko, tagalog, myanmar, oriya, kayah-li, wancho, sinhala, hanifi-rohingya, yi, grantha, bhaiksuki, buhid, armenian, masaram-gondi, sogdian, marchen, cham, gujarati, tirhuta, mongolian, siddham, phags-pa, tai-tham, hanunoo, chakma, tibetan, tagbanwa, bengali, kaithi, coptic, mandaic</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: limbu, masaram-gondi, wancho, yi, newa, modi, thai, new-tai-lue, tagbanwa, buhid, manichaean, malayalam, old-permic, kaithi, tibetan, batak, balinese, music, pahawh-hmong, marchen, mandaic, symbols, kannada, psalter-pahlavi, telugu, phags-pa, hanifi-rohingya, syriac, dogra, meetei-mayek, khudawadi, mende-kikakui, bhaiksuki, tagalog, brahmi, javanese, warang-citi, syloti-nagri, myanmar, kayah-li, lepcha, chakma, oriya, saurashtra, khojki, thaana, hanunoo, kharoshthi, duployan, takri, math, gujarati, sogdian, gurmukhi, sinhala, coptic, tai-tham, caucasian-albanian, tai-viet, hebrew, grantha, bengali, gunjala-gondi, devanagari, rejang, lao, khmer, ahom, buginese, soyombo, armenian, mongolian, tirhuta, tifinagh, sharada, miao, tai-le, bassa-vah, nko, zanabazar-square, osage, cham, tamil, canadian-aboriginal, adlam, mahajani, siddham, elbasan, sundanese</li>
 <li>U+25CF BLACK CIRCLE: try adding symbols</li>
 <li>U+25E6 WHITE BULLET: try adding symbols</li>
 <li>U+25FC BLACK MEDIUM SQUARE: try adding symbols</li>
@@ -4035,7 +3823,7 @@ definitions.</p>
 <li>U+2B9F BLACK DOWNWARDS EQUILATERAL ARROWHEAD: try adding symbols</li>
 <li>U+2E17 DOUBLE OBLIQUE HYPHEN: try adding coptic</li>
 <li>U+2E38 TURNED DAGGER: not included in any glyphset definition</li>
-<li>U+3003 DITTO MARK: try adding one of: yi, japanese, chinese-simplified, chinese-hongkong, phags-pa, chinese-traditional</li>
+<li>U+3003 DITTO MARK: try adding one of: chinese-hongkong, phags-pa, yi, chinese-simplified, chinese-traditional, japanese</li>
 <li>U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition</li>
 <li>U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition</li>
 <li>U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition</li>
@@ -4572,19 +4360,19 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">tuz_Latn (Turka)</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb.case to uni018E</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -4712,30 +4500,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">udu_Latn (Uduk)</td>
-<td align="left">Shaper didn't attach uni0331 to p</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0331.case to P</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0331 to p</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0331.case to P</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0331 to p.sc</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0331.case to P</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
@@ -4864,55 +4628,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">dnj_Latn (Dan)</td>
-<td align="left">Shaper didn't attach uni030B to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030F to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030B to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030F to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030F to uni0264</td>
+<td align="left">Shaper didn't attach uni030B to uniA7CB</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -4920,7 +4640,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0264</td>
+<td align="left">Shaper didn't attach uni0304 to uniA7CB</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -4928,7 +4648,15 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0264</td>
+<td align="left">Shaper didn't attach acutecomb to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030F to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -4936,23 +4664,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb to uniA7CB</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni030B to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni030B to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0264</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -5112,15 +4828,15 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">nmg_Latn (Kwasio)</td>
-<td align="left">Shaper didn't attach uni0304.case to uni018E</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni030C.case to uni018E</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -5204,7 +4920,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">dnj_Latn_LR (Dan)</td>
-<td align="left">Shaper didn't attach uni0302 to uni0265</td>
+<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -5216,31 +4932,15 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0265</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach tildecomb.case to uni018E</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0265</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb.case to uni0265</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -5424,23 +5124,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">kzc_Latn (Bondoukou Kulango)</td>
-<td align="left">Shaper didn't attach tildecomb.case to uniA7B6</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb.case to uniA7B6</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach tildecomb to uniA7AE.sc</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach tildecomb to uniA7B7.sc</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb.case to uniA7B6</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -5848,7 +5536,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Requires Small-cap: ɐ; both buffers returned uni2C6F=0+1320</td>
+<td align="left">Requires Small-cap: ɐ; both buffers returned uni0250=0+1169</td>
 </tr>
 <tr>
 <td align="left">xsm_Latn (Kasem)</td>
@@ -5943,36 +5631,16 @@ definitions.</p>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 <tr>
-<td align="left">^</td>
-<td align="left">The locl feature did not affect uni01A9</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">The locl feature did not affect uni01B7</td>
-</tr>
-<tr>
 <td align="left">gov_Latn (Goo)</td>
-<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302 to uniA7CB</td>
 </tr>
 <tr>
 <td align="left">^</td>
+<td align="left">Shaper didn't attach gravecomb to uniA7CB</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb to uniA7CB</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0264</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0264</td>
 </tr>
 <tr>
 <td align="left">nko_Latn (Nkonya)</td>
@@ -8169,33 +7837,13 @@ definitions.</p>
 </thead>
 <tbody>
 <tr>
-<td align="left">Medium 64 Italic</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=64.0</td>
+<td align="left">Bold 48 Cnd Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=48.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Bold 16 Cnd Italic</td>
-<td align="left">wght=716.0, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 14 Italic</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 144 Italic</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold Wide Italic</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 16 Wide Italic</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=16.0</td>
+<td align="left">Regular 64 Cnd Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=64.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -8204,458 +7852,23 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Light Wide Italic</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
 <td align="left">Light Italic</td>
 <td align="left">wght=300.0, wdth=100.0, opsz=12.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Medium 24 Italic</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=24.0</td>
+<td align="left">Light 24 Cnd Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Medium 48 Cnd Italic</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=48.0</td>
+<td align="left">Black 16 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=16.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Medium 16 Wide Italic</td>
-<td align="left">wght=450.0, wdth=112.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 64 Wide Italic</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 144 Italic</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 144 Cnd Italic</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 24 Italic</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 14 Italic</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 64 Cnd Italic</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 48 Wide Italic</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold Cnd Italic</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 14 Cnd Italic</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 24 Cnd Italic</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 16 Cnd Italic</td>
-<td align="left">wght=533.3333282470703, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 64 Italic</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 14 Cnd Italic</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold Cnd Italic</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 72 Cnd Italic</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 16 Wide Italic</td>
-<td align="left">wght=716.0, wdth=112.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 144 Italic</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 48 Wide Italic</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 24 Wide Italic</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 144 Wide Italic</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 24 Italic</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black Cnd Italic</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 48 Cnd Italic</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 144 Cnd Italic</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 24 Wide Italic</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 72 Wide Italic</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 24 Cnd Italic</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 14 Wide Italic</td>
-<td align="left">wght=716.0, wdth=112.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 48 Wide Italic</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Italic</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 64 Wide Italic</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 144 Cnd Italic</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 72 Italic</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 72 Wide Italic</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 16 Wide Italic</td>
-<td align="left">wght=533.3333282470703, wdth=112.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 144 Italic</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 14 Cnd Italic</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 16 Cnd Italic</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 64 Italic</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular Cnd Italic</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 72 Wide Italic</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 24 Italic</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 64 Italic</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 48 Italic</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 14 Cnd Italic</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 14 Wide Italic</td>
-<td align="left">wght=450.0, wdth=112.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 48 Cnd Italic</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 72 Cnd Italic</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 48 Wide Italic</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 48 Italic</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 64 Cnd Italic</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium Italic</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 144 Cond Italic</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 16 Italic</td>
-<td align="left">wght=450.0, wdth=100.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 144 Wide Italic</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold Italic</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 14 Italic</td>
-<td align="left">wght=500.0, wdth=100.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 72 Wide Italic</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 64 Cnd Italic</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 16 Italic</td>
-<td align="left">wght=533.3333282470703, wdth=100.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 72 Wide Italic</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 48 Italic</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 72 Wide Italic</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 14 Italic</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 16 Cnd Italic</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 48 Italic</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 48 Cnd Italic</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 144 Wide Italic</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 144 Italic</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 14 Cnd Italic</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 14 Wide Italic</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 24 Wide Italic</td>
-<td align="left">wght=450.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 144 Wide Italic</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 144 Cnd Italic</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 48 Italic</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 16 Cnd Italic</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 16 Cnd Italic</td>
-<td align="left">wght=450.0, wdth=87.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 24 Cnd Italic</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 144 Wide Italic</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 144 Wide Italic</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 24 Wide Italic</td>
-<td align="left">wght=819.2307739257812, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 144 Italic</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 14 Cnd Italic</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 14 Italic</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 72 Italic</td>
-<td align="left">wght=800.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 14 Italic</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=14.0</td>
+<td align="left">Light 64 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=64.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -8664,8 +7877,368 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Black 48 Cnd Italic</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=48.0</td>
+<td align="left">Light 16 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 144 Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 144 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 144 Italic</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 48 Cnd Italic</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 144 Cond Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 14 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 24 Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 72 Cond Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 16 Wide Italic</td>
+<td align="left">wght=716.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 48 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 72 Italic</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 64 Cnd Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 144 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 48 Cnd Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold Wide Italic</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 24 Cnd Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 24 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium Cnd Italic</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 64 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 16 Cnd Italic</td>
+<td align="left">wght=716.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 72 Wide Italic</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 16 Cnd Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 72 Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 16 Cnd Italic</td>
+<td align="left">wght=450.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 14 Cnd Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 72 Cnd Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 16 Wide Italic</td>
+<td align="left">wght=533.3333282470703, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExtraBold 14 Wide Italic</td>
+<td align="left">wght=819.2307739257812, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 72 Cnd Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 24 Wide Italic</td>
+<td align="left">wght=450.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 72 Wide Italic</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 144 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 14 Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 72 Wide Italic</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 144 Cnd Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 48 Cnd Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 16 Wide Italic</td>
+<td align="left">wght=450.0, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 48 Cnd Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 64 Cnd Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold Wide Italic</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 48 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 24 Cnd Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 144 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 16 Italic</td>
+<td align="left">wght=450.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 16 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 144 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 64 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 14 Wide Italic</td>
+<td align="left">wght=450.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 14 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular Cnd Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 24 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold Cnd Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 64 Cnd Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 48 Wide Italic</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 14 Cnd Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 24 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 14 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 48 Wide Italic</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 64 Cnd Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 64 Italic</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 64 Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 24 Italic</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 72 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 16 Italic</td>
+<td align="left">wght=720.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 72 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold Cnd Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 48 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 16 Cnd Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold Wide Italic</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 16 Cnd Italic</td>
+<td align="left">wght=819.2307739257812, wdth=87.0, opsz=16.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -8674,18 +8247,243 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
+<td align="left">Light 14 Cnd Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 144 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black Cnd Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
 <td align="left">Medium 72 Cnd Italic</td>
 <td align="left">wght=500.0, wdth=87.0, opsz=72.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Regular 64 Wide Italic</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=64.0</td>
+<td align="left">Light 24 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Medium Wide Italic</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=12.0</td>
+<td align="left">Medium 64 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 144 Cnd Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 144 Cnd Italic</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 16 Italic</td>
+<td align="left">wght=533.3333282470703, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 64 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 48 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 16 Italic</td>
+<td align="left">wght=819.2307739257812, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 14 Cnd Italic</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 48 Wide Italic</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 24 Cnd Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 64 Wide Italic</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 72 Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 48 Wide Italic</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 24 Cnd Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 72 Wide Italic</td>
+<td align="left">wght=700.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 16 Wide Italic</td>
+<td align="left">wght=819.2307739257812, wdth=112.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 24 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 144 Wide Italic</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 14 Wide Italic</td>
+<td align="left">wght=716.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 72 Cnd Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 64 Cnd Italic</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 24 Cnd Italic</td>
+<td align="left">wght=500.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 144 Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 24 Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light Wide Italic</td>
+<td align="left">wght=300.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 72 Cond Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 24 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 48 Italic</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 144 Cnd Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 72 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 14 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 64 Wide Italic</td>
+<td align="left">wght=800.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 16 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=16.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 48 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 72 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 144 Cnd Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 72 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 64 Cnd Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 24 Wide Italic</td>
+<td align="left">wght=716.0, wdth=112.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 64 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=64.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -8699,238 +8497,13 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Black 24 Cnd Italic</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=24.0</td>
+<td align="left">Light 16 Cnd Italic</td>
+<td align="left">wght=300.0, wdth=87.0, opsz=16.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">SemiBold 144 Italic</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 14 Cnd Italic</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 48 Italic</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 16 Italic</td>
-<td align="left">wght=720.0, wdth=100.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 72 Cnd Italic</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 14 Wide Italic</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 14 Wide Italic</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 64 Italic</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 64 Cnd Italic</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 24 Wide Italic</td>
-<td align="left">wght=716.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 48 Wide Italic</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 64 Italic</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 72 Italic</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 24 Wide Italic</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 24 Italic</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 24 Cnd Italic</td>
-<td align="left">wght=300.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black Wide Italic</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 48 Wide Italic</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExBold 16 Italic</td>
-<td align="left">wght=819.2307739257812, wdth=100.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 24 Cnd Italic</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 16 Italic</td>
-<td align="left">wght=300.0, wdth=100.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 24 Italic</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 48 Cnd Italic</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 72 Cond Italic</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 64 Cnd Italic</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 144 Cnd Italic</td>
-<td align="left">wght=600.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold Italic</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 64 Cnd Italic</td>
-<td align="left">wght=400.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 24 Cnd Italic</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 64 Wide Italic</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold Cnd Italic</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular Wide Italic</td>
-<td align="left">wght=400.0, wdth=112.0, opsz=12.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 64 Italic</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 72 Italic</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 16 Italic</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Light 16 Wide Italic</td>
-<td align="left">wght=300.0, wdth=112.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 64 Cnd Italic</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 48 Cnd Italic</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=48.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 64 Wide Italic</td>
-<td align="left">wght=600.0, wdth=112.0, opsz=64.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">ExtraBold 14 Wide Italic</td>
-<td align="left">wght=819.2307739257812, wdth=112.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 24 Italic</td>
-<td align="left">wght=700.0, wdth=100.0, opsz=24.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Bold 144 Cnd Italic</td>
-<td align="left">wght=700.0, wdth=87.0, opsz=144.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Regular 16 Italic</td>
-<td align="left">wght=400.0, wdth=100.0, opsz=16.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Black 72 Cond Italic</td>
-<td align="left">wght=900.0, wdth=87.0, opsz=72.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">SemiBold 14 Wide Italic</td>
-<td align="left">wght=533.3333282470703, wdth=112.0, opsz=14.0</td>
-<td align="left">N/A</td>
-</tr>
-<tr>
-<td align="left">Medium 72 Wide Italic</td>
-<td align="left">wght=500.0, wdth=112.0, opsz=72.0</td>
+<td align="left">Medium 144 Wide Italic</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=144.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -8939,48 +8512,53 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExBold Wide Italic</td>
-<td align="left">wght=800.0, wdth=112.0, opsz=12.0</td>
+<td align="left">ExBold 14 Cnd Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=14.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExBold 16 Cnd Italic</td>
-<td align="left">wght=819.2307739257812, wdth=87.0, opsz=16.0</td>
+<td align="left">SemiBold 64 Wide Italic</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=64.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">SemiBold 72 Italic</td>
-<td align="left">wght=600.0, wdth=100.0, opsz=72.0</td>
+<td align="left">Bold 14 Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=14.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Bold 64 Wide Italic</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=64.0</td>
+<td align="left">SemiBold 14 Wide Italic</td>
+<td align="left">wght=533.3333282470703, wdth=112.0, opsz=14.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Bold Wide Italic</td>
-<td align="left">wght=700.0, wdth=112.0, opsz=12.0</td>
+<td align="left">Black 14 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=14.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExBold 72 Cnd Italic</td>
-<td align="left">wght=800.0, wdth=87.0, opsz=72.0</td>
+<td align="left">Regular 14 Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=14.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">ExBold 16 Wide Italic</td>
-<td align="left">wght=819.2307739257812, wdth=112.0, opsz=16.0</td>
+<td align="left">Italic</td>
+<td align="left">wght=400.0, wdth=100.0, opsz=12.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Black 64 Wide Italic</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=64.0</td>
+<td align="left">Black 16 Wide Italic</td>
+<td align="left">wght=900.0, wdth=112.0, opsz=16.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Medium Cnd Italic</td>
-<td align="left">wght=500.0, wdth=87.0, opsz=12.0</td>
+<td align="left">Medium Wide Italic</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 64 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=64.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
@@ -8989,23 +8567,113 @@ definitions.</p>
 <td align="left">N/A</td>
 </tr>
 <tr>
+<td align="left">Regular 72 Cnd Italic</td>
+<td align="left">wght=400.0, wdth=87.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 48 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
 <td align="left">Light 14 Italic</td>
 <td align="left">wght=300.0, wdth=100.0, opsz=14.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Black 48 Wide Italic</td>
-<td align="left">wght=900.0, wdth=112.0, opsz=48.0</td>
+<td align="left">SemiBold 16 Cnd Italic</td>
+<td align="left">wght=533.3333282470703, wdth=87.0, opsz=16.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Black 72 Italic</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=72.0</td>
+<td align="left">ExtraBold 24 Wide Italic</td>
+<td align="left">wght=819.2307739257812, wdth=112.0, opsz=24.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
-<td align="left">Black Italic</td>
-<td align="left">wght=900.0, wdth=100.0, opsz=12.0</td>
+<td align="left">Black 14 Cnd Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Regular 72 Wide Italic</td>
+<td align="left">wght=400.0, wdth=112.0, opsz=72.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 64 Wide Italic</td>
+<td align="left">wght=500.0, wdth=112.0, opsz=64.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 48 Cnd Italic</td>
+<td align="left">wght=900.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 14 Italic</td>
+<td align="left">wght=600.0, wdth=100.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 144 Cnd Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Medium 48 Italic</td>
+<td align="left">wght=500.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold Italic</td>
+<td align="left">wght=800.0, wdth=100.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 24 Cnd Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold Cnd Italic</td>
+<td align="left">wght=700.0, wdth=87.0, opsz=12.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Black 144 Italic</td>
+<td align="left">wght=900.0, wdth=100.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">ExBold 48 Cnd Italic</td>
+<td align="left">wght=800.0, wdth=87.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 14 Cnd Italic</td>
+<td align="left">wght=600.0, wdth=87.0, opsz=14.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">SemiBold 144 Wide Italic</td>
+<td align="left">wght=600.0, wdth=112.0, opsz=144.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Light 24 Italic</td>
+<td align="left">wght=300.0, wdth=100.0, opsz=24.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 48 Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=48.0</td>
+<td align="left">N/A</td>
+</tr>
+<tr>
+<td align="left">Bold 64 Italic</td>
+<td align="left">wght=700.0, wdth=100.0, opsz=64.0</td>
 <td align="left">N/A</td>
 </tr>
 <tr>
