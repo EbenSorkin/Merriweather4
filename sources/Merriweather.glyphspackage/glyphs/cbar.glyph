@@ -138,11 +138,11 @@ shapes = (
 ref = c;
 },
 {
-pos = (-101,-270);
+pos = (-94,-270);
 ref = shortbar_part.;
 }
 );
-width = 796;
+width = 803;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";

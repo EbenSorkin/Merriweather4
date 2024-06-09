@@ -100,11 +100,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (260,0);
+pos = (267,0);
 ref = ogonekcomb.loclNAV;
 }
 );
-width = 968;
+width = 982;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";

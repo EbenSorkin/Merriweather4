@@ -47,11 +47,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (123,0);
+pos = (150,0);
 ref = dieresiscomb_acutecomb.case;
 }
 );
-width = 1359;
+width = 1349;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
