@@ -117,15 +117,15 @@ pos = (29,0);
 ref = acutecomb;
 },
 {
-pos = (553,0);
+pos = (534,0);
 ref = jdotless;
 },
 {
-pos = (562,0);
+pos = (543,0);
 ref = acutecomb;
 }
 );
-width = 1074;
+width = 1055;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -138,15 +138,15 @@ pos = (16,0);
 ref = acutecomb;
 },
 {
-pos = (437,0);
+pos = (443,0);
 ref = jdotless;
 },
 {
-pos = (445,0);
+pos = (451,0);
 ref = acutecomb;
 }
 );
-width = 901;
+width = 907;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";

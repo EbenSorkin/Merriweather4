@@ -112,11 +112,11 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (588,0);
+pos = (624,0);
 ref = acutecomb.case;
 }
 );
-width = 1534;
+width = 1606;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";

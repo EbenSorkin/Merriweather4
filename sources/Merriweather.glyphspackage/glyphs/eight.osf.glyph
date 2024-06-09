@@ -838,6 +838,9 @@ width = 1389;
 );
 metricRight = "=|";
 userData = {
+KernOnName = eight.osf;
+KernOnSpecialSpacing = {
+};
 RMXScaler = {
 source = eight;
 };

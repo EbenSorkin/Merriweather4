@@ -112,11 +112,11 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (545,0);
+pos = (581,0);
 ref = hookabovecomb.case;
 }
 );
-width = 1534;
+width = 1606;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";

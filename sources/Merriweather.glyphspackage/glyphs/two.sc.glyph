@@ -492,6 +492,11 @@ width = 1149;
 }
 );
 userData = {
+KernOnName = two.sc;
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
 RMXScaler = {
 source = two;
 };

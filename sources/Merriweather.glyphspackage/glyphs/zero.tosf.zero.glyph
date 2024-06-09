@@ -593,4 +593,10 @@ nodes = (
 width = 1220;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

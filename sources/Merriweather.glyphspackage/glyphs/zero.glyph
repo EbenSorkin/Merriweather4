@@ -487,4 +487,11 @@ width = 1523;
 );
 metricRight = "=|";
 unicode = 48;
+userData = {
+KernOnName = zero;
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
+};
 }

@@ -658,6 +658,7 @@ metricRight = colon;
 metricWidth = colon;
 unicode = 59;
 userData = {
+KernOnName = semicolon;
 KernOnSpecialSpacing = {
 L = "spaced-off";
 R = "spaced-off";

@@ -608,5 +608,9 @@ width = 1340;
 unicode = 54;
 userData = {
 KernOnName = six;
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
 };
 }

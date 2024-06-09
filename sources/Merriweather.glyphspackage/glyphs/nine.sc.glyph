@@ -186,6 +186,10 @@ width = 1200;
 metricLeft = "=|six.sc";
 metricRight = "=|six.sc";
 userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
 RMXScaler = {
 source = nine;
 };

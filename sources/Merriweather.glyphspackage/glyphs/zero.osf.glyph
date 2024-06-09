@@ -490,6 +490,9 @@ width = 1446;
 );
 metricRight = "=|";
 userData = {
+KernOnName = zero.osf;
+KernOnSpecialSpacing = {
+};
 RMXScaler = {
 source = zero;
 };

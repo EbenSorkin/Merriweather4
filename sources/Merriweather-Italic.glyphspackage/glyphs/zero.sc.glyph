@@ -484,6 +484,10 @@ width = 1220;
 );
 metricRight = "=|";
 userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
 RMXScaler = {
 source = zero;
 };

@@ -86,11 +86,11 @@ shapes = (
 ref = R;
 },
 {
-pos = (1238,0);
+pos = (1240,0);
 ref = s;
 }
 );
-width = 2019;
+width = 2021;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -112,11 +112,11 @@ shapes = (
 ref = R;
 },
 {
-pos = (1171,0);
+pos = (1167,0);
 ref = s;
 }
 );
-width = 1891;
+width = 1887;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";

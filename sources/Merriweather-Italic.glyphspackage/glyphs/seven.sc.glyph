@@ -243,6 +243,10 @@ width = 962;
 }
 );
 userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
 RMXScaler = {
 source = seven;
 };

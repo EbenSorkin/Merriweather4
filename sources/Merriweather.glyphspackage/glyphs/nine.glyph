@@ -608,4 +608,11 @@ width = 1340;
 metricLeft = "=|six";
 metricRight = "=|six";
 unicode = 57;
+userData = {
+KernOnName = nine;
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
+};
 }

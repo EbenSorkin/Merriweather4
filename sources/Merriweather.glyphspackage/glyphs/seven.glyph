@@ -282,4 +282,11 @@ width = 1276;
 }
 );
 unicode = 55;
+userData = {
+KernOnName = seven;
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
+};
 }

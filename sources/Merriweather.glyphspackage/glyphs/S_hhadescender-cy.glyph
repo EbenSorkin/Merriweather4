@@ -112,11 +112,11 @@ shapes = (
 ref = "Shha-cy";
 },
 {
-pos = (1157,0);
+pos = (1147,0);
 ref = righttooth_part.;
 }
 );
-width = 1456;
+width = 1454;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";

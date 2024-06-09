@@ -121,4 +121,10 @@ width = 1441;
 );
 metricLeft = eight;
 metricRight = eight;
+userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
+};
 }

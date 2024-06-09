@@ -8,7 +8,7 @@ shapes = (
 ref = acutecomb;
 },
 {
-pos = (40,417);
+pos = (89,456);
 ref = dotaboverightcomb;
 }
 );

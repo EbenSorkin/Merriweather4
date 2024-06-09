@@ -592,4 +592,10 @@ width = 1105;
 );
 metricLeft = zero.tf;
 metricRight = zero.tf;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
 }

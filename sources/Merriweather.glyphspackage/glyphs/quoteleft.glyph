@@ -553,6 +553,7 @@ metricLeft = "=|quoteright";
 metricRight = "=|quoteright";
 unicode = 8216;
 userData = {
+KernOnName = quoteleft;
 KernOnSpecialSpacing = {
 L = quotes;
 R = quotes;

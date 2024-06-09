@@ -143,6 +143,9 @@ width = 1408;
 metricLeft = "=|six.osf";
 metricRight = "=|six.osf";
 userData = {
+KernOnName = nine.osf;
+KernOnSpecialSpacing = {
+};
 RMXScaler = {
 source = nine;
 };

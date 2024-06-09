@@ -125,4 +125,10 @@ ref = three;
 width = 1202;
 }
 );
+userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
+};
 }

@@ -203,11 +203,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (97,0);
+pos = (133,0);
 ref = qtail.case;
 }
 );
-width = 1534;
+width = 1606;
 },
 {
 anchors = (
