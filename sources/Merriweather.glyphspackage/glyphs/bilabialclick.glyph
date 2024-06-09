@@ -152,11 +152,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (573,48);
+pos = (609,48);
 ref = periodcentered;
 }
 );
-width = 1534;
+width = 1606;
 }
 );
 unicode = 664;

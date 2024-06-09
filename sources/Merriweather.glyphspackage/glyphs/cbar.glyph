@@ -164,11 +164,11 @@ shapes = (
 ref = c;
 },
 {
-pos = (-149,-273);
+pos = (-133,-273);
 ref = shortbar_part.;
 }
 );
-width = 962;
+width = 978;
 }
 );
 unicode = 42899;

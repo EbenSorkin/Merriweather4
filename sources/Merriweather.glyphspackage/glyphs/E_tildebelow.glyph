@@ -151,11 +151,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (310,0);
+pos = (318,0);
 ref = tildebelowcomb;
 }
 );
-width = 1333;
+width = 1341;
 }
 );
 unicode = 7706;

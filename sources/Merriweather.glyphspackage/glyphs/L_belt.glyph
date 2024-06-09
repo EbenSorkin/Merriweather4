@@ -152,11 +152,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (-120,128);
+pos = (-128,128);
 ref = belt_part.;
 }
 );
-width = 1283;
+width = 1291;
 }
 );
 metricRight = L;

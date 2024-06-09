@@ -542,7 +542,7 @@ nodes = (
 ref = "pe-cy.sc";
 }
 );
-width = 2172;
+width = 2188;
 },
 {
 annotations = (

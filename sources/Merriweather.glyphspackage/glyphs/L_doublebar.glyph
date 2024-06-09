@@ -196,15 +196,15 @@ shapes = (
 ref = L;
 },
 {
-pos = (-43,407);
+pos = (-35,407);
 ref = topstrokecomb_part.;
 },
 {
-pos = (-47,157);
+pos = (-39,157);
 ref = btmstrokecomb_part.;
 }
 );
-width = 1283;
+width = 1291;
 }
 );
 metricRight = L;

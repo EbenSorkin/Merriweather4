@@ -152,11 +152,11 @@ shapes = (
 ref = K;
 },
 {
-pos = (-202,370);
+pos = (-194,370);
 ref = Ibar_part.;
 }
 );
-width = 1449;
+width = 1457;
 }
 );
 metricRight = K;

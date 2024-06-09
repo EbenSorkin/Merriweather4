@@ -196,15 +196,15 @@ shapes = (
 ref = O;
 },
 {
-pos = (493,2);
+pos = (529,2);
 ref = ogonekcomb.case;
 },
 {
-pos = (313,0);
+pos = (349,0);
 ref = macroncomb.case;
 }
 );
-width = 1534;
+width = 1606;
 }
 );
 unicode = 492;

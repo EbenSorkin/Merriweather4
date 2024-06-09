@@ -13,15 +13,15 @@ pos = (628,0);
 ref = fraction;
 },
 {
-pos = (1007,0);
+pos = (1016,0);
 ref = one.dnom;
 },
 {
-pos = (1635,0);
+pos = (1644,0);
 ref = zero.dnom;
 }
 );
-width = 2525;
+width = 2534;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -51,19 +51,19 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (612,0);
+pos = (613,0);
 ref = fraction;
 },
 {
-pos = (965,0);
+pos = (970,0);
 ref = one.dnom;
 },
 {
-pos = (1550,0);
+pos = (1553,0);
 ref = zero.dnom;
 }
 );
-width = 2481;
+width = 2484;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -76,15 +76,15 @@ pos = (649,0);
 ref = fraction;
 },
 {
-pos = (1069,0);
+pos = (1070,0);
 ref = one.dnom;
 },
 {
-pos = (1701,0);
+pos = (1702,0);
 ref = zero.dnom;
 }
 );
-width = 2641;
+width = 2642;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -93,19 +93,19 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (603,0);
+pos = (602,0);
 ref = fraction;
 },
 {
-pos = (976,0);
+pos = (975,0);
 ref = one.dnom;
 },
 {
-pos = (1595,0);
+pos = (1600,0);
 ref = zero.dnom;
 }
 );
-width = 2461;
+width = 2466;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -114,19 +114,19 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (585,0);
+pos = (583,0);
 ref = fraction;
 },
 {
-pos = (959,0);
+pos = (961,0);
 ref = one.dnom;
 },
 {
-pos = (1538,0);
+pos = (1540,0);
 ref = zero.dnom;
 }
 );
-width = 2435;
+width = 2437;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -139,15 +139,15 @@ pos = (515,0);
 ref = fraction;
 },
 {
-pos = (877,0);
+pos = (882,0);
 ref = one.dnom;
 },
 {
-pos = (1382,0);
+pos = (1387,0);
 ref = zero.dnom;
 }
 );
-width = 2167;
+width = 2172;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -177,19 +177,19 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (649,0);
+pos = (647,0);
 ref = fraction;
 },
 {
-pos = (1027,0);
+pos = (1012,0);
 ref = one.dnom;
 },
 {
-pos = (1679,0);
+pos = (1642,0);
 ref = zero.dnom;
 }
 );
-width = 2650;
+width = 2613;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -247,15 +247,15 @@ pos = (691,0);
 ref = fraction;
 },
 {
-pos = (1083,0);
+pos = (1085,0);
 ref = one.dnom;
 },
 {
-pos = (1764,0);
+pos = (1766,0);
 ref = zero.dnom;
 }
 );
-width = 2704;
+width = 2706;
 }
 );
 unicode = 8530;

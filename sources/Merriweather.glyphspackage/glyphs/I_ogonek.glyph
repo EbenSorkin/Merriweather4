@@ -5,7 +5,7 @@ layers = (
 guides = (
 {
 angle = 270;
-pos = (-5441,213);
+pos = (-5489,213);
 }
 );
 layerId = UUID0;
@@ -130,11 +130,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (103,2);
+pos = (113,2);
 ref = ogonekcomb.case;
 }
 );
-width = 712;
+width = 732;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";

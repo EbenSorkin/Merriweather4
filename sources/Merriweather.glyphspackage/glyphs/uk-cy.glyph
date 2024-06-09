@@ -152,11 +152,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (1226,0);
+pos = (1225,0);
 ref = y;
 }
 );
-width = 2255;
+width = 2254;
 }
 );
 metricLeft = o;

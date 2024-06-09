@@ -53,7 +53,7 @@ shapes = (
 ref = s;
 }
 );
-width = 777;
+width = 789;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -101,7 +101,7 @@ ref = s;
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1022;
+width = 1002;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";

@@ -151,11 +151,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (586,0);
+pos = (594,0);
 ref = commaaccentcomb.case;
 }
 );
-width = 1517;
+width = 1525;
 }
 );
 unicode = 7696;

@@ -112,11 +112,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (404,0);
+pos = (440,0);
 ref = circumflexcomb_gravecomb.case;
 }
 );
-width = 1534;
+width = 1606;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";

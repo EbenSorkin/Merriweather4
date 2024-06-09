@@ -152,11 +152,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (44,-259);
+pos = (60,-259);
 ref = midbar_part.;
 }
 );
-width = 1193;
+width = 1225;
 }
 );
 unicode = 629;

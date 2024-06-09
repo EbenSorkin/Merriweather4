@@ -44,7 +44,7 @@ shapes = (
 ref = "ge-cy.loclBGR";
 }
 );
-width = 1022;
+width = 1012;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -71,7 +71,7 @@ shapes = (
 ref = "ge-cy.loclBGR";
 }
 );
-width = 762;
+width = 774;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";

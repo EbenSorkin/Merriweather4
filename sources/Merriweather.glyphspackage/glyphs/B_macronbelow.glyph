@@ -151,11 +151,11 @@ shapes = (
 ref = B;
 },
 {
-pos = (381,0);
+pos = (389,0);
 ref = macronbelowcomb.case;
 }
 );
-width = 1442;
+width = 1450;
 }
 );
 unicode = 7686;

@@ -172,15 +172,15 @@ layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
 shapes = (
 {
 alignment = -1;
-pos = (374,0);
+pos = (390,0);
 ref = _dhookSC.part;
 },
 {
-pos = (-80,-194);
+pos = (-64,-194);
 ref = _hook.part;
 }
 );
-width = 1781;
+width = 1797;
 }
 );
 metricLeft = bhook.sc;

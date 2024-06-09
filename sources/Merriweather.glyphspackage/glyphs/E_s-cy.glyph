@@ -186,4 +186,7 @@ width = 1426;
 }
 );
 unicode = 1057;
+userData = {
+KernOnName = "Es-cy";
+};
 }

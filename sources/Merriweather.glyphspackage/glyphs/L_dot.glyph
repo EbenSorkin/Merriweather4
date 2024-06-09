@@ -164,11 +164,11 @@ ref = L;
 },
 {
 alignment = 1;
-pos = (1172,0);
+pos = (1152,0);
 ref = periodcentered.loclCAT.case;
 }
 );
-width = 1561;
+width = 1541;
 }
 );
 unicode = 319;

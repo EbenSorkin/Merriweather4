@@ -9,11 +9,11 @@ shapes = (
 ref = d.sc;
 },
 {
-pos = (1344,0);
+pos = (1346,0);
 ref = z.sc;
 }
 );
-width = 2606;
+width = 2608;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -35,11 +35,11 @@ shapes = (
 ref = d.sc;
 },
 {
-pos = (1158,0);
+pos = (1154,0);
 ref = z.sc;
 }
 );
-width = 2420;
+width = 2416;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";

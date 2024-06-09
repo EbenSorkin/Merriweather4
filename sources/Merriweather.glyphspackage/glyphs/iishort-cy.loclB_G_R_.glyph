@@ -35,11 +35,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (195,0);
+pos = (200,0);
 ref = "brevecomb-cy";
 }
 );
-width = 1132;
+width = 1136;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -74,11 +74,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (176,0);
+pos = (166,0);
 ref = "brevecomb-cy";
 }
 );
-width = 1040;
+width = 1010;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -87,11 +87,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (230,0);
+pos = (227,0);
 ref = "brevecomb-cy";
 }
 );
-width = 973;
+width = 950;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";

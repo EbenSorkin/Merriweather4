@@ -144,15 +144,15 @@ shapes = (
 ref = O;
 },
 {
-pos = (330,0);
+pos = (366,0);
 ref = tildecomb.case;
 },
 {
-pos = (312,380);
+pos = (348,380);
 ref = macroncomb.case;
 }
 );
-width = 1534;
+width = 1606;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";

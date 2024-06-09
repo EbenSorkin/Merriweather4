@@ -259,11 +259,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (-39,-277);
+pos = (-34,-277);
 ref = capbar_part.;
 }
 );
-width = 1132;
+width = 1136;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -272,11 +272,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (-26,-242);
+pos = (-29,-242);
 ref = capbar_part.;
 }
 );
-width = 973;
+width = 950;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -285,11 +285,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (-68,-274);
+pos = (-78,-274);
 ref = capbar_part.;
 }
 );
-width = 1040;
+width = 1010;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";

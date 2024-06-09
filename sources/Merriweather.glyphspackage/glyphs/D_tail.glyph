@@ -152,11 +152,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (-6,12);
+pos = (2,12);
 ref = shortbar_part.;
 }
 );
-width = 1517;
+width = 1525;
 }
 );
 metricRight = D;

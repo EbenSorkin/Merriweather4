@@ -35,11 +35,11 @@ shapes = (
 ref = "sha-cy.loclBGR";
 },
 {
-pos = (1386,0);
+pos = (1398,0);
 ref = righttooth_part.;
 }
 );
-width = 1732;
+width = 1750;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -78,7 +78,7 @@ pos = (1245,0);
 ref = righttooth_part.;
 }
 );
-width = 1574;
+width = 1549;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -87,11 +87,11 @@ shapes = (
 ref = "sha-cy.loclBGR";
 },
 {
-pos = (1286,0);
+pos = (1304,0);
 ref = righttooth_part.;
 }
 );
-width = 1535;
+width = 1551;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -127,11 +127,11 @@ shapes = (
 ref = "sha-cy.loclBGR";
 },
 {
-pos = (1487,0);
+pos = (1505,0);
 ref = righttooth_part.;
 }
 );
-width = 1794;
+width = 1813;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";

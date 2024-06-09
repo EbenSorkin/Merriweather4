@@ -14,11 +14,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (749,0);
+pos = (797,0);
 ref = l;
 }
 );
-width = 1348;
+width = 1396;
 },
 {
 anchors = (
@@ -52,11 +52,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (743,0);
+pos = (749,0);
 ref = l;
 }
 );
-width = 1305;
+width = 1311;
 },
 {
 anchors = (
@@ -90,11 +90,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (715,0);
+pos = (725,0);
 ref = l;
 }
 );
-width = 1247;
+width = 1257;
 },
 {
 anchors = (
@@ -166,11 +166,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (731,0);
+pos = (706,0);
 ref = l;
 }
 );
-width = 1319;
+width = 1294;
 },
 {
 anchors = (
@@ -204,14 +204,14 @@ shapes = (
 ref = f;
 },
 {
-pos = (807,0);
+pos = (808,0);
 ref = l;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1418;
+width = 1419;
 },
 {
 anchors = (

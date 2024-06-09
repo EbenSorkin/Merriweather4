@@ -112,11 +112,11 @@ shapes = (
 ref = H;
 },
 {
-pos = (490,0);
+pos = (498,0);
 ref = brevebelowcomb.case;
 }
 );
-width = 1622;
+width = 1638;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";

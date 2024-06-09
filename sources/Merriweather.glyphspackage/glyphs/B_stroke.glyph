@@ -1021,11 +1021,11 @@ shapes = (
 ref = B;
 },
 {
-pos = (-11,-341);
+pos = (-3,-341);
 ref = UCstrokecomb_part.;
 }
 );
-width = 1442;
+width = 1450;
 }
 );
 metricRight = B;

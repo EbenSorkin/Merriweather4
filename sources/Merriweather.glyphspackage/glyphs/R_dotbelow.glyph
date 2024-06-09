@@ -112,11 +112,11 @@ shapes = (
 ref = R;
 },
 {
-pos = (554,0);
+pos = (562,0);
 ref = dotbelowcomb.case;
 }
 );
-width = 1488;
+width = 1496;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";

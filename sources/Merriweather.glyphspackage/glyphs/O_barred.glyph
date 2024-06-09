@@ -152,11 +152,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (157,-25);
+pos = (193,-25);
 ref = capbar_part.;
 }
 );
-width = 1534;
+width = 1606;
 }
 );
 unicode = 415;

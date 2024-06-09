@@ -152,11 +152,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (449,0);
+pos = (457,0);
 ref = ogonekcomb.loclNAV;
 }
 );
-width = 1333;
+width = 1341;
 }
 );
 }
