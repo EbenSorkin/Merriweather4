@@ -126,7 +126,7 @@ shapes = (
 ref = l.sc;
 },
 {
-pos = (-102,88);
+pos = (-109,88);
 ref = belt_part.;
 }
 );

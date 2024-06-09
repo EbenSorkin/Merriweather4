@@ -12,7 +12,7 @@ pos = (348,0);
 ref = acutecomb;
 },
 {
-pos = (321,417);
+pos = (370,456);
 ref = dotaccentcomb;
 }
 );

@@ -159,15 +159,15 @@ pos = (170,0);
 ref = acutecomb;
 },
 {
-pos = (440,0);
+pos = (423,0);
 ref = jdotless;
 },
 {
-pos = (635,0);
+pos = (618,0);
 ref = acutecomb;
 }
 );
-width = 880;
+width = 863;
 },
 {
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";

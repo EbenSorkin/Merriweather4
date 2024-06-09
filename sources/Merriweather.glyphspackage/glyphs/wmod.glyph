@@ -317,7 +317,7 @@ verticalShift = 500;
 width = 80;
 };
 };
-width = 978;
+width = 968;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -477,7 +477,7 @@ nodes = (
 );
 }
 );
-width = 1203;
+width = 1193;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";

@@ -8,15 +8,15 @@ shapes = (
 ref = five.numr;
 },
 {
-pos = (758,0);
+pos = (733,0);
 ref = fraction;
 },
 {
-pos = (1150,0);
+pos = (1072,0);
 ref = six.dnom;
 }
 );
-width = 1981;
+width = 1903;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -42,15 +42,15 @@ shapes = (
 ref = five.numr;
 },
 {
-pos = (694,0);
+pos = (692,0);
 ref = fraction;
 },
 {
-pos = (1008,0);
+pos = (1013,0);
 ref = six.dnom;
 }
 );
-width = 1855;
+width = 1860;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -93,15 +93,15 @@ shapes = (
 ref = five.numr;
 },
 {
-pos = (666,0);
+pos = (661,0);
 ref = fraction;
 },
 {
-pos = (987,0);
+pos = (974,0);
 ref = six.dnom;
 }
 );
-width = 1776;
+width = 1763;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -110,15 +110,15 @@ shapes = (
 ref = five.numr;
 },
 {
-pos = (591,0);
+pos = (593,0);
 ref = fraction;
 },
 {
-pos = (884,0);
+pos = (897,0);
 ref = six.dnom;
 }
 );
-width = 1623;
+width = 1636;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -127,15 +127,15 @@ shapes = (
 ref = five.numr;
 },
 {
-pos = (732,0);
+pos = (673,0);
 ref = fraction;
 },
 {
-pos = (1104,0);
+pos = (958,0);
 ref = six.dnom;
 }
 );
-width = 1932;
+width = 1786;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -161,15 +161,15 @@ shapes = (
 ref = five.numr;
 },
 {
-pos = (754,0);
+pos = (715,0);
 ref = fraction;
 },
 {
-pos = (1126,0);
+pos = (1011,0);
 ref = six.dnom;
 }
 );
-width = 1979;
+width = 1864;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -178,18 +178,18 @@ shapes = (
 ref = five.numr;
 },
 {
-pos = (771,0);
+pos = (775,0);
 ref = fraction;
 },
 {
-pos = (1097,0);
+pos = (1100,0);
 ref = six.dnom;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1976;
+width = 1979;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -198,15 +198,15 @@ shapes = (
 ref = five.numr;
 },
 {
-pos = (830,0);
+pos = (820,0);
 ref = fraction;
 },
 {
-pos = (1188,0);
+pos = (1177,0);
 ref = six.dnom;
 }
 );
-width = 2089;
+width = 2078;
 }
 );
 unicode = 8538;

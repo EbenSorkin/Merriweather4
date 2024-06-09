@@ -142,15 +142,15 @@ layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
 shapes = (
 {
 alignment = -1;
-pos = (332,0);
+pos = (339,0);
 ref = _BhookSC.part;
 },
 {
-pos = (-108,-194);
+pos = (-101,-194);
 ref = _hook.part;
 }
 );
-width = 1490;
+width = 1497;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";

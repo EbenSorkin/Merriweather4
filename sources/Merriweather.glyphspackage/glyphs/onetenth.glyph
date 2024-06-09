@@ -13,15 +13,15 @@ pos = (628,0);
 ref = fraction;
 },
 {
-pos = (1020,0);
+pos = (1018,0);
 ref = one.dnom;
 },
 {
-pos = (1648,0);
+pos = (1646,0);
 ref = zero.dnom;
 }
 );
-width = 2538;
+width = 2536;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -51,19 +51,19 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (613,0);
+pos = (607,0);
 ref = fraction;
 },
 {
-pos = (970,0);
+pos = (964,0);
 ref = one.dnom;
 },
 {
-pos = (1553,0);
+pos = (1547,0);
 ref = zero.dnom;
 }
 );
-width = 2484;
+width = 2478;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -118,15 +118,15 @@ pos = (579,0);
 ref = fraction;
 },
 {
-pos = (954,0);
+pos = (947,0);
 ref = one.dnom;
 },
 {
-pos = (1517,0);
+pos = (1508,0);
 ref = zero.dnom;
 }
 );
-width = 2414;
+width = 2405;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -135,19 +135,19 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (510,0);
+pos = (515,0);
 ref = fraction;
 },
 {
-pos = (869,0);
+pos = (868,0);
 ref = one.dnom;
 },
 {
-pos = (1368,0);
+pos = (1365,0);
 ref = zero.dnom;
 }
 );
-width = 2153;
+width = 2150;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -160,15 +160,15 @@ pos = (556,0);
 ref = fraction;
 },
 {
-pos = (928,0);
+pos = (926,0);
 ref = one.dnom;
 },
 {
-pos = (1484,0);
+pos = (1470,0);
 ref = zero.dnom;
 }
 );
-width = 2309;
+width = 2295;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -181,15 +181,15 @@ pos = (647,0);
 ref = fraction;
 },
 {
-pos = (1012,0);
+pos = (1011,0);
 ref = one.dnom;
 },
 {
-pos = (1642,0);
+pos = (1641,0);
 ref = zero.dnom;
 }
 );
-width = 2613;
+width = 2612;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -202,15 +202,15 @@ pos = (589,0);
 ref = fraction;
 },
 {
-pos = (961,0);
+pos = (955,0);
 ref = one.dnom;
 },
 {
-pos = (1550,0);
+pos = (1511,0);
 ref = zero.dnom;
 }
 );
-width = 2453;
+width = 2414;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -223,18 +223,18 @@ pos = (656,0);
 ref = fraction;
 },
 {
-pos = (1039,0);
+pos = (1031,0);
 ref = one.dnom;
 },
 {
-pos = (1695,0);
+pos = (1687,0);
 ref = zero.dnom;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 2587;
+width = 2579;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -243,19 +243,19 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (691,0);
+pos = (690,0);
 ref = fraction;
 },
 {
-pos = (1085,0);
+pos = (1082,0);
 ref = one.dnom;
 },
 {
-pos = (1766,0);
+pos = (1763,0);
 ref = zero.dnom;
 }
 );
-width = 2706;
+width = 2703;
 }
 );
 unicode = 8530;

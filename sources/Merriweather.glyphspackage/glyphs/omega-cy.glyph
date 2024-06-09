@@ -62,7 +62,7 @@ shapes = (
 ref = "omega-latin";
 }
 );
-width = 1314;
+width = 1328;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";

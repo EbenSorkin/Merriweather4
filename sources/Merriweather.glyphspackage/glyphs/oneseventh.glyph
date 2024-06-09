@@ -13,11 +13,11 @@ pos = (628,0);
 ref = fraction;
 },
 {
-pos = (1020,0);
+pos = (1048,0);
 ref = seven.dnom;
 }
 );
-width = 1766;
+width = 1794;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -43,15 +43,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (613,0);
+pos = (607,0);
 ref = fraction;
 },
 {
-pos = (991,0);
+pos = (985,0);
 ref = seven.dnom;
 }
 );
-width = 1734;
+width = 1728;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -98,11 +98,11 @@ pos = (579,0);
 ref = fraction;
 },
 {
-pos = (987,0);
+pos = (975,0);
 ref = seven.dnom;
 }
 );
-width = 1690;
+width = 1678;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -111,15 +111,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (510,0);
+pos = (515,0);
 ref = fraction;
 },
 {
-pos = (882,0);
+pos = (891,0);
 ref = seven.dnom;
 }
 );
-width = 1571;
+width = 1580;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -166,11 +166,11 @@ pos = (589,0);
 ref = fraction;
 },
 {
-pos = (973,0);
+pos = (980,0);
 ref = seven.dnom;
 }
 );
-width = 1730;
+width = 1737;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -183,14 +183,14 @@ pos = (656,0);
 ref = fraction;
 },
 {
-pos = (1074,0);
+pos = (1070,0);
 ref = seven.dnom;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1889;
+width = 1885;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -199,15 +199,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (691,0);
+pos = (690,0);
 ref = fraction;
 },
 {
-pos = (1099,0);
+pos = (1098,0);
 ref = seven.dnom;
 }
 );
-width = 1977;
+width = 1976;
 }
 );
 unicode = 8528;
