@@ -8,11 +8,11 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (595,0);
+pos = (588,0);
 ref = dotbelowcomb.case;
 }
 );
-width = 1388;
+width = 1374;
 },
 {
 layerId = "27298932-82AF-4578-9425-6304FDB19058";

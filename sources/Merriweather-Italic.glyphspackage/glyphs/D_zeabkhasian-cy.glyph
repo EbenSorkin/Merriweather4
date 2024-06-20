@@ -8,7 +8,7 @@ shapes = (
 ref = Ezh;
 }
 );
-width = 1175;
+width = 1165;
 },
 {
 layerId = "27298932-82AF-4578-9425-6304FDB19058";
@@ -82,7 +82,7 @@ shapes = (
 ref = Ezh;
 }
 );
-width = 1062;
+width = 1042;
 },
 {
 layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
@@ -91,7 +91,7 @@ shapes = (
 ref = Ezh;
 }
 );
-width = 1121;
+width = 1112;
 },
 {
 layerId = "F318CEA5-7792-49D8-B68D-92025E304353";

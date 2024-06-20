@@ -8,7 +8,7 @@ shapes = (
 ref = "Ie-cy";
 },
 {
-pos = (9400,0);
+pos = (9500,0);
 ref = gravecomb.case;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = "Ie-cy";
 },
 {
-pos = (9391,0);
+pos = (9491,0);
 ref = gravecomb.case;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = "Ie-cy";
 },
 {
-pos = (9391,0);
+pos = (9491,0);
 ref = gravecomb.case;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = "Ie-cy";
 },
 {
-pos = (9400,0);
+pos = (9500,0);
 ref = gravecomb.case;
 }
 );
@@ -60,7 +60,7 @@ shapes = (
 ref = "Ie-cy";
 },
 {
-pos = (9420,0);
+pos = (9520,0);
 ref = gravecomb.case;
 }
 );
@@ -73,7 +73,7 @@ shapes = (
 ref = "Ie-cy";
 },
 {
-pos = (9416,0);
+pos = (9516,0);
 ref = gravecomb.case;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = "Ie-cy";
 },
 {
-pos = (9401,0);
+pos = (9501,0);
 ref = gravecomb.case;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = "Ie-cy";
 },
 {
-pos = (3914,0);
+pos = (4014,0);
 ref = gravecomb.case;
 }
 );
@@ -125,7 +125,7 @@ shapes = (
 ref = "Ie-cy";
 },
 {
-pos = (3951,0);
+pos = (4051,0);
 ref = gravecomb.case;
 }
 );
@@ -138,7 +138,7 @@ shapes = (
 ref = "Ie-cy";
 },
 {
-pos = (3992,0);
+pos = (4092,0);
 ref = gravecomb.case;
 }
 );
@@ -151,11 +151,11 @@ shapes = (
 ref = "Ie-cy";
 },
 {
-pos = (3999,0);
+pos = (4099,0);
 ref = gravecomb.case;
 }
 );
-width = 1119;
+width = 1121;
 }
 );
 unicode = 1024;

@@ -195,15 +195,15 @@ shapes = (
 ref = E;
 },
 {
-pos = (119,0);
+pos = (121,0);
 ref = macroncomb.case;
 },
 {
-pos = (265,275);
+pos = (267,275);
 ref = gravecomb.case;
 }
 );
-width = 1119;
+width = 1121;
 }
 );
 unicode = 7700;

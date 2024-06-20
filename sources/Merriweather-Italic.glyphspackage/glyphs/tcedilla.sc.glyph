@@ -125,7 +125,7 @@ shapes = (
 ref = t.sc;
 },
 {
-pos = (408,0);
+pos = (406,0);
 ref = cedillacomb;
 }
 );

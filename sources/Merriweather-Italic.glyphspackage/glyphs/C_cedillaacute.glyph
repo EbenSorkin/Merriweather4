@@ -8,15 +8,15 @@ shapes = (
 ref = C;
 },
 {
-pos = (459,0);
+pos = (452,0);
 ref = cedillacomb.case;
 },
 {
-pos = (571,0);
+pos = (564,0);
 ref = acutecomb.case;
 }
 );
-width = 1269;
+width = 1262;
 },
 {
 layerId = "27298932-82AF-4578-9425-6304FDB19058";

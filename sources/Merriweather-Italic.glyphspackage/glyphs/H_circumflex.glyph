@@ -151,11 +151,11 @@ shapes = (
 ref = H;
 },
 {
-pos = (344,0);
+pos = (346,0);
 ref = circumflexcomb.case;
 }
 );
-width = 1359;
+width = 1363;
 }
 );
 unicode = 292;

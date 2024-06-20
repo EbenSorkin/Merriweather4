@@ -612,9 +612,12 @@ nodes = (
 );
 }
 );
-width = 1362;
+width = 1364;
 }
 );
 metricRight = "Pe-cy";
 unicode = 1051;
+userData = {
+KernOnName = "El-cy";
+};
 }

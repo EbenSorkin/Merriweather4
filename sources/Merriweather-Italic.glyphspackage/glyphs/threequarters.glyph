@@ -25,15 +25,15 @@ shapes = (
 ref = three.numr;
 },
 {
-pos = (752,0);
+pos = (759,0);
 ref = fraction;
 },
 {
-pos = (1083,0);
+pos = (1164,0);
 ref = four.dnom;
 }
 );
-width = 1914;
+width = 1995;
 },
 {
 layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
@@ -42,15 +42,15 @@ shapes = (
 ref = three.numr;
 },
 {
-pos = (787,0);
+pos = (789,0);
 ref = fraction;
 },
 {
-pos = (1102,0);
+pos = (1194,0);
 ref = four.dnom;
 }
 );
-width = 1953;
+width = 2045;
 },
 {
 layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
@@ -59,15 +59,15 @@ shapes = (
 ref = three.numr;
 },
 {
-pos = (763,0);
+pos = (747,0);
 ref = fraction;
 },
 {
-pos = (1080,0);
+pos = (1125,0);
 ref = four.dnom;
 }
 );
-width = 1923;
+width = 1968;
 },
 {
 layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
@@ -93,15 +93,15 @@ shapes = (
 ref = three.numr;
 },
 {
-pos = (714,0);
+pos = (746,0);
 ref = fraction;
 },
 {
-pos = (962,0);
+pos = (1124,0);
 ref = four.dnom;
 }
 );
-width = 1751;
+width = 1913;
 },
 {
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
@@ -110,15 +110,15 @@ shapes = (
 ref = three.numr;
 },
 {
-pos = (749,0);
+pos = (781,0);
 ref = fraction;
 },
 {
-pos = (1019,0);
+pos = (1186,0);
 ref = four.dnom;
 }
 );
-width = 1878;
+width = 2045;
 },
 {
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
@@ -144,15 +144,15 @@ shapes = (
 ref = three.numr;
 },
 {
-pos = (662,0);
+pos = (647,0);
 ref = fraction;
 },
 {
-pos = (995,0);
+pos = (1025,0);
 ref = four.dnom;
 }
 );
-width = 1734;
+width = 1764;
 },
 {
 layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
@@ -178,15 +178,15 @@ shapes = (
 ref = three.numr;
 },
 {
-pos = (690,0);
+pos = (756,0);
 ref = fraction;
 },
 {
-pos = (936,0);
+pos = (1134,0);
 ref = four.dnom;
 }
 );
-width = 1752;
+width = 1950;
 },
 {
 layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
@@ -195,15 +195,15 @@ shapes = (
 ref = three.numr;
 },
 {
-pos = (698,0);
+pos = (737,0);
 ref = fraction;
 },
 {
-pos = (973,0);
+pos = (1142,0);
 ref = four.dnom;
 }
 );
-width = 1754;
+width = 1923;
 }
 );
 metricLeft = threesuperior;

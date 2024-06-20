@@ -151,11 +151,11 @@ shapes = (
 ref = K;
 },
 {
-pos = (-21,343);
+pos = (-19,343);
 ref = Ibar_part.;
 }
 );
-width = 1355;
+width = 1357;
 }
 );
 unicode = 42816;

@@ -151,11 +151,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (371,-1);
+pos = (373,-1);
 ref = caroncomb.case;
 }
 );
-width = 1319;
+width = 1321;
 }
 );
 unicode = 270;

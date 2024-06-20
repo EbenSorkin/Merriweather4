@@ -114,7 +114,7 @@ nodes = (
 );
 }
 );
-width = 1450;
+width = 1440;
 },
 {
 background = {
@@ -695,7 +695,7 @@ nodes = (
 );
 }
 );
-width = 1297;
+width = 1277;
 },
 {
 color = 4;
@@ -749,7 +749,7 @@ nodes = (
 );
 }
 );
-width = 1346;
+width = 1337;
 },
 {
 color = 4;

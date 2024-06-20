@@ -625,6 +625,7 @@ width = 1236;
 );
 metricRight = "pe-cy.sc";
 userData = {
+KernOnName = "el-cy.sc";
 RMXScaler = {
 source = "El-cy";
 };

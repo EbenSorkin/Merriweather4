@@ -86,7 +86,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (-14,36);
+pos = (-30,-28);
 ref = slashshortcomb;
 }
 );

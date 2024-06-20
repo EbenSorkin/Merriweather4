@@ -151,11 +151,11 @@ shapes = (
 ref = H;
 },
 {
-pos = (274,0);
+pos = (276,0);
 ref = brevebelowcomb.case;
 }
 );
-width = 1359;
+width = 1363;
 }
 );
 unicode = 7722;

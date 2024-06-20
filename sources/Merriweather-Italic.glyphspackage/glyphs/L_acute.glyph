@@ -151,11 +151,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (258,-2);
+pos = (260,-2);
 ref = acutecomb.case;
 }
 );
-width = 1117;
+width = 1119;
 }
 );
 unicode = 313;

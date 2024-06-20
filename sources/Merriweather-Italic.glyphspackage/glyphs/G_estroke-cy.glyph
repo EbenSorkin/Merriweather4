@@ -154,7 +154,7 @@ shapes = (
 ref = "Ge-cy";
 },
 {
-pos = (73,197);
+pos = (25648,197);
 ref = strokelongcomb;
 }
 );
@@ -167,11 +167,11 @@ shapes = (
 ref = "Ge-cy";
 },
 {
-pos = (63,197);
+pos = (21,197);
 ref = strokelongcomb;
 }
 );
-width = 1014;
+width = 1016;
 }
 );
 metricRight = "Te-cy";

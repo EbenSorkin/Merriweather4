@@ -4,7 +4,7 @@ layers = (
 {
 guides = (
 {
-pos = (-15708,-210);
+pos = (-16148,-210);
 }
 );
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -156,11 +156,11 @@ shapes = (
 ref = "Sha-cy";
 },
 {
-pos = (1663,0);
+pos = (1665,0);
 ref = righttooth_part.;
 }
 );
-width = 2037;
+width = 2041;
 }
 );
 metricLeft = "Pe-cy";

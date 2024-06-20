@@ -151,11 +151,11 @@ shapes = (
 ref = "Ka-cy";
 },
 {
-pos = (50,650);
+pos = (52,650);
 ref = barmod;
 }
 );
-width = 1371;
+width = 1373;
 }
 );
 metricRight = "Ka-cy";

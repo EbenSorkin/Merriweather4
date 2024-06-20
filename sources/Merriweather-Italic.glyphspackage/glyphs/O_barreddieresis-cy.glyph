@@ -8,11 +8,11 @@ shapes = (
 ref = "Obarred-cy";
 },
 {
-pos = (410,0);
+pos = (403,0);
 ref = dieresiscomb.case;
 }
 );
-width = 1388;
+width = 1374;
 },
 {
 layerId = "27298932-82AF-4578-9425-6304FDB19058";

@@ -151,11 +151,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (-7,187);
+pos = (-5,187);
 ref = strokeshortcomb;
 }
 );
-width = 1117;
+width = 1119;
 }
 );
 unicode = 573;

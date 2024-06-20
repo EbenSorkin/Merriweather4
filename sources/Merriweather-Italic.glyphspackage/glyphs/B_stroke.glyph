@@ -203,11 +203,11 @@ shapes = (
 ref = B;
 },
 {
-pos = (-174,-338);
+pos = (-172,-338);
 ref = UCstrokecomb_part.;
 }
 );
-width = 1225;
+width = 1227;
 }
 );
 unicode = 579;

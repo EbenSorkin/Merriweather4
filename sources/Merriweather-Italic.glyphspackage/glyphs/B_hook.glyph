@@ -108,7 +108,7 @@ pos = (-152,0);
 ref = _hook.part;
 }
 );
-width = 1345;
+width = 1335;
 },
 {
 background = {
@@ -508,7 +508,7 @@ pos = (-152,0);
 ref = _hook.part;
 }
 );
-width = 1236;
+width = 1216;
 },
 {
 layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";

@@ -140,7 +140,7 @@ width = 1401;
 anchors = (
 {
 name = top;
-pos = (400,1486);
+pos = (407,1486);
 }
 );
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
@@ -149,7 +149,7 @@ shapes = (
 ref = "Softsign-cy";
 },
 {
-pos = (-30,584);
+pos = (-23,584);
 ref = strokelongcomb;
 }
 );
@@ -242,7 +242,7 @@ pos = (120,584);
 ref = strokelongcomb;
 }
 );
-width = 1245;
+width = 1247;
 }
 );
 metricLeft = "Softsign-cy";

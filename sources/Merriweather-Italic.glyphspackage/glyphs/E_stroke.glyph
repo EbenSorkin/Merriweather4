@@ -151,11 +151,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (270,29);
+pos = (272,29);
 ref = UCEslash_part.;
 }
 );
-width = 1119;
+width = 1121;
 }
 );
 unicode = 582;

@@ -21,11 +21,11 @@ shapes = (
 ref = ezh;
 },
 {
-pos = (126,0);
+pos = (130,0);
 ref = caroncomb;
 }
 );
-width = 961;
+width = 965;
 },
 {
 layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
@@ -73,11 +73,11 @@ shapes = (
 ref = ezh;
 },
 {
-pos = (158,116);
+pos = (148,116);
 ref = caroncomb;
 }
 );
-width = 864;
+width = 854;
 },
 {
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";

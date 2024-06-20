@@ -185,7 +185,7 @@ nodes = (
 );
 }
 );
-width = 1381;
+width = 1380;
 },
 {
 anchors = (
@@ -255,7 +255,7 @@ nodes = (
 );
 }
 );
-width = 1380;
+width = 1379;
 },
 {
 anchors = (
@@ -395,7 +395,7 @@ nodes = (
 );
 }
 );
-width = 1054;
+width = 1053;
 },
 {
 anchors = (
@@ -580,7 +580,7 @@ nodes = (
 );
 }
 );
-width = 1065;
+width = 1061;
 },
 {
 anchors = (
@@ -650,7 +650,7 @@ nodes = (
 );
 }
 );
-width = 1292;
+width = 1293;
 },
 {
 anchors = (
@@ -720,7 +720,7 @@ nodes = (
 );
 }
 );
-width = 1167;
+width = 1166;
 },
 {
 anchors = (
@@ -790,7 +790,7 @@ nodes = (
 );
 }
 );
-width = 1262;
+width = 1261;
 },
 {
 anchors = (
@@ -860,7 +860,7 @@ nodes = (
 );
 }
 );
-width = 985;
+width = 977;
 },
 {
 anchors = (

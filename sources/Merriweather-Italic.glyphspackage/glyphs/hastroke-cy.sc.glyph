@@ -147,7 +147,7 @@ shapes = (
 ref = x.sc;
 },
 {
-pos = (248,90);
+pos = (2294,90);
 ref = strokelongcomb;
 }
 );

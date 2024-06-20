@@ -12,7 +12,7 @@ pos = (288,0);
 ref = cedillacomb.case;
 }
 );
-width = 1128;
+width = 1118;
 },
 {
 layerId = "27298932-82AF-4578-9425-6304FDB19058";
@@ -116,7 +116,7 @@ pos = (201,0);
 ref = cedillacomb.case;
 }
 );
-width = 1007;
+width = 987;
 },
 {
 layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
@@ -129,7 +129,7 @@ pos = (267,0);
 ref = cedillacomb.case;
 }
 );
-width = 1135;
+width = 1126;
 },
 {
 layerId = "F318CEA5-7792-49D8-B68D-92025E304353";

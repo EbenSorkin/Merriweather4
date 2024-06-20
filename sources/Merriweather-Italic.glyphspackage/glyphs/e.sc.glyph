@@ -551,6 +551,7 @@ width = 1038;
 );
 metricLeft = h.sc;
 userData = {
+KernOnName = e.sc;
 KernOnSpecialSpacing = {
 L = smallcaps;
 R = smallcaps;

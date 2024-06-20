@@ -176,11 +176,11 @@ pos = (10,0);
 ref = "Shha-cy";
 },
 {
-pos = (1011,0);
+pos = (1013,0);
 ref = righttooth_part.;
 }
 );
-width = 1396;
+width = 1398;
 }
 );
 metricLeft = "Pe-cy";

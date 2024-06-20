@@ -151,11 +151,11 @@ shapes = (
 ref = F;
 },
 {
-pos = (384,0);
+pos = (386,0);
 ref = dotaccentcomb.case;
 }
 );
-width = 1048;
+width = 1050;
 }
 );
 unicode = 7710;

@@ -151,11 +151,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (231,0);
+pos = (233,0);
 ref = circumflexcomb_tildecomb.case;
 }
 );
-width = 1119;
+width = 1121;
 }
 );
 unicode = 7876;

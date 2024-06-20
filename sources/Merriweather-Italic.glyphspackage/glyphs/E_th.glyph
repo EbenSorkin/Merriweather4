@@ -160,11 +160,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (-34,-19);
+pos = (-32,-19);
 ref = Ibar_part.;
 }
 );
-width = 1319;
+width = 1321;
 }
 );
 metricLeft = D;

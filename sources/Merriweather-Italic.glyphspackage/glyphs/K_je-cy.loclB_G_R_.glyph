@@ -99,11 +99,11 @@ shapes = (
 ref = "Ka-cy";
 },
 {
-pos = (558,-2);
+pos = (560,-2);
 ref = acutecomb.case;
 }
 );
-width = 1371;
+width = 1373;
 },
 {
 layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";

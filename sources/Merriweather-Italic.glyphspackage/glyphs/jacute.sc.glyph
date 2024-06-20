@@ -158,4 +158,7 @@ ref = acutecomb;
 width = 622;
 }
 );
+userData = {
+KernOnName = jacute.sc;
+};
 }

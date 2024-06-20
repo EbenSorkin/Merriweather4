@@ -621,6 +621,7 @@ width = 1157;
 );
 metricLeft = "pe-cy.sc";
 userData = {
+KernOnName = "softsign-cy.sc";
 RMXScaler = {
 source = "Softsign-cy";
 };

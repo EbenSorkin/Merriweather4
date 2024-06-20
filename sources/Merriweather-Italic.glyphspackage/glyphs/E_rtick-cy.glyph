@@ -152,11 +152,11 @@ shapes = (
 ref = P;
 },
 {
-pos = (69,141);
+pos = (71,141);
 ref = ptick_part.;
 }
 );
-width = 1181;
+width = 1183;
 }
 );
 unicode = 1166;

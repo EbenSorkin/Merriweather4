@@ -8,11 +8,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (1017,1486);
+pos = (1010,1486);
 ref = horncomb;
 }
 );
-width = 1388;
+width = 1374;
 },
 {
 layerId = "27298932-82AF-4578-9425-6304FDB19058";

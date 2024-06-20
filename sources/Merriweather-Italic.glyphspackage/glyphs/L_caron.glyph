@@ -151,11 +151,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (721,-130);
+pos = (723,-130);
 ref = caroncomb.alt;
 }
 );
-width = 1117;
+width = 1119;
 }
 );
 unicode = 317;

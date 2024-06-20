@@ -17,7 +17,7 @@ ref = "Ze-cy";
 ref = descender;
 }
 );
-width = 1128;
+width = 1118;
 },
 {
 anchors = (
@@ -166,7 +166,7 @@ pos = (-87,0);
 ref = descender;
 }
 );
-width = 1007;
+width = 987;
 },
 {
 anchors = (
@@ -185,7 +185,7 @@ pos = (-41,0);
 ref = descender;
 }
 );
-width = 1135;
+width = 1126;
 },
 {
 anchors = (

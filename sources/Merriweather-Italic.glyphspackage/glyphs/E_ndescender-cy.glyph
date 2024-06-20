@@ -151,11 +151,11 @@ shapes = (
 ref = H;
 },
 {
-pos = (996,0);
+pos = (998,0);
 ref = righttooth_part.;
 }
 );
-width = 1359;
+width = 1363;
 }
 );
 metricLeft = "Pe-cy";

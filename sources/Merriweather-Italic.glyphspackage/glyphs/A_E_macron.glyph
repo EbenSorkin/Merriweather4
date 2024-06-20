@@ -77,7 +77,7 @@ pos = (507,0);
 ref = macroncomb.case;
 }
 );
-width = 1859;
+width = 1849;
 },
 {
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
@@ -103,7 +103,7 @@ pos = (429,0);
 ref = macroncomb.case;
 }
 );
-width = 1990;
+width = 1989;
 },
 {
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
@@ -155,7 +155,7 @@ pos = (527,0);
 ref = macroncomb.case;
 }
 );
-width = 1736;
+width = 1734;
 }
 );
 unicode = 482;

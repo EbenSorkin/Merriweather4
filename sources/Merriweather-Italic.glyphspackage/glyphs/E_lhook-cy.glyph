@@ -636,7 +636,7 @@ nodes = (
 );
 }
 );
-width = 1345;
+width = 1347;
 }
 );
 metricLeft = "El-cy";

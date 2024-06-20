@@ -1178,4 +1178,7 @@ width = 1586;
 metricLeft = n;
 metricRight = n;
 unicode = 109;
+userData = {
+KernOnName = m;
+};
 }

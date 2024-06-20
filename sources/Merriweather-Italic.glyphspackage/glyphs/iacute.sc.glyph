@@ -159,6 +159,7 @@ width = 681;
 }
 );
 userData = {
+KernOnName = iacute.sc;
 KernOnSpecialSpacing = {
 L = smallcaps;
 R = smallcaps;

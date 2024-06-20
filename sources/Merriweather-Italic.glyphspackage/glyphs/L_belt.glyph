@@ -307,11 +307,11 @@ pos = (30,0);
 ref = L;
 },
 {
-pos = (-253,52);
+pos = (-251,52);
 ref = belt_part.;
 }
 );
-width = 1147;
+width = 1149;
 }
 );
 metricRight = L;

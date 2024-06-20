@@ -612,7 +612,7 @@ nodes = (
 );
 }
 );
-width = 1244;
+width = 1246;
 }
 );
 metricLeft = "=|Softsign-cy";

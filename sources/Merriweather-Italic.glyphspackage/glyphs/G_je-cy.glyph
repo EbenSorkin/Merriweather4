@@ -151,11 +151,11 @@ shapes = (
 ref = "Ge-cy";
 },
 {
-pos = (474,-2);
+pos = (476,-2);
 ref = acutecomb.case;
 }
 );
-width = 1014;
+width = 1016;
 }
 );
 unicode = 1027;

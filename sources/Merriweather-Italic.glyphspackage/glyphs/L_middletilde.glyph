@@ -153,11 +153,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (-297,179);
+pos = (-295,179);
 ref = asciitilde_part;
 }
 );
-width = 1117;
+width = 1119;
 }
 );
 unicode = 11362;

@@ -152,11 +152,11 @@ shapes = (
 ref = "Ge-cy";
 },
 {
-pos = (399,0);
+pos = (401,0);
 ref = righttooth_part.;
 }
 );
-width = 1014;
+width = 1016;
 }
 );
 metricLeft = "Ge-cy";

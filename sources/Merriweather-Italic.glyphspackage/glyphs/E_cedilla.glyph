@@ -271,11 +271,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (396,0);
+pos = (398,0);
 ref = cedillacomb.case;
 }
 );
-width = 1119;
+width = 1121;
 }
 );
 unicode = 552;

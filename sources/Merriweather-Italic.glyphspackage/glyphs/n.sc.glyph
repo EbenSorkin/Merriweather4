@@ -549,6 +549,7 @@ width = 1156;
 }
 );
 userData = {
+KernOnName = n.sc;
 KernOnSpecialSpacing = {
 L = smallcaps;
 R = smallcaps;

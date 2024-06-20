@@ -151,11 +151,11 @@ shapes = (
 ref = H;
 },
 {
-pos = (345,0);
+pos = (347,0);
 ref = dieresiscomb.case;
 }
 );
-width = 1359;
+width = 1363;
 }
 );
 unicode = 7718;
