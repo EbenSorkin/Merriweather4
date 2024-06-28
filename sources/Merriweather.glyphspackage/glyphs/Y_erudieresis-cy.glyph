@@ -61,7 +61,7 @@ shapes = (
 ref = "Yeru-cy";
 },
 {
-pos = (481,0);
+pos = (470,0);
 ref = dieresiscomb.case;
 }
 );

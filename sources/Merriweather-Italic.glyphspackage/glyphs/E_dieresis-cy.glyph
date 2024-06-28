@@ -96,12 +96,10 @@ width = 1298;
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
 shapes = (
 {
-alignment = -1;
 ref = "Ereversed-cy";
 },
 {
-alignment = -1;
-pos = (728,0);
+pos = (350,0);
 ref = dieresiscomb.case;
 }
 );

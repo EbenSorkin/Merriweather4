@@ -116,7 +116,7 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (107,182);
+pos = (108,182);
 ref = tildecomb;
 }
 );

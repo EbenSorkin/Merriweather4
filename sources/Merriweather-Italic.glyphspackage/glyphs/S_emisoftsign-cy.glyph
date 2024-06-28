@@ -1,12 +1,12 @@
 {
-color = 3;
+color = 4;
 glyphname = "Semisoftsign-cy";
 layers = (
 {
 anchors = (
 {
 name = top;
-pos = (436,1486);
+pos = (460,1486);
 }
 );
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -15,7 +15,7 @@ shapes = (
 ref = "Softsign-cy";
 },
 {
-pos = (40,584);
+pos = (-6,584);
 ref = strokelongcomb;
 }
 );
@@ -25,7 +25,7 @@ width = 1197;
 anchors = (
 {
 name = top;
-pos = (506,1486);
+pos = (513,1486);
 }
 );
 layerId = "27298932-82AF-4578-9425-6304FDB19058";
@@ -34,7 +34,7 @@ shapes = (
 ref = "Softsign-cy";
 },
 {
-pos = (48,584);
+pos = (-25,584);
 ref = strokelongcomb;
 }
 );
@@ -44,7 +44,7 @@ width = 1353;
 anchors = (
 {
 name = top;
-pos = (510,1486);
+pos = (521,1486);
 }
 );
 color = 10;
@@ -54,7 +54,7 @@ shapes = (
 ref = "Softsign-cy";
 },
 {
-pos = (34,584);
+pos = (-25,584);
 ref = strokelongcomb;
 }
 );
@@ -92,7 +92,7 @@ shapes = (
 ref = "Softsign-cy";
 },
 {
-pos = (20,584);
+pos = (-20,584);
 ref = strokelongcomb;
 }
 );
@@ -102,7 +102,7 @@ width = 1330;
 anchors = (
 {
 name = top;
-pos = (416,1486);
+pos = (425,1486);
 }
 );
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
@@ -111,7 +111,7 @@ shapes = (
 ref = "Softsign-cy";
 },
 {
-pos = (40,584);
+pos = (-11,584);
 ref = strokelongcomb;
 }
 );
@@ -140,7 +140,7 @@ width = 1401;
 anchors = (
 {
 name = top;
-pos = (407,1486);
+pos = (412,1486);
 }
 );
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
@@ -149,11 +149,11 @@ shapes = (
 ref = "Softsign-cy";
 },
 {
-pos = (-23,584);
+pos = (-18,584);
 ref = strokelongcomb;
 }
 );
-width = 1156;
+width = 1161;
 },
 {
 anchors = (
@@ -200,7 +200,7 @@ shapes = (
 ref = "Softsign-cy";
 },
 {
-pos = (150,584);
+pos = (-10,584);
 ref = strokelongcomb;
 }
 );
@@ -219,7 +219,7 @@ shapes = (
 ref = "Softsign-cy";
 },
 {
-pos = (140,584);
+pos = (10,584);
 ref = strokelongcomb;
 }
 );
@@ -238,7 +238,7 @@ shapes = (
 ref = "Softsign-cy";
 },
 {
-pos = (120,584);
+pos = (-20,584);
 ref = strokelongcomb;
 }
 );

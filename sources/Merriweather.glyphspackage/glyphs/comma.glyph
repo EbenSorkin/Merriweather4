@@ -515,6 +515,7 @@ width = 620;
 metricWidth = period;
 unicode = 44;
 userData = {
+KernOnName = comma;
 KernOnSpecialSpacing = {
 L = period;
 R = period;

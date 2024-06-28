@@ -4,7 +4,7 @@ layers = (
 {
 guides = (
 {
-pos = (-16148,-210);
+pos = (-16940,-210);
 }
 );
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -104,11 +104,11 @@ shapes = (
 ref = "Sha-cy";
 },
 {
-pos = (1666,0);
+pos = (1671,0);
 ref = righttooth_part.;
 }
 );
-width = 1988;
+width = 1998;
 },
 {
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";

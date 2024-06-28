@@ -88,11 +88,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (-361,194);
+pos = (-356,194);
 ref = asciitilde_part;
 }
 );
-width = 1158;
+width = 1163;
 },
 {
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";

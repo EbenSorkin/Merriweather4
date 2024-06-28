@@ -15,7 +15,7 @@ alignment = -1;
 ref = quoteleft;
 }
 );
-width = 909;
+width = 910;
 },
 {
 layerId = "27298932-82AF-4578-9425-6304FDB19058";
@@ -61,7 +61,7 @@ pos = (0,-2);
 ref = quoteleft;
 }
 );
-width = 888;
+width = 889;
 },
 {
 layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";

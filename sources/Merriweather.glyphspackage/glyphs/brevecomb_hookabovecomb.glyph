@@ -74,7 +74,7 @@ width = 622;
 anchors = (
 {
 name = _top;
-pos = (304,1112);
+pos = (513,1112);
 },
 {
 name = top;
@@ -91,7 +91,7 @@ pos = (293,411);
 ref = hookabovecomb;
 }
 );
-width = 688;
+width = 1038;
 },
 {
 anchors = (
@@ -283,4 +283,5 @@ ref = hookabovecomb;
 width = 788;
 }
 );
+metricRight = "=|";
 }

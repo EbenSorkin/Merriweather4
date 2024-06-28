@@ -60,7 +60,7 @@ shapes = (
 ref = "Zhe-cy";
 },
 {
-pos = (497,0);
+pos = (486,0);
 ref = dieresiscomb.case;
 }
 );

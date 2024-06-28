@@ -124,12 +124,11 @@ pos = (202,0);
 ref = _Hhook.part;
 },
 {
-alignment = -1;
-pos = (-93,0);
+pos = (-48,0);
 ref = _hook.part;
 }
 );
-width = 1623;
+width = 1628;
 },
 {
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
@@ -140,8 +139,7 @@ pos = (311,0);
 ref = _Hhook.part;
 },
 {
-alignment = -1;
-pos = (-93,0);
+pos = (-31,0);
 ref = _hook.part;
 }
 );

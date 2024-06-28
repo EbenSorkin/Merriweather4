@@ -31,16 +31,14 @@ width = 1005;
 layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
 shapes = (
 {
-alignment = -1;
 ref = z;
 },
 {
-alignment = -1;
-pos = (564,0);
+pos = (191,0);
 ref = dotbelowcomb;
 }
 );
-width = 1005;
+width = 1060;
 },
 {
 layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";

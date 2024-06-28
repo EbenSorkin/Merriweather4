@@ -47,7 +47,7 @@ shapes = (
 ref = n.sc;
 },
 {
-pos = (294,182);
+pos = (284,182);
 ref = tildecomb;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = n.sc;
 },
 {
-pos = (235,182);
+pos = (236,182);
 ref = tildecomb;
 }
 );

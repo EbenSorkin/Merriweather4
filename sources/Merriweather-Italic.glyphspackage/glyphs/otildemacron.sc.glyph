@@ -144,11 +144,11 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (158,182);
+pos = (159,182);
 ref = tildecomb;
 },
 {
-pos = (392,512);
+pos = (397,515);
 ref = macroncomb;
 }
 );

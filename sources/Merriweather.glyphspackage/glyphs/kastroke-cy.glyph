@@ -53,7 +53,7 @@ nodes = (
 ref = k;
 }
 );
-width = 1246;
+width = 1236;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";

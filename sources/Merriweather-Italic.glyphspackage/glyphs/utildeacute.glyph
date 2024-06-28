@@ -144,11 +144,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (112,0);
+pos = (113,0);
 ref = tildecomb;
 },
 {
-pos = (523,330);
+pos = (528,333);
 ref = acutecomb;
 }
 );

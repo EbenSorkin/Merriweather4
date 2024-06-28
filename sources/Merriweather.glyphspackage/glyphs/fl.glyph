@@ -14,11 +14,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (730,0);
+pos = (797,0);
 ref = l;
 }
 );
-width = 1329;
+width = 1396;
 },
 {
 anchors = (
@@ -33,11 +33,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (828,0);
+pos = (881,0);
 ref = l;
 }
 );
-width = 1496;
+width = 1549;
 },
 {
 anchors = (
@@ -52,11 +52,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (637,0);
+pos = (763,0);
 ref = l;
 }
 );
-width = 1199;
+width = 1325;
 },
 {
 anchors = (
@@ -71,11 +71,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (731,0);
+pos = (766,0);
 ref = l;
 }
 );
-width = 1304;
+width = 1339;
 },
 {
 anchors = (
@@ -90,11 +90,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (693,0);
+pos = (725,0);
 ref = l;
 }
 );
-width = 1225;
+width = 1257;
 },
 {
 anchors = (
@@ -109,11 +109,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (592,0);
+pos = (624,0);
 ref = l;
 }
 );
-width = 1122;
+width = 1154;
 },
 {
 anchors = (
@@ -166,11 +166,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (671,0);
+pos = (706,0);
 ref = l;
 }
 );
-width = 1259;
+width = 1294;
 },
 {
 anchors = (
@@ -204,14 +204,14 @@ shapes = (
 ref = f;
 },
 {
-pos = (766,0);
+pos = (786,0);
 ref = l;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1377;
+width = 1397;
 },
 {
 anchors = (
@@ -226,11 +226,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (838,0);
+pos = (888,0);
 ref = l;
 }
 );
-width = 1538;
+width = 1588;
 }
 );
 unicode = 64258;

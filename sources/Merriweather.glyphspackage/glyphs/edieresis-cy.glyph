@@ -77,7 +77,7 @@ pos = (-11,0);
 ref = dieresiscomb;
 }
 );
-width = 877;
+width = 884;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -116,7 +116,7 @@ pos = (81,0);
 ref = dieresiscomb;
 }
 );
-width = 1021;
+width = 1037;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";

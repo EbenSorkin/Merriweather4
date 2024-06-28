@@ -116,7 +116,7 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (-99,182);
+pos = (-98,182);
 ref = tildecomb;
 }
 );

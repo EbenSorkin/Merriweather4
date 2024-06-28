@@ -104,11 +104,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (-6,-19);
+pos = (-1,-19);
 ref = Ibar_part.;
 }
 );
-width = 1360;
+width = 1365;
 },
 {
 color = 4;

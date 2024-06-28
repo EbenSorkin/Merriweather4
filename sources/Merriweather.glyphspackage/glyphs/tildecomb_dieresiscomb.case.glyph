@@ -35,7 +35,7 @@ shapes = (
 ref = tildecomb.case;
 },
 {
-pos = (2,338);
+pos = (-9,338);
 ref = dieresiscomb.case;
 }
 );

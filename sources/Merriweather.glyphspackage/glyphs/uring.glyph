@@ -126,7 +126,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (165,0);
+pos = (185,0);
 ref = ringcomb;
 }
 );

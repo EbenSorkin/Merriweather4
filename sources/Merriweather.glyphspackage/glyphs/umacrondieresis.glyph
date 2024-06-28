@@ -161,11 +161,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (111,0);
+pos = (131,0);
 ref = macroncomb;
 },
 {
-pos = (243,202);
+pos = (263,202);
 ref = dieresiscomb;
 }
 );

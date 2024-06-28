@@ -179,11 +179,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (351,0);
+pos = (356,0);
 ref = cedillacomb.case;
 }
 );
-width = 1214;
+width = 1219;
 },
 {
 anchors = (

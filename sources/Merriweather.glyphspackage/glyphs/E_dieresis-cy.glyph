@@ -60,7 +60,7 @@ shapes = (
 ref = "Ereversed-cy";
 },
 {
-pos = (159,-3);
+pos = (148,-3);
 ref = dieresiscomb.case;
 }
 );

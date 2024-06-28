@@ -250,11 +250,11 @@ layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
 shapes = (
 {
 alignment = -1;
-pos = (388,0);
+pos = (380,0);
 ref = _Bhook.part;
 },
 {
-pos = (-56,0);
+pos = (-64,0);
 ref = _hook.part;
 }
 );

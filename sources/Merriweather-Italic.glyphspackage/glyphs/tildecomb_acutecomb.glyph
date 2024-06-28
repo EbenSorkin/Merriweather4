@@ -112,7 +112,7 @@ shapes = (
 ref = tildecomb;
 },
 {
-pos = (411,330);
+pos = (415,333);
 ref = acutecomb;
 }
 );

@@ -100,11 +100,11 @@ shapes = (
 ref = P;
 },
 {
-pos = (18,58);
+pos = (23,58);
 ref = ptick_part.;
 }
 );
-width = 1110;
+width = 1115;
 },
 {
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";

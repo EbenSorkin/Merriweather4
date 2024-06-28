@@ -70,16 +70,14 @@ width = 636;
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
 shapes = (
 {
-alignment = -1;
 ref = t;
 },
 {
-alignment = -1;
-pos = (293,161);
+pos = (27,237);
 ref = dieresiscomb;
 }
 );
-width = 571;
+width = 582;
 },
 {
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";

@@ -29,7 +29,7 @@ pos = (208,0);
 ref = tildecomb;
 },
 {
-pos = (193,393);
+pos = (193,413);
 ref = dieresiscomb;
 }
 );
@@ -165,7 +165,7 @@ pos = (242,0);
 ref = tildecomb;
 },
 {
-pos = (247,319);
+pos = (257,299);
 ref = dieresiscomb;
 }
 );

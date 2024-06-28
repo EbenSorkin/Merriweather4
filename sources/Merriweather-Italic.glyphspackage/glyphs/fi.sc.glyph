@@ -21,11 +21,11 @@ shapes = (
 ref = f.sc;
 },
 {
-pos = (1168,0);
+pos = (1163,0);
 ref = i.sc;
 }
 );
-width = 1898;
+width = 1893;
 },
 {
 layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
@@ -34,11 +34,11 @@ shapes = (
 ref = f.sc;
 },
 {
-pos = (1145,0);
+pos = (1123,0);
 ref = i.sc;
 }
 );
-width = 1761;
+width = 1739;
 },
 {
 layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
@@ -47,11 +47,11 @@ shapes = (
 ref = f.sc;
 },
 {
-pos = (1266,0);
+pos = (1247,0);
 ref = i.sc;
 }
 );
-width = 2028;
+width = 2009;
 },
 {
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
@@ -60,27 +60,14 @@ shapes = (
 ref = f.sc;
 },
 {
-pos = (967,0);
+pos = (935,0);
 ref = i.sc;
 }
 );
-width = 1503;
+width = 1471;
 },
 {
 layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
-shapes = (
-{
-ref = f.sc;
-},
-{
-pos = (1059,0);
-ref = i.sc;
-}
-);
-width = 1752;
-},
-{
-layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
 shapes = (
 {
 ref = f.sc;
@@ -90,7 +77,20 @@ pos = (1031,0);
 ref = i.sc;
 }
 );
-width = 1616;
+width = 1724;
+},
+{
+layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
+shapes = (
+{
+ref = f.sc;
+},
+{
+pos = (1027,0);
+ref = i.sc;
+}
+);
+width = 1612;
 },
 {
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
@@ -99,11 +99,11 @@ shapes = (
 ref = f.sc;
 },
 {
-pos = (1152,0);
+pos = (1113,0);
 ref = i.sc;
 }
 );
-width = 1829;
+width = 1790;
 },
 {
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
@@ -112,11 +112,11 @@ shapes = (
 ref = f.sc;
 },
 {
-pos = (986,0);
+pos = (959,0);
 ref = i.sc;
 }
 );
-width = 1611;
+width = 1584;
 },
 {
 layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
@@ -125,11 +125,11 @@ shapes = (
 ref = f.sc;
 },
 {
-pos = (1026,0);
+pos = (1019,0);
 ref = i.sc;
 }
 );
-width = 1760;
+width = 1753;
 },
 {
 layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
@@ -138,11 +138,11 @@ shapes = (
 ref = f.sc;
 },
 {
-pos = (850,0);
+pos = (842,0);
 ref = i.sc;
 }
 );
-width = 1352;
+width = 1344;
 },
 {
 layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
@@ -151,11 +151,11 @@ shapes = (
 ref = f.sc;
 },
 {
-pos = (1004,0);
+pos = (954,0);
 ref = i.sc;
 }
 );
-width = 1685;
+width = 1635;
 }
 );
 userData = {

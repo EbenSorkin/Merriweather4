@@ -14,11 +14,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (730,0);
+pos = (766,0);
 ref = i;
 }
 );
-width = 1354;
+width = 1390;
 },
 {
 anchors = (
@@ -52,11 +52,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (637,0);
+pos = (674,0);
 ref = i;
 }
 );
-width = 1217;
+width = 1254;
 },
 {
 anchors = (
@@ -71,11 +71,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (792,0);
+pos = (731,0);
 ref = i;
 }
 );
-width = 1403;
+width = 1342;
 },
 {
 anchors = (
@@ -90,11 +90,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (720,0);
+pos = (713,0);
 ref = i;
 }
 );
-width = 1233;
+width = 1226;
 },
 {
 anchors = (
@@ -109,11 +109,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (592,0);
+pos = (649,0);
 ref = i;
 }
 );
-width = 1113;
+width = 1170;
 },
 {
 anchors = (
@@ -147,11 +147,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (590,0);
+pos = (586,0);
 ref = i;
 }
 );
-width = 1054;
+width = 1050;
 },
 {
 anchors = (
@@ -166,11 +166,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (671,0);
+pos = (718,0);
 ref = i;
 }
 );
-width = 1261;
+width = 1308;
 },
 {
 anchors = (
@@ -185,11 +185,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (624,0);
+pos = (622,0);
 ref = i;
 }
 );
-width = 1090;
+width = 1088;
 },
 {
 anchors = (
@@ -204,14 +204,14 @@ shapes = (
 ref = f;
 },
 {
-pos = (766,0);
+pos = (777,0);
 ref = i;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1390;
+width = 1401;
 },
 {
 anchors = (

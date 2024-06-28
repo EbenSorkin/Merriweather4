@@ -86,11 +86,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (-81,187);
+pos = (-76,187);
 ref = strokeshortcomb;
 }
 );
-width = 1158;
+width = 1163;
 },
 {
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";

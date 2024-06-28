@@ -61,7 +61,7 @@ shapes = (
 ref = macroncomb.case;
 },
 {
-pos = (-30,255);
+pos = (-41,255);
 ref = dieresiscomb.case;
 }
 );

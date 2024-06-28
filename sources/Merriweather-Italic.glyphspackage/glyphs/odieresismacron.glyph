@@ -9,11 +9,7 @@ ref = o;
 },
 {
 pos = (274,0);
-ref = dieresiscomb;
-},
-{
-pos = (353,309);
-ref = macroncomb;
+ref = dieresiscomb_macroncomb;
 }
 );
 width = 1122;
@@ -26,11 +22,7 @@ ref = o;
 },
 {
 pos = (201,0);
-ref = dieresiscomb;
-},
-{
-pos = (349,379);
-ref = macroncomb;
+ref = dieresiscomb_macroncomb;
 }
 );
 width = 1174;
@@ -43,11 +35,7 @@ ref = o;
 },
 {
 pos = (248,0);
-ref = dieresiscomb;
-},
-{
-pos = (396,379);
-ref = macroncomb;
+ref = dieresiscomb_macroncomb;
 }
 );
 width = 1267;
@@ -60,11 +48,7 @@ ref = o;
 },
 {
 pos = (313,0);
-ref = dieresiscomb;
-},
-{
-pos = (384,309);
-ref = macroncomb;
+ref = dieresiscomb_macroncomb;
 }
 );
 width = 1184;
@@ -77,11 +61,7 @@ ref = o;
 },
 {
 pos = (183,0);
-ref = dieresiscomb;
-},
-{
-pos = (314,451);
-ref = macroncomb;
+ref = dieresiscomb_macroncomb;
 }
 );
 width = 1092;
@@ -94,11 +74,7 @@ ref = o;
 },
 {
 pos = (208,0);
-ref = dieresiscomb;
-},
-{
-pos = (268,304);
-ref = macroncomb;
+ref = dieresiscomb_macroncomb;
 }
 );
 width = 988;
@@ -111,11 +87,7 @@ ref = o;
 },
 {
 pos = (221,0);
-ref = dieresiscomb;
-},
-{
-pos = (353,451);
-ref = macroncomb;
+ref = dieresiscomb_macroncomb;
 }
 );
 width = 1159;
@@ -128,11 +100,7 @@ ref = o;
 },
 {
 pos = (208,0);
-ref = dieresiscomb;
-},
-{
-pos = (268,304);
-ref = macroncomb;
+ref = dieresiscomb_macroncomb;
 }
 );
 width = 986;
@@ -145,11 +113,7 @@ ref = o;
 },
 {
 pos = (239,0);
-ref = dieresiscomb;
-},
-{
-pos = (301,309);
-ref = macroncomb;
+ref = dieresiscomb_macroncomb;
 }
 );
 width = 1021;
@@ -162,11 +126,7 @@ ref = o;
 },
 {
 pos = (135,0);
-ref = dieresiscomb;
-},
-{
-pos = (283,379);
-ref = macroncomb;
+ref = dieresiscomb_macroncomb;
 }
 );
 width = 1048;
@@ -179,11 +139,7 @@ ref = o;
 },
 {
 pos = (188,0);
-ref = dieresiscomb;
-},
-{
-pos = (245,304);
-ref = macroncomb;
+ref = dieresiscomb_macroncomb;
 }
 );
 width = 939;
@@ -196,11 +152,7 @@ ref = o;
 },
 {
 pos = (132,0);
-ref = dieresiscomb;
-},
-{
-pos = (264,451);
-ref = macroncomb;
+ref = dieresiscomb_macroncomb;
 }
 );
 width = 990;

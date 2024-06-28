@@ -21,7 +21,7 @@ shapes = (
 ref = tildecomb;
 },
 {
-pos = (-113,394);
+pos = (-113,414);
 ref = macroncomb;
 }
 );
@@ -140,7 +140,7 @@ shapes = (
 ref = tildecomb;
 },
 {
-pos = (-127,319);
+pos = (-117,299);
 ref = macroncomb;
 }
 );

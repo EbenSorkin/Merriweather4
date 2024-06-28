@@ -48,7 +48,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (330,180);
+pos = (121,180);
 ref = brevecomb_hookabovecomb;
 }
 );

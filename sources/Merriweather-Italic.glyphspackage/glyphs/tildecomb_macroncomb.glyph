@@ -60,7 +60,7 @@ shapes = (
 ref = tildecomb;
 },
 {
-pos = (234,330);
+pos = (238,333);
 ref = macroncomb;
 }
 );

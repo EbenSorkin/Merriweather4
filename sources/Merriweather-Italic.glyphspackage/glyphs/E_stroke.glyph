@@ -86,11 +86,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (208,31);
+pos = (213,31);
 ref = UCEslash_part.;
 }
 );
-width = 1214;
+width = 1219;
 },
 {
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
