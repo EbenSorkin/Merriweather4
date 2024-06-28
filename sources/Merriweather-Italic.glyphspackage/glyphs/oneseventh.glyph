@@ -12,11 +12,11 @@ pos = (591,0);
 ref = fraction;
 },
 {
-pos = (969,0);
+pos = (1002,0);
 ref = seven.dnom;
 }
 );
-width = 1717;
+width = 1750;
 },
 {
 layerId = "27298932-82AF-4578-9425-6304FDB19058";
@@ -29,11 +29,11 @@ pos = (631,0);
 ref = fraction;
 },
 {
-pos = (1036,0);
+pos = (1038,0);
 ref = seven.dnom;
 }
 );
-width = 1792;
+width = 1794;
 },
 {
 layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
@@ -59,15 +59,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (613,0);
+pos = (623,0);
 ref = fraction;
 },
 {
-pos = (991,0);
+pos = (1034,0);
 ref = seven.dnom;
 }
 );
-width = 1739;
+width = 1782;
 },
 {
 layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
@@ -76,15 +76,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (631,0);
+pos = (600,0);
 ref = fraction;
 },
 {
-pos = (1036,0);
+pos = (960,0);
 ref = seven.dnom;
 }
 );
-width = 1776;
+width = 1700;
 },
 {
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
@@ -97,11 +97,11 @@ pos = (583,0);
 ref = fraction;
 },
 {
-pos = (961,0);
+pos = (951,0);
 ref = seven.dnom;
 }
 );
-width = 1696;
+width = 1686;
 },
 {
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
@@ -110,15 +110,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (631,0);
+pos = (614,0);
 ref = fraction;
 },
 {
-pos = (1036,0);
+pos = (972,0);
 ref = seven.dnom;
 }
 );
-width = 1816;
+width = 1752;
 },
 {
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
@@ -131,11 +131,11 @@ pos = (609,0);
 ref = fraction;
 },
 {
-pos = (987,0);
+pos = (981,0);
 ref = seven.dnom;
 }
 );
-width = 1735;
+width = 1729;
 },
 {
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
@@ -148,11 +148,11 @@ pos = (552,0);
 ref = fraction;
 },
 {
-pos = (930,0);
+pos = (968,0);
 ref = seven.dnom;
 }
 );
-width = 1637;
+width = 1675;
 },
 {
 layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
@@ -182,11 +182,11 @@ pos = (545,0);
 ref = fraction;
 },
 {
-pos = (923,0);
+pos = (904,0);
 ref = seven.dnom;
 }
 );
-width = 1671;
+width = 1652;
 },
 {
 layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
@@ -195,15 +195,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (631,0);
+pos = (586,0);
 ref = fraction;
 },
 {
-pos = (1036,0);
+pos = (949,0);
 ref = seven.dnom;
 }
 );
-width = 1774;
+width = 1687;
 }
 );
 metricLeft = one.numr;

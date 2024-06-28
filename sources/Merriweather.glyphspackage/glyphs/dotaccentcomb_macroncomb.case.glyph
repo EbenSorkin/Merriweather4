@@ -10,7 +10,7 @@ alignment = 1;
 ref = dotaccentcomb.case;
 },
 {
-pos = (-144,320);
+pos = (-136,305);
 ref = macroncomb.case;
 }
 );
@@ -24,7 +24,7 @@ alignment = 1;
 ref = dotaccentcomb.case;
 },
 {
-pos = (-133,392);
+pos = (-132,402);
 ref = macroncomb.case;
 }
 );
@@ -38,7 +38,7 @@ alignment = 1;
 ref = dotaccentcomb.case;
 },
 {
-pos = (-152,297);
+pos = (-152,267);
 ref = macroncomb.case;
 }
 );
@@ -66,7 +66,7 @@ alignment = 1;
 ref = dotaccentcomb.case;
 },
 {
-pos = (-125,285);
+pos = (-125,305);
 ref = macroncomb.case;
 }
 );
@@ -80,7 +80,7 @@ alignment = 1;
 ref = dotaccentcomb.case;
 },
 {
-pos = (-84,392);
+pos = (-82,402);
 ref = macroncomb.case;
 }
 );
@@ -94,7 +94,7 @@ alignment = 1;
 ref = dotaccentcomb.case;
 },
 {
-pos = (-137,289);
+pos = (-133,267);
 ref = macroncomb.case;
 }
 );
@@ -122,7 +122,7 @@ alignment = 1;
 ref = dotaccentcomb.case;
 },
 {
-pos = (-165,317);
+pos = (-155,305);
 ref = macroncomb.case;
 }
 );
@@ -136,7 +136,7 @@ alignment = 1;
 ref = dotaccentcomb.case;
 },
 {
-pos = (-143,387);
+pos = (-142,402);
 ref = macroncomb.case;
 }
 );
@@ -150,7 +150,7 @@ alignment = 1;
 ref = dotaccentcomb.case;
 },
 {
-pos = (-177,288);
+pos = (-169,267);
 ref = macroncomb.case;
 }
 );

@@ -99,11 +99,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (-146,0);
+pos = (-145,0);
 ref = macroncomb.case;
 }
 );
-width = 542;
+width = 554;
 },
 {
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";

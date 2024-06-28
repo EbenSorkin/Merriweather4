@@ -12,15 +12,15 @@ pos = (18,0);
 ref = acutecomb;
 },
 {
-pos = (561,0);
+pos = (560,0);
 ref = jdotless;
 },
 {
-pos = (576,0);
+pos = (575,0);
 ref = acutecomb;
 }
 );
-width = 1185;
+width = 1184;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -54,15 +54,15 @@ pos = (55,0);
 ref = acutecomb;
 },
 {
-pos = (572,0);
+pos = (573,0);
 ref = jdotless;
 },
 {
-pos = (607,0);
+pos = (608,0);
 ref = acutecomb;
 }
 );
-width = 1152;
+width = 1153;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -96,15 +96,15 @@ pos = (72,0);
 ref = acutecomb;
 },
 {
-pos = (511,0);
+pos = (501,0);
 ref = jdotless;
 },
 {
-pos = (573,0);
+pos = (563,0);
 ref = acutecomb;
 }
 );
-width = 1024;
+width = 1014;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -159,15 +159,15 @@ pos = (19,0);
 ref = acutecomb;
 },
 {
-pos = (442,0);
+pos = (438,0);
 ref = jdotless;
 },
 {
-pos = (440,0);
+pos = (436,0);
 ref = acutecomb;
 }
 );
-width = 906;
+width = 902;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -180,15 +180,15 @@ pos = (119,0);
 ref = acutecomb;
 },
 {
-pos = (614,0);
+pos = (590,0);
 ref = jdotless;
 },
 {
-pos = (723,0);
+pos = (699,0);
 ref = acutecomb;
 }
 );
-width = 1204;
+width = 1180;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -222,18 +222,18 @@ pos = (77,0);
 ref = acutecomb;
 },
 {
-pos = (546,0);
+pos = (547,0);
 ref = jdotless;
 },
 {
-pos = (613,0);
+pos = (614,0);
 ref = acutecomb;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1170;
+width = 1171;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -246,15 +246,15 @@ pos = (58,0);
 ref = acutecomb;
 },
 {
-pos = (670,0);
+pos = (667,0);
 ref = jdotless;
 },
 {
-pos = (705,0);
+pos = (702,0);
 ref = acutecomb;
 }
 );
-width = 1382;
+width = 1379;
 }
 );
 }

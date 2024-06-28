@@ -8,7 +8,7 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (662,0);
+pos = (604,0);
 ref = o.sc;
 },
 {
@@ -44,7 +44,7 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (487,0);
+pos = (489,0);
 ref = o.sc;
 },
 {
@@ -98,7 +98,7 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (691,0);
+pos = (690,0);
 ref = o.sc;
 },
 {
@@ -170,7 +170,7 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (717,0);
+pos = (716,0);
 ref = o.sc;
 },
 {
@@ -188,7 +188,7 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (525,0);
+pos = (527,0);
 ref = o.sc;
 },
 {

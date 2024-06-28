@@ -60,7 +60,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-21,0);
+pos = (29,0);
 ref = tildebelowcomb;
 }
 );

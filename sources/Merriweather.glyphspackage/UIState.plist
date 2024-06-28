@@ -1,95 +1,27 @@
 {
 displayStrings = (
-"
-nigid 
-ni/f.sc/fl.sc id 
-TEHRODIV 
-niuid 
-TEHCRDIV 
-nirid 
--1
-\".r-",
-"\".
-‘h
-y'
-
--1y.o.
--Ч‘h1.n'
-r\"",
-"y'
--1
-r-
--т
-
--C
--T
-'h
-nixid 
-g-
-\"M
-r:
-TEHPUDIV 
-Evider 
-niuuid 
-TEHEZDIV 
-TEHCHDIV TEHCRDIV 
-niuuid niuid 
-nisid 
-Hider 
-niyfid 
-nierid 
-nierid Thider 
-«С
-nieuid 
-z,
-nitaid 
-nigaid 
-Grider 
-nizoid 
-TEHSMDIV 
-ni/fi.sc/s.sc id 
-TEHSDIV 
-TEHLTDIV 
-niglid 
-t'
-Meider 
-TEHCCDIV 
-nitid 
-d:
-n;
-d'
-Krider 
-nilpid 
-81
-47
-Juider 
-ni/f.sc/fl.sc id 
-Ifider 
-30
-D.
-TEHNDIV 
-Vaider 
-niexid 
-TEHIXDIV 
--1
-Isider 
-Jider 
-nielid 
-42
-10
-niozid 
-91
-nissid 
-nintid 
-nitsid 
-‘h
-Etider 
-nicaid 
-nitfid 
-niccid ",
-"HC
-UD
-II
-"
+"Ҕ",
+"Ђ",
+"ҔЂҦ",
+"Ӟ",
+"Ӹ",
+"hḥ",
+i,
+"̣̇",
+"̆̃/brevecomb_tildecomb/abrevetilde.sc",
+"/a.sc/brevecomb_hookabovecomb ̆/brevecomb_hookabovecomb/abrevehookabove.sc",
+"̆/brevecomb_acutecomb ắ",
+"a/brevecomb_acutecomb ắ",
+"̰ḭ",
+"̰ḭ",
+"̰ḭ",
+"ḻ",
+"Ṍ",
+"/dieresiscomb.case Ǟ",
+"/dotaccentcomb.case/dotaccentcomb_macroncomb.case Ǡ",
+"C/circumflexcomb.case Ĉ",
+F,
+"/dieresiscomb.case ǞǠ",
+"/glongbar_part. ǥ"
 );
 }

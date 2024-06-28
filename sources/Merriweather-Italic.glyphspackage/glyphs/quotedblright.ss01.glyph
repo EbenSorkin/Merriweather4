@@ -7,12 +7,11 @@ layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
 shapes = (
 {
 alignment = -1;
-pos = (4,0);
 ref = quoteright.ss01;
 },
 {
 alignment = -1;
-pos = (384,-2);
+pos = (380,-2);
 ref = quoteright.ss01;
 }
 );
@@ -54,12 +53,11 @@ layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
 shapes = (
 {
 alignment = -1;
-pos = (4,0);
 ref = quoteright.ss01;
 },
 {
 alignment = -1;
-pos = (389,8);
+pos = (385,8);
 ref = quoteright.ss01;
 }
 );
@@ -130,12 +128,11 @@ layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
 shapes = (
 {
 alignment = -1;
-pos = (4,0);
 ref = quoteright.ss01;
 },
 {
 alignment = -1;
-pos = (389,-2);
+pos = (385,-2);
 ref = quoteright.ss01;
 }
 );

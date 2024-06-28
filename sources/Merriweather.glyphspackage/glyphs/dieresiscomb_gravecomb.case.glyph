@@ -9,7 +9,7 @@ alignment = 1;
 ref = dieresiscomb.case;
 },
 {
-pos = (-24,332);
+pos = (-23,312);
 ref = gravecomb.case;
 }
 );
@@ -23,7 +23,7 @@ alignment = 1;
 ref = dieresiscomb.case;
 },
 {
-pos = (64,407);
+pos = (64,404);
 ref = gravecomb.case;
 }
 );
@@ -37,7 +37,7 @@ alignment = 1;
 ref = dieresiscomb.case;
 },
 {
-pos = (21,332);
+pos = (31,312);
 ref = gravecomb.case;
 }
 );
@@ -65,7 +65,7 @@ alignment = 1;
 ref = dieresiscomb.case;
 },
 {
-pos = (-44,332);
+pos = (-44,312);
 ref = gravecomb.case;
 }
 );
@@ -79,7 +79,7 @@ alignment = 1;
 ref = dieresiscomb.case;
 },
 {
-pos = (40,407);
+pos = (44,404);
 ref = gravecomb.case;
 }
 );
@@ -93,7 +93,7 @@ alignment = 1;
 ref = dieresiscomb.case;
 },
 {
-pos = (-63,288);
+pos = (-64,276);
 ref = gravecomb.case;
 }
 );
@@ -107,7 +107,7 @@ alignment = 1;
 ref = dieresiscomb.case;
 },
 {
-pos = (-30,402);
+pos = (-30,392);
 ref = gravecomb.case;
 }
 );
@@ -121,7 +121,7 @@ alignment = 1;
 ref = dieresiscomb.case;
 },
 {
-pos = (-84,288);
+pos = (-84,276);
 ref = gravecomb.case;
 }
 );
@@ -135,7 +135,7 @@ alignment = 1;
 ref = dieresiscomb.case;
 },
 {
-pos = (-23,370);
+pos = (-23,377);
 ref = gravecomb.case;
 }
 );
@@ -149,7 +149,7 @@ alignment = 1;
 ref = dieresiscomb.case;
 },
 {
-pos = (-59,288);
+pos = (-59,276);
 ref = gravecomb.case;
 }
 );
@@ -163,7 +163,7 @@ alignment = 1;
 ref = dieresiscomb.case;
 },
 {
-pos = (-15,402);
+pos = (-15,392);
 ref = gravecomb.case;
 }
 );

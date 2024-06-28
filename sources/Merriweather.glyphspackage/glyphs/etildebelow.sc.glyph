@@ -61,7 +61,7 @@ shapes = (
 ref = e.sc;
 },
 {
-pos = (205,0);
+pos = (255,0);
 ref = tildebelowcomb;
 }
 );

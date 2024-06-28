@@ -87,7 +87,7 @@ shapes = (
 ref = h;
 },
 {
-pos = (359,0);
+pos = (372,0);
 ref = dotbelowcomb;
 }
 );
@@ -100,7 +100,7 @@ shapes = (
 ref = h;
 },
 {
-pos = (406,0);
+pos = (411,0);
 ref = dotbelowcomb;
 }
 );
@@ -126,7 +126,7 @@ shapes = (
 ref = h;
 },
 {
-pos = (435,0);
+pos = (444,0);
 ref = dotbelowcomb;
 }
 );

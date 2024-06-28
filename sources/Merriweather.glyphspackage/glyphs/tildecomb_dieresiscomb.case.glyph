@@ -32,14 +32,15 @@ width = 1120;
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
 shapes = (
 {
+pos = (9,0);
 ref = tildecomb.case;
 },
 {
-pos = (-9,338);
+pos = (0,338);
 ref = dieresiscomb.case;
 }
 );
-width = 772;
+width = 790;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";

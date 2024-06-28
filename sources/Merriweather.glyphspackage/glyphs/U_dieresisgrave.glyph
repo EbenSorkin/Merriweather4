@@ -13,7 +13,7 @@ pos = (284,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (260,332);
+pos = (261,312);
 ref = gravecomb.case;
 }
 );
@@ -31,7 +31,7 @@ pos = (195,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (259,407);
+pos = (259,404);
 ref = gravecomb.case;
 }
 );
@@ -49,7 +49,7 @@ pos = (264,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (285,332);
+pos = (295,312);
 ref = gravecomb.case;
 }
 );
@@ -85,7 +85,7 @@ pos = (385,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (341,332);
+pos = (341,312);
 ref = gravecomb.case;
 }
 );
@@ -103,7 +103,7 @@ pos = (239,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (279,407);
+pos = (283,404);
 ref = gravecomb.case;
 }
 );
@@ -120,7 +120,7 @@ pos = (280,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (217,288);
+pos = (216,276);
 ref = gravecomb.case;
 }
 );
@@ -138,7 +138,7 @@ pos = (250,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (220,402);
+pos = (220,392);
 ref = gravecomb.case;
 }
 );
@@ -156,7 +156,7 @@ pos = (278,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (194,288);
+pos = (194,276);
 ref = gravecomb.case;
 }
 );
@@ -174,7 +174,7 @@ pos = (220,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (197,370);
+pos = (197,377);
 ref = gravecomb.case;
 }
 );
@@ -192,7 +192,7 @@ pos = (293,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (234,288);
+pos = (234,276);
 ref = gravecomb.case;
 }
 );
@@ -210,7 +210,7 @@ pos = (313,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (298,402);
+pos = (298,392);
 ref = gravecomb.case;
 }
 );

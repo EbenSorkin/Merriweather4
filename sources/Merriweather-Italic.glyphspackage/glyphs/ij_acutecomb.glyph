@@ -117,15 +117,15 @@ pos = (184,0);
 ref = acutecomb;
 },
 {
-pos = (427,0);
+pos = (430,0);
 ref = jdotless;
 },
 {
-pos = (615,0);
+pos = (618,0);
 ref = acutecomb;
 }
 );
-width = 850;
+width = 853;
 },
 {
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";

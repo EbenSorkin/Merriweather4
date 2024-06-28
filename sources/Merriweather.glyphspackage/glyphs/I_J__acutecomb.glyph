@@ -34,15 +34,15 @@ pos = (133,0);
 ref = acutecomb.case;
 },
 {
-pos = (813,0);
+pos = (811,0);
 ref = J;
 },
 {
-pos = (946,0);
+pos = (944,0);
 ref = acutecomb.case;
 }
 );
-width = 1645;
+width = 1643;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -76,15 +76,15 @@ pos = (86,0);
 ref = acutecomb.case;
 },
 {
-pos = (775,0);
+pos = (773,0);
 ref = J;
 },
 {
-pos = (861,0);
+pos = (859,0);
 ref = acutecomb.case;
 }
 );
-width = 1502;
+width = 1500;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -118,15 +118,15 @@ pos = (119,0);
 ref = acutecomb.case;
 },
 {
-pos = (685,0);
+pos = (684,0);
 ref = J;
 },
 {
-pos = (804,0);
+pos = (803,0);
 ref = acutecomb.case;
 }
 );
-width = 1354;
+width = 1353;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -139,15 +139,15 @@ pos = (70,0);
 ref = acutecomb.case;
 },
 {
-pos = (512,0);
+pos = (513,0);
 ref = J;
 },
 {
-pos = (582,0);
+pos = (583,0);
 ref = acutecomb.case;
 }
 );
-width = 1008;
+width = 1009;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -160,15 +160,15 @@ pos = (62,0);
 ref = acutecomb.case;
 },
 {
-pos = (544,0);
+pos = (545,0);
 ref = J;
 },
 {
-pos = (589,0);
+pos = (590,0);
 ref = acutecomb.case;
 }
 );
-width = 1051;
+width = 1052;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -181,15 +181,15 @@ pos = (187,0);
 ref = acutecomb.case;
 },
 {
-pos = (781,0);
+pos = (782,0);
 ref = J;
 },
 {
-pos = (958,0);
+pos = (959,0);
 ref = acutecomb.case;
 }
 );
-width = 1513;
+width = 1514;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -223,18 +223,18 @@ pos = (189,0);
 ref = acutecomb.case;
 },
 {
-pos = (727,0);
+pos = (726,0);
 ref = J;
 },
 {
-pos = (921,0);
+pos = (920,0);
 ref = acutecomb.case;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1481;
+width = 1480;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -247,15 +247,15 @@ pos = (149,0);
 ref = acutecomb.case;
 },
 {
-pos = (820,0);
+pos = (819,0);
 ref = J;
 },
 {
-pos = (975,0);
+pos = (974,0);
 ref = acutecomb.case;
 }
 );
-width = 1663;
+width = 1662;
 }
 );
 }
