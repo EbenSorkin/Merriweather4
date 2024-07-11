@@ -22,7 +22,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (485,-105);
+pos = (487,-105);
 ref = periodcentered;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (496,-104);
+pos = (497,-104);
 ref = periodcentered;
 }
 );
@@ -74,7 +74,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (453,-104);
+pos = (456,-104);
 ref = periodcentered;
 }
 );
@@ -100,7 +100,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (506,-107);
+pos = (516,-107);
 ref = periodcentered;
 }
 );

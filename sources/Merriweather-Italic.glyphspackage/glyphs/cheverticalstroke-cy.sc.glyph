@@ -74,11 +74,11 @@ shapes = (
 ref = "che-cy.sc";
 },
 {
-pos = (359,-34);
+pos = (381,-34);
 ref = vertbarlc_part.;
 }
 );
-width = 1207;
+width = 1229;
 },
 {
 guides = (

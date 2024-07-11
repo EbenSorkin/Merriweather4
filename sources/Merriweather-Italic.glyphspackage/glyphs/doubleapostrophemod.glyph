@@ -6,7 +6,6 @@ layers = (
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
 shapes = (
 {
-pos = (-2,0);
 ref = quotedblright;
 }
 );
@@ -25,7 +24,6 @@ width = 990;
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
 shapes = (
 {
-pos = (-2,0);
 ref = quotedblright;
 }
 );
@@ -44,7 +42,6 @@ width = 977;
 layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
 shapes = (
 {
-pos = (-2,0);
 ref = quotedblright;
 }
 );

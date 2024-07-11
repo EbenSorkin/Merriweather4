@@ -605,7 +605,7 @@ pos = (500,0);
 },
 {
 name = bottomright;
-pos = (941,0);
+pos = (938,0);
 },
 {
 name = center;

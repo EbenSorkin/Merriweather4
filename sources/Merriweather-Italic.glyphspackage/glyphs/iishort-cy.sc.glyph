@@ -31,16 +31,14 @@ width = 1597;
 layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
 shapes = (
 {
-alignment = -1;
 ref = "ii-cy.sc";
 },
 {
-alignment = -1;
-pos = (736,182);
+pos = (389,182);
 ref = "brevecomb-cy";
 }
 );
-width = 1644;
+width = 1668;
 },
 {
 layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";

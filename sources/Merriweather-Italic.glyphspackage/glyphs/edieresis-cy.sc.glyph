@@ -21,7 +21,7 @@ shapes = (
 ref = "ereversed-cy.sc";
 },
 {
-pos = (176,182);
+pos = (175,182);
 ref = dieresiscomb;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = "ereversed-cy.sc";
 },
 {
-pos = (206,182);
+pos = (205,182);
 ref = dieresiscomb;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = "ereversed-cy.sc";
 },
 {
-pos = (341,182);
+pos = (314,182);
 ref = dieresiscomb;
 }
 );
@@ -60,7 +60,7 @@ shapes = (
 ref = "ereversed-cy.sc";
 },
 {
-pos = (219,378);
+pos = (199,287);
 ref = dieresiscomb;
 }
 );
@@ -73,7 +73,7 @@ shapes = (
 ref = "ereversed-cy.sc";
 },
 {
-pos = (313,375);
+pos = (285,287);
 ref = dieresiscomb;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = "ereversed-cy.sc";
 },
 {
-pos = (219,378);
+pos = (239,287);
 ref = dieresiscomb;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = "ereversed-cy.sc";
 },
 {
-pos = (315,378);
+pos = (315,287);
 ref = dieresiscomb;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = "ereversed-cy.sc";
 },
 {
-pos = (167,182);
+pos = (210,182);
 ref = dieresiscomb;
 }
 );
@@ -125,7 +125,7 @@ shapes = (
 ref = "ereversed-cy.sc";
 },
 {
-pos = (83,182);
+pos = (115,182);
 ref = dieresiscomb;
 }
 );
@@ -138,7 +138,7 @@ shapes = (
 ref = "ereversed-cy.sc";
 },
 {
-pos = (225,378);
+pos = (235,287);
 ref = dieresiscomb;
 }
 );
@@ -151,7 +151,7 @@ shapes = (
 ref = "ereversed-cy.sc";
 },
 {
-pos = (159,378);
+pos = (169,287);
 ref = dieresiscomb;
 }
 );

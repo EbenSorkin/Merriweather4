@@ -80,11 +80,11 @@ pos = (600,0);
 ref = fraction;
 },
 {
-pos = (941,0);
+pos = (939,0);
 ref = three.dnom;
 }
 );
-width = 1714;
+width = 1712;
 },
 {
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
@@ -131,11 +131,11 @@ pos = (609,0);
 ref = fraction;
 },
 {
-pos = (944,0);
+pos = (987,0);
 ref = three.dnom;
 }
 );
-width = 1700;
+width = 1743;
 },
 {
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";

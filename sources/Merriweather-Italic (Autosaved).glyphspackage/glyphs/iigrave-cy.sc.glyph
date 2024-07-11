@@ -1,0 +1,175 @@
+{
+glyphname = "iigrave-cy.sc";
+layers = (
+{
+.lastUpdate = 742374965.968;
+layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
+shapes = (
+{
+ref = "ii-cy.sc";
+},
+{
+pos = (380,182);
+ref = gravecomb;
+}
+);
+width = 1493;
+},
+{
+.lastUpdate = 742374426.225;
+layerId = "27298932-82AF-4578-9425-6304FDB19058";
+shapes = (
+{
+ref = "ii-cy.sc";
+},
+{
+pos = (365,182);
+ref = gravecomb;
+}
+);
+width = 1597;
+},
+{
+.lastUpdate = 742374398.139;
+layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
+shapes = (
+{
+alignment = -1;
+ref = "ii-cy.sc";
+},
+{
+alignment = -1;
+pos = (734,182);
+ref = gravecomb;
+}
+);
+width = 1644;
+},
+{
+.lastUpdate = 742374972.015;
+layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
+shapes = (
+{
+ref = "ii-cy.sc";
+},
+{
+pos = (359,182);
+ref = gravecomb;
+}
+);
+width = 1451;
+},
+{
+.lastUpdate = 742374952.839;
+layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
+shapes = (
+{
+ref = "ii-cy.sc";
+},
+{
+pos = (271,287);
+ref = gravecomb;
+}
+);
+width = 1432;
+},
+{
+.lastUpdate = 742374954.384;
+layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
+shapes = (
+{
+ref = "ii-cy.sc";
+},
+{
+pos = (257,287);
+ref = gravecomb;
+}
+);
+width = 1297;
+},
+{
+.lastUpdate = 742374978.673;
+layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
+shapes = (
+{
+ref = "ii-cy.sc";
+},
+{
+pos = (251,287);
+ref = gravecomb;
+}
+);
+width = 1474;
+},
+{
+.lastUpdate = 742404188.269;
+layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
+shapes = (
+{
+ref = "ii-cy.sc";
+},
+{
+pos = (316,287);
+ref = gravecomb;
+}
+);
+width = 1412;
+},
+{
+.lastUpdate = 742374958.293;
+layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
+shapes = (
+{
+ref = "ii-cy.sc";
+},
+{
+pos = (311,182);
+ref = gravecomb;
+}
+);
+width = 1332;
+},
+{
+.lastUpdate = 742374955.998;
+layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
+shapes = (
+{
+ref = "ii-cy.sc";
+},
+{
+pos = (265,182);
+ref = gravecomb;
+}
+);
+width = 1416;
+},
+{
+.lastUpdate = 742374883.75;
+layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
+shapes = (
+{
+ref = "ii-cy.sc";
+},
+{
+pos = (246,287);
+ref = gravecomb;
+}
+);
+width = 1207;
+},
+{
+.lastUpdate = 742374988.492;
+layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
+shapes = (
+{
+ref = "ii-cy.sc";
+},
+{
+pos = (221,287);
+ref = gravecomb;
+}
+);
+width = 1337;
+}
+);
+}

@@ -21,7 +21,7 @@ shapes = (
 ref = "che-cy.sc";
 },
 {
-pos = (398,0);
+pos = (395,0);
 ref = lefttooth_part.;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = "che-cy.sc";
 },
 {
-pos = (470,0);
+pos = (465,0);
 ref = lefttooth_part.;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = "che-cy.sc";
 },
 {
-pos = (350,0);
+pos = (375,0);
 ref = lefttooth_part.;
 }
 );
@@ -60,11 +60,11 @@ shapes = (
 ref = "che-cy.sc";
 },
 {
-pos = (433,0);
+pos = (458,0);
 ref = lefttooth_part.;
 }
 );
-width = 1207;
+width = 1229;
 },
 {
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
@@ -86,7 +86,7 @@ shapes = (
 ref = "che-cy.sc";
 },
 {
-pos = (463,0);
+pos = (473,0);
 ref = lefttooth_part.;
 }
 );
@@ -125,7 +125,7 @@ shapes = (
 ref = "che-cy.sc";
 },
 {
-pos = (389,0);
+pos = (384,0);
 ref = lefttooth_part.;
 }
 );

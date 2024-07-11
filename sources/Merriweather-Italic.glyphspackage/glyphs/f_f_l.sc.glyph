@@ -110,15 +110,15 @@ shapes = (
 ref = f.sc;
 },
 {
-pos = (1029,0);
+pos = (1028,0);
 ref = f.sc;
 },
 {
-pos = (2060,0);
+pos = (2059,0);
 ref = l.sc;
 }
 );
-width = 3149;
+width = 3148;
 },
 {
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";

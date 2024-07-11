@@ -58,7 +58,7 @@ nodes = (
 );
 }
 );
-width = 1361;
+width = 1332;
 },
 {
 anchors = (
@@ -116,7 +116,7 @@ nodes = (
 );
 }
 );
-width = 1562;
+width = 1500;
 },
 {
 anchors = (
@@ -174,7 +174,7 @@ nodes = (
 );
 }
 );
-width = 1370;
+width = 1393;
 },
 {
 anchors = (
@@ -232,7 +232,7 @@ nodes = (
 );
 }
 );
-width = 1577;
+width = 1529;
 },
 {
 anchors = (
@@ -290,7 +290,7 @@ nodes = (
 );
 }
 );
-width = 1276;
+width = 1350;
 },
 {
 anchors = (
@@ -348,7 +348,7 @@ nodes = (
 );
 }
 );
-width = 1434;
+width = 1430;
 },
 {
 anchors = (
@@ -406,7 +406,7 @@ nodes = (
 );
 }
 );
-width = 1175;
+width = 1396;
 },
 {
 anchors = (
@@ -464,7 +464,7 @@ nodes = (
 );
 }
 );
-width = 1487;
+width = 1511;
 },
 {
 anchors = (
@@ -575,7 +575,7 @@ nodes = (
 );
 }
 );
-width = 1279;
+width = 1201;
 },
 {
 associatedMasterId = "8587C386-9485-4E77-8679-63F1A494C2C0";
@@ -677,7 +677,7 @@ nodes = (
 );
 }
 );
-width = 1469;
+width = 1301;
 },
 {
 associatedMasterId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
@@ -779,7 +779,7 @@ nodes = (
 );
 }
 );
-width = 1093;
+width = 1165;
 },
 {
 associatedMasterId = "F318CEA5-7792-49D8-B68D-92025E304353";
@@ -888,7 +888,7 @@ nodes = (
 );
 }
 );
-width = 1341;
+width = 1305;
 },
 {
 associatedMasterId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
@@ -935,5 +935,6 @@ width = 1062;
 }
 );
 metricLeft = Y;
+metricRight = Khook;
 unicode = 435;
 }

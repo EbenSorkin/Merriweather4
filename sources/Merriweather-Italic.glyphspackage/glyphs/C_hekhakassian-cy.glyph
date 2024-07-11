@@ -21,7 +21,7 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (617,0);
+pos = (614,0);
 ref = lefttooth_part.;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (677,0);
+pos = (672,0);
 ref = lefttooth_part.;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (659,0);
+pos = (684,0);
 ref = lefttooth_part.;
 }
 );
@@ -61,7 +61,7 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (620,0);
+pos = (623,0);
 ref = lefttooth_part.;
 }
 );
@@ -87,7 +87,7 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (645,0);
+pos = (655,0);
 ref = lefttooth_part.;
 }
 );
@@ -126,7 +126,7 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (488,0);
+pos = (483,0);
 ref = lefttooth_part.;
 }
 );

@@ -60,11 +60,11 @@ shapes = (
 ref = "che-cy.sc";
 },
 {
-pos = (210,287);
+pos = (232,287);
 ref = dieresiscomb;
 }
 );
-width = 1207;
+width = 1229;
 },
 {
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";

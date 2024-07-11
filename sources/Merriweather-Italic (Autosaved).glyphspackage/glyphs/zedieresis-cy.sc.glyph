@@ -1,0 +1,173 @@
+{
+glyphname = "zedieresis-cy.sc";
+layers = (
+{
+.lastUpdate = 742374965.97;
+layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
+shapes = (
+{
+ref = "ze-cy.sc";
+},
+{
+pos = (252,182);
+ref = dieresiscomb;
+}
+);
+width = 1097;
+},
+{
+.lastUpdate = 742374426.226;
+layerId = "27298932-82AF-4578-9425-6304FDB19058";
+shapes = (
+{
+ref = "ze-cy.sc";
+},
+{
+pos = (202,182);
+ref = dieresiscomb;
+}
+);
+width = 1197;
+},
+{
+.lastUpdate = 742374398.14;
+layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
+shapes = (
+{
+ref = "ze-cy.sc";
+},
+{
+pos = (221,182);
+ref = dieresiscomb;
+}
+);
+width = 1275;
+},
+{
+.lastUpdate = 742374972.017;
+layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
+shapes = (
+{
+ref = "ze-cy.sc";
+},
+{
+pos = (253,182);
+ref = dieresiscomb;
+}
+);
+width = 1097;
+},
+{
+.lastUpdate = 742374952.841;
+layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
+shapes = (
+{
+ref = "ze-cy.sc";
+},
+{
+pos = (200,287);
+ref = dieresiscomb;
+}
+);
+width = 1119;
+},
+{
+.lastUpdate = 742374954.385;
+layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
+shapes = (
+{
+ref = "ze-cy.sc";
+},
+{
+pos = (206,287);
+ref = dieresiscomb;
+}
+);
+width = 991;
+},
+{
+.lastUpdate = 742374978.675;
+layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
+shapes = (
+{
+ref = "ze-cy.sc";
+},
+{
+pos = (230,287);
+ref = dieresiscomb;
+}
+);
+width = 1183;
+},
+{
+.lastUpdate = 742404188.271;
+layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
+shapes = (
+{
+ref = "ze-cy.sc";
+},
+{
+pos = (226,287);
+ref = dieresiscomb;
+}
+);
+width = 1048;
+},
+{
+.lastUpdate = 742374958.295;
+layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
+shapes = (
+{
+ref = "ze-cy.sc";
+},
+{
+pos = (236,182);
+ref = dieresiscomb;
+}
+);
+width = 990;
+},
+{
+.lastUpdate = 742374956;
+layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
+shapes = (
+{
+ref = "ze-cy.sc";
+},
+{
+pos = (172,182);
+ref = dieresiscomb;
+}
+);
+width = 1116;
+},
+{
+.lastUpdate = 742374883.752;
+layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
+shapes = (
+{
+ref = "ze-cy.sc";
+},
+{
+pos = (164,287);
+ref = dieresiscomb;
+}
+);
+width = 895;
+},
+{
+.lastUpdate = 742374988.494;
+layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
+shapes = (
+{
+ref = "ze-cy.sc";
+},
+{
+pos = (150,287);
+ref = dieresiscomb;
+}
+);
+width = 1029;
+}
+);
+}

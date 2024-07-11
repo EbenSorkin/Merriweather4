@@ -1,5 +1,5 @@
 {
-color = 4;
+color = 6;
 glyphname = "iishorttail-cy";
 layers = (
 {
@@ -132,7 +132,7 @@ pos = (173,0);
 ref = "brevecomb-cy";
 },
 {
-pos = (682,0);
+pos = (679,0);
 ref = desccy_part.;
 }
 );

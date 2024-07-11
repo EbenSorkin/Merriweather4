@@ -10,7 +10,7 @@ ref = m;
 },
 {
 alignment = -1;
-pos = (816,-178);
+pos = (766,-178);
 ref = fraction;
 }
 );
@@ -38,7 +38,7 @@ ref = m;
 },
 {
 alignment = -1;
-pos = (816,-178);
+pos = (676,-178);
 ref = fraction;
 }
 );
@@ -66,7 +66,7 @@ ref = m;
 },
 {
 alignment = -1;
-pos = (816,-178);
+pos = (647,-178);
 ref = fraction;
 }
 );
@@ -80,7 +80,7 @@ ref = m;
 },
 {
 alignment = -1;
-pos = (816,-178);
+pos = (707,-178);
 ref = fraction;
 }
 );
@@ -94,7 +94,7 @@ ref = m;
 },
 {
 alignment = -1;
-pos = (816,-178);
+pos = (656,-178);
 ref = fraction;
 }
 );
@@ -108,7 +108,7 @@ ref = m;
 },
 {
 alignment = -1;
-pos = (816,-178);
+pos = (716,-178);
 ref = fraction;
 }
 );
@@ -122,7 +122,7 @@ ref = m;
 },
 {
 alignment = -1;
-pos = (816,-178);
+pos = (761,-178);
 ref = fraction;
 }
 );
@@ -136,7 +136,7 @@ ref = m;
 },
 {
 alignment = -1;
-pos = (816,-178);
+pos = (836,-178);
 ref = fraction;
 }
 );
@@ -150,7 +150,7 @@ ref = m;
 },
 {
 alignment = -1;
-pos = (816,-178);
+pos = (776,-178);
 ref = fraction;
 }
 );
@@ -164,7 +164,7 @@ ref = m;
 },
 {
 alignment = -1;
-pos = (816,-178);
+pos = (866,-178);
 ref = fraction;
 }
 );

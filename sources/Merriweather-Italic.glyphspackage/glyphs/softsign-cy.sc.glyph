@@ -2,6 +2,12 @@
 glyphname = "softsign-cy.sc";
 layers = (
 {
+anchors = (
+{
+name = bar;
+pos = (337,1019);
+}
+);
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
 shapes = (
 {
@@ -53,6 +59,12 @@ nodes = (
 width = 1122;
 },
 {
+anchors = (
+{
+name = bar;
+pos = (387,1019);
+}
+);
 layerId = "27298932-82AF-4578-9425-6304FDB19058";
 shapes = (
 {
@@ -104,6 +116,12 @@ nodes = (
 width = 1252;
 },
 {
+anchors = (
+{
+name = bar;
+pos = (407,1019);
+}
+);
 layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
 shapes = (
 {
@@ -155,6 +173,12 @@ nodes = (
 width = 1349;
 },
 {
+anchors = (
+{
+name = bar;
+pos = (357,1019);
+}
+);
 layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
 shapes = (
 {
@@ -206,6 +230,12 @@ nodes = (
 width = 1174;
 },
 {
+anchors = (
+{
+name = bar;
+pos = (390,1019);
+}
+);
 layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
 shapes = (
 {
@@ -257,6 +287,12 @@ nodes = (
 width = 1220;
 },
 {
+anchors = (
+{
+name = bar;
+pos = (301,1019);
+}
+);
 guides = (
 {
 pos = (496,67);
@@ -313,6 +349,12 @@ nodes = (
 width = 1062;
 },
 {
+anchors = (
+{
+name = bar;
+pos = (370,1019);
+}
+);
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
 shapes = (
 {
@@ -364,6 +406,12 @@ nodes = (
 width = 1315;
 },
 {
+anchors = (
+{
+name = bar;
+pos = (371,1019);
+}
+);
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
 shapes = (
 {
@@ -415,6 +463,12 @@ nodes = (
 width = 1126;
 },
 {
+anchors = (
+{
+name = bar;
+pos = (427,1019);
+}
+);
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
 shapes = (
 {
@@ -466,6 +520,12 @@ nodes = (
 width = 1039;
 },
 {
+anchors = (
+{
+name = bar;
+pos = (416,1019);
+}
+);
 layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
 shapes = (
 {
@@ -517,6 +577,12 @@ nodes = (
 width = 1160;
 },
 {
+anchors = (
+{
+name = bar;
+pos = (301,1019);
+}
+);
 layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
 shapes = (
 {
@@ -568,6 +634,12 @@ nodes = (
 width = 982;
 },
 {
+anchors = (
+{
+name = bar;
+pos = (411,1019);
+}
+);
 layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
 shapes = (
 {

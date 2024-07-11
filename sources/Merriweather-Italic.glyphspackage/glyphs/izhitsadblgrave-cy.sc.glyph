@@ -73,11 +73,11 @@ shapes = (
 ref = "izhitsa-cy.sc";
 },
 {
-pos = (143,287);
+pos = (165,287);
 ref = dblgravecomb;
 }
 );
-width = 1179;
+width = 1201;
 },
 {
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";

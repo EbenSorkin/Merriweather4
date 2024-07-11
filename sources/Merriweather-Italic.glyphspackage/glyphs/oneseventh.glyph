@@ -131,11 +131,11 @@ pos = (609,0);
 ref = fraction;
 },
 {
-pos = (981,0);
+pos = (987,0);
 ref = seven.dnom;
 }
 );
-width = 1729;
+width = 1735;
 },
 {
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
@@ -148,11 +148,11 @@ pos = (552,0);
 ref = fraction;
 },
 {
-pos = (968,0);
+pos = (959,0);
 ref = seven.dnom;
 }
 );
-width = 1675;
+width = 1666;
 },
 {
 layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
