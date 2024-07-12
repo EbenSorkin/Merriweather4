@@ -59,15 +59,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (623,0);
+pos = (622,0);
 ref = fraction;
 },
 {
-pos = (992,0);
+pos = (991,0);
 ref = two.dnom;
 }
 );
-width = 1787;
+width = 1786;
 },
 {
 layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
@@ -76,15 +76,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (600,0);
+pos = (599,0);
 ref = fraction;
 },
 {
-pos = (927,0);
+pos = (924,0);
 ref = two.dnom;
 }
 );
-width = 1743;
+width = 1740;
 },
 {
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
@@ -110,15 +110,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (614,0);
+pos = (619,0);
 ref = fraction;
 },
 {
-pos = (945,0);
+pos = (950,0);
 ref = two.dnom;
 }
 );
-width = 1778;
+width = 1783;
 },
 {
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";

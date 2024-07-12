@@ -51,7 +51,7 @@ alignment = 1;
 ref = dieresiscomb.case;
 },
 {
-pos = (175,407);
+pos = (178,404);
 ref = caroncomb.case;
 }
 );

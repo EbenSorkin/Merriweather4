@@ -59,7 +59,7 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (623,0);
+pos = (622,0);
 ref = fraction;
 },
 {
@@ -76,7 +76,7 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (600,0);
+pos = (599,0);
 ref = fraction;
 },
 {
@@ -110,15 +110,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (614,0);
+pos = (619,0);
 ref = fraction;
 },
 {
-pos = (886,0);
+pos = (893,0);
 ref = four.dnom;
 }
 );
-width = 1745;
+width = 1752;
 },
 {
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";

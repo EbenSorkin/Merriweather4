@@ -80,11 +80,11 @@ pos = (801,0);
 ref = fraction;
 },
 {
-pos = (1141,0);
+pos = (1138,0);
 ref = five.dnom;
 }
 );
-width = 1922;
+width = 1919;
 },
 {
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";

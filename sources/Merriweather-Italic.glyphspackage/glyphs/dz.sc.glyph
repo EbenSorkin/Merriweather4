@@ -74,11 +74,11 @@ shapes = (
 ref = d.sc;
 },
 {
-pos = (1257,0);
+pos = (1255,0);
 ref = z.sc;
 }
 );
-width = 2414;
+width = 2412;
 },
 {
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
