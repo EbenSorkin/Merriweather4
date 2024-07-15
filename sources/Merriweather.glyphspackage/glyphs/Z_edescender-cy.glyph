@@ -21,7 +21,7 @@ shapes = (
 ref = "Ze-cy";
 },
 {
-pos = (389,0);
+pos = (359,0);
 ref = cedillacomb.case;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = "Ze-cy";
 },
 {
-pos = (406,0);
+pos = (386,0);
 ref = cedillacomb.case;
 }
 );
@@ -73,7 +73,7 @@ shapes = (
 ref = "Ze-cy";
 },
 {
-pos = (429,0);
+pos = (336,0);
 ref = cedillacomb.case;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = "Ze-cy";
 },
 {
-pos = (346,0);
+pos = (316,0);
 ref = cedillacomb.case;
 }
 );
@@ -125,11 +125,11 @@ shapes = (
 ref = "Ze-cy";
 },
 {
-pos = (336,0);
+pos = (376,0);
 ref = cedillacomb.case;
 }
 );
-width = 1155;
+width = 1159;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";

@@ -99,7 +99,7 @@ shapes = (
 ref = "iishort-cy";
 },
 {
-pos = (847,0);
+pos = (867,0);
 ref = righttooth_part.;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = "iishort-cy";
 },
 {
-pos = (1019,0);
+pos = (1030,0);
 ref = righttooth_part.;
 }
 );

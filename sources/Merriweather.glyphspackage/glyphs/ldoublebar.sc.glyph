@@ -115,7 +115,7 @@ pos = (-92,343);
 ref = topstrokecomb_part.;
 },
 {
-pos = (-94,-32);
+pos = (-94,18);
 ref = btmstrokecomb_part.;
 }
 );
@@ -132,7 +132,7 @@ pos = (-90,326);
 ref = topstrokecomb_part.;
 },
 {
-pos = (-90,-52);
+pos = (-90,-2);
 ref = btmstrokecomb_part.;
 }
 );
@@ -149,7 +149,7 @@ pos = (-54,335);
 ref = topstrokecomb_part.;
 },
 {
-pos = (-55,-49);
+pos = (-55,1);
 ref = btmstrokecomb_part.;
 }
 );
@@ -166,7 +166,7 @@ pos = (-69,332);
 ref = topstrokecomb_part.;
 },
 {
-pos = (-69,-57);
+pos = (-69,-7);
 ref = btmstrokecomb_part.;
 }
 );
@@ -183,7 +183,7 @@ pos = (-103,343);
 ref = topstrokecomb_part.;
 },
 {
-pos = (-103,-45);
+pos = (-103,5);
 ref = btmstrokecomb_part.;
 }
 );
@@ -200,7 +200,7 @@ pos = (-58,325);
 ref = topstrokecomb_part.;
 },
 {
-pos = (-61,-52);
+pos = (-61,-2);
 ref = btmstrokecomb_part.;
 }
 );

@@ -107,11 +107,11 @@ alignment = -1;
 ref = "sha-cy";
 },
 {
-pos = (1303,0);
+pos = (1323,0);
 ref = righttooth_part.;
 }
 );
-width = 1551;
+width = 1571;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -121,11 +121,11 @@ alignment = -1;
 ref = "sha-cy";
 },
 {
-pos = (1610,0);
+pos = (1631,0);
 ref = righttooth_part.;
 }
 );
-width = 1923;
+width = 1932;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";

@@ -26,7 +26,7 @@ pos = (147,491);
 ref = tildecomb;
 }
 );
-width = 747;
+width = 1087;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -39,7 +39,7 @@ pos = (111,458);
 ref = tildecomb;
 }
 );
-width = 622;
+width = 908;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -52,7 +52,7 @@ pos = (120,491);
 ref = tildecomb;
 }
 );
-width = 688;
+width = 1028;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -65,7 +65,7 @@ pos = (57,493);
 ref = tildecomb;
 }
 );
-width = 594;
+width = 790;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -78,7 +78,7 @@ pos = (106,478);
 ref = tildecomb;
 }
 );
-width = 562;
+width = 828;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -91,7 +91,7 @@ pos = (131,396);
 ref = tildecomb;
 }
 );
-width = 446;
+width = 733;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -104,7 +104,7 @@ pos = (131,396);
 ref = tildecomb;
 }
 );
-width = 506;
+width = 794;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -117,7 +117,7 @@ pos = (52,479);
 ref = tildecomb;
 }
 );
-width = 642;
+width = 830;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -147,7 +147,7 @@ ref = tildecomb;
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 694;
+width = 888;
 },
 {
 color = 9;
@@ -161,7 +161,8 @@ pos = (132,491);
 ref = tildecomb;
 }
 );
-width = 788;
+width = 1107;
 }
 );
+metricRight = "=|";
 }

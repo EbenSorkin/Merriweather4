@@ -9,7 +9,7 @@ shapes = (
 ref = l.sc;
 },
 {
-pos = (-170,28);
+pos = (-170,-2);
 ref = belt_part.;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = l.sc;
 },
 {
-pos = (-107,8);
+pos = (-167,-42);
 ref = belt_part.;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = l.sc;
 },
 {
-pos = (-141,28);
+pos = (-141,12);
 ref = belt_part.;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = l.sc;
 },
 {
-pos = (-130,58);
+pos = (-130,4);
 ref = belt_part.;
 }
 );
@@ -61,7 +61,7 @@ shapes = (
 ref = l.sc;
 },
 {
-pos = (-131,28);
+pos = (-131,38);
 ref = belt_part.;
 }
 );
@@ -74,7 +74,7 @@ shapes = (
 ref = l.sc;
 },
 {
-pos = (-153,58);
+pos = (-213,68);
 ref = belt_part.;
 }
 );
@@ -87,7 +87,7 @@ shapes = (
 ref = l.sc;
 },
 {
-pos = (-106,108);
+pos = (-106,128);
 ref = belt_part.;
 }
 );
@@ -100,7 +100,7 @@ shapes = (
 ref = l.sc;
 },
 {
-pos = (-113,88);
+pos = (-118,77);
 ref = belt_part.;
 }
 );
@@ -113,7 +113,7 @@ shapes = (
 ref = l.sc;
 },
 {
-pos = (-119,108);
+pos = (-119,118);
 ref = belt_part.;
 }
 );
@@ -126,7 +126,7 @@ shapes = (
 ref = l.sc;
 },
 {
-pos = (-109,88);
+pos = (-114,88);
 ref = belt_part.;
 }
 );
@@ -152,7 +152,7 @@ shapes = (
 ref = l.sc;
 },
 {
-pos = (-115,88);
+pos = (-156,84);
 ref = belt_part.;
 }
 );

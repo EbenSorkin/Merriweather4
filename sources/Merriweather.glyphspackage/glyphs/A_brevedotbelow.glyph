@@ -46,7 +46,7 @@ pos = (308,0);
 ref = brevecomb.case;
 },
 {
-pos = (427,0);
+pos = (337,0);
 ref = dotbelowcomb;
 }
 );
@@ -97,7 +97,7 @@ pos = (236,0);
 ref = brevecomb.case;
 },
 {
-pos = (333,0);
+pos = (243,0);
 ref = dotbelowcomb;
 }
 );
@@ -114,7 +114,7 @@ pos = (312,0);
 ref = brevecomb.case;
 },
 {
-pos = (422,0);
+pos = (412,0);
 ref = dotbelowcomb;
 }
 );
@@ -148,7 +148,7 @@ pos = (354,0);
 ref = brevecomb.case;
 },
 {
-pos = (484,0);
+pos = (424,0);
 ref = dotbelowcomb;
 }
 );
@@ -165,7 +165,7 @@ pos = (385,0);
 ref = brevecomb.case;
 },
 {
-pos = (555,0);
+pos = (515,0);
 ref = dotbelowcomb;
 }
 );
@@ -202,7 +202,7 @@ pos = (339,0);
 ref = brevecomb.case;
 },
 {
-pos = (518,0);
+pos = (488,0);
 ref = dotbelowcomb;
 }
 );

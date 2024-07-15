@@ -6,7 +6,7 @@ layers = (
 anchors = (
 {
 name = belt;
-pos = (337,862);
+pos = (337,942);
 },
 {
 name = bottom;
@@ -61,7 +61,7 @@ width = 1225;
 anchors = (
 {
 name = belt;
-pos = (350,862);
+pos = (350,962);
 },
 {
 name = bottom;
@@ -116,7 +116,7 @@ width = 1289;
 anchors = (
 {
 name = belt;
-pos = (335,862);
+pos = (355,912);
 },
 {
 name = bottom;
@@ -171,7 +171,7 @@ width = 1227;
 anchors = (
 {
 name = belt;
-pos = (340,862);
+pos = (360,942);
 },
 {
 name = bottom;
@@ -226,7 +226,7 @@ width = 1112;
 anchors = (
 {
 name = belt;
-pos = (314,862);
+pos = (324,922);
 },
 {
 name = bottom;
@@ -281,7 +281,7 @@ width = 1046;
 anchors = (
 {
 name = belt;
-pos = (319,862);
+pos = (319,882);
 },
 {
 name = bottom;
@@ -336,7 +336,7 @@ width = 1059;
 anchors = (
 {
 name = belt;
-pos = (250,862);
+pos = (250,882);
 },
 {
 name = bottom;
@@ -446,7 +446,7 @@ width = 1102;
 anchors = (
 {
 name = belt;
-pos = (337,862);
+pos = (337,892);
 },
 {
 name = bottom;
@@ -501,7 +501,7 @@ width = 1291;
 anchors = (
 {
 name = belt;
-pos = (250,862);
+pos = (250,882);
 },
 {
 name = bottom;
@@ -556,7 +556,7 @@ width = 1171;
 anchors = (
 {
 name = belt;
-pos = (327,862);
+pos = (327,922);
 },
 {
 name = bottom;
@@ -614,7 +614,7 @@ width = 1260;
 anchors = (
 {
 name = belt;
-pos = (350,862);
+pos = (375,913);
 },
 {
 name = bottom;

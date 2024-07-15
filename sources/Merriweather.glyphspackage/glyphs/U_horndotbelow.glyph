@@ -125,7 +125,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (661,0);
+pos = (651,0);
 ref = dotbelowcomb;
 }
 );

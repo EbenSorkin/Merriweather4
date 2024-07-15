@@ -273,7 +273,7 @@ shapes = (
 ref = "zhe-cy.sc";
 },
 {
-pos = (1677,0);
+pos = (1697,0);
 ref = righttooth_part.;
 }
 );
@@ -363,7 +363,7 @@ shapes = (
 ref = "zhe-cy.sc";
 },
 {
-pos = (2004,0);
+pos = (2015,0);
 ref = righttooth_part.;
 }
 );

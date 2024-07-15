@@ -99,7 +99,7 @@ shapes = (
 ref = "ka-cy";
 },
 {
-pos = (796,0);
+pos = (816,0);
 ref = righttooth_part.;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = "ka-cy";
 },
 {
-pos = (961,0);
+pos = (972,0);
 ref = righttooth_part.;
 }
 );

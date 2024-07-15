@@ -8,7 +8,7 @@ shapes = (
 ref = "cheabkhasian-cy";
 },
 {
-pos = (580,0);
+pos = (560,0);
 ref = cedillacomb;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = "cheabkhasian-cy";
 },
 {
-pos = (611,0);
+pos = (601,0);
 ref = cedillacomb;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = "cheabkhasian-cy";
 },
 {
-pos = (506,0);
+pos = (496,0);
 ref = cedillacomb;
 }
 );
@@ -60,7 +60,7 @@ shapes = (
 ref = "cheabkhasian-cy";
 },
 {
-pos = (544,0);
+pos = (524,0);
 ref = cedillacomb;
 }
 );
@@ -73,7 +73,7 @@ shapes = (
 ref = "cheabkhasian-cy";
 },
 {
-pos = (542,0);
+pos = (522,0);
 ref = cedillacomb;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = "cheabkhasian-cy";
 },
 {
-pos = (469,0);
+pos = (449,0);
 ref = cedillacomb;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = "cheabkhasian-cy";
 },
 {
-pos = (544,0);
+pos = (524,0);
 ref = cedillacomb;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = "cheabkhasian-cy";
 },
 {
-pos = (684,0);
+pos = (654,0);
 ref = cedillacomb;
 }
 );
@@ -125,7 +125,7 @@ shapes = (
 ref = "cheabkhasian-cy";
 },
 {
-pos = (582,0);
+pos = (562,0);
 ref = cedillacomb;
 }
 );
@@ -138,7 +138,7 @@ shapes = (
 ref = "cheabkhasian-cy";
 },
 {
-pos = (586,0);
+pos = (526,0);
 ref = cedillacomb;
 }
 );
@@ -154,7 +154,7 @@ shapes = (
 ref = "cheabkhasian-cy";
 },
 {
-pos = (581,0);
+pos = (551,0);
 ref = cedillacomb;
 }
 );

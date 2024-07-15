@@ -100,7 +100,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (772,0);
+pos = (792,0);
 ref = righttooth_part.;
 }
 );
@@ -113,7 +113,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (940,0);
+pos = (951,0);
 ref = righttooth_part.;
 }
 );

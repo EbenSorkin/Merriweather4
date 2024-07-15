@@ -8,7 +8,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (939,24);
+pos = (919,24);
 ref = horncomb;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (856,24);
+pos = (832,24);
 ref = horncomb;
 }
 );

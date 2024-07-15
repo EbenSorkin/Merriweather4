@@ -1,15 +1,16 @@
 {
+color = 3;
 glyphname = approxequal.case;
 layers = (
 {
 layerId = UUID0;
 shapes = (
 {
-pos = (0,-129);
+pos = (0,-119);
 ref = asciitilde;
 },
 {
-pos = (0,460);
+pos = (0,470);
 ref = asciitilde;
 }
 );
@@ -19,11 +20,11 @@ width = 1151;
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
 shapes = (
 {
-pos = (0,-118);
+pos = (0,-155);
 ref = asciitilde;
 },
 {
-pos = (0,471);
+pos = (0,434);
 ref = asciitilde;
 }
 );
@@ -33,11 +34,11 @@ width = 1389;
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
 shapes = (
 {
-pos = (0,-123);
+pos = (0,-111);
 ref = asciitilde;
 },
 {
-pos = (0,382);
+pos = (0,394);
 ref = asciitilde;
 }
 );
@@ -47,11 +48,11 @@ width = 1210;
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
 shapes = (
 {
-pos = (0,-119);
+pos = (0,-130);
 ref = asciitilde;
 },
 {
-pos = (0,470);
+pos = (0,459);
 ref = asciitilde;
 }
 );
@@ -75,11 +76,11 @@ width = 991;
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
 shapes = (
 {
-pos = (0,-166);
+pos = (0,-96);
 ref = asciitilde;
 },
 {
-pos = (0,423);
+pos = (0,493);
 ref = asciitilde;
 }
 );
@@ -89,11 +90,11 @@ width = 1168;
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
 shapes = (
 {
-pos = (0,-124);
+pos = (0,-63);
 ref = asciitilde;
 },
 {
-pos = (0,381);
+pos = (0,442);
 ref = asciitilde;
 }
 );
@@ -103,11 +104,11 @@ width = 1004;
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
 shapes = (
 {
-pos = (0,-124);
+pos = (0,-54);
 ref = asciitilde;
 },
 {
-pos = (0,381);
+pos = (0,451);
 ref = asciitilde;
 }
 );
@@ -117,11 +118,11 @@ width = 1052;
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
 shapes = (
 {
-pos = (0,-166);
+pos = (0,-97);
 ref = asciitilde;
 },
 {
-pos = (0,423);
+pos = (0,492);
 ref = asciitilde;
 }
 );
@@ -131,11 +132,11 @@ width = 1140;
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
 shapes = (
 {
-pos = (0,-124);
+pos = (0,-64);
 ref = asciitilde;
 },
 {
-pos = (0,381);
+pos = (0,441);
 ref = asciitilde;
 }
 );
@@ -162,11 +163,11 @@ width = 1003;
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
 shapes = (
 {
-pos = (0,-118);
+pos = (0,-134);
 ref = asciitilde;
 },
 {
-pos = (0,471);
+pos = (0,455);
 ref = asciitilde;
 }
 );

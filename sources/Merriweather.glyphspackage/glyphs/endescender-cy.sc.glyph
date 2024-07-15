@@ -275,7 +275,7 @@ shapes = (
 ref = h.sc;
 },
 {
-pos = (1119,0);
+pos = (1139,0);
 ref = righttooth_part.;
 }
 );
@@ -345,7 +345,7 @@ shapes = (
 ref = h.sc;
 },
 {
-pos = (1200,0);
+pos = (1211,0);
 ref = righttooth_part.;
 }
 );

@@ -69,7 +69,7 @@ shapes = (
 ref = "che-cy.sc";
 },
 {
-pos = (677,0);
+pos = (671,0);
 ref = lefttooth_part.;
 }
 );

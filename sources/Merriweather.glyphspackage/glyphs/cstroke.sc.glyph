@@ -61,7 +61,7 @@ shapes = (
 ref = c.sc;
 },
 {
-pos = (163,-6);
+pos = (183,-6);
 ref = slashlongcomb;
 }
 );

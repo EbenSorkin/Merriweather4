@@ -29,12 +29,12 @@ ref = I;
 },
 {
 alignment = -1;
-pos = (747,0);
+pos = (787,0);
 ref = C;
 },
 {
 alignment = -1;
-pos = (198,-72);
+pos = (238,-72);
 ref = glongbar_part.;
 }
 );

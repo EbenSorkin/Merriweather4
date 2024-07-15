@@ -8,12 +8,11 @@ shapes = (
 ref = "ha-cy";
 },
 {
-alignment = -1;
-pos = (799,0);
+pos = (794,0);
 ref = righttooth_part.;
 }
 );
-width = 1175;
+width = 1157;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -22,12 +21,11 @@ shapes = (
 ref = "ha-cy";
 },
 {
-alignment = -1;
-pos = (848,0);
+pos = (840,0);
 ref = righttooth_part.;
 }
 );
-width = 1284;
+width = 1263;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -36,12 +34,11 @@ shapes = (
 ref = "ha-cy";
 },
 {
-alignment = -1;
-pos = (808,0);
+pos = (795,0);
 ref = righttooth_part.;
 }
 );
-width = 1087;
+width = 1060;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -50,12 +47,11 @@ shapes = (
 ref = "ha-cy";
 },
 {
-alignment = -1;
-pos = (730,0);
+pos = (721,0);
 ref = righttooth_part.;
 }
 );
-width = 1081;
+width = 1057;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -64,12 +60,11 @@ shapes = (
 ref = "ha-cy";
 },
 {
-alignment = -1;
-pos = (604,0);
+pos = (600,0);
 ref = righttooth_part.;
 }
 );
-width = 957;
+width = 940;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -78,12 +73,11 @@ shapes = (
 ref = "ha-cy";
 },
 {
-alignment = -1;
-pos = (659,0);
+pos = (648,0);
 ref = righttooth_part.;
 }
 );
-width = 936;
+width = 911;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -92,12 +86,11 @@ shapes = (
 ref = "ha-cy";
 },
 {
-alignment = -1;
-pos = (676,0);
+pos = (658,0);
 ref = righttooth_part.;
 }
 );
-width = 879;
+width = 850;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -106,12 +99,11 @@ shapes = (
 ref = "ha-cy";
 },
 {
-alignment = -1;
 pos = (778,0);
 ref = righttooth_part.;
 }
 );
-width = 1017;
+width = 996;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -120,12 +112,11 @@ shapes = (
 ref = "ha-cy";
 },
 {
-alignment = -1;
-pos = (850,0);
+pos = (846,0);
 ref = righttooth_part.;
 }
 );
-width = 1106;
+width = 1090;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -134,12 +125,11 @@ shapes = (
 ref = "ha-cy";
 },
 {
-alignment = -1;
-pos = (833,0);
+pos = (818,0);
 ref = righttooth_part.;
 }
 );
-width = 1083;
+width = 1058;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -148,15 +138,14 @@ shapes = (
 ref = "ha-cy";
 },
 {
-alignment = -1;
-pos = (942,0);
+pos = (936,0);
 ref = righttooth_part.;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1253;
+width = 1233;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -165,12 +154,11 @@ shapes = (
 ref = "ha-cy";
 },
 {
-alignment = -1;
-pos = (944,0);
+pos = (926,0);
 ref = righttooth_part.;
 }
 );
-width = 1314;
+width = 1282;
 }
 );
 metricLeft = x;

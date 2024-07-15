@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = "Esdescender-cy.loclBSH";
 layers = (
 {
@@ -8,8 +9,8 @@ shapes = (
 ref = C;
 },
 {
-pos = (444,0);
-ref = "BSHdescender-cy";
+pos = (463,0);
+ref = "descender_part-cy";
 }
 );
 width = 1298;
@@ -21,8 +22,8 @@ shapes = (
 ref = C;
 },
 {
-pos = (409,0);
-ref = "BSHdescender-cy";
+pos = (405,0);
+ref = "descender_part-cy";
 }
 );
 width = 1336;
@@ -34,8 +35,8 @@ shapes = (
 ref = C;
 },
 {
-pos = (414,0);
-ref = "BSHdescender-cy";
+pos = (435,0);
+ref = "descender_part-cy";
 }
 );
 width = 1264;
@@ -47,8 +48,8 @@ shapes = (
 ref = C;
 },
 {
-pos = (338,0);
-ref = "BSHdescender-cy";
+pos = (330,0);
+ref = "descender_part-cy";
 }
 );
 width = 1195;
@@ -60,8 +61,8 @@ shapes = (
 ref = C;
 },
 {
-pos = (403,0);
-ref = "BSHdescender-cy";
+pos = (413,0);
+ref = "descender_part-cy";
 }
 );
 width = 1166;
@@ -73,8 +74,8 @@ shapes = (
 ref = C;
 },
 {
-pos = (348,0);
-ref = "BSHdescender-cy";
+pos = (362,0);
+ref = "descender_part-cy";
 }
 );
 width = 1154;
@@ -86,8 +87,8 @@ shapes = (
 ref = C;
 },
 {
-pos = (330,0);
-ref = "BSHdescender-cy";
+pos = (335,0);
+ref = "descender_part-cy";
 }
 );
 width = 1074;
@@ -99,8 +100,8 @@ shapes = (
 ref = C;
 },
 {
-pos = (425,0);
-ref = "BSHdescender-cy";
+pos = (439,0);
+ref = "descender_part-cy";
 }
 );
 width = 1229;
@@ -112,8 +113,8 @@ shapes = (
 ref = C;
 },
 {
-pos = (509,0);
-ref = "BSHdescender-cy";
+pos = (537,0);
+ref = "descender_part-cy";
 }
 );
 width = 1334;
@@ -148,8 +149,8 @@ shapes = (
 ref = C;
 },
 {
-pos = (476,0);
-ref = "BSHdescender-cy";
+pos = (505,0);
+ref = "descender_part-cy";
 }
 );
 width = 1324;
@@ -161,8 +162,8 @@ shapes = (
 ref = C;
 },
 {
-pos = (526,0);
-ref = "BSHdescender-cy";
+pos = (561,0);
+ref = "descender_part-cy";
 }
 );
 userData = {
@@ -177,8 +178,8 @@ shapes = (
 ref = C;
 },
 {
-pos = (441,0);
-ref = "BSHdescender-cy";
+pos = (469,0);
+ref = "descender_part-cy";
 }
 );
 width = 1426;

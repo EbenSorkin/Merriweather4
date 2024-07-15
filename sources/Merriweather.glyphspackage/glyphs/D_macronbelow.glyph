@@ -34,7 +34,7 @@ shapes = (
 ref = D;
 },
 {
-pos = (406,0);
+pos = (336,0);
 ref = macronbelowcomb.case;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = D;
 },
 {
-pos = (449,0);
+pos = (379,0);
 ref = macronbelowcomb.case;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = D;
 },
 {
-pos = (427,0);
+pos = (397,0);
 ref = macronbelowcomb.case;
 }
 );
@@ -125,7 +125,7 @@ shapes = (
 ref = D;
 },
 {
-pos = (440,0);
+pos = (370,0);
 ref = macronbelowcomb.case;
 }
 );

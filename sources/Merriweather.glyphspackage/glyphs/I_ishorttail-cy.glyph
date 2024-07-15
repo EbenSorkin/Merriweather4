@@ -374,7 +374,7 @@ pos = (427,0);
 ref = "brevecomb-cy.case";
 },
 {
-pos = (1175,0);
+pos = (1195,0);
 ref = righttooth_part.;
 }
 );
@@ -472,7 +472,7 @@ pos = (414,0);
 ref = "brevecomb-cy.case";
 },
 {
-pos = (1334,0);
+pos = (1345,0);
 ref = righttooth_part.;
 }
 );

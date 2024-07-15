@@ -230,7 +230,7 @@ shapes = (
 ref = "ka-cy.sc";
 },
 {
-pos = (960,0);
+pos = (980,0);
 ref = righttooth_part.;
 }
 );
@@ -290,7 +290,7 @@ shapes = (
 ref = "ka-cy.sc";
 },
 {
-pos = (1190,0);
+pos = (1201,0);
 ref = righttooth_part.;
 }
 );

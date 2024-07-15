@@ -84,16 +84,16 @@ ref = i.sc;
 },
 {
 alignment = -1;
-pos = (694,0);
+pos = (704,0);
 ref = o.sc;
 },
 {
 alignment = -1;
-pos = (145,-120);
+pos = (148,-120);
 ref = shortbar_part.;
 }
 );
-width = 2072;
+width = 2082;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -195,7 +195,7 @@ ref = i.sc;
 },
 {
 alignment = -1;
-pos = (563,0);
+pos = (566,0);
 ref = o.sc;
 },
 {
@@ -204,7 +204,7 @@ pos = (132,-120);
 ref = shortbar_part.;
 }
 );
-width = 1900;
+width = 1903;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";

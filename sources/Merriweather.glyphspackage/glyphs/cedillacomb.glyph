@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = _bottom;
-pos = (203,0);
+pos = (223,0);
 },
 {
 name = bottom;
@@ -30,14 +30,14 @@ nodes = (
 (256,-200,cs),
 (256,-322,o),
 (202,-342,o),
-(104,-342,cs),
-(84,-342,o),
-(38,-336,o),
-(10,-326,c),
-(10,-444,l),
-(46,-458,o),
-(106,-470,o),
-(159,-470,cs)
+(124,-342,cs),
+(104,-342,o),
+(58,-336,o),
+(30,-326,c),
+(30,-444,l),
+(66,-458,o),
+(126,-470,o),
+(179,-470,cs)
 );
 }
 );
@@ -89,7 +89,7 @@ width = 461;
 anchors = (
 {
 name = _bottom;
-pos = (201,0);
+pos = (211,0);
 },
 {
 name = bottom;
@@ -131,7 +131,7 @@ width = 401;
 anchors = (
 {
 name = _bottom;
-pos = (203,0);
+pos = (213,0);
 },
 {
 name = bottom;
@@ -173,7 +173,7 @@ width = 406;
 anchors = (
 {
 name = _bottom;
-pos = (178,0);
+pos = (198,0);
 },
 {
 name = bottom;
@@ -215,7 +215,7 @@ width = 356;
 anchors = (
 {
 name = _bottom;
-pos = (186,0);
+pos = (206,0);
 },
 {
 name = bottom;
@@ -257,7 +257,7 @@ width = 371;
 anchors = (
 {
 name = _bottom;
-pos = (155,0);
+pos = (175,0);
 },
 {
 name = bottom;
@@ -299,7 +299,7 @@ width = 310;
 anchors = (
 {
 name = _bottom;
-pos = (170,0);
+pos = (190,0);
 },
 {
 name = bottom;
@@ -341,7 +341,7 @@ width = 340;
 anchors = (
 {
 name = _bottom;
-pos = (216,0);
+pos = (246,0);
 },
 {
 name = bottom;
@@ -383,7 +383,7 @@ width = 431;
 anchors = (
 {
 name = _bottom;
-pos = (185,0);
+pos = (205,0);
 },
 {
 name = bottom;
@@ -425,7 +425,7 @@ width = 370;
 anchors = (
 {
 name = _bottom;
-pos = (223,0);
+pos = (283,0);
 },
 {
 name = bottom;
@@ -470,7 +470,7 @@ width = 446;
 anchors = (
 {
 name = _bottom;
-pos = (251,0);
+pos = (281,0);
 },
 {
 name = bottom;

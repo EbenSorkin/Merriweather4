@@ -185,7 +185,7 @@ shapes = (
 ref = "el-cy.sc";
 },
 {
-pos = (885,0);
+pos = (905,0);
 ref = righttooth_part.;
 }
 );
@@ -198,7 +198,7 @@ shapes = (
 ref = "el-cy.sc";
 },
 {
-pos = (941,0);
+pos = (952,0);
 ref = righttooth_part.;
 }
 );

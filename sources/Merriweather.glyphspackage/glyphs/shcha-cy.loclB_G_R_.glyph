@@ -9,7 +9,7 @@ shapes = (
 ref = "sha-cy.loclBGR";
 },
 {
-pos = (1474,0);
+pos = (1494,0);
 ref = righttooth_part.;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = "sha-cy.loclBGR";
 },
 {
-pos = (1491,0);
+pos = (1501,0);
 ref = righttooth_part.;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = "sha-cy.loclBGR";
 },
 {
-pos = (1398,0);
+pos = (1433,0);
 ref = righttooth_part.;
 }
 );
@@ -74,7 +74,7 @@ shapes = (
 ref = "sha-cy.loclBGR";
 },
 {
-pos = (1245,0);
+pos = (1265,0);
 ref = righttooth_part.;
 }
 );
@@ -87,7 +87,7 @@ shapes = (
 ref = "sha-cy.loclBGR";
 },
 {
-pos = (1304,0);
+pos = (1334,0);
 ref = righttooth_part.;
 }
 );
@@ -101,11 +101,11 @@ alignment = -1;
 ref = "sha-cy.loclBGR";
 },
 {
-pos = (1367,0);
+pos = (1387,0);
 ref = righttooth_part.;
 }
 );
-width = 1615;
+width = 1635;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -114,7 +114,7 @@ shapes = (
 ref = "sha-cy.loclBGR";
 },
 {
-pos = (1499,0);
+pos = (1550,0);
 ref = righttooth_part.;
 }
 );
@@ -127,7 +127,7 @@ shapes = (
 ref = "sha-cy.loclBGR";
 },
 {
-pos = (1505,0);
+pos = (1565,0);
 ref = righttooth_part.;
 }
 );

@@ -139,7 +139,7 @@ pos = (412,287);
 ref = "brevecomb-cy";
 },
 {
-pos = (1143,0);
+pos = (1163,0);
 ref = righttooth_part.;
 }
 );
@@ -164,7 +164,7 @@ pos = (370,287);
 ref = "brevecomb-cy";
 },
 {
-pos = (1247,0);
+pos = (1258,0);
 ref = righttooth_part.;
 }
 );

@@ -8,14 +8,6 @@ name = bottom;
 pos = (570,0);
 },
 {
-name = ogonek;
-pos = (114,1102);
-},
-{
-name = ringhalfr;
-pos = (1079,-122);
-},
-{
 name = top;
 pos = (570,1112);
 }
@@ -83,14 +75,6 @@ anchors = (
 {
 name = bottom;
 pos = (521,0);
-},
-{
-name = ogonek;
-pos = (107,1100);
-},
-{
-name = ringhalfr;
-pos = (972,-124);
 },
 {
 name = top;
@@ -162,14 +146,6 @@ name = bottom;
 pos = (494,0);
 },
 {
-name = ogonek;
-pos = (99,995);
-},
-{
-name = ringhalfr;
-pos = (922,-159);
-},
-{
 name = top;
 pos = (494,1005);
 }
@@ -237,14 +213,6 @@ anchors = (
 {
 name = bottom;
 pos = (448,0);
-},
-{
-name = ogonek;
-pos = (89,995);
-},
-{
-name = ringhalfr;
-pos = (833,-199);
 },
 {
 name = top;
@@ -316,14 +284,6 @@ name = bottom;
 pos = (487,0);
 },
 {
-name = ogonek;
-pos = (97,1102);
-},
-{
-name = ringhalfr;
-pos = (907,-122);
-},
-{
 name = top;
 pos = (487,1112);
 }
@@ -391,14 +351,6 @@ anchors = (
 {
 name = bottom;
 pos = (434,0);
-},
-{
-name = ogonek;
-pos = (88,1100);
-},
-{
-name = ringhalfr;
-pos = (813,-124);
 },
 {
 name = top;
@@ -470,14 +422,6 @@ name = bottom;
 pos = (444,0);
 },
 {
-name = ogonek;
-pos = (89,995);
-},
-{
-name = ringhalfr;
-pos = (821,-189);
-},
-{
 name = top;
 pos = (444,1005);
 }
@@ -545,14 +489,6 @@ anchors = (
 {
 name = bottom;
 pos = (426,0);
-},
-{
-name = ogonek;
-pos = (81,995);
-},
-{
-name = ringhalfr;
-pos = (744,-199);
 },
 {
 name = top;
@@ -624,14 +560,6 @@ name = bottom;
 pos = (592,0);
 },
 {
-name = ogonek;
-pos = (118,1102);
-},
-{
-name = ringhalfr;
-pos = (1117,-122);
-},
-{
 name = top;
 pos = (592,1112);
 }
@@ -699,14 +627,6 @@ anchors = (
 {
 name = bottom;
 pos = (581,0);
-},
-{
-name = ogonek;
-pos = (114,1100);
-},
-{
-name = ringhalfr;
-pos = (1075,-124);
 },
 {
 name = top;
@@ -778,14 +698,6 @@ name = bottom;
 pos = (548,0);
 },
 {
-name = ogonek;
-pos = (110,995);
-},
-{
-name = ringhalfr;
-pos = (1029,-189);
-},
-{
 name = top;
 pos = (548,1005);
 }
@@ -852,19 +764,11 @@ width = 1096;
 anchors = (
 {
 name = bottom;
-pos = (460,0);
-},
-{
-name = ogonek;
-pos = (92,995);
-},
-{
-name = ringhalfr;
-pos = (853,-199);
+pos = (480,0);
 },
 {
 name = top;
-pos = (460,1005);
+pos = (480,1005);
 }
 );
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";

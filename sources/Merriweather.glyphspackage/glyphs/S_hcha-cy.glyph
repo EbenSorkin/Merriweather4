@@ -102,7 +102,7 @@ shapes = (
 ref = "Sha-cy";
 },
 {
-pos = (1672,0);
+pos = (1692,0);
 ref = righttooth_part.;
 }
 );

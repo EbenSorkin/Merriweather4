@@ -35,7 +35,7 @@ shapes = (
 ref = p;
 },
 {
-pos = (-67,-204);
+pos = (-65,-204);
 ref = capbar_part.;
 }
 );

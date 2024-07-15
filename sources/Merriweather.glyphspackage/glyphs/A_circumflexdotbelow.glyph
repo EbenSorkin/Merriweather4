@@ -42,7 +42,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (427,0);
+pos = (337,0);
 ref = dotbelowcomb.case;
 },
 {
@@ -93,7 +93,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (333,0);
+pos = (243,0);
 ref = dotbelowcomb.case;
 },
 {
@@ -110,7 +110,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (422,0);
+pos = (412,0);
 ref = dotbelowcomb.case;
 },
 {
@@ -144,7 +144,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (484,0);
+pos = (424,0);
 ref = dotbelowcomb.case;
 },
 {
@@ -161,7 +161,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (555,0);
+pos = (515,0);
 ref = dotbelowcomb.case;
 },
 {
@@ -198,7 +198,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (518,0);
+pos = (488,0);
 ref = dotbelowcomb.case;
 },
 {
