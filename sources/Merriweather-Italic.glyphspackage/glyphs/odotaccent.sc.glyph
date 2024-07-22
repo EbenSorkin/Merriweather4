@@ -21,7 +21,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (526,182);
+pos = (518,182);
 ref = dotaccentcomb;
 }
 );

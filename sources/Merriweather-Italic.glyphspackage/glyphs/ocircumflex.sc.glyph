@@ -21,7 +21,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (333,182);
+pos = (325,182);
 ref = circumflexcomb;
 }
 );

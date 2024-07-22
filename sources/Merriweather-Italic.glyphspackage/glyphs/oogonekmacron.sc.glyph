@@ -29,7 +29,7 @@ pos = (600,18);
 ref = ogonekcomb;
 },
 {
-pos = (421,182);
+pos = (413,182);
 ref = macroncomb;
 }
 );

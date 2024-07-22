@@ -21,7 +21,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (173,182);
+pos = (165,182);
 ref = tildecomb_acutecomb;
 }
 );

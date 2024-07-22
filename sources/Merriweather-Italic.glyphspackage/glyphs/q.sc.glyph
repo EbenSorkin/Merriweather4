@@ -21,7 +21,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (-16,0);
+pos = (-24,0);
 ref = qtail.sc;
 }
 );

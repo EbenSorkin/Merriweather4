@@ -25,11 +25,11 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (351,0);
+pos = (343,0);
 ref = dotbelowcomb;
 },
 {
-pos = (333,182);
+pos = (325,182);
 ref = circumflexcomb;
 }
 );

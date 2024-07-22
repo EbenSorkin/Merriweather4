@@ -21,7 +21,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (432,0);
+pos = (424,0);
 ref = ogonekcomb.loclNAV;
 }
 );
