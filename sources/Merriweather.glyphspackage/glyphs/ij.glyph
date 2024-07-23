@@ -21,11 +21,11 @@ shapes = (
 ref = i;
 },
 {
-pos = (658,0);
+pos = (706,0);
 ref = j;
 }
 );
-width = 1364;
+width = 1412;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -34,14 +34,79 @@ shapes = (
 ref = i;
 },
 {
-pos = (574,0);
+pos = (580,0);
 ref = j;
 }
 );
-width = 1154;
+width = 1160;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
+shapes = (
+{
+ref = i;
+},
+{
+pos = (611,0);
+ref = j;
+}
+);
+width = 1222;
+},
+{
+layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
+shapes = (
+{
+ref = i;
+},
+{
+pos = (513,0);
+ref = j;
+}
+);
+width = 1026;
+},
+{
+layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
+shapes = (
+{
+ref = i;
+},
+{
+pos = (521,0);
+ref = j;
+}
+);
+width = 1042;
+},
+{
+layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
+shapes = (
+{
+ref = i;
+},
+{
+pos = (464,0);
+ref = j;
+}
+);
+width = 928;
+},
+{
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+ref = i;
+},
+{
+pos = (464,0);
+ref = j;
+}
+);
+width = 928;
+},
+{
+layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
 shapes = (
 {
 ref = i;
@@ -51,72 +116,7 @@ pos = (590,0);
 ref = j;
 }
 );
-width = 1201;
-},
-{
-layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
-shapes = (
-{
-ref = i;
-},
-{
-pos = (501,0);
-ref = j;
-}
-);
-width = 1014;
-},
-{
-layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
-shapes = (
-{
-ref = i;
-},
-{
-pos = (539,0);
-ref = j;
-}
-);
-width = 1060;
-},
-{
-layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
-shapes = (
-{
-ref = i;
-},
-{
-pos = (440,0);
-ref = j;
-}
-);
-width = 904;
-},
-{
-layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
-shapes = (
-{
-ref = i;
-},
-{
-pos = (439,0);
-ref = j;
-}
-);
-width = 903;
-},
-{
-layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
-shapes = (
-{
-ref = i;
-},
-{
-pos = (614,0);
-ref = j;
-}
-);
-width = 1204;
+width = 1180;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -125,11 +125,11 @@ shapes = (
 ref = i;
 },
 {
-pos = (446,0);
+pos = (466,0);
 ref = j;
 }
 );
-width = 912;
+width = 932;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -138,14 +138,14 @@ shapes = (
 ref = i;
 },
 {
-pos = (549,0);
+pos = (624,0);
 ref = j;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1173;
+width = 1248;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -154,11 +154,11 @@ shapes = (
 ref = i;
 },
 {
-pos = (667,0);
+pos = (712,0);
 ref = j;
 }
 );
-width = 1379;
+width = 1424;
 }
 );
 unicode = 307;

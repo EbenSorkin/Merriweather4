@@ -1,7 +1,5 @@
 {
 glyphname = mu;
-kernLeft = micro;
-kernRight = micro;
 layers = (
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
