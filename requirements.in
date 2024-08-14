@@ -2,7 +2,7 @@ absl-py==2.1.0
 afdko==4.0.1
 appdirs==1.4.4
 attrs==23.2.0
-axisregistry==0.4.9
+axisregistry==0.4.11
 babelfont==3.0.5
 beautifulsoup4==4.12.3
 beziers==0.6.0
