@@ -124,18 +124,21 @@ width = 1806;
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
 shapes = (
 {
+alignment = -1;
 ref = one.numr;
 },
 {
+alignment = -1;
 pos = (609,0);
 ref = fraction;
 },
 {
+alignment = -1;
 pos = (909,0);
 ref = eight.dnom;
 }
 );
-width = 1754;
+width = 1693;
 },
 {
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";

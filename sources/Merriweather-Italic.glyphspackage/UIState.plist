@@ -4,6 +4,17 @@ displayStrings = (
 "/o.sc/omega-latin.sc",
 "Ə",
 "/ogonekcomb.case",
-iPods
+iPods,
+"ǱǱǄǄǅǅĲĲ/IJ_acutecomb/IJ_acutecomb ǊǊ/IJ.loclNLD/IJ.loclNLD ǌǌǌǌ/dz.sc/dz.sc/dzcaron.sc/dzcaron.sc/ij.sc/ij.sc/ij.sc/ij.sc/ij_acutecomb.sc/ij_acutecomb.sc/ij_acutecomb.sc/ij_acutecomb.sc/lj.sc/lj.sc/lj.sc/lj.sc/nj.sc/nj.sc/f_f.sc/f_f.sc/f_f_i.sc/f_f_i.sc/f_f_l.sc/f_f_l.sc/fi.sc/fi.sc ѹѹ/yu-cy.sc/uk-cy.sc/uk-cy.sc ½½½½½½⅓⅓⅓⅓⅔⅔¼¼¾¾⅕⅕⅕⅕⅕⅕⅕⅕⅕⅕⅖⅖⅖⅖⅖⅖⅖⅖⅘⅘⅘⅘⅘⅘⅘⅘⅙⅙⅚⅚⅚⅚⅚⅚⅐⅐⅐⅐⅛⅛⅜⅜⅝⅝⅝⅝⅝⅝⅞⅞⅞⅞⅑⅑⅑⅑⅑⅑⅑⅑⅑⅑⅑⅑⅒⅒⅒⅒₨₨",
+"OӨ",
+"Ӫ",
+"Ѝ",
+"/iigrave-cy.sc",
+"/iishort-cy.sc",
+"/kje-cy.sc",
+"Ǽ",
+"/aeacute.sc",
+"ÆǢ",
+"/dieresis-cy"
 );
 }

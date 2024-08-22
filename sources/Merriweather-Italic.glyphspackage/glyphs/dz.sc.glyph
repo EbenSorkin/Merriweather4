@@ -136,9 +136,11 @@ width = 2282;
 layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
 shapes = (
 {
+alignment = -1;
 ref = d.sc;
 },
 {
+alignment = -1;
 pos = (1044,0);
 ref = z.sc;
 }

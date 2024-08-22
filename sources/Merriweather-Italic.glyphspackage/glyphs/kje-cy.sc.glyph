@@ -31,16 +31,14 @@ width = 1389;
 layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
 shapes = (
 {
-alignment = -1;
 ref = "ka-cy.sc";
 },
 {
-alignment = -1;
-pos = (796,182);
+pos = (706,182);
 ref = acutecomb;
 }
 );
-width = 1394;
+width = 1446;
 },
 {
 layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";

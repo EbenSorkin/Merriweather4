@@ -8,7 +8,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (-18,0);
+pos = (-25,0);
 ref = qtail.case;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (69,0);
+pos = (63,0);
 ref = qtail.case;
 }
 );
@@ -49,7 +49,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (35,0);
+pos = (27,0);
 ref = qtail.case;
 }
 );
@@ -64,7 +64,7 @@ alignment = -1;
 ref = O;
 },
 {
-pos = (-9,0);
+pos = (-11,0);
 ref = qtail.case;
 }
 );
@@ -92,7 +92,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (56,0);
+pos = (63,0);
 ref = qtail.case;
 }
 );
@@ -105,7 +105,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (25,0);
+pos = (19,0);
 ref = qtail.case;
 }
 );
@@ -119,7 +119,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (-97,0);
+pos = (-102,0);
 ref = qtail.case;
 }
 );
@@ -133,7 +133,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (-34,0);
+pos = (-47,0);
 ref = qtail.case;
 }
 );
@@ -161,7 +161,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (-32,0);
+pos = (-44,0);
 ref = qtail.case;
 }
 );

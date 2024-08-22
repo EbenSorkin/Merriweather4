@@ -8,7 +8,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (390,-2);
+pos = (382,-2);
 ref = hungarumlautcomb.case;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (334,0);
+pos = (328,0);
 ref = hungarumlautcomb.case;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (450,-2);
+pos = (432,-2);
 ref = hungarumlautcomb.case;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (363,0);
+pos = (369,0);
 ref = hungarumlautcomb.case;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (452,-2);
+pos = (445,-2);
 ref = hungarumlautcomb.case;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (315,-2);
+pos = (304,-2);
 ref = hungarumlautcomb.case;
 }
 );
@@ -125,7 +125,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (235,0);
+pos = (222,0);
 ref = hungarumlautcomb.case;
 }
 );

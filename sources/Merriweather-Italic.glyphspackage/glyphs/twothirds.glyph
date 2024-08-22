@@ -73,18 +73,21 @@ width = 1965;
 layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
 shapes = (
 {
+alignment = -1;
 ref = two.numr;
 },
 {
+alignment = -1;
 pos = (798,0);
 ref = fraction;
 },
 {
+alignment = -1;
 pos = (1135,0);
 ref = three.dnom;
 }
 );
-width = 1908;
+width = 1906;
 },
 {
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";

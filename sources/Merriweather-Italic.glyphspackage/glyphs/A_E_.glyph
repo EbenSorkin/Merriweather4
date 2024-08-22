@@ -113,7 +113,7 @@ width = 1984;
 anchors = (
 {
 name = top;
-pos = (1136,1486);
+pos = (1206,1486);
 }
 );
 color = 1;
@@ -168,7 +168,7 @@ width = 2183;
 anchors = (
 {
 name = top;
-pos = (1117,1486);
+pos = (1177,1486);
 }
 );
 color = 4;
@@ -223,7 +223,7 @@ width = 1999;
 anchors = (
 {
 name = top;
-pos = (1104,1486);
+pos = (1184,1486);
 }
 );
 color = 4;
@@ -333,7 +333,7 @@ width = 1807;
 anchors = (
 {
 name = top;
-pos = (1054,1486);
+pos = (1244,1486);
 }
 );
 color = 4;
@@ -442,7 +442,7 @@ width = 1936;
 anchors = (
 {
 name = top;
-pos = (1101,1486);
+pos = (981,1486);
 }
 );
 color = 4;
@@ -497,7 +497,7 @@ width = 1577;
 anchors = (
 {
 name = top;
-pos = (1112,1486);
+pos = (1022,1486);
 }
 );
 color = 4;
