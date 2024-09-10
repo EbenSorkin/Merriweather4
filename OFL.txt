@@ -1,4 +1,4 @@
-Copyright 2022 The Merriweather4 Project Authors (https://github.com/EbenSorkin/Merriweather4)
+Copyright 2020 The Merriweather Project Authors (https://github.com/EbenSorkin/Merriweather4) with Reserved Font Name "Merriweather".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
