@@ -9,11 +9,11 @@ alignment = -1;
 ref = U;
 },
 {
-pos = (284,0);
+pos = (291,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (261,312);
+pos = (268,312);
 ref = gravecomb.case;
 }
 );
@@ -81,11 +81,11 @@ alignment = -1;
 ref = U;
 },
 {
-pos = (385,0);
+pos = (393,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (341,312);
+pos = (349,312);
 ref = gravecomb.case;
 }
 );
@@ -116,11 +116,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (280,0);
+pos = (277,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (216,276);
+pos = (213,276);
 ref = gravecomb.case;
 }
 );
@@ -152,11 +152,11 @@ alignment = -1;
 ref = U;
 },
 {
-pos = (278,0);
+pos = (268,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (194,276);
+pos = (184,276);
 ref = gravecomb.case;
 }
 );
@@ -188,11 +188,11 @@ alignment = -1;
 ref = U;
 },
 {
-pos = (293,0);
+pos = (275,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (234,276);
+pos = (216,276);
 ref = gravecomb.case;
 }
 );

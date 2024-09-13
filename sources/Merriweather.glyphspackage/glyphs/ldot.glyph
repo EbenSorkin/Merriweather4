@@ -52,11 +52,11 @@ ref = l;
 },
 {
 alignment = 1;
-pos = (578,0);
+pos = (577,0);
 ref = periodcentered.loclCAT;
 }
 );
-width = 975;
+width = 974;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";

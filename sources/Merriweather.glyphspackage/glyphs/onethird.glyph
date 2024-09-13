@@ -29,11 +29,11 @@ pos = (655,0);
 ref = fraction;
 },
 {
-pos = (1071,0);
+pos = (1066,0);
 ref = three.dnom;
 }
 );
-width = 1865;
+width = 1860;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -42,15 +42,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (609,0);
+pos = (608,0);
 ref = fraction;
 },
 {
-pos = (918,0);
+pos = (915,0);
 ref = three.dnom;
 }
 );
-width = 1660;
+width = 1657;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -59,15 +59,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (666,0);
+pos = (633,0);
 ref = fraction;
 },
 {
-pos = (1136,0);
+pos = (1088,0);
 ref = three.dnom;
 }
 );
-width = 1875;
+width = 1827;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -76,15 +76,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (602,0);
+pos = (589,0);
 ref = fraction;
 },
 {
-pos = (1044,0);
+pos = (1023,0);
 ref = three.dnom;
 }
 );
-width = 1759;
+width = 1738;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -93,15 +93,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (579,0);
+pos = (575,0);
 ref = fraction;
 },
 {
-pos = (937,0);
+pos = (930,0);
 ref = three.dnom;
 }
 );
-width = 1637;
+width = 1630;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -110,15 +110,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (506,0);
+pos = (495,0);
 ref = fraction;
 },
 {
-pos = (928,0);
+pos = (892,0);
 ref = three.dnom;
 }
 );
-width = 1587;
+width = 1551;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";

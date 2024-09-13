@@ -9,11 +9,11 @@ alignment = -1;
 ref = U;
 },
 {
-pos = (284,0);
+pos = (291,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (296,312);
+pos = (303,312);
 ref = macroncomb.case;
 }
 );
@@ -81,11 +81,11 @@ alignment = -1;
 ref = U;
 },
 {
-pos = (385,0);
+pos = (393,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (375,312);
+pos = (383,312);
 ref = macroncomb.case;
 }
 );
@@ -117,11 +117,11 @@ alignment = -1;
 ref = U;
 },
 {
-pos = (280,0);
+pos = (277,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (291,276);
+pos = (288,276);
 ref = macroncomb.case;
 }
 );
@@ -153,11 +153,11 @@ alignment = -1;
 ref = U;
 },
 {
-pos = (278,0);
+pos = (268,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (288,276);
+pos = (278,276);
 ref = macroncomb.case;
 }
 );
@@ -189,11 +189,11 @@ alignment = -1;
 ref = U;
 },
 {
-pos = (293,0);
+pos = (275,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (295,276);
+pos = (277,276);
 ref = macroncomb.case;
 }
 );

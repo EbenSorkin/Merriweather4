@@ -9,7 +9,7 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (660,0);
+pos = (659,0);
 ref = o.sc;
 },
 {
@@ -18,7 +18,7 @@ pos = (181,-120);
 ref = shortbar_part.;
 }
 );
-width = 2004;
+width = 2003;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";

@@ -8,7 +8,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (85,0);
+pos = (92,0);
 ref = dblgravecomb.case;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (128,0);
+pos = (118,0);
 ref = dblgravecomb.case;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (108,0);
+pos = (105,0);
 ref = dblgravecomb.case;
 }
 );
@@ -125,7 +125,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (160,0);
+pos = (142,0);
 ref = dblgravecomb.case;
 }
 );
@@ -138,7 +138,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (177,0);
+pos = (185,0);
 ref = dblgravecomb.case;
 }
 );

@@ -8,7 +8,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (554,0);
+pos = (561,0);
 ref = hookabovecomb.case;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (526,0);
+pos = (516,0);
 ref = hookabovecomb.case;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (544,0);
+pos = (541,0);
 ref = hookabovecomb.case;
 }
 );
@@ -125,7 +125,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (559,0);
+pos = (541,0);
 ref = hookabovecomb.case;
 }
 );
@@ -138,7 +138,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (565,0);
+pos = (573,0);
 ref = hookabovecomb.case;
 }
 );

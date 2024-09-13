@@ -8,7 +8,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (284,0);
+pos = (291,0);
 ref = dieresiscomb_acutecomb.case;
 }
 );
@@ -60,7 +60,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (385,0);
+pos = (393,0);
 ref = dieresiscomb_acutecomb.case;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (280,0);
+pos = (277,0);
 ref = dieresiscomb_acutecomb.case;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (278,0);
+pos = (268,0);
 ref = dieresiscomb_acutecomb.case;
 }
 );
@@ -138,7 +138,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (293,0);
+pos = (275,0);
 ref = dieresiscomb_acutecomb.case;
 }
 );

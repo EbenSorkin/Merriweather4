@@ -34,15 +34,15 @@ pos = (655,0);
 ref = fraction;
 },
 {
-pos = (1069,0);
+pos = (1064,0);
 ref = one.dnom;
 },
 {
-pos = (1720,0);
+pos = (1715,0);
 ref = zero.dnom;
 }
 );
-width = 2660;
+width = 2655;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -51,19 +51,19 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (609,0);
+pos = (608,0);
 ref = fraction;
 },
 {
-pos = (906,0);
+pos = (896,0);
 ref = one.dnom;
 },
 {
-pos = (1489,0);
+pos = (1479,0);
 ref = zero.dnom;
 }
 );
-width = 2420;
+width = 2410;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -72,19 +72,19 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (666,0);
+pos = (633,0);
 ref = fraction;
 },
 {
-pos = (1136,0);
+pos = (1088,0);
 ref = one.dnom;
 },
 {
-pos = (1751,0);
+pos = (1703,0);
 ref = zero.dnom;
 }
 );
-width = 2691;
+width = 2643;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -93,19 +93,19 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (602,0);
+pos = (589,0);
 ref = fraction;
 },
 {
-pos = (1022,0);
+pos = (995,0);
 ref = one.dnom;
 },
 {
-pos = (1622,0);
+pos = (1595,0);
 ref = zero.dnom;
 }
 );
-width = 2488;
+width = 2461;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -114,19 +114,19 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (579,0);
+pos = (575,0);
 ref = fraction;
 },
 {
-pos = (927,0);
+pos = (905,0);
 ref = one.dnom;
 },
 {
-pos = (1488,0);
+pos = (1466,0);
 ref = zero.dnom;
 }
 );
-width = 2385;
+width = 2363;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -135,19 +135,19 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (506,0);
+pos = (495,0);
 ref = fraction;
 },
 {
-pos = (910,0);
+pos = (883,0);
 ref = one.dnom;
 },
 {
-pos = (1408,0);
+pos = (1381,0);
 ref = zero.dnom;
 }
 );
-width = 2193;
+width = 2166;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -164,11 +164,11 @@ pos = (911,0);
 ref = one.dnom;
 },
 {
-pos = (1454,0);
+pos = (1455,0);
 ref = zero.dnom;
 }
 );
-width = 2279;
+width = 2280;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";

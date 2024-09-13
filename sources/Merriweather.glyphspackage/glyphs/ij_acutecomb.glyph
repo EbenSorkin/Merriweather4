@@ -54,15 +54,15 @@ pos = (55,0);
 ref = acutecomb;
 },
 {
-pos = (573,0);
+pos = (574,0);
 ref = jdotless;
 },
 {
-pos = (608,0);
+pos = (609,0);
 ref = acutecomb;
 }
 );
-width = 1153;
+width = 1154;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -75,15 +75,15 @@ pos = (-29,0);
 ref = acutecomb;
 },
 {
-pos = (590,0);
+pos = (591,0);
 ref = jdotless;
 },
 {
-pos = (610,0);
+pos = (611,0);
 ref = acutecomb;
 }
 );
-width = 1201;
+width = 1202;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -138,15 +138,15 @@ pos = (36,0);
 ref = acutecomb;
 },
 {
-pos = (440,0);
+pos = (442,0);
 ref = jdotless;
 },
 {
-pos = (468,0);
+pos = (470,0);
 ref = acutecomb;
 }
 );
-width = 904;
+width = 906;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -159,15 +159,15 @@ pos = (19,0);
 ref = acutecomb;
 },
 {
-pos = (438,0);
+pos = (443,0);
 ref = jdotless;
 },
 {
-pos = (436,0);
+pos = (441,0);
 ref = acutecomb;
 }
 );
-width = 902;
+width = 907;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";

@@ -76,15 +76,15 @@ pos = (86,0);
 ref = acutecomb.case;
 },
 {
-pos = (773,0);
+pos = (775,0);
 ref = J;
 },
 {
-pos = (859,0);
+pos = (861,0);
 ref = acutecomb.case;
 }
 );
-width = 1500;
+width = 1502;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -139,15 +139,15 @@ pos = (70,0);
 ref = acutecomb.case;
 },
 {
-pos = (513,0);
+pos = (516,0);
 ref = J;
 },
 {
-pos = (583,0);
+pos = (586,0);
 ref = acutecomb.case;
 }
 );
-width = 1009;
+width = 1012;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";

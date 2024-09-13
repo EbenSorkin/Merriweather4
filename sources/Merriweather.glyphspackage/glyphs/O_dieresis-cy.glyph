@@ -8,7 +8,7 @@ shapes = (
 ref = "O-cy";
 },
 {
-pos = (266,0);
+pos = (262,0);
 ref = dieresiscomb.case;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = "O-cy";
 },
 {
-pos = (172,0);
+pos = (176,0);
 ref = dieresiscomb.case;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = "O-cy";
 },
 {
-pos = (223,0);
+pos = (214,0);
 ref = dieresiscomb.case;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = "O-cy";
 },
 {
-pos = (175,0);
+pos = (74,0);
 ref = dieresiscomb.case;
 }
 );
@@ -60,7 +60,7 @@ shapes = (
 ref = "O-cy";
 },
 {
-pos = (325,0);
+pos = (210,0);
 ref = dieresiscomb.case;
 }
 );
@@ -73,7 +73,7 @@ shapes = (
 ref = "O-cy";
 },
 {
-pos = (253,0);
+pos = (143,0);
 ref = dieresiscomb.case;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = "O-cy";
 },
 {
-pos = (330,0);
+pos = (205,0);
 ref = dieresiscomb.case;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = "O-cy";
 },
 {
-pos = (299,0);
+pos = (265,0);
 ref = dieresiscomb.case;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = "O-cy";
 },
 {
-pos = (258,0);
+pos = (329,0);
 ref = dieresiscomb.case;
 }
 );
@@ -125,7 +125,7 @@ shapes = (
 ref = "O-cy";
 },
 {
-pos = (282,0);
+pos = (299,0);
 ref = dieresiscomb.case;
 }
 );
@@ -138,7 +138,7 @@ shapes = (
 ref = "O-cy";
 },
 {
-pos = (336,0);
+pos = (356,0);
 ref = dieresiscomb.case;
 }
 );
@@ -154,7 +154,7 @@ shapes = (
 ref = "O-cy";
 },
 {
-pos = (186,0);
+pos = (234,0);
 ref = dieresiscomb.case;
 }
 );
