@@ -10,7 +10,7 @@ pos = (10,0);
 ref = "Shha-cy";
 },
 {
-pos = (897,0);
+pos = (912,0);
 ref = righttooth_part.;
 }
 );
@@ -25,7 +25,7 @@ pos = (10,0);
 ref = "Shha-cy";
 },
 {
-pos = (1099,0);
+pos = (1114,0);
 ref = righttooth_part.;
 }
 );
@@ -41,7 +41,7 @@ pos = (10,0);
 ref = "Shha-cy";
 },
 {
-pos = (1234,0);
+pos = (1249,0);
 ref = righttooth_part.;
 }
 );
@@ -56,7 +56,7 @@ pos = (10,0);
 ref = "Shha-cy";
 },
 {
-pos = (1067,0);
+pos = (1082,0);
 ref = righttooth_part.;
 }
 );
@@ -71,7 +71,7 @@ pos = (10,0);
 ref = "Shha-cy";
 },
 {
-pos = (1080,0);
+pos = (1095,0);
 ref = righttooth_part.;
 }
 );
@@ -86,7 +86,7 @@ pos = (10,0);
 ref = "Shha-cy";
 },
 {
-pos = (939,0);
+pos = (954,0);
 ref = righttooth_part.;
 }
 );
@@ -101,7 +101,7 @@ pos = (10,0);
 ref = "Shha-cy";
 },
 {
-pos = (1148,0);
+pos = (1163,0);
 ref = righttooth_part.;
 }
 );
@@ -116,7 +116,7 @@ pos = (10,0);
 ref = "Shha-cy";
 },
 {
-pos = (992,0);
+pos = (1007,0);
 ref = righttooth_part.;
 }
 );
@@ -131,7 +131,7 @@ pos = (10,0);
 ref = "Shha-cy";
 },
 {
-pos = (876,0);
+pos = (891,0);
 ref = righttooth_part.;
 }
 );
@@ -146,7 +146,7 @@ pos = (10,0);
 ref = "Shha-cy";
 },
 {
-pos = (975,0);
+pos = (990,0);
 ref = righttooth_part.;
 }
 );
@@ -161,7 +161,7 @@ pos = (10,0);
 ref = "Shha-cy";
 },
 {
-pos = (934,0);
+pos = (949,0);
 ref = righttooth_part.;
 }
 );
@@ -176,7 +176,7 @@ pos = (10,0);
 ref = "Shha-cy";
 },
 {
-pos = (1013,0);
+pos = (1028,0);
 ref = righttooth_part.;
 }
 );
