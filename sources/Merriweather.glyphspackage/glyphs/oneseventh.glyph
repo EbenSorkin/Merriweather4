@@ -13,11 +13,11 @@ pos = (628,0);
 ref = fraction;
 },
 {
-pos = (1045,0);
+pos = (1050,0);
 ref = seven.dnom;
 }
 );
-width = 1791;
+width = 1796;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -30,11 +30,11 @@ pos = (655,0);
 ref = fraction;
 },
 {
-pos = (1081,0);
+pos = (1083,0);
 ref = seven.dnom;
 }
 );
-width = 1887;
+width = 1889;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -43,15 +43,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (608,0);
+pos = (604,0);
 ref = fraction;
 },
 {
-pos = (926,0);
+pos = (922,0);
 ref = seven.dnom;
 }
 );
-width = 1669;
+width = 1665;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -94,15 +94,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (575,0);
+pos = (576,0);
 ref = fraction;
 },
 {
-pos = (933,0);
+pos = (934,0);
 ref = seven.dnom;
 }
 );
-width = 1636;
+width = 1637;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -111,15 +111,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (495,0);
+pos = (492,0);
 ref = fraction;
 },
 {
-pos = (915,0);
+pos = (912,0);
 ref = seven.dnom;
 }
 );
-width = 1604;
+width = 1601;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -145,15 +145,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (646,0);
+pos = (642,0);
 ref = fraction;
 },
 {
-pos = (977,0);
+pos = (973,0);
 ref = seven.dnom;
 }
 );
-width = 1758;
+width = 1754;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -166,11 +166,11 @@ pos = (589,0);
 ref = fraction;
 },
 {
-pos = (962,0);
+pos = (971,0);
 ref = seven.dnom;
 }
 );
-width = 1719;
+width = 1728;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -183,14 +183,14 @@ pos = (656,0);
 ref = fraction;
 },
 {
-pos = (1066,0);
+pos = (1065,0);
 ref = seven.dnom;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1881;
+width = 1880;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -199,15 +199,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (687,0);
+pos = (686,0);
 ref = fraction;
 },
 {
-pos = (1095,0);
+pos = (1094,0);
 ref = seven.dnom;
 }
 );
-width = 1973;
+width = 1972;
 }
 );
 unicode = 8528;

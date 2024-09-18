@@ -13,11 +13,11 @@ pos = (1157,0);
 ref = f.sc;
 },
 {
-pos = (2307,0);
+pos = (2306,0);
 ref = i.sc;
 }
 );
-width = 3001;
+width = 3000;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
@@ -30,11 +30,11 @@ pos = (1200,0);
 ref = f.sc;
 },
 {
-pos = (2390,0);
+pos = (2391,0);
 ref = i.sc;
 }
 );
-width = 3193;
+width = 3194;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -60,15 +60,15 @@ shapes = (
 ref = f.sc;
 },
 {
-pos = (1103,0);
+pos = (1106,0);
 ref = f.sc;
 },
 {
-pos = (2202,0);
+pos = (2206,0);
 ref = i.sc;
 }
 );
-width = 2948;
+width = 2952;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -81,11 +81,11 @@ pos = (1147,0);
 ref = f.sc;
 },
 {
-pos = (2268,0);
+pos = (2269,0);
 ref = i.sc;
 }
 );
-width = 2958;
+width = 2959;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -94,15 +94,15 @@ shapes = (
 ref = f.sc;
 },
 {
-pos = (1210,0);
+pos = (1217,0);
 ref = f.sc;
 },
 {
-pos = (2407,0);
+pos = (2429,0);
 ref = i.sc;
 }
 );
-width = 3235;
+width = 3257;
 },
 {
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -111,15 +111,15 @@ shapes = (
 ref = f.sc;
 },
 {
-pos = (1028,0);
+pos = (1025,0);
 ref = f.sc;
 },
 {
-pos = (2056,0);
+pos = (2051,0);
 ref = i.sc;
 }
 );
-width = 2575;
+width = 2570;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -132,11 +132,11 @@ pos = (1137,0);
 ref = f.sc;
 },
 {
-pos = (2269,0);
+pos = (2264,0);
 ref = i.sc;
 }
 );
-width = 3027;
+width = 3022;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -145,15 +145,15 @@ shapes = (
 ref = f.sc;
 },
 {
-pos = (934,0);
+pos = (928,0);
 ref = f.sc;
 },
 {
-pos = (1872,0);
+pos = (1856,0);
 ref = i.sc;
 }
 );
-width = 2357;
+width = 2341;
 },
 {
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
@@ -166,11 +166,11 @@ pos = (1032,0);
 ref = f.sc;
 },
 {
-pos = (2061,0);
+pos = (2062,0);
 ref = i.sc;
 }
 );
-width = 2743;
+width = 2744;
 },
 {
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
@@ -200,11 +200,11 @@ pos = (1201,0);
 ref = f.sc;
 },
 {
-pos = (2398,0);
+pos = (2397,0);
 ref = i.sc;
 }
 );
-width = 3133;
+width = 3132;
 }
 );
 }

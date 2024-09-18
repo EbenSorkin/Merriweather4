@@ -12,15 +12,15 @@ pos = (202,0);
 ref = acutecomb;
 },
 {
-pos = (539,0);
+pos = (540,0);
 ref = jdotless;
 },
 {
-pos = (763,0);
+pos = (764,0);
 ref = acutecomb;
 }
 );
-width = 1108;
+width = 1109;
 },
 {
 layerId = "27298932-82AF-4578-9425-6304FDB19058";
@@ -33,15 +33,15 @@ pos = (193,0);
 ref = acutecomb;
 },
 {
-pos = (626,0);
+pos = (625,0);
 ref = jdotless;
 },
 {
-pos = (855,0);
+pos = (854,0);
 ref = acutecomb;
 }
 );
-width = 1266;
+width = 1265;
 },
 {
 layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
@@ -54,15 +54,15 @@ pos = (177,0);
 ref = acutecomb;
 },
 {
-pos = (632,0);
+pos = (635,0);
 ref = jdotless;
 },
 {
-pos = (833,0);
+pos = (836,0);
 ref = acutecomb;
 }
 );
-width = 1231;
+width = 1234;
 },
 {
 layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
@@ -75,15 +75,15 @@ pos = (190,0);
 ref = acutecomb;
 },
 {
-pos = (539,0);
+pos = (538,0);
 ref = jdotless;
 },
 {
-pos = (749,0);
+pos = (748,0);
 ref = acutecomb;
 }
 );
-width = 1083;
+width = 1082;
 },
 {
 layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
@@ -117,15 +117,15 @@ pos = (184,0);
 ref = acutecomb;
 },
 {
-pos = (430,0);
+pos = (426,0);
 ref = jdotless;
 },
 {
-pos = (618,0);
+pos = (614,0);
 ref = acutecomb;
 }
 );
-width = 853;
+width = 849;
 },
 {
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
@@ -138,15 +138,15 @@ pos = (215,0);
 ref = acutecomb;
 },
 {
-pos = (575,0);
+pos = (573,0);
 ref = jdotless;
 },
 {
-pos = (810,0);
+pos = (808,0);
 ref = acutecomb;
 }
 );
-width = 1134;
+width = 1132;
 },
 {
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
@@ -201,15 +201,15 @@ pos = (164,0);
 ref = acutecomb;
 },
 {
-pos = (596,0);
+pos = (598,0);
 ref = jdotless;
 },
 {
-pos = (789,0);
+pos = (791,0);
 ref = acutecomb;
 }
 );
-width = 1162;
+width = 1164;
 },
 {
 layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
@@ -222,15 +222,15 @@ pos = (168,0);
 ref = acutecomb;
 },
 {
-pos = (437,0);
+pos = (436,0);
 ref = jdotless;
 },
 {
-pos = (602,0);
+pos = (601,0);
 ref = acutecomb;
 }
 );
-width = 836;
+width = 835;
 },
 {
 layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
@@ -243,15 +243,15 @@ pos = (189,0);
 ref = acutecomb;
 },
 {
-pos = (532,0);
+pos = (536,0);
 ref = jdotless;
 },
 {
-pos = (737,0);
+pos = (741,0);
 ref = acutecomb;
 }
 );
-width = 1052;
+width = 1056;
 }
 );
 }

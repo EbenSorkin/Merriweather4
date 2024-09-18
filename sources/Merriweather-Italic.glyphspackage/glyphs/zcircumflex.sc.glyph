@@ -60,7 +60,7 @@ shapes = (
 ref = z.sc;
 },
 {
-pos = (255,287);
+pos = (275,287);
 ref = circumflexcomb;
 }
 );

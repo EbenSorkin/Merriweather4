@@ -33,15 +33,15 @@ pos = (27,0);
 ref = acutecomb;
 },
 {
-pos = (658,0);
+pos = (655,0);
 ref = jdotless;
 },
 {
-pos = (685,0);
+pos = (682,0);
 ref = acutecomb;
 }
 );
-width = 1364;
+width = 1361;
 },
 {
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
@@ -54,15 +54,15 @@ pos = (55,0);
 ref = acutecomb;
 },
 {
-pos = (574,0);
+pos = (570,0);
 ref = jdotless;
 },
 {
-pos = (609,0);
+pos = (605,0);
 ref = acutecomb;
 }
 );
-width = 1154;
+width = 1150;
 },
 {
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
@@ -75,15 +75,15 @@ pos = (-29,0);
 ref = acutecomb;
 },
 {
-pos = (591,0);
+pos = (590,0);
 ref = jdotless;
 },
 {
-pos = (611,0);
+pos = (610,0);
 ref = acutecomb;
 }
 );
-width = 1202;
+width = 1201;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -117,15 +117,15 @@ pos = (59,0);
 ref = acutecomb;
 },
 {
-pos = (530,0);
+pos = (531,0);
 ref = jdotless;
 },
 {
-pos = (569,0);
+pos = (570,0);
 ref = acutecomb;
 }
 );
-width = 1051;
+width = 1052;
 },
 {
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -159,15 +159,15 @@ pos = (19,0);
 ref = acutecomb;
 },
 {
-pos = (443,0);
+pos = (442,0);
 ref = jdotless;
 },
 {
-pos = (441,0);
+pos = (440,0);
 ref = acutecomb;
 }
 );
-width = 907;
+width = 906;
 },
 {
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
@@ -201,15 +201,15 @@ pos = (-2,0);
 ref = acutecomb;
 },
 {
-pos = (442,0);
+pos = (443,0);
 ref = jdotless;
 },
 {
-pos = (423,0);
+pos = (424,0);
 ref = acutecomb;
 }
 );
-width = 908;
+width = 909;
 },
 {
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
@@ -222,18 +222,18 @@ pos = (77,0);
 ref = acutecomb;
 },
 {
-pos = (547,0);
+pos = (544,0);
 ref = jdotless;
 },
 {
-pos = (614,0);
+pos = (611,0);
 ref = acutecomb;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 1171;
+width = 1168;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
@@ -246,15 +246,15 @@ pos = (58,0);
 ref = acutecomb;
 },
 {
-pos = (667,0);
+pos = (668,0);
 ref = jdotless;
 },
 {
-pos = (702,0);
+pos = (703,0);
 ref = acutecomb;
 }
 );
-width = 1379;
+width = 1380;
 }
 );
 }

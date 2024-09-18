@@ -73,7 +73,7 @@ shapes = (
 ref = z.sc;
 },
 {
-pos = (274,287);
+pos = (294,287);
 ref = caroncomb;
 }
 );
