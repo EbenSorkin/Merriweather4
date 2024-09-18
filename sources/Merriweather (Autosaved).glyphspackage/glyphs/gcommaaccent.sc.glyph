@@ -1,0 +1,183 @@
+{
+color = 5;
+glyphname = gcommaaccent.sc;
+layers = (
+{
+.lastUpdate = 748373473.055;
+layerId = UUID0;
+shapes = (
+{
+ref = g.sc;
+},
+{
+pos = (593,0);
+ref = commaaccentcomb;
+}
+);
+width = 1390;
+},
+{
+.lastUpdate = 748373473.055;
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+ref = g.sc;
+},
+{
+pos = (534,0);
+ref = commaaccentcomb;
+}
+);
+width = 1380;
+},
+{
+.lastUpdate = 748373473.055;
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+ref = g.sc;
+},
+{
+pos = (551,0);
+ref = commaaccentcomb;
+}
+);
+width = 1369;
+},
+{
+.lastUpdate = 748373473.055;
+layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
+shapes = (
+{
+ref = g.sc;
+},
+{
+pos = (479,0);
+ref = commaaccentcomb;
+}
+);
+width = 1235;
+},
+{
+.lastUpdate = 748373473.055;
+layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
+shapes = (
+{
+ref = g.sc;
+},
+{
+pos = (473,0);
+ref = commaaccentcomb;
+}
+);
+width = 1139;
+},
+{
+.lastUpdate = 748373473.055;
+layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
+shapes = (
+{
+ref = g.sc;
+},
+{
+pos = (447,0);
+ref = commaaccentcomb;
+}
+);
+width = 1189;
+},
+{
+.lastUpdate = 748373473.055;
+layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
+shapes = (
+{
+ref = g.sc;
+},
+{
+pos = (499,0);
+ref = commaaccentcomb;
+}
+);
+width = 1127;
+},
+{
+.lastUpdate = 748373485.596;
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+ref = g.sc;
+},
+{
+pos = (568,-13);
+ref = commaaccentcomb;
+}
+);
+width = 1298;
+},
+{
+.lastUpdate = 748373473.055;
+layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
+shapes = (
+{
+ref = g.sc;
+},
+{
+pos = (541,0);
+ref = commaaccentcomb;
+}
+);
+width = 1363;
+},
+{
+.lastUpdate = 748373473.055;
+layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
+shapes = (
+{
+ref = g.sc;
+},
+{
+pos = (596,0);
+ref = commaaccentcomb;
+}
+);
+width = 1347;
+},
+{
+.lastUpdate = 748373473.055;
+layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
+shapes = (
+{
+ref = g.sc;
+},
+{
+pos = (584,0);
+ref = commaaccentcomb;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
+};
+width = 1385;
+},
+{
+.lastUpdate = 748373473.055;
+layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
+shapes = (
+{
+ref = g.sc;
+},
+{
+pos = (547,0);
+ref = commaaccentcomb;
+}
+);
+width = 1412;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
+}

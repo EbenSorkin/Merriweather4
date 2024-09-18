@@ -1,0 +1,196 @@
+{
+glyphname = fraction;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-290,-102,l),
+(-166,-102,l),
+(682,1630,l),
+(558,1630,l)
+);
+}
+);
+width = 392;
+},
+{
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-295,-102,l),
+(-102,-102,l),
+(723,1630,l),
+(530,1630,l)
+);
+}
+);
+width = 428;
+},
+{
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-315,-102,l),
+(-212,-102,l),
+(633,1630,l),
+(530,1630,l)
+);
+}
+);
+width = 318;
+},
+{
+layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-255,-102,l),
+(-62,-102,l),
+(723,1630,l),
+(530,1630,l)
+);
+}
+);
+width = 468;
+},
+{
+layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-240,-102,l),
+(-116,-102,l),
+(682,1630,l),
+(558,1630,l)
+);
+}
+);
+width = 442;
+},
+{
+layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-275,-102,l),
+(-172,-102,l),
+(633,1630,l),
+(530,1630,l)
+);
+}
+);
+width = 358;
+},
+{
+layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-230,-102,l),
+(-136,-102,l),
+(652,1630,l),
+(558,1630,l)
+);
+}
+);
+width = 422;
+},
+{
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-290,-102,l),
+(-196,-102,l),
+(652,1630,l),
+(558,1630,l)
+);
+}
+);
+width = 362;
+},
+{
+layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-315,-102,l),
+(-202,-102,l),
+(643,1630,l),
+(530,1630,l)
+);
+}
+);
+width = 328;
+},
+{
+layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-290,-102,l),
+(-196,-102,l),
+(652,1630,l),
+(558,1630,l)
+);
+}
+);
+width = 362;
+},
+{
+layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-290,-102,l),
+(-166,-102,l),
+(682,1630,l),
+(558,1630,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
+};
+width = 392;
+},
+{
+layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-315,-102,l),
+(-122,-102,l),
+(723,1630,l),
+(530,1630,l)
+);
+}
+);
+width = 408;
+}
+);
+metricRight = "=|";
+unicode = 8260;
+userData = {
+KernOnSpecialSpacing = {
+L = fraction;
+R = fraction;
+};
+};
+}

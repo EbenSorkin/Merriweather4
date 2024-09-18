@@ -1,0 +1,175 @@
+{
+color = 5;
+glyphname = aemacron;
+layers = (
+{
+.lastUpdate = 748376737.938;
+layerId = UUID0;
+shapes = (
+{
+ref = ae;
+},
+{
+pos = (378,0);
+ref = macroncomb;
+}
+);
+width = 1661;
+},
+{
+.lastUpdate = 748376737.184;
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+ref = ae;
+},
+{
+pos = (389,1);
+ref = macroncomb;
+}
+);
+width = 1722;
+},
+{
+.lastUpdate = 748376742.862;
+layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
+shapes = (
+{
+ref = ae;
+},
+{
+pos = (421,0);
+ref = macroncomb;
+}
+);
+width = 1538;
+},
+{
+.lastUpdate = 748376740.639;
+layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
+shapes = (
+{
+ref = ae;
+},
+{
+pos = (309,2);
+ref = macroncomb;
+}
+);
+width = 1551;
+},
+{
+.lastUpdate = 748373472.99;
+layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
+shapes = (
+{
+ref = ae;
+},
+{
+pos = (538,0);
+ref = macroncomb;
+}
+);
+width = 1810;
+},
+{
+.lastUpdate = 748376759.337;
+layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
+shapes = (
+{
+ref = ae;
+},
+{
+pos = (460,0);
+ref = macroncomb;
+}
+);
+width = 1832;
+},
+{
+.lastUpdate = 748376740.074;
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+ref = ae;
+},
+{
+pos = (359,0);
+ref = macroncomb;
+}
+);
+width = 1454;
+},
+{
+.lastUpdate = 748376738.447;
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+ref = ae;
+},
+{
+pos = (345,0);
+ref = macroncomb;
+}
+);
+width = 1518;
+},
+{
+.lastUpdate = 748373472.99;
+layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
+shapes = (
+{
+ref = ae;
+},
+{
+pos = (322,0);
+ref = macroncomb;
+}
+);
+width = 1324;
+},
+{
+.lastUpdate = 748373472.99;
+layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
+shapes = (
+{
+ref = ae;
+},
+{
+pos = (274,0);
+ref = macroncomb;
+}
+);
+width = 1390;
+},
+{
+.lastUpdate = 748373472.99;
+layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
+shapes = (
+{
+ref = ae;
+},
+{
+pos = (358,0);
+ref = macroncomb;
+}
+);
+width = 1541;
+},
+{
+.lastUpdate = 748373472.991;
+layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
+shapes = (
+{
+ref = ae;
+},
+{
+pos = (427,0);
+ref = macroncomb;
+}
+);
+width = 1632;
+}
+);
+unicode = 483;
+}
