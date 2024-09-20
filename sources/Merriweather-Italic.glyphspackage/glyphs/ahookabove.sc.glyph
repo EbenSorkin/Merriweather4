@@ -21,7 +21,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (485,182);
+pos = (465,182);
 ref = hookabovecomb;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (456,287);
+pos = (446,287);
 ref = hookabovecomb;
 }
 );

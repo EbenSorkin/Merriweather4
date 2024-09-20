@@ -21,7 +21,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (232,182);
+pos = (212,182);
 ref = "brevecomb-cy";
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (298,287);
+pos = (288,287);
 ref = "brevecomb-cy";
 }
 );

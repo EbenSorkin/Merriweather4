@@ -25,11 +25,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (232,0);
+pos = (222,0);
 ref = dotbelowcomb;
 },
 {
-pos = (283,182);
+pos = (263,182);
 ref = circumflexcomb;
 }
 );
@@ -110,7 +110,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (212,0);
+pos = (182,0);
 ref = dotbelowcomb;
 },
 {
@@ -127,11 +127,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (331,-4);
+pos = (331,0);
 ref = dotbelowcomb;
 },
 {
-pos = (348,287);
+pos = (338,287);
 ref = circumflexcomb;
 }
 );
@@ -144,7 +144,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (264,0);
+pos = (284,0);
 ref = dotbelowcomb;
 },
 {

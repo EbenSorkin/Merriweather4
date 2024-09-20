@@ -21,7 +21,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (315,182);
+pos = (295,182);
 ref = brevecomb_hookabovecomb;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (352,287);
+pos = (342,287);
 ref = brevecomb_hookabovecomb;
 }
 );

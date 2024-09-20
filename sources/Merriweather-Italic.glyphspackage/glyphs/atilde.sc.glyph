@@ -23,7 +23,7 @@ ref = a.sc;
 },
 {
 anchor = top;
-pos = (123,182);
+pos = (103,182);
 ref = tildecomb;
 }
 );
@@ -103,7 +103,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (232,287);
+pos = (222,287);
 ref = tildecomb;
 }
 );

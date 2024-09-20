@@ -21,7 +21,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (313,0);
+pos = (303,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -60,7 +60,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (329,0);
+pos = (349,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -138,7 +138,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (298,-4);
+pos = (298,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -151,7 +151,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (236,0);
+pos = (206,0);
 ref = ogonekcomb.loclNAV;
 }
 );

@@ -183,7 +183,7 @@ pos = (632,565);
 },
 {
 name = ogonek;
-pos = (986,0);
+pos = (964,0);
 },
 {
 name = ringhalfr;
@@ -268,7 +268,7 @@ pos = (562,565);
 },
 {
 name = ogonek;
-pos = (919,0);
+pos = (916,0);
 },
 {
 name = ringhalfr;
@@ -766,7 +766,7 @@ pos = (502,565);
 },
 {
 name = ogonek;
-pos = (769,0);
+pos = (779,0);
 },
 {
 name = ringhalfr;
@@ -856,7 +856,7 @@ pos = (522,565);
 },
 {
 name = ogonek;
-pos = (936,20);
+pos = (857,20);
 },
 {
 name = ringhalfr;
