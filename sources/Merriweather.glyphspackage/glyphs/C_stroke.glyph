@@ -9,7 +9,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (248,-2);
+pos = (244,-2);
 ref = UCslash_part.;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (253,-3);
+pos = (243,-3);
 ref = UCslash_part.;
 }
 );
@@ -61,7 +61,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (376,-3);
+pos = (366,-3);
 ref = UCslash_part.;
 }
 );
@@ -74,7 +74,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (150,-3);
+pos = (140,-3);
 ref = UCslash_part.;
 }
 );
@@ -87,7 +87,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (218,-3);
+pos = (212,-3);
 ref = UCslash_part.;
 }
 );
@@ -100,7 +100,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (160,-3);
+pos = (156,-3);
 ref = UCslash_part.;
 }
 );
@@ -113,7 +113,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (204,-3);
+pos = (194,-3);
 ref = UCslash_part.;
 }
 );
@@ -126,7 +126,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (120,-3);
+pos = (110,-3);
 ref = UCslash_part.;
 }
 );
@@ -139,7 +139,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (261,-3);
+pos = (262,-3);
 ref = UCslash_part.;
 }
 );
@@ -152,7 +152,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (180,-3);
+pos = (185,-3);
 ref = UCslash_part.;
 }
 );

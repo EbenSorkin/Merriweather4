@@ -8,7 +8,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (-315,183);
+pos = (-285,183);
 ref = asciitilde_part;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (-283,181);
+pos = (-263,181);
 ref = asciitilde_part;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (-363,183);
+pos = (-283,183);
 ref = asciitilde_part;
 }
 );
@@ -60,7 +60,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (-300,194);
+pos = (-230,194);
 ref = asciitilde_part;
 }
 );
@@ -88,7 +88,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (-356,194);
+pos = (-256,194);
 ref = asciitilde_part;
 }
 );
@@ -114,7 +114,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (-279,183);
+pos = (-239,183);
 ref = asciitilde_part;
 }
 );
@@ -127,7 +127,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (-232,181);
+pos = (-222,181);
 ref = asciitilde_part;
 }
 );
@@ -140,7 +140,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (-235,194);
+pos = (-205,194);
 ref = asciitilde_part;
 }
 );
@@ -153,7 +153,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (-295,179);
+pos = (-255,179);
 ref = asciitilde_part;
 }
 );

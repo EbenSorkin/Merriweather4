@@ -164,7 +164,7 @@ alignment = 1;
 ref = macroncomb.case;
 },
 {
-pos = (276,272);
+pos = (276,281);
 ref = acutecomb.case;
 }
 );

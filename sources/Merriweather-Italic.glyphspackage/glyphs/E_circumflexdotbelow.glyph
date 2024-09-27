@@ -182,7 +182,7 @@ pos = (475,0);
 ref = dotbelowcomb.case;
 },
 {
-pos = (208,0);
+pos = (213,0);
 ref = circumflexcomb.case;
 }
 );

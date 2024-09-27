@@ -70,16 +70,14 @@ width = 1121;
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
 shapes = (
 {
-alignment = -1;
 ref = u;
 },
 {
-alignment = -1;
-pos = (496,-6);
+pos = (211,0);
 ref = breveinvertedcomb;
 }
 );
-width = 974;
+width = 993;
 },
 {
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
@@ -137,12 +135,10 @@ width = 1142;
 layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
 shapes = (
 {
-alignment = -1;
 ref = u;
 },
 {
-alignment = -1;
-pos = (487,-4);
+pos = (221,0);
 ref = breveinvertedcomb;
 }
 );

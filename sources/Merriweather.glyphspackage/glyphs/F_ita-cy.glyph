@@ -8,7 +8,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (18,-15);
+pos = (18,-18);
 ref = fita_part.;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (7,-21);
+pos = (7,-23);
 ref = fita_part.;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (-1,-20);
+pos = (-1,-22);
 ref = fita_part.;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (2,-21);
+pos = (2,-22);
 ref = fita_part.;
 }
 );
@@ -60,7 +60,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (17,-17);
+pos = (17,-19);
 ref = fita_part.;
 }
 );
@@ -73,7 +73,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (25,-25);
+pos = (25,-28);
 ref = fita_part.;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (8,-15);
+pos = (8,-18);
 ref = fita_part.;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (-15,-16);
+pos = (-15,-18);
 ref = fita_part.;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (41,-19);
+pos = (41,-21);
 ref = fita_part.;
 }
 );
@@ -125,7 +125,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (1,-15);
+pos = (1,-18);
 ref = fita_part.;
 }
 );
@@ -138,7 +138,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (1,-15);
+pos = (2,-18);
 ref = fita_part.;
 }
 );

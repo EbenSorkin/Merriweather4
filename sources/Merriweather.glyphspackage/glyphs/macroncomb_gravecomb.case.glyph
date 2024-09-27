@@ -164,7 +164,7 @@ alignment = 1;
 ref = macroncomb.case;
 },
 {
-pos = (-34,272);
+pos = (-34,281);
 ref = gravecomb.case;
 }
 );

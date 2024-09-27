@@ -10,7 +10,7 @@ pos = (716,0);
 },
 {
 name = center;
-pos = (716,743);
+pos = (716,740);
 },
 {
 name = ogonek;
@@ -80,7 +80,7 @@ pos = (736,0);
 },
 {
 name = center;
-pos = (736,743);
+pos = (736,741);
 },
 {
 name = ogonek;
@@ -150,7 +150,7 @@ pos = (723,0);
 },
 {
 name = center;
-pos = (723,743);
+pos = (723,741);
 },
 {
 name = ogonek;
@@ -220,7 +220,7 @@ pos = (631,0);
 },
 {
 name = center;
-pos = (631,743);
+pos = (631,742);
 },
 {
 name = ogonek;
@@ -290,7 +290,7 @@ pos = (605,0);
 },
 {
 name = center;
-pos = (605,743);
+pos = (605,741);
 },
 {
 name = ogonek;
@@ -360,7 +360,7 @@ pos = (622,0);
 },
 {
 name = center;
-pos = (622,743);
+pos = (622,740);
 },
 {
 name = ogonek;
@@ -430,7 +430,7 @@ pos = (595,0);
 },
 {
 name = center;
-pos = (595,743);
+pos = (595,740);
 },
 {
 name = ogonek;
@@ -500,7 +500,7 @@ pos = (686,0);
 },
 {
 name = center;
-pos = (686,743);
+pos = (686,741);
 },
 {
 name = ogonek;
@@ -570,7 +570,7 @@ pos = (803,0);
 },
 {
 name = center;
-pos = (803,743);
+pos = (803,741);
 },
 {
 name = ogonek;
@@ -640,7 +640,7 @@ pos = (737,0);
 },
 {
 name = center;
-pos = (737,743);
+pos = (737,740);
 },
 {
 name = ogonek;
@@ -710,7 +710,7 @@ pos = (740,0);
 },
 {
 name = center;
-pos = (740,743);
+pos = (741,740);
 },
 {
 name = ogonek;

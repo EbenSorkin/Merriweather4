@@ -8,7 +8,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (61,68);
+pos = (108,68);
 ref = UCslash_part.Cstroke;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (65,-30);
+pos = (143,-30);
 ref = UCslash_part.Cstroke;
 }
 );

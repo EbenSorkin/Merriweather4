@@ -60,7 +60,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (702,20);
+pos = (699,20);
 ref = ogonekcomb.case;
 }
 );

@@ -60,7 +60,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (540,0);
+pos = (525,0);
 ref = dotaccentcomb.case;
 }
 );

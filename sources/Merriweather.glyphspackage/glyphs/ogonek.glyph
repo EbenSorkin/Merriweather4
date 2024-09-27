@@ -105,24 +105,24 @@ width = 758;
 layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
 shapes = (
 {
-pos = (100,0);
+pos = (75,0);
 ref = ogonekcomb;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.lastChange = "2019-04-25 21:50:43 +0000";
 };
-width = 731;
+width = 706;
 },
 {
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
 shapes = (
 {
-pos = (160,0);
+pos = (140,0);
 ref = ogonekcomb;
 }
 );
-width = 917;
+width = 897;
 }
 );
 metricLeft = hyphen;

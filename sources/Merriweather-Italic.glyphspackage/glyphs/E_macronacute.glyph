@@ -178,11 +178,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (112,0);
+pos = (117,0);
 ref = macroncomb.case;
 },
 {
-pos = (491,315);
+pos = (496,315);
 ref = acutecomb.case;
 }
 );

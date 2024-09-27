@@ -60,7 +60,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (506,0);
+pos = (496,0);
 ref = dotbelowcomb.case;
 }
 );

@@ -74,7 +74,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (589,0);
+pos = (579,0);
 ref = desccy_part.;
 }
 );

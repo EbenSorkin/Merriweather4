@@ -145,7 +145,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (321,10);
+pos = (461,10);
 ref = ogonekcomb;
 }
 );
@@ -158,7 +158,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (370,7);
+pos = (510,7);
 ref = ogonekcomb;
 }
 );
@@ -201,7 +201,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (274,10);
+pos = (436,10);
 ref = ogonekcomb;
 }
 );

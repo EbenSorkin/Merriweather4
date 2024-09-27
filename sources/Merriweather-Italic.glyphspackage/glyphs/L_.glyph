@@ -17,7 +17,7 @@ pos = (912,1133);
 },
 {
 name = center;
-pos = (370,743);
+pos = (400,743);
 },
 {
 name = period;
@@ -72,7 +72,7 @@ pos = (1054,1133);
 },
 {
 name = center;
-pos = (422,743);
+pos = (442,743);
 },
 {
 name = period;
@@ -183,7 +183,7 @@ pos = (1000,1134);
 },
 {
 name = center;
-pos = (357,743);
+pos = (437,743);
 },
 {
 name = period;
@@ -295,7 +295,7 @@ pos = (909,1133);
 },
 {
 name = center;
-pos = (342,743);
+pos = (412,743);
 },
 {
 name = period;
@@ -407,7 +407,7 @@ pos = (965,1133);
 },
 {
 name = center;
-pos = (299,743);
+pos = (399,743);
 },
 {
 name = period;
@@ -462,7 +462,7 @@ pos = (910,1133);
 },
 {
 name = center;
-pos = (325,743);
+pos = (365,743);
 },
 {
 name = period;
@@ -518,7 +518,7 @@ pos = (990,1133);
 },
 {
 name = center;
-pos = (418,743);
+pos = (428,743);
 },
 {
 name = period;
@@ -574,7 +574,7 @@ pos = (885,1133);
 },
 {
 name = center;
-pos = (332,743);
+pos = (362,743);
 },
 {
 name = period;
@@ -630,7 +630,7 @@ pos = (922,1135);
 },
 {
 name = center;
-pos = (367,743);
+pos = (407,743);
 },
 {
 name = period;

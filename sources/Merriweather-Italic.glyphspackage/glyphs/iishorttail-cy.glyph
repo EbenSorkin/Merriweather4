@@ -98,7 +98,7 @@ pos = (160,0);
 ref = "brevecomb-cy";
 },
 {
-pos = (589,0);
+pos = (579,0);
 ref = desccy_part.;
 }
 );

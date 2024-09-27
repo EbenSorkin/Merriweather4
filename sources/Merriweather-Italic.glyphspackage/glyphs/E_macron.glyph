@@ -138,7 +138,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (112,0);
+pos = (117,0);
 ref = macroncomb.case;
 }
 );

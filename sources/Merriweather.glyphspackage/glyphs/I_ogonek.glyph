@@ -5,7 +5,7 @@ layers = (
 guides = (
 {
 angle = 270;
-pos = (-6001,213);
+pos = (-6033,213);
 }
 );
 layerId = UUID0;
@@ -14,7 +14,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (160,2);
+pos = (140,2);
 ref = ogonekcomb.case;
 }
 );
@@ -27,7 +27,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (212,2);
+pos = (210,2);
 ref = ogonekcomb.case;
 }
 );
@@ -40,7 +40,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (149,2);
+pos = (169,2);
 ref = ogonekcomb.case;
 }
 );
@@ -130,7 +130,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (113,2);
+pos = (156,2);
 ref = ogonekcomb.case;
 }
 );
@@ -143,7 +143,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (20,-1);
+pos = (30,-1);
 ref = ogonekcomb.case;
 }
 );
