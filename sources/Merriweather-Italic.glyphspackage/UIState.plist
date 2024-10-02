@@ -4,6 +4,9 @@ displayStrings = (
 "0+0",
 "/equal.case",
 "/notequal.case",
-"/plus.case"
+"/plus.case",
+"/divide.case",
+"/multiply.case",
+"/minus.case"
 );
 }
