@@ -60,7 +60,7 @@ These won't break the CI job for now, but will become effective after some time 
 
 
 
-<details><summary>[1] Family checks</summary>
+<details><summary>[2] Family checks</summary>
 <div>
 <details>
     <summary>⚠️ <b>WARN</b> Make sure all font files have the same version value. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.head.html#"></a></summary>
@@ -84,10 +84,33 @@ These were the version values found:</p>
 
 </div>
 </details>
+
+<details>
+    <summary>🔥 <b>FAIL</b> Ensure VFs have 'ital' STAT axis. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.stat.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 🔥 **FAIL** <p>Font Merriweather[opsz,wdth,wght].ttf is missing an 'ital' axis.</p>
+ [code: missing-ital-axis]
+
+
+
+* 🔥 **FAIL** <p>Font Merriweather-Italic[opsz,wdth,wght].ttf is missing an 'ital' axis.</p>
+ [code: missing-ital-axis]
+
+
+
+</div>
+</details>
 </div>
 </details>
 
-<details><summary>[16] Merriweather[opsz,wdth,wght].ttf</summary>
+<details><summary>[14] Merriweather[opsz,wdth,wght].ttf</summary>
 <div>
 <details>
     <summary>⚠️ <b>WARN</b> The variable font 'opsz' (Optical Size) axis coordinate should be between 10 and 16 on the 'Regular' instance. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.fvar.html#"></a></summary>
@@ -158,7 +181,7 @@ uni0488 (U+0488) and uni0489 (U+0489)</p>
 * ⚠️ **WARN** <p>The most common width is 1338 among a set of 6 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 1254:
-plus, notequal, equal, plusminus</p>
+plusminus, plus, equal, notequal</p>
 <p>Width = 1326:
 logicalnot</p>
 <p>Width = 1210:
@@ -313,8 +336,8 @@ approxequal</p>
 
 
 * ⚠️ **WARN** <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: i᷊̇ i᷊̊ i᷊̋ i᷊̍ i᷊̐ i᷊̒ i᷊̓ i᷊᷄ i᷊᷅ i᷊᷆ i᷊᷇ i᷊᷈ i᷊᷉ i᷊ꚞ j̰̀ j̰́ j̰̃ j̰̄ j̰̆ j̰̇</p>
-<p>Your font fully covers the following languages that require the soft-dotted feature: Dutch (Latn, 31,709,104 speakers), Nzakara (Latn, 50,000 speakers), Sar (Latn, 500,000 speakers), Ma’di (Latn, 584,000 speakers), Nateni (Latn, 100,000 speakers), Ebira (Latn, 2,200,000 speakers), Cicipu (Latn, 44,000 speakers), Lithuanian (Latn, 2,357,094 speakers), Bete-Bendi (Latn, 100,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Mango (Latn, 77,000 speakers), Yala (Latn, 200,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), South Central Banda (Latn, 244,000 speakers), Gulay (Latn, 250,478 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Ekpeye (Latn, 226,000 speakers), Ngbaka (Latn, 1,020,000 speakers), Zapotec (Latn, 490,000 speakers), Navajo (Latn, 166,319 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Dii (Latn, 71,000 speakers), Southern Kisi (Latn, 360,000 speakers), Lugbara (Latn, 2,200,000 speakers), Igbo (Latn, 27,823,640 speakers), Fur (Latn, 1,230,163 speakers), Ejagham (Latn, 120,000 speakers), Makaa (Latn, 221,000 speakers), Bafut (Latn, 158,146 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Avokaya (Latn, 100,000 speakers), Dan (Latn, 1,099,244 speakers), Koonzime (Latn, 40,000 speakers), Kom (Latn, 360,685 speakers), Mundani (Latn, 34,000 speakers), Aghem (Latn, 38,843 speakers), Basaa (Latn, 332,940 speakers), Mfumte (Latn, 79,000 speakers).</p>
+<p>Your font fully covers the following languages that require the soft-dotted feature: Mango (Latn, 77,000 speakers), Ebira (Latn, 2,200,000 speakers), Ma’di (Latn, 584,000 speakers), Zapotec (Latn, 490,000 speakers), Cicipu (Latn, 44,000 speakers), Ekpeye (Latn, 226,000 speakers), Lithuanian (Latn, 2,357,094 speakers), Belarusian (Cyrl, 10,064,517 speakers), Nateni (Latn, 100,000 speakers), Nzakara (Latn, 50,000 speakers), Gulay (Latn, 250,478 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Dutch (Latn, 31,709,104 speakers), Yala (Latn, 200,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Ngbaka (Latn, 1,020,000 speakers), Navajo (Latn, 166,319 speakers), South Central Banda (Latn, 244,000 speakers), Sar (Latn, 500,000 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Mfumte (Latn, 79,000 speakers), Basaa (Latn, 332,940 speakers), Bafut (Latn, 158,146 speakers), Igbo (Latn, 27,823,640 speakers), Ejagham (Latn, 120,000 speakers), Kom (Latn, 360,685 speakers), Makaa (Latn, 221,000 speakers), Lugbara (Latn, 2,200,000 speakers), Dan (Latn, 1,099,244 speakers), Mundani (Latn, 34,000 speakers), Dii (Latn, 71,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Fur (Latn, 1,230,163 speakers), Avokaya (Latn, 100,000 speakers), Koonzime (Latn, 40,000 speakers), Southern Kisi (Latn, 360,000 speakers), Aghem (Latn, 38,843 speakers).</p>
  [code: soft-dotted]
 
 
@@ -348,7 +371,7 @@ definitions.</p>
 <li>U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition</li>
 <li>U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition</li>
 <li>U+02C1 MODIFIER LETTER REVERSED GLOTTAL STOP: not included in any glyphset definition</li>
-<li>U+02C7 CARON: try adding one of: canadian-aboriginal, yi, tifinagh</li>
+<li>U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi</li>
 <li>U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition</li>
 <li>U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition</li>
@@ -363,12 +386,12 @@ definitions.</p>
 <li>U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition</li>
 <li>U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition</li>
 <li>U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, tifinagh, cherokee, math</li>
-<li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: old-permic, canadian-aboriginal, coptic, math, tai-le, malayalam, syriac, tifinagh</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, tifinagh, cherokee</li>
+<li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: coptic, tifinagh, malayalam, tai-le, math, canadian-aboriginal, old-permic, syriac</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
-<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
+<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+0310 COMBINING CANDRABINDU: not included in any glyphset definition</li>
@@ -386,8 +409,8 @@ definitions.</p>
 <li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, cherokee, gothic, syriac, tifinagh</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, cherokee, gothic, tifinagh, syriac</li>
 <li>U+0332 COMBINING LOW LINE: not included in any glyphset definition</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
@@ -436,10 +459,10 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: not included in any glyphset definition</li>
 <li>U+2008 PUNCTUATION SPACE: not included in any glyphset definition</li>
 <li>U+200A HAIR SPACE: not included in any glyphset definition</li>
-<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: gujarati, meetei-mayek, khmer, hatran, thaana, yi, tai-tham, buginese, grantha, tai-le, warang-citi, limbu, syriac, tibetan, bhaiksuki, buhid, kayah-li, lepcha, mongolian, newa, duployan, tagalog, zanabazar-square, javanese, masaram-gondi, kharoshthi, arabic, hebrew, mandaic, sundanese, dogra, phags-pa, khudawadi, syloti-nagri, telugu, devanagari, bengali, brahmi, gurmukhi, khojki, siddham, sharada, thai, tai-viet, new-tai-lue, balinese, sinhala, nko, hanunoo, lao, tamil, gunjala-gondi, manichaean, avestan, kaithi, sogdian, saurashtra, mahajani, myanmar, rejang, takri, batak, cham, kannada, modi, pahawh-hmong, oriya, chakma, hanifi-rohingya, psalter-pahlavi, tirhuta, malayalam, tifinagh, tagbanwa</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: gujarati, meetei-mayek, khmer, thaana, yi, tai-tham, buginese, grantha, tai-le, warang-citi, limbu, syriac, tibetan, bhaiksuki, buhid, kayah-li, lepcha, mongolian, newa, duployan, tagalog, zanabazar-square, javanese, masaram-gondi, kharoshthi, arabic, hebrew, mandaic, sundanese, dogra, phags-pa, khudawadi, syloti-nagri, telugu, devanagari, bengali, brahmi, gurmukhi, khojki, siddham, sharada, thai, tai-viet, new-tai-lue, balinese, sinhala, nko, hanunoo, lao, tamil, gunjala-gondi, manichaean, avestan, kaithi, sogdian, saurashtra, mahajani, myanmar, rejang, takri, batak, cham, kannada, modi, pahawh-hmong, oriya, chakma, hanifi-rohingya, old-hungarian, psalter-pahlavi, malayalam, tirhuta, tifinagh, tagbanwa</li>
-<li>U+2010 HYPHEN: try adding one of: kaithi, syloti-nagri, kayah-li, yi, armenian, cham, coptic, sora-sompeng, kharoshthi, hebrew, arabic, lisu, sundanese</li>
-<li>U+2011 NON-BREAKING HYPHEN: try adding one of: yi, syloti-nagri, arabic</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: hanunoo, hatran, javanese, brahmi, kayah-li, duployan, masaram-gondi, sundanese, tirhuta, kaithi, buginese, gujarati, modi, khmer, bengali, nko, warang-citi, balinese, telugu, psalter-pahlavi, gurmukhi, zanabazar-square, oriya, sharada, malayalam, tagbanwa, tai-le, gunjala-gondi, tifinagh, rejang, avestan, syriac, tai-tham, newa, mongolian, tai-viet, mahajani, manichaean, saurashtra, phags-pa, tamil, siddham, mandaic, devanagari, syloti-nagri, buhid, myanmar, tagalog, batak, tibetan, hanifi-rohingya, lepcha, new-tai-lue, chakma, thai, kharoshthi, meetei-mayek, takri, cham, arabic, hebrew, sinhala, lao, grantha, pahawh-hmong, kannada, limbu, sogdian, bhaiksuki, thaana, yi, dogra, khudawadi, khojki</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: hanunoo, javanese, brahmi, kayah-li, duployan, masaram-gondi, sundanese, tirhuta, kaithi, buginese, gujarati, modi, khmer, bengali, nko, warang-citi, balinese, telugu, psalter-pahlavi, gurmukhi, zanabazar-square, oriya, sharada, malayalam, tagbanwa, tai-le, gunjala-gondi, tifinagh, rejang, avestan, syriac, tai-tham, newa, mongolian, tai-viet, mahajani, manichaean, saurashtra, phags-pa, tamil, siddham, mandaic, devanagari, syloti-nagri, buhid, myanmar, tagalog, batak, tibetan, hanifi-rohingya, lepcha, new-tai-lue, chakma, thai, kharoshthi, meetei-mayek, takri, cham, arabic, hebrew, sinhala, lao, grantha, pahawh-hmong, kannada, limbu, sogdian, bhaiksuki, old-hungarian, thaana, yi, dogra, khudawadi, khojki</li>
+<li>U+2010 HYPHEN: try adding one of: coptic, sora-sompeng, cham, arabic, hebrew, kayah-li, sundanese, syloti-nagri, kaithi, lisu, yi, armenian, kharoshthi</li>
+<li>U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, yi, arabic</li>
 <li>U+2012 FIGURE DASH: not included in any glyphset definition</li>
 <li>U+2015 HORIZONTAL BAR: try adding adlam</li>
 <li>U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition</li>
@@ -447,7 +470,7 @@ definitions.</p>
 <li>U+2021 DOUBLE DAGGER: try adding adlam</li>
 <li>U+2023 TRIANGULAR BULLET: not included in any glyphset definition</li>
 <li>U+2027 HYPHENATION POINT: not included in any glyphset definition</li>
-<li>U+202F NARROW NO-BREAK SPACE: try adding one of: yi, mongolian</li>
+<li>U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi</li>
 <li>U+2030 PER MILLE SIGN: try adding adlam</li>
 <li>U+2034 TRIPLE PRIME: try adding math</li>
 <li>U+203C DOUBLE EXCLAMATION MARK: not included in any glyphset definition</li>
@@ -509,7 +532,7 @@ definitions.</p>
 <li>U+2206 INCREMENT: try adding math</li>
 <li>U+220F N-ARY PRODUCT: try adding math</li>
 <li>U+2211 N-ARY SUMMATION: try adding math</li>
-<li>U+2219 BULLET OPERATOR: try adding one of: yi, math, tai-tham, symbols</li>
+<li>U+2219 BULLET OPERATOR: try adding one of: math, symbols, yi, tai-tham</li>
 <li>U+221A SQUARE ROOT: try adding math</li>
 <li>U+221E INFINITY: try adding math</li>
 <li>U+222B INTEGRAL: try adding math</li>
@@ -548,7 +571,7 @@ definitions.</p>
 <li>U+25C9 FISHEYE: try adding symbols</li>
 <li>U+25CA LOZENGE: try adding one of: math, symbols</li>
 <li>U+25CB WHITE CIRCLE: try adding symbols</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: meetei-mayek, adlam, warang-citi, tibetan, elbasan, sundanese, ahom, dogra, phags-pa, tifinagh, thai, nko, sogdian, rejang, modi, tirhuta, psalter-pahlavi, oriya, chakma, sharada, sinhala, tagbanwa, mende-kikakui, khmer, thaana, yi, grantha, syriac, buhid, tagalog, duployan, javanese, syloti-nagri, khudawadi, brahmi, caucasian-albanian, siddham, tai-viet, new-tai-lue, balinese, armenian, hanunoo, manichaean, kaithi, gujarati, bhaiksuki, old-permic, mongolian, kayah-li, zanabazar-square, bengali, music, canadian-aboriginal, soyombo, lao, tamil, symbols, saurashtra, myanmar, takri, pahawh-hmong, math, hanifi-rohingya, malayalam, miao, tai-tham, buginese, tai-le, limbu, osage, lepcha, newa, coptic, kharoshthi, hebrew, mandaic, telugu, devanagari, gurmukhi, khojki, wancho, bassa-vah, marchen, gunjala-gondi, mahajani, batak, cham, kannada, masaram-gondi</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: wancho, music, modi, canadian-aboriginal, bengali, nko, coptic, gurmukhi, miao, tagbanwa, tai-le, gunjala-gondi, manichaean, adlam, buhid, batak, meetei-mayek, lao, limbu, dogra, khudawadi, saurashtra, javanese, kayah-li, soyombo, kaithi, telugu, psalter-pahlavi, malayalam, symbols, math, newa, tamil, tagalog, tibetan, syloti-nagri, myanmar, hanifi-rohingya, chakma, old-permic, kannada, thaana, yi, tirhuta, khmer, balinese, caucasian-albanian, oriya, sharada, bassa-vah, tifinagh, syriac, tai-tham, siddham, mandaic, osage, takri, cham, hebrew, sinhala, pahawh-hmong, khojki, armenian, hanunoo, brahmi, sundanese, duployan, masaram-gondi, buginese, gujarati, ahom, zanabazar-square, mende-kikakui, rejang, tai-viet, mongolian, mahajani, warang-citi, phags-pa, devanagari, lepcha, new-tai-lue, thai, kharoshthi, marchen, grantha, sogdian, bhaiksuki, elbasan</li>
 <li>U+25CF BLACK CIRCLE: try adding symbols</li>
 <li>U+25E6 WHITE BULLET: try adding symbols</li>
 <li>U+25FC BLACK MEDIUM SQUARE: try adding symbols</li>
@@ -578,7 +601,7 @@ definitions.</p>
 <li>U+2B9F BLACK DOWNWARDS EQUILATERAL ARROWHEAD: try adding symbols</li>
 <li>U+2E17 DOUBLE OBLIQUE HYPHEN: try adding coptic</li>
 <li>U+2E38 TURNED DAGGER: not included in any glyphset definition</li>
-<li>U+3003 DITTO MARK: try adding one of: chinese-simplified, chinese-traditional, yi, chinese-hongkong, japanese, phags-pa</li>
+<li>U+3003 DITTO MARK: try adding one of: chinese-hongkong, phags-pa, chinese-traditional, japanese, yi, chinese-simplified</li>
 <li>U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition</li>
 <li>U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition</li>
 <li>U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition</li>
@@ -666,49 +689,13 @@ definitions.</p>
 
 
 
-* 🔥 **FAIL** <p>'Light' instance has the same coordinates as the default instance; its subfamily name should be '18pt Light'</p>
+* 🔥 **FAIL** <p>'Light' instance has the same coordinates as the default instance; its subfamily name should be '18pt'</p>
  [code: invalid-default-instance-subfamily-name]
 
 
 
-* 🔥 **FAIL** <p>'Light' instance has the same coordinates as the default instance; its postscript name should be 'Merriweather-18ptLight', instead of 'Merriweather-Light'.</p>
+* 🔥 **FAIL** <p>'Light' instance has the same coordinates as the default instance; its postscript name should be 'Merriweather-18pt', instead of 'Merriweather-Light'.</p>
  [code: invalid-default-instance-postscript-name]
-
-
-
-</div>
-</details>
-
-<details>
-    <summary>🔥 <b>FAIL</b> Ensure the font supports case swapping for all its glyphs. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#"></a></summary>
-    <div>
-
-
-
-
-
-
-
-* 🔥 **FAIL** <p>The following glyphs lack their case-swapping counterparts:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Glyph present in the font</th>
-<th align="left">Missing case-swapping counterpart</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">U+03BB: GREEK SMALL LETTER LAMDA</td>
-<td align="left">U+039B: GREEK CAPITAL LETTER LAMDA</td>
-</tr>
-<tr>
-<td align="left">U+03C7: GREEK SMALL LETTER CHI</td>
-<td align="left">U+03A7: GREEK CAPITAL LETTER CHI</td>
-</tr>
-</tbody>
-</table>
- [code: missing-case-counterparts]
 
 
 
@@ -1789,31 +1776,6 @@ definitions.</p>
 </details>
 
 <details>
-    <summary>🔥 <b>FAIL</b> Combined length of family and style must not exceed 32 characters. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.name.html#"></a></summary>
-    <div>
-
-
-
-
-
-
-
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather 18pt Light ExtraBold' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 378 exceeds 32 characters.</p>
-<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
- [code: instance-too-long]
-
-
-
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather 18pt Light ExtraBold' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 378 exceeds 32 characters.</p>
-<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
- [code: instance-too-long]
-
-
-
-</div>
-</details>
-
-<details>
     <summary>🔥 <b>FAIL</b> Check font names are correct <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.name.html#"></a></summary>
     <div>
 
@@ -1835,7 +1797,7 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">Family Name</td>
-<td align="left"><strong>Merriweather 18pt Light</strong></td>
+<td align="left"><strong>Merriweather 18pt</strong></td>
 <td align="left"><strong>Merriweather Light</strong></td>
 </tr>
 <tr>
@@ -1845,12 +1807,12 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">Full Name</td>
-<td align="left"><strong>Merriweather 18pt Light</strong></td>
+<td align="left"><strong>Merriweather 18pt</strong></td>
 <td align="left"><strong>Merriweather Light</strong></td>
 </tr>
 <tr>
 <td align="left">Postscript Name</td>
-<td align="left"><strong>Merriweather-18ptLight</strong></td>
+<td align="left"><strong>Merriweather-18pt</strong></td>
 <td align="left"><strong>Merriweather-Light</strong></td>
 </tr>
 <tr>
@@ -1860,7 +1822,7 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">Typographic Subfamily Name</td>
-<td align="left"><strong>18pt Light</strong></td>
+<td align="left"><strong>18pt</strong></td>
 <td align="left"><strong>Light</strong></td>
 </tr>
 </tbody>
@@ -1874,7 +1836,7 @@ definitions.</p>
 </div>
 </details>
 
-<details><summary>[17] Merriweather-Italic[opsz,wdth,wght].ttf</summary>
+<details><summary>[18] Merriweather-Italic[opsz,wdth,wght].ttf</summary>
 <div>
 <details>
     <summary>⚠️ <b>WARN</b> The variable font 'opsz' (Optical Size) axis coordinate should be between 10 and 16 on the 'Regular' instance. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.fvar.html#"></a></summary>
@@ -1926,9 +1888,9 @@ uni0488 (U+0488) and uni0489 (U+0489)</p>
 * ⚠️ **WARN** <p>The most common width is 1217 among a set of 2 math glyphs.
 The following math glyphs have a different width, though:</p>
 <p>Width = 1225:
-less, uni2267</p>
+uni2267, less</p>
 <p>Width = 1136:
-notequal, equal</p>
+equal, notequal</p>
 <p>Width = 1224:
 greater</p>
 <p>Width = 1248:
@@ -2087,8 +2049,8 @@ uni2266</p>
 
 
 * ⚠️ **WARN** <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: i᷊̇ i᷊̊ i᷊̋ i᷊̍ i᷊̐ i᷊̒ i᷊̓ i᷊᷄ i᷊᷅ i᷊᷆ i᷊᷇ i᷊᷈ i᷊᷉ i᷊ꚞ j̰̀ j̰́ j̰̃ j̰̄ j̰̆ j̰̇</p>
-<p>Your font fully covers the following languages that require the soft-dotted feature: Dutch (Latn, 31,709,104 speakers), Nzakara (Latn, 50,000 speakers), Sar (Latn, 500,000 speakers), Ma’di (Latn, 584,000 speakers), Nateni (Latn, 100,000 speakers), Ebira (Latn, 2,200,000 speakers), Cicipu (Latn, 44,000 speakers), Lithuanian (Latn, 2,357,094 speakers), Bete-Bendi (Latn, 100,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Mango (Latn, 77,000 speakers), Yala (Latn, 200,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), South Central Banda (Latn, 244,000 speakers), Gulay (Latn, 250,478 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Ekpeye (Latn, 226,000 speakers), Ngbaka (Latn, 1,020,000 speakers), Zapotec (Latn, 490,000 speakers), Navajo (Latn, 166,319 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Dii (Latn, 71,000 speakers), Southern Kisi (Latn, 360,000 speakers), Lugbara (Latn, 2,200,000 speakers), Igbo (Latn, 27,823,640 speakers), Fur (Latn, 1,230,163 speakers), Ejagham (Latn, 120,000 speakers), Makaa (Latn, 221,000 speakers), Bafut (Latn, 158,146 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Avokaya (Latn, 100,000 speakers), Dan (Latn, 1,099,244 speakers), Koonzime (Latn, 40,000 speakers), Kom (Latn, 360,685 speakers), Mundani (Latn, 34,000 speakers), Aghem (Latn, 38,843 speakers), Basaa (Latn, 332,940 speakers), Mfumte (Latn, 79,000 speakers).</p>
+<p>Your font fully covers the following languages that require the soft-dotted feature: Mango (Latn, 77,000 speakers), Ebira (Latn, 2,200,000 speakers), Ma’di (Latn, 584,000 speakers), Zapotec (Latn, 490,000 speakers), Cicipu (Latn, 44,000 speakers), Ekpeye (Latn, 226,000 speakers), Lithuanian (Latn, 2,357,094 speakers), Belarusian (Cyrl, 10,064,517 speakers), Nateni (Latn, 100,000 speakers), Nzakara (Latn, 50,000 speakers), Gulay (Latn, 250,478 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Dutch (Latn, 31,709,104 speakers), Yala (Latn, 200,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Ngbaka (Latn, 1,020,000 speakers), Navajo (Latn, 166,319 speakers), South Central Banda (Latn, 244,000 speakers), Sar (Latn, 500,000 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Mfumte (Latn, 79,000 speakers), Basaa (Latn, 332,940 speakers), Bafut (Latn, 158,146 speakers), Igbo (Latn, 27,823,640 speakers), Ejagham (Latn, 120,000 speakers), Kom (Latn, 360,685 speakers), Makaa (Latn, 221,000 speakers), Lugbara (Latn, 2,200,000 speakers), Dan (Latn, 1,099,244 speakers), Mundani (Latn, 34,000 speakers), Dii (Latn, 71,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Fur (Latn, 1,230,163 speakers), Avokaya (Latn, 100,000 speakers), Koonzime (Latn, 40,000 speakers), Southern Kisi (Latn, 360,000 speakers), Aghem (Latn, 38,843 speakers).</p>
  [code: soft-dotted]
 
 
@@ -2122,7 +2084,7 @@ definitions.</p>
 <li>U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition</li>
 <li>U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition</li>
 <li>U+02C1 MODIFIER LETTER REVERSED GLOTTAL STOP: not included in any glyphset definition</li>
-<li>U+02C7 CARON: try adding one of: canadian-aboriginal, yi, tifinagh</li>
+<li>U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi</li>
 <li>U+02C8 MODIFIER LETTER VERTICAL LINE: not included in any glyphset definition</li>
 <li>U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition</li>
 <li>U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition</li>
@@ -2137,12 +2099,12 @@ definitions.</p>
 <li>U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition</li>
 <li>U+02FB MODIFIER LETTER BEGIN LOW TONE: not included in any glyphset definition</li>
 <li>U+02FC MODIFIER LETTER END LOW TONE: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, tifinagh, cherokee, math</li>
-<li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: old-permic, canadian-aboriginal, coptic, math, tai-le, malayalam, syriac, tifinagh</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, tifinagh, cherokee</li>
+<li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: coptic, tifinagh, malayalam, tai-le, math, canadian-aboriginal, old-permic, syriac</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
-<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
+<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+0310 COMBINING CANDRABINDU: not included in any glyphset definition</li>
@@ -2160,8 +2122,8 @@ definitions.</p>
 <li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, cherokee, gothic, syriac, tifinagh</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, cherokee, gothic, tifinagh, syriac</li>
 <li>U+0332 COMBINING LOW LINE: not included in any glyphset definition</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
@@ -2210,10 +2172,10 @@ definitions.</p>
 <li>U+2007 FIGURE SPACE: not included in any glyphset definition</li>
 <li>U+2008 PUNCTUATION SPACE: not included in any glyphset definition</li>
 <li>U+200A HAIR SPACE: not included in any glyphset definition</li>
-<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: gujarati, meetei-mayek, khmer, hatran, thaana, yi, tai-tham, buginese, grantha, tai-le, warang-citi, limbu, syriac, tibetan, bhaiksuki, buhid, kayah-li, lepcha, mongolian, newa, duployan, tagalog, zanabazar-square, javanese, masaram-gondi, kharoshthi, arabic, hebrew, mandaic, sundanese, dogra, phags-pa, khudawadi, syloti-nagri, telugu, devanagari, bengali, brahmi, gurmukhi, khojki, siddham, sharada, thai, tai-viet, new-tai-lue, balinese, sinhala, nko, hanunoo, lao, tamil, gunjala-gondi, manichaean, avestan, kaithi, sogdian, saurashtra, mahajani, myanmar, rejang, takri, batak, cham, kannada, modi, pahawh-hmong, oriya, chakma, hanifi-rohingya, psalter-pahlavi, tirhuta, malayalam, tifinagh, tagbanwa</li>
-<li>U+200D ZERO WIDTH JOINER: try adding one of: gujarati, meetei-mayek, khmer, thaana, yi, tai-tham, buginese, grantha, tai-le, warang-citi, limbu, syriac, tibetan, bhaiksuki, buhid, kayah-li, lepcha, mongolian, newa, duployan, tagalog, zanabazar-square, javanese, masaram-gondi, kharoshthi, arabic, hebrew, mandaic, sundanese, dogra, phags-pa, khudawadi, syloti-nagri, telugu, devanagari, bengali, brahmi, gurmukhi, khojki, siddham, sharada, thai, tai-viet, new-tai-lue, balinese, sinhala, nko, hanunoo, lao, tamil, gunjala-gondi, manichaean, avestan, kaithi, sogdian, saurashtra, mahajani, myanmar, rejang, takri, batak, cham, kannada, modi, pahawh-hmong, oriya, chakma, hanifi-rohingya, old-hungarian, psalter-pahlavi, malayalam, tirhuta, tifinagh, tagbanwa</li>
-<li>U+2010 HYPHEN: try adding one of: kaithi, syloti-nagri, kayah-li, yi, armenian, cham, coptic, sora-sompeng, kharoshthi, hebrew, arabic, lisu, sundanese</li>
-<li>U+2011 NON-BREAKING HYPHEN: try adding one of: yi, syloti-nagri, arabic</li>
+<li>U+200C ZERO WIDTH NON-JOINER: try adding one of: hanunoo, hatran, javanese, brahmi, kayah-li, duployan, masaram-gondi, sundanese, tirhuta, kaithi, buginese, gujarati, modi, khmer, bengali, nko, warang-citi, balinese, telugu, psalter-pahlavi, gurmukhi, zanabazar-square, oriya, sharada, malayalam, tagbanwa, tai-le, gunjala-gondi, tifinagh, rejang, avestan, syriac, tai-tham, newa, mongolian, tai-viet, mahajani, manichaean, saurashtra, phags-pa, tamil, siddham, mandaic, devanagari, syloti-nagri, buhid, myanmar, tagalog, batak, tibetan, hanifi-rohingya, lepcha, new-tai-lue, chakma, thai, kharoshthi, meetei-mayek, takri, cham, arabic, hebrew, sinhala, lao, grantha, pahawh-hmong, kannada, limbu, sogdian, bhaiksuki, thaana, yi, dogra, khudawadi, khojki</li>
+<li>U+200D ZERO WIDTH JOINER: try adding one of: hanunoo, javanese, brahmi, kayah-li, duployan, masaram-gondi, sundanese, tirhuta, kaithi, buginese, gujarati, modi, khmer, bengali, nko, warang-citi, balinese, telugu, psalter-pahlavi, gurmukhi, zanabazar-square, oriya, sharada, malayalam, tagbanwa, tai-le, gunjala-gondi, tifinagh, rejang, avestan, syriac, tai-tham, newa, mongolian, tai-viet, mahajani, manichaean, saurashtra, phags-pa, tamil, siddham, mandaic, devanagari, syloti-nagri, buhid, myanmar, tagalog, batak, tibetan, hanifi-rohingya, lepcha, new-tai-lue, chakma, thai, kharoshthi, meetei-mayek, takri, cham, arabic, hebrew, sinhala, lao, grantha, pahawh-hmong, kannada, limbu, sogdian, bhaiksuki, old-hungarian, thaana, yi, dogra, khudawadi, khojki</li>
+<li>U+2010 HYPHEN: try adding one of: coptic, sora-sompeng, cham, arabic, hebrew, kayah-li, sundanese, syloti-nagri, kaithi, lisu, yi, armenian, kharoshthi</li>
+<li>U+2011 NON-BREAKING HYPHEN: try adding one of: syloti-nagri, yi, arabic</li>
 <li>U+2012 FIGURE DASH: not included in any glyphset definition</li>
 <li>U+2015 HORIZONTAL BAR: try adding adlam</li>
 <li>U+2016 DOUBLE VERTICAL LINE: not included in any glyphset definition</li>
@@ -2221,7 +2183,7 @@ definitions.</p>
 <li>U+2021 DOUBLE DAGGER: try adding adlam</li>
 <li>U+2023 TRIANGULAR BULLET: not included in any glyphset definition</li>
 <li>U+2027 HYPHENATION POINT: not included in any glyphset definition</li>
-<li>U+202F NARROW NO-BREAK SPACE: try adding one of: yi, mongolian</li>
+<li>U+202F NARROW NO-BREAK SPACE: try adding one of: mongolian, yi</li>
 <li>U+2030 PER MILLE SIGN: try adding adlam</li>
 <li>U+2034 TRIPLE PRIME: try adding math</li>
 <li>U+203C DOUBLE EXCLAMATION MARK: not included in any glyphset definition</li>
@@ -2283,7 +2245,7 @@ definitions.</p>
 <li>U+2206 INCREMENT: try adding math</li>
 <li>U+220F N-ARY PRODUCT: try adding math</li>
 <li>U+2211 N-ARY SUMMATION: try adding math</li>
-<li>U+2219 BULLET OPERATOR: try adding one of: yi, math, tai-tham, symbols</li>
+<li>U+2219 BULLET OPERATOR: try adding one of: math, symbols, yi, tai-tham</li>
 <li>U+221A SQUARE ROOT: try adding math</li>
 <li>U+221E INFINITY: try adding math</li>
 <li>U+222B INTEGRAL: try adding math</li>
@@ -2322,7 +2284,7 @@ definitions.</p>
 <li>U+25C9 FISHEYE: try adding symbols</li>
 <li>U+25CA LOZENGE: try adding one of: math, symbols</li>
 <li>U+25CB WHITE CIRCLE: try adding symbols</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: meetei-mayek, adlam, warang-citi, tibetan, elbasan, sundanese, ahom, dogra, phags-pa, tifinagh, thai, nko, sogdian, rejang, modi, tirhuta, psalter-pahlavi, oriya, chakma, sharada, sinhala, tagbanwa, mende-kikakui, khmer, thaana, yi, grantha, syriac, buhid, tagalog, duployan, javanese, syloti-nagri, khudawadi, brahmi, caucasian-albanian, siddham, tai-viet, new-tai-lue, balinese, armenian, hanunoo, manichaean, kaithi, gujarati, bhaiksuki, old-permic, mongolian, kayah-li, zanabazar-square, bengali, music, canadian-aboriginal, soyombo, lao, tamil, symbols, saurashtra, myanmar, takri, pahawh-hmong, math, hanifi-rohingya, malayalam, miao, tai-tham, buginese, tai-le, limbu, osage, lepcha, newa, coptic, kharoshthi, hebrew, mandaic, telugu, devanagari, gurmukhi, khojki, wancho, bassa-vah, marchen, gunjala-gondi, mahajani, batak, cham, kannada, masaram-gondi</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: wancho, music, modi, canadian-aboriginal, bengali, nko, coptic, gurmukhi, miao, tagbanwa, tai-le, gunjala-gondi, manichaean, adlam, buhid, batak, meetei-mayek, lao, limbu, dogra, khudawadi, saurashtra, javanese, kayah-li, soyombo, kaithi, telugu, psalter-pahlavi, malayalam, symbols, math, newa, tamil, tagalog, tibetan, syloti-nagri, myanmar, hanifi-rohingya, chakma, old-permic, kannada, thaana, yi, tirhuta, khmer, balinese, caucasian-albanian, oriya, sharada, bassa-vah, tifinagh, syriac, tai-tham, siddham, mandaic, osage, takri, cham, hebrew, sinhala, pahawh-hmong, khojki, armenian, hanunoo, brahmi, sundanese, duployan, masaram-gondi, buginese, gujarati, ahom, zanabazar-square, mende-kikakui, rejang, tai-viet, mongolian, mahajani, warang-citi, phags-pa, devanagari, lepcha, new-tai-lue, thai, kharoshthi, marchen, grantha, sogdian, bhaiksuki, elbasan</li>
 <li>U+25CF BLACK CIRCLE: try adding symbols</li>
 <li>U+25E6 WHITE BULLET: try adding symbols</li>
 <li>U+25FC BLACK MEDIUM SQUARE: try adding symbols</li>
@@ -2352,7 +2314,7 @@ definitions.</p>
 <li>U+2B9F BLACK DOWNWARDS EQUILATERAL ARROWHEAD: try adding symbols</li>
 <li>U+2E17 DOUBLE OBLIQUE HYPHEN: try adding coptic</li>
 <li>U+2E38 TURNED DAGGER: not included in any glyphset definition</li>
-<li>U+3003 DITTO MARK: try adding one of: chinese-simplified, chinese-traditional, yi, chinese-hongkong, japanese, phags-pa</li>
+<li>U+3003 DITTO MARK: try adding one of: chinese-hongkong, phags-pa, chinese-traditional, japanese, yi, chinese-simplified</li>
 <li>U+A717 MODIFIER LETTER DOT VERTICAL BAR: not included in any glyphset definition</li>
 <li>U+A718 MODIFIER LETTER DOT SLASH: not included in any glyphset definition</li>
 <li>U+A719 MODIFIER LETTER DOT HORIZONTAL BAR: not included in any glyphset definition</li>
@@ -2482,6 +2444,24 @@ definitions.</p>
 </details>
 
 <details>
+    <summary>🔥 <b>FAIL</b> Check name table IDs 1, 2, 16, 17 to conform to Italic style. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.name.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 🔥 **FAIL** <p>Name ID 17 (Typographic Subfamily Name) must contain 'Italic'.</p>
+ [code: bad-typographicsubfamilyname]
+
+
+
+</div>
+</details>
+
+<details>
     <summary>🔥 <b>FAIL</b> Validates that when an instance record is included for the default instance, its subfamilyNameID value is set to a name ID whose string is equal to the string of either name ID 2 or 17, and its postScriptNameID value is set to a name ID whose string is equal to the string of name ID 6. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.fvar.html#"></a></summary>
     <div>
 
@@ -2491,49 +2471,13 @@ definitions.</p>
 
 
 
-* 🔥 **FAIL** <p>'Light Italic' instance has the same coordinates as the default instance; its subfamily name should be '18pt Light Italic'</p>
+* 🔥 **FAIL** <p>'Light' instance has the same coordinates as the default instance; its subfamily name should be '18pt'</p>
  [code: invalid-default-instance-subfamily-name]
 
 
 
-* 🔥 **FAIL** <p>'Light Italic' instance has the same coordinates as the default instance; its postscript name should be 'Merriweather-18ptLightItalic', instead of 'Merriweather-LightItalic'.</p>
+* 🔥 **FAIL** <p>'Light' instance has the same coordinates as the default instance; its postscript name should be 'Merriweather-18pt', instead of 'Merriweather-Light'.</p>
  [code: invalid-default-instance-postscript-name]
-
-
-
-</div>
-</details>
-
-<details>
-    <summary>🔥 <b>FAIL</b> Ensure the font supports case swapping for all its glyphs. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#"></a></summary>
-    <div>
-
-
-
-
-
-
-
-* 🔥 **FAIL** <p>The following glyphs lack their case-swapping counterparts:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Glyph present in the font</th>
-<th align="left">Missing case-swapping counterpart</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">U+03BB: GREEK SMALL LETTER LAMDA</td>
-<td align="left">U+039B: GREEK CAPITAL LETTER LAMDA</td>
-</tr>
-<tr>
-<td align="left">U+03C7: GREEK SMALL LETTER CHI</td>
-<td align="left">U+03A7: GREEK CAPITAL LETTER CHI</td>
-</tr>
-</tbody>
-</table>
- [code: missing-case-counterparts]
 
 
 
@@ -2552,6 +2496,24 @@ definitions.</p>
 
 * 🔥 **FAIL** <p>Current FontBakery version is 0.12.1, while a newer 0.12.10 is already available. Please upgrade it with 'pip install -U fontbakery'</p>
  [code: outdated-fontbakery]
+
+
+
+</div>
+</details>
+
+<details>
+    <summary>🔥 <b>FAIL</b> Check name ID 25 to end with "Italic" for Italic VFs. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.metadata.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 🔥 **FAIL** <p>Name ID 25 must end with &quot;Italic&quot; for Italic fonts.</p>
+ [code: nameid25-missing-italic]
 
 
 
@@ -3654,7 +3616,7 @@ definitions.</p>
 </details>
 
 <details>
-    <summary>🔥 <b>FAIL</b> Combined length of family and style must not exceed 32 characters. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.name.html#"></a></summary>
+    <summary>🔥 <b>FAIL</b> Checking file is named canonically. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.html#"></a></summary>
     <div>
 
 
@@ -3663,80 +3625,8 @@ definitions.</p>
 
 
 
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather 18pt Light Light Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 259 exceeds 32 characters.</p>
-<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
- [code: instance-too-long]
-
-
-
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather 18pt Light Light Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 259 exceeds 32 characters.</p>
-<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
- [code: instance-too-long]
-
-
-
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather 18pt Light Medium Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 263 exceeds 32 characters.</p>
-<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
- [code: instance-too-long]
-
-
-
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather 18pt Light Medium Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 263 exceeds 32 characters.</p>
-<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
- [code: instance-too-long]
-
-
-
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather 18pt Light SemiBold Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 265 exceeds 32 characters.</p>
-<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
- [code: instance-too-long]
-
-
-
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather 18pt Light SemiBold Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 265 exceeds 32 characters.</p>
-<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
- [code: instance-too-long]
-
-
-
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather 18pt Light Bold Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 267 exceeds 32 characters.</p>
-<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
- [code: instance-too-long]
-
-
-
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather 18pt Light Bold Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 267 exceeds 32 characters.</p>
-<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
- [code: instance-too-long]
-
-
-
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather 18pt Light ExtraBold Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 269 exceeds 32 characters.</p>
-<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
- [code: instance-too-long]
-
-
-
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather 18pt Light ExtraBold Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 269 exceeds 32 characters.</p>
-<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
- [code: instance-too-long]
-
-
-
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather 18pt Light Black Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 271 exceeds 32 characters.</p>
-<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
- [code: instance-too-long]
-
-
-
-* 🔥 **FAIL** <p>Variable font instance name 'Merriweather 18pt Light Black Italic' formed by space-separated concatenation of font family name (nameID 1) and instance subfamily nameID 271 exceeds 32 characters.</p>
-<p>This has been found to cause shaping issues for some accented letters in Microsoft Word on Windows 10 and 11.</p>
- [code: instance-too-long]
-
-
-
-* ⚠️ **WARN** <p>Name ID 6 'Merriweather-18ptLightItalic' exceeds 27 characters. This has been found to cause problems with PostScript printers, especially on Mac platforms.</p>
- [code: nameid6-too-long]
+* 🔥 **FAIL** <p>Expected &quot;Merriweather[opsz,wdth,wght].ttf. Got Merriweather-Italic[opsz,wdth,wght].ttf.</p>
+ [code: bad-filename]
 
 
 
@@ -3765,23 +3655,23 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">Family Name</td>
-<td align="left"><strong>Merriweather 18pt Light</strong></td>
+<td align="left"><strong>Merriweather 18pt</strong></td>
 <td align="left"><strong>Merriweather Light</strong></td>
 </tr>
 <tr>
 <td align="left">Subfamily Name</td>
-<td align="left">Italic</td>
-<td align="left">Italic</td>
+<td align="left"><strong>Italic</strong></td>
+<td align="left"><strong>Regular</strong></td>
 </tr>
 <tr>
 <td align="left">Full Name</td>
-<td align="left"><strong>Merriweather 18pt Light Italic</strong></td>
-<td align="left"><strong>Merriweather Light Italic</strong></td>
+<td align="left"><strong>Merriweather 18pt</strong></td>
+<td align="left"><strong>Merriweather Light</strong></td>
 </tr>
 <tr>
 <td align="left">Postscript Name</td>
-<td align="left"><strong>Merriweather-18ptLightItalic</strong></td>
-<td align="left"><strong>Merriweather-LightItalic</strong></td>
+<td align="left"><strong>Merriweather-18pt</strong></td>
+<td align="left"><strong>Merriweather-Light</strong></td>
 </tr>
 <tr>
 <td align="left">Typographic Family Name</td>
@@ -3790,8 +3680,8 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">Typographic Subfamily Name</td>
-<td align="left"><strong>18pt Light Italic</strong></td>
-<td align="left"><strong>Light Italic</strong></td>
+<td align="left"><strong>18pt</strong></td>
+<td align="left"><strong>Light</strong></td>
 </tr>
 </tbody>
 </table>
@@ -3811,8 +3701,8 @@ definitions.</p>
 
 | 💥 ERROR | ☠ FATAL | 🔥 FAIL | ⚠️ WARN | ⏩ SKIP | ℹ️ INFO | ✅ PASS | 🔎 DEBUG | 
 | ---|---|---|---|---|---|---|---|
-| 0 | 0 | 12 | 24 | 177 | 17 | 250 | 0 | 
-| 0% | 0% | 2% | 5% | 37% | 4% | 52% | 0% | 
+| 0 | 0 | 12 | 24 | 181 | 17 | 246 | 0 | 
+| 0% | 0% | 2% | 5% | 38% | 4% | 51% | 0% | 
 
 
 
