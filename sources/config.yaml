@@ -6,6 +6,9 @@ axisOrder:
   - wdth
   - opsz
 
-familyName: Merriweather21
-buildStatic: false
+familyName: Merriweather
+buildStatic: true
 buildWebfont: false
+buildTTF: true
+buildOTF: false
+buildSmallCap: false
