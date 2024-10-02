@@ -1,10 +1,12 @@
 {
+color = 8;
 glyphname = plus.case;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
 shapes = (
 {
+alignment = -1;
 pos = (16,120);
 ref = plus;
 }
@@ -15,6 +17,7 @@ width = 1217;
 layerId = "27298932-82AF-4578-9425-6304FDB19058";
 shapes = (
 {
+alignment = -1;
 pos = (17,122);
 ref = plus;
 }
@@ -55,6 +58,7 @@ width = 1150;
 layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
 shapes = (
 {
+alignment = -1;
 pos = (27,199);
 ref = plus;
 }
@@ -108,7 +112,7 @@ layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
 shapes = (
 {
 alignment = -1;
-pos = (28,199);
+pos = (-83,199);
 ref = plus;
 }
 );
@@ -126,6 +130,4 @@ ref = plus;
 width = 1116;
 }
 );
-metricLeft = plus;
-metricRight = plus;
 }

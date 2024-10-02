@@ -1,4 +1,5 @@
 {
+color = 8;
 glyphname = divide.case;
 layers = (
 {
@@ -111,7 +112,7 @@ pos = (26,193);
 ref = divide;
 }
 );
-width = 1049;
+width = 1338;
 },
 {
 layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
@@ -124,6 +125,4 @@ ref = divide;
 width = 1049;
 }
 );
-metricLeft = divide;
-metricRight = divide;
 }

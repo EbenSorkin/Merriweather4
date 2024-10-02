@@ -1,4 +1,5 @@
 {
+color = 8;
 glyphname = minus;
 layers = (
 {
@@ -157,14 +158,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(152,524,l),
-(913,524,l),
-(923,604,l),
-(162,604,l)
+(292,524,l),
+(1053,524,l),
+(1063,604,l),
+(302,604,l)
 );
 }
 );
-width = 1058;
+width = 1338;
 },
 {
 layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
@@ -182,8 +183,6 @@ nodes = (
 width = 1058;
 }
 );
-metricLeft = hyphen;
-metricRight = hyphen;
 unicode = 8722;
 userData = {
 KernOnSpecialSpacing = {

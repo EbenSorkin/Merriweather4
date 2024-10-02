@@ -1,4 +1,5 @@
 {
+color = 8;
 glyphname = multiply.case;
 layers = (
 {
@@ -108,7 +109,7 @@ layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
 shapes = (
 {
 alignment = -1;
-pos = (0,200);
+pos = (-40,200);
 ref = multiply;
 }
 );

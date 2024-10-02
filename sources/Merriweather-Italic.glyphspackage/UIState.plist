@@ -1,5 +1,9 @@
 {
 displayStrings = (
-"Λ"
+"Λ",
+"0+0",
+"/equal.case",
+"/notequal.case",
+"/plus.case"
 );
 }

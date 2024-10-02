@@ -1,6 +1,8 @@
 {
 displayStrings = (
 "Λ",
-"Λ"
+"Λ",
+"+",
+"≠/plus.case/minus.case/multiply.case/divide.case/equal.case/notequal.case"
 );
 }
