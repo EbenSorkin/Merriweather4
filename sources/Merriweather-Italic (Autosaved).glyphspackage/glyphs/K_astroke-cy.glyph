@@ -1,0 +1,175 @@
+{
+glyphname = "Kastroke-cy";
+layers = (
+{
+.lastUpdate = 749543349.981;
+layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
+shapes = (
+{
+ref = "Ka-cy";
+},
+{
+pos = (60,625);
+ref = barmod;
+}
+);
+width = 1292;
+},
+{
+.lastUpdate = 749543349.767;
+layerId = "27298932-82AF-4578-9425-6304FDB19058";
+shapes = (
+{
+ref = "Ka-cy";
+},
+{
+pos = (19,621);
+ref = barmod;
+}
+);
+width = 1437;
+},
+{
+.lastUpdate = 749543351.457;
+layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
+shapes = (
+{
+ref = "Ka-cy";
+},
+{
+pos = (23,621);
+ref = barmod;
+}
+);
+width = 1494;
+},
+{
+.lastUpdate = 749543351.67;
+layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
+shapes = (
+{
+ref = "Ka-cy";
+},
+{
+pos = (89,625);
+ref = barmod;
+}
+);
+width = 1394;
+},
+{
+.lastUpdate = 749543350.198;
+layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
+shapes = (
+{
+ref = "Ka-cy";
+},
+{
+pos = (117,650);
+ref = barmod;
+}
+);
+width = 1473;
+},
+{
+.lastUpdate = 749543350.411;
+layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
+shapes = (
+{
+ref = "Ka-cy";
+},
+{
+pos = (85,638);
+ref = barmod;
+}
+);
+width = 1279;
+},
+{
+.lastUpdate = 749543351.882;
+layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
+shapes = (
+{
+ref = "Ka-cy";
+},
+{
+pos = (92,650);
+ref = barmod;
+}
+);
+width = 1463;
+},
+{
+.lastUpdate = 749543352.093;
+layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
+shapes = (
+{
+ref = "Ka-cy";
+},
+{
+pos = (97,638);
+ref = barmod;
+}
+);
+width = 1315;
+},
+{
+.lastUpdate = 749543350.835;
+layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
+shapes = (
+{
+ref = "Ka-cy";
+},
+{
+pos = (58,625);
+ref = barmod;
+}
+);
+width = 1184;
+},
+{
+.lastUpdate = 749543350.624;
+layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
+shapes = (
+{
+ref = "Ka-cy";
+},
+{
+pos = (25,625);
+ref = barmod;
+}
+);
+width = 1308;
+},
+{
+.lastUpdate = 749543351.252;
+layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
+shapes = (
+{
+ref = "Ka-cy";
+},
+{
+pos = (62,638);
+ref = barmod;
+}
+);
+width = 1212;
+},
+{
+.lastUpdate = 749543351.044;
+layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
+shapes = (
+{
+ref = "Ka-cy";
+},
+{
+pos = (52,650);
+ref = barmod;
+}
+);
+width = 1373;
+}
+);
+metricRight = "Ka-cy";
+unicode = 1182;
+}

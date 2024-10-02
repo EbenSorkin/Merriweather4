@@ -1,0 +1,364 @@
+{
+color = 5;
+glyphname = phook;
+lastChange = "2024-10-02 06:29:27 +0000";
+layers = (
+{
+.lastUpdate = 749543365.7;
+background = {
+shapes = (
+{
+pos = (11255,0);
+ref = p;
+},
+{
+pos = (11255,0);
+ref = bhook;
+}
+);
+};
+layerId = UUID0;
+shapes = (
+{
+ref = p;
+},
+{
+pos = (835,0);
+ref = _hooktop.part;
+}
+);
+width = 1196;
+},
+{
+.lastUpdate = 749543365.506;
+background = {
+shapes = (
+{
+pos = (31186,0);
+ref = p;
+},
+{
+pos = (31301,0);
+ref = bhook;
+}
+);
+};
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+ref = p;
+},
+{
+pos = (901,0);
+ref = _hooktop.part;
+}
+);
+width = 1301;
+},
+{
+.lastUpdate = 749543366.486;
+background = {
+shapes = (
+{
+pos = (11255,0);
+ref = p;
+},
+{
+pos = (11255,0);
+ref = bhook;
+}
+);
+};
+layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
+shapes = (
+{
+ref = p;
+},
+{
+pos = (726,0);
+ref = _hooktop.part;
+}
+);
+width = 1066;
+},
+{
+.lastUpdate = 749543366.291;
+background = {
+shapes = (
+{
+pos = (30175,0);
+ref = p;
+},
+{
+pos = (30149,0);
+ref = bhook;
+}
+);
+};
+layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
+shapes = (
+{
+ref = p;
+},
+{
+pos = (660,0);
+ref = _hooktop.part;
+}
+);
+width = 1093;
+},
+{
+.lastUpdate = 749543367.274;
+background = {
+shapes = (
+{
+pos = (13557,0);
+ref = p;
+},
+{
+pos = (13557,0);
+ref = bhook;
+}
+);
+};
+layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
+shapes = (
+{
+ref = p;
+},
+{
+pos = (904,0);
+ref = _hooktop.part;
+}
+);
+width = 1258;
+},
+{
+.lastUpdate = 749543367.077;
+background = {
+shapes = (
+{
+pos = (18130,0);
+ref = p;
+},
+{
+pos = (18130,0);
+ref = bhook;
+}
+);
+};
+layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
+shapes = (
+{
+ref = p;
+},
+{
+pos = (938,0);
+ref = _hooktop.part;
+}
+);
+width = 1354;
+},
+{
+.lastUpdate = 749543366.093;
+background = {
+shapes = (
+{
+pos = (30079,0);
+ref = p;
+},
+{
+pos = (30079,0);
+ref = bhook;
+}
+);
+};
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+ref = p;
+},
+{
+pos = (742,0);
+ref = _hooktop.part;
+}
+);
+width = 1013;
+},
+{
+.lastUpdate = 749543365.895;
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(30486,-22,o),
+(30710,179,o),
+(30710,574,cs),
+(30710,860,o),
+(30598,1044,o),
+(30262,1044,cs),
+(30150,1044,o),
+(30038,949,o),
+(30038,893,c),
+(30038,1345,ls),
+(30038,1462,o),
+(30038,1497,o),
+(30150,1497,cs),
+(30262,1497,o),
+(30374,1468,o),
+(30486,1423,c),
+(30486,1638,l),
+(30374,1653,o),
+(30374,1662,o),
+(30262,1662,cs),
+(29926,1662,o),
+(29702,1393,o),
+(29702,1065,cs),
+(29702,54,l),
+(29702,35,o),
+(29814,-22,o),
+(30150,-22,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(30150,37,o),
+(30038,63,o),
+(30038,113,c),
+(30038,837,l),
+(30038,854,o),
+(30038,909,o),
+(30150,909,cs),
+(30262,909,o),
+(30262,824,o),
+(30262,522,cs),
+(30262,200,o),
+(30262,37,o),
+(30150,37,cs)
+);
+}
+);
+};
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+ref = p;
+},
+{
+pos = (828,0);
+ref = _hooktop.part;
+}
+);
+width = 1155;
+},
+{
+.lastUpdate = 749543366.878;
+background = {
+shapes = (
+{
+pos = (30687,0);
+ref = p;
+},
+{
+pos = (30687,0);
+ref = bhook;
+}
+);
+};
+layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
+shapes = (
+{
+ref = p;
+},
+{
+pos = (655,0);
+ref = _hooktop.part;
+}
+);
+width = 912;
+},
+{
+.lastUpdate = 749543366.68;
+background = {
+shapes = (
+{
+pos = (22395,0);
+ref = p;
+},
+{
+pos = (22395,0);
+ref = bhook;
+}
+);
+};
+layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
+shapes = (
+{
+ref = p;
+},
+{
+pos = (699,0);
+ref = _hooktop.part;
+}
+);
+width = 1027;
+},
+{
+.lastUpdate = 749543367.667;
+background = {
+shapes = (
+{
+pos = (4646,0);
+ref = p;
+},
+{
+pos = (4771,0);
+ref = bhook;
+}
+);
+};
+layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
+shapes = (
+{
+ref = p;
+},
+{
+pos = (799,0);
+ref = _hooktop.part;
+}
+);
+width = 1056;
+},
+{
+.lastUpdate = 749543367.47;
+background = {
+shapes = (
+{
+pos = (1941,0);
+ref = p;
+},
+{
+pos = (1941,0);
+ref = bhook;
+}
+);
+};
+layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
+shapes = (
+{
+ref = p;
+},
+{
+pos = (893,0);
+ref = _hooktop.part;
+}
+);
+width = 1214;
+}
+);
+metricLeft = p;
+metricRight = p;
+unicode = 421;
+}

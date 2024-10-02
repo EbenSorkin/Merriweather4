@@ -1,0 +1,174 @@
+{
+glyphname = gdotaccent;
+layers = (
+{
+.lastUpdate = 749541612.465;
+layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
+shapes = (
+{
+ref = g;
+},
+{
+pos = (508,-2);
+ref = dotaccentcomb;
+}
+);
+width = 1098;
+},
+{
+.lastUpdate = 749541612.465;
+layerId = "27298932-82AF-4578-9425-6304FDB19058";
+shapes = (
+{
+ref = g;
+},
+{
+pos = (453,2);
+ref = dotaccentcomb;
+}
+);
+width = 1154;
+},
+{
+.lastUpdate = 749541612.465;
+layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
+shapes = (
+{
+ref = g;
+},
+{
+pos = (461,2);
+ref = dotaccentcomb;
+}
+);
+width = 1252;
+},
+{
+.lastUpdate = 749541612.465;
+layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
+shapes = (
+{
+ref = g;
+},
+{
+pos = (530,-2);
+ref = dotaccentcomb;
+}
+);
+width = 1168;
+},
+{
+.lastUpdate = 749541612.465;
+layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
+shapes = (
+{
+ref = g;
+},
+{
+pos = (414,0);
+ref = dotaccentcomb;
+}
+);
+width = 1104;
+},
+{
+.lastUpdate = 749541612.465;
+layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
+shapes = (
+{
+ref = g;
+},
+{
+pos = (417,0);
+ref = dotaccentcomb;
+}
+);
+width = 973;
+},
+{
+.lastUpdate = 749541612.465;
+layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
+shapes = (
+{
+ref = g;
+},
+{
+pos = (395,0);
+ref = dotaccentcomb;
+}
+);
+width = 1144;
+},
+{
+.lastUpdate = 749541612.465;
+layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
+shapes = (
+{
+ref = g;
+},
+{
+pos = (436,0);
+ref = dotaccentcomb;
+}
+);
+width = 1012;
+},
+{
+.lastUpdate = 749541612.465;
+layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
+shapes = (
+{
+ref = g;
+},
+{
+pos = (472,-2);
+ref = dotaccentcomb;
+}
+);
+width = 1046;
+},
+{
+.lastUpdate = 749541612.465;
+layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
+shapes = (
+{
+ref = g;
+},
+{
+pos = (385,2);
+ref = dotaccentcomb;
+}
+);
+width = 1077;
+},
+{
+.lastUpdate = 749541612.465;
+layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
+shapes = (
+{
+ref = g;
+},
+{
+pos = (396,0);
+ref = dotaccentcomb;
+}
+);
+width = 913;
+},
+{
+.lastUpdate = 749541612.465;
+layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
+shapes = (
+{
+ref = g;
+},
+{
+pos = (329,0);
+ref = dotaccentcomb;
+}
+);
+width = 1000;
+}
+);
+unicode = 289;
+}

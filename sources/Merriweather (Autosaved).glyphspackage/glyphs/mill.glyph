@@ -1,0 +1,189 @@
+{
+color = 0;
+glyphname = mill;
+layers = (
+{
+.lastUpdate = 749531524.476;
+layerId = UUID0;
+shapes = (
+{
+ref = m;
+},
+{
+alignment = -1;
+pos = (696,-178);
+ref = fraction;
+}
+);
+width = 1970;
+},
+{
+.lastUpdate = 749531524.477;
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+ref = m;
+},
+{
+alignment = -1;
+pos = (816,-178);
+ref = fraction;
+}
+);
+width = 2027;
+},
+{
+.lastUpdate = 749531524.477;
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+ref = m;
+},
+{
+alignment = -1;
+pos = (636,-178);
+ref = fraction;
+}
+);
+width = 1668;
+},
+{
+.lastUpdate = 749531524.477;
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+ref = m;
+},
+{
+alignment = -1;
+pos = (806,-178);
+ref = fraction;
+}
+);
+width = 1811;
+},
+{
+.lastUpdate = 749531524.477;
+layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
+shapes = (
+{
+ref = m;
+},
+{
+alignment = -1;
+pos = (566,-178);
+ref = fraction;
+}
+);
+width = 1691;
+},
+{
+.lastUpdate = 749531524.477;
+layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
+shapes = (
+{
+ref = m;
+},
+{
+alignment = -1;
+pos = (686,-178);
+ref = fraction;
+}
+);
+width = 1730;
+},
+{
+.lastUpdate = 749531524.477;
+layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
+shapes = (
+{
+ref = m;
+},
+{
+alignment = -1;
+pos = (526,-178);
+ref = fraction;
+}
+);
+width = 1494;
+},
+{
+.lastUpdate = 749531524.477;
+layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
+shapes = (
+{
+ref = m;
+},
+{
+alignment = -1;
+pos = (676,-178);
+ref = fraction;
+}
+);
+width = 1559;
+},
+{
+.lastUpdate = 749531524.477;
+layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
+shapes = (
+{
+ref = m;
+},
+{
+alignment = -1;
+pos = (776,-178);
+ref = fraction;
+}
+);
+width = 2095;
+},
+{
+.lastUpdate = 749531524.477;
+layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
+shapes = (
+{
+ref = m;
+},
+{
+alignment = -1;
+pos = (916,-178);
+ref = fraction;
+}
+);
+width = 2173;
+},
+{
+.lastUpdate = 749531524.477;
+layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
+shapes = (
+{
+ref = m;
+},
+{
+alignment = -1;
+pos = (655,-178);
+ref = fraction;
+}
+);
+width = 1721;
+},
+{
+.lastUpdate = 749531524.477;
+layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
+shapes = (
+{
+ref = m;
+},
+{
+alignment = -1;
+pos = (866,-178);
+ref = fraction;
+}
+);
+width = 1955;
+}
+);
+metricLeft = m;
+metricRight = m;
+unicode = 8357;
+}

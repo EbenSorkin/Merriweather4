@@ -2,13 +2,13 @@ rule diffbrowsers
   command = _diffbrowsers "$args"
 build /Users/ebensorkin/Documents/GitHub/Merriweather4/qa: diffbrowsers
   args = {'fonts_before': $
-      ['/Users/ebensorkin/Documents/GitHub/Merriweather4/qa/fonts_before/Merriweather-Regular.ttf'], $
+      ['/Users/ebensorkin/Documents/GitHub/Merriweather4/qa/fonts_before/Merriweather-Italic.ttf'], $
       'fonts_after': $
-      ['/Users/ebensorkin/Documents/GitHub/Merriweather4/qa/fonts/Merriweather-Regular.ttf'], $
+      ['/Users/ebensorkin/Documents/GitHub/Merriweather4/qa/fonts/Merriweather-Italic.ttf'], $
       'diffbrowsers': True, 'diffenator': True, 'out': $
       '/Users/ebensorkin/Documents/GitHub/Merriweather4/qa', 'imgs': False, $
       'styles': 'instances', 'characters': '.*', 'user_wordlist': None, $
-      'filter_styles': 'Regular', 'font_size': 28, 'pt_size': 20, $
+      'filter_styles': 'Italic', 'font_size': 28, 'pt_size': 20, $
       'threshold': 0.9, 'precision': 28, 'no_words': False, 'no_tables': $
       False, 'diffenator_template': $
       '/Users/ebensorkin/Documents/GitHub/Merriweather4/venv/lib/python3.11/site-packages/diffenator2/templates/diffenator.html', $
@@ -17,21 +17,21 @@ build /Users/ebensorkin/Documents/GitHub/Merriweather4/qa: diffbrowsers
 
 rule diffenator
   command = _diffenator "$args"
-build /Users/ebensorkin/Documents/GitHub/Merriweather4/qa/Regular: diffenator
+build /Users/ebensorkin/Documents/GitHub/Merriweather4/qa/Italic: diffenator
   args = {'fonts_before': $
-      ['/Users/ebensorkin/Documents/GitHub/Merriweather4/qa/fonts_before/Merriweather-Regular.ttf'], $
+      ['/Users/ebensorkin/Documents/GitHub/Merriweather4/qa/fonts_before/Merriweather-Italic.ttf'], $
       'fonts_after': $
-      ['/Users/ebensorkin/Documents/GitHub/Merriweather4/qa/fonts/Merriweather-Regular.ttf'], $
+      ['/Users/ebensorkin/Documents/GitHub/Merriweather4/qa/fonts/Merriweather-Italic.ttf'], $
       'diffbrowsers': True, 'diffenator': True, 'out': $
       '/Users/ebensorkin/Documents/GitHub/Merriweather4/qa', 'imgs': False, $
       'styles': 'instances', 'characters': '.*', 'user_wordlist': None, $
-      'filter_styles': 'Regular', 'font_size': 28, 'pt_size': 20, $
+      'filter_styles': 'Italic', 'font_size': 28, 'pt_size': 20, $
       'threshold': 0.9, 'precision': 28, 'no_words': False, 'no_tables': $
       False, 'diffenator_template': $
       '/Users/ebensorkin/Documents/GitHub/Merriweather4/venv/lib/python3.11/site-packages/diffenator2/templates/diffenator.html', $
       'command': 'diff', 'diffbrowsers_templates': [], 'debug_gifs': False, $
       'kwargs': {'no_diffenator': False}, 'no_diffenator': False, 'coords': $
       'wght=400', 'old_font': $
-      '/Users/ebensorkin/Documents/GitHub/Merriweather4/qa/fonts_before/Merriweather-Regular.ttf', $
+      '/Users/ebensorkin/Documents/GitHub/Merriweather4/qa/fonts_before/Merriweather-Italic.ttf', $
       'new_font': $
-      '/Users/ebensorkin/Documents/GitHub/Merriweather4/qa/fonts/Merriweather-Regular.ttf'}
+      '/Users/ebensorkin/Documents/GitHub/Merriweather4/qa/fonts/Merriweather-Italic.ttf'}

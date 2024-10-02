@@ -1,0 +1,354 @@
+{
+glyphname = "hadescender-cy.sc";
+layers = (
+{
+.lastUpdate = 749521432.459;
+layerId = UUID0;
+shapes = (
+{
+ref = x.sc;
+},
+{
+pos = (1016,0);
+ref = righttooth_part.;
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 2;
+height = 87;
+weight = 2;
+width = 96;
+};
+};
+width = 1378;
+},
+{
+.lastUpdate = 749538948.707;
+layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
+shapes = (
+{
+ref = x.sc;
+},
+{
+pos = (990,0);
+ref = righttooth_part.;
+}
+);
+width = 1407;
+},
+{
+.lastUpdate = 749521432.459;
+annotations = (
+{
+pos = (1401,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (881,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (728,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (29,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (24,37);
+type = Circle;
+width = 30;
+},
+{
+pos = (563,37);
+type = Circle;
+width = 30;
+},
+{
+pos = (718,37);
+type = Circle;
+width = 30;
+}
+);
+layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
+shapes = (
+{
+ref = x.sc;
+},
+{
+pos = (1135,0);
+ref = righttooth_part.;
+}
+);
+width = 1441;
+},
+{
+.lastUpdate = 749521432.459;
+layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
+shapes = (
+{
+ref = x.sc;
+},
+{
+pos = (942,0);
+ref = righttooth_part.;
+}
+);
+width = 1286;
+},
+{
+.lastUpdate = 749521432.459;
+layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
+shapes = (
+{
+ref = x.sc;
+},
+{
+pos = (895,0);
+ref = righttooth_part.;
+}
+);
+width = 1246;
+},
+{
+.lastUpdate = 749521432.459;
+annotations = (
+{
+pos = (1144,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (713,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (613,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (19,1255);
+type = Circle;
+width = 30;
+},
+{
+pos = (21,37);
+type = Circle;
+width = 30;
+},
+{
+pos = (462,37);
+type = Circle;
+width = 30;
+},
+{
+pos = (558,37);
+type = Circle;
+width = 30;
+}
+);
+layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
+shapes = (
+{
+ref = x.sc;
+},
+{
+pos = (854,0);
+ref = righttooth_part.;
+}
+);
+width = 1158;
+},
+{
+.lastUpdate = 749521432.459;
+annotations = (
+{
+pos = (24,35);
+type = Circle;
+width = 30;
+},
+{
+pos = (435,35);
+type = Circle;
+width = 30;
+},
+{
+pos = (660,35);
+type = Circle;
+width = 30;
+},
+{
+pos = (1082,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (707,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (500,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (49,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (1082,1256);
+type = Circle;
+width = 30;
+},
+{
+pos = (707,1256);
+type = Circle;
+width = 30;
+},
+{
+pos = (500,1256);
+type = Circle;
+width = 30;
+},
+{
+pos = (49,1256);
+type = Circle;
+width = 30;
+}
+);
+layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
+shapes = (
+{
+ref = x.sc;
+},
+{
+pos = (882,0);
+ref = righttooth_part.;
+}
+);
+width = 1078;
+},
+{
+.lastUpdate = 749521432.459;
+annotations = (
+{
+pos = (1267,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (831,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (575,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (60,1257);
+type = Circle;
+width = 30;
+},
+{
+pos = (27,35);
+type = Circle;
+width = 30;
+},
+{
+pos = (508,35);
+type = Circle;
+width = 30;
+},
+{
+pos = (788,35);
+type = Circle;
+width = 30;
+}
+);
+layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
+shapes = (
+{
+ref = x.sc;
+},
+{
+pos = (1021,0);
+ref = righttooth_part.;
+}
+);
+width = 1236;
+},
+{
+.lastUpdate = 749521432.459;
+layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
+shapes = (
+{
+ref = x.sc;
+},
+{
+pos = (1178,0);
+ref = righttooth_part.;
+}
+);
+width = 1447;
+},
+{
+.lastUpdate = 749521432.459;
+layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
+shapes = (
+{
+ref = x.sc;
+},
+{
+pos = (1022,0);
+ref = righttooth_part.;
+}
+);
+width = 1248;
+},
+{
+.lastUpdate = 749521432.459;
+layerId = "779F1615-9D1A-4778-9767-9A030AA58B6C";
+shapes = (
+{
+ref = x.sc;
+},
+{
+pos = (1081,0);
+ref = righttooth_part.;
+}
+);
+width = 1378;
+},
+{
+.lastUpdate = 749521432.459;
+layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
+shapes = (
+{
+ref = x.sc;
+},
+{
+pos = (1115,0);
+ref = righttooth_part.;
+}
+);
+width = 1477;
+}
+);
+userData = {
+RMXScaler = {
+source = "Hadescender-cy";
+};
+};
+}

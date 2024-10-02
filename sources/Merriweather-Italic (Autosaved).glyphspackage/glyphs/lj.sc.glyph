@@ -1,0 +1,177 @@
+{
+glyphname = lj.sc;
+layers = (
+{
+.lastUpdate = 749541612.53;
+layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
+shapes = (
+{
+ref = l.sc;
+},
+{
+pos = (1051,0);
+ref = j.sc;
+}
+);
+width = 1714;
+},
+{
+.lastUpdate = 749541612.53;
+layerId = "27298932-82AF-4578-9425-6304FDB19058";
+shapes = (
+{
+ref = l.sc;
+},
+{
+pos = (1171,0);
+ref = j.sc;
+}
+);
+width = 1874;
+},
+{
+.lastUpdate = 749541612.53;
+layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
+shapes = (
+{
+ref = l.sc;
+},
+{
+pos = (1116,0);
+ref = j.sc;
+}
+);
+width = 1711;
+},
+{
+.lastUpdate = 749541612.53;
+layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
+shapes = (
+{
+ref = l.sc;
+},
+{
+pos = (1262,0);
+ref = j.sc;
+}
+);
+width = 2022;
+},
+{
+.lastUpdate = 749541612.53;
+layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
+shapes = (
+{
+ref = l.sc;
+},
+{
+pos = (926,0);
+ref = j.sc;
+}
+);
+width = 1418;
+},
+{
+.lastUpdate = 749541612.53;
+layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
+shapes = (
+{
+ref = l.sc;
+},
+{
+pos = (1043,0);
+ref = j.sc;
+}
+);
+width = 1691;
+},
+{
+.lastUpdate = 749541612.53;
+layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
+shapes = (
+{
+alignment = -1;
+ref = l.sc;
+},
+{
+alignment = -1;
+pos = (1026,0);
+ref = j.sc;
+}
+);
+width = 1564;
+},
+{
+.lastUpdate = 749541612.53;
+layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
+shapes = (
+{
+ref = l.sc;
+},
+{
+pos = (1129,0);
+ref = j.sc;
+}
+);
+width = 1807;
+},
+{
+.lastUpdate = 749541612.53;
+layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
+shapes = (
+{
+ref = l.sc;
+},
+{
+pos = (991,0);
+ref = j.sc;
+}
+);
+width = 1567;
+},
+{
+.lastUpdate = 749541612.53;
+layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
+shapes = (
+{
+ref = l.sc;
+},
+{
+pos = (1047,0);
+ref = j.sc;
+}
+);
+width = 1718;
+},
+{
+.lastUpdate = 749541612.53;
+layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
+shapes = (
+{
+alignment = -1;
+ref = l.sc;
+},
+{
+alignment = -1;
+pos = (856,0);
+ref = j.sc;
+}
+);
+width = 1375;
+},
+{
+.lastUpdate = 749541612.53;
+layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
+shapes = (
+{
+ref = l.sc;
+},
+{
+pos = (990,0);
+ref = j.sc;
+}
+);
+width = 1612;
+}
+);
+}

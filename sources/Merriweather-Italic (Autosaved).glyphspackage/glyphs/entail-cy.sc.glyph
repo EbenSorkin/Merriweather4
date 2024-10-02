@@ -1,0 +1,181 @@
+{
+glyphname = "entail-cy.sc";
+lastChange = "2024-10-02 06:29:12 +0000";
+layers = (
+{
+.lastUpdate = 749543350.111;
+layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
+shapes = (
+{
+ref = h.sc;
+},
+{
+pos = (787,0);
+ref = rtail_part;
+}
+);
+width = 1442;
+},
+{
+.lastUpdate = 749543349.896;
+layerId = "27298932-82AF-4578-9425-6304FDB19058";
+shapes = (
+{
+ref = h.sc;
+},
+{
+pos = (939,0);
+ref = rtail_part;
+}
+);
+width = 1566;
+},
+{
+.lastUpdate = 749543351.585;
+layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
+shapes = (
+{
+ref = h.sc;
+},
+{
+pos = (1050,0);
+ref = rtail_part;
+}
+);
+width = 1670;
+},
+{
+.lastUpdate = 749543351.796;
+layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
+shapes = (
+{
+ref = h.sc;
+},
+{
+pos = (851,0);
+ref = rtail_part;
+}
+);
+width = 1481;
+},
+{
+.lastUpdate = 749543350.327;
+layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
+shapes = (
+{
+ref = h.sc;
+},
+{
+pos = (827,0);
+ref = rtail_part;
+}
+);
+width = 1403;
+},
+{
+.lastUpdate = 749543350.54;
+layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
+shapes = (
+{
+ref = h.sc;
+},
+{
+pos = (693,0);
+ref = rtail_part;
+}
+);
+width = 1286;
+},
+{
+.lastUpdate = 749543352.009;
+layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
+shapes = (
+{
+ref = h.sc;
+},
+{
+pos = (912,0);
+ref = rtail_part;
+}
+);
+width = 1481;
+},
+{
+.lastUpdate = 749543352.221;
+layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
+shapes = (
+{
+ref = h.sc;
+},
+{
+pos = (786,0);
+ref = rtail_part;
+}
+);
+width = 1392;
+},
+{
+.lastUpdate = 749543350.96;
+layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
+shapes = (
+{
+ref = h.sc;
+},
+{
+pos = (691,0);
+ref = rtail_part;
+}
+);
+width = 1325;
+},
+{
+.lastUpdate = 749543350.751;
+layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
+shapes = (
+{
+ref = h.sc;
+},
+{
+pos = (772,0);
+ref = rtail_part;
+}
+);
+width = 1416;
+},
+{
+.lastUpdate = 749543351.375;
+layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
+shapes = (
+{
+ref = h.sc;
+},
+{
+pos = (605,0);
+ref = rtail_part;
+}
+);
+width = 1177;
+},
+{
+.lastUpdate = 749543351.171;
+layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
+shapes = (
+{
+ref = h.sc;
+},
+{
+pos = (718,0);
+ref = rtail_part;
+}
+);
+width = 1314;
+}
+);
+metricLeft = "pe-cy.sc";
+metricRight = "de-cy.sc";
+userData = {
+RMXScaler = {
+source = "Entail-cy";
+};
+};
+}

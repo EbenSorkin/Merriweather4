@@ -1,0 +1,174 @@
+{
+glyphname = wacute;
+layers = (
+{
+.lastUpdate = 749541612.496;
+layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (753,0);
+ref = acutecomb;
+}
+);
+width = 1614;
+},
+{
+.lastUpdate = 749541612.496;
+layerId = "27298932-82AF-4578-9425-6304FDB19058";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (748,0);
+ref = acutecomb;
+}
+);
+width = 1682;
+},
+{
+.lastUpdate = 749541612.496;
+layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (778,0);
+ref = acutecomb;
+}
+);
+width = 1730;
+},
+{
+.lastUpdate = 749541612.496;
+layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (800,0);
+ref = acutecomb;
+}
+);
+width = 1706;
+},
+{
+.lastUpdate = 749541612.496;
+layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (760,0);
+ref = acutecomb;
+}
+);
+width = 1526;
+},
+{
+.lastUpdate = 749541612.496;
+layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (650,0);
+ref = acutecomb;
+}
+);
+width = 1316;
+},
+{
+.lastUpdate = 749541612.496;
+layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (780,0);
+ref = acutecomb;
+}
+);
+width = 1549;
+},
+{
+.lastUpdate = 749541612.496;
+layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (746,0);
+ref = acutecomb;
+}
+);
+width = 1433;
+},
+{
+.lastUpdate = 749541612.496;
+layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (724,0);
+ref = acutecomb;
+}
+);
+width = 1543;
+},
+{
+.lastUpdate = 749541612.496;
+layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (696,0);
+ref = acutecomb;
+}
+);
+width = 1572;
+},
+{
+.lastUpdate = 749541612.496;
+layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (668,0);
+ref = acutecomb;
+}
+);
+width = 1302;
+},
+{
+.lastUpdate = 749541612.496;
+layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (708,0);
+ref = acutecomb;
+}
+);
+width = 1423;
+}
+);
+unicode = 7811;
+}
