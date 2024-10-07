@@ -3,6 +3,7 @@ displayStrings = (
 "Λ",
 "Λ",
 "+",
-"≠/plus.case/minus.case/multiply.case/divide.case/equal.case/notequal.case"
+"≠/plus.case/minus.case/multiply.case/divide.case/equal.case/notequal.case",
+y
 );
 }

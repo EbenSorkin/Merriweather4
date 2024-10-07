@@ -7,6 +7,7 @@ displayStrings = (
 "/plus.case",
 "/divide.case",
 "/multiply.case",
-"/minus.case"
+"/minus.case",
+y
 );
 }

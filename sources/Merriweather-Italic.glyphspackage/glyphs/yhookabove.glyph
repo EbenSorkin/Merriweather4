@@ -8,7 +8,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (384,0);
+pos = (390,0);
 ref = hookabovecomb;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (331,0);
+pos = (363,0);
 ref = hookabovecomb;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (382,0);
+pos = (392,0);
 ref = hookabovecomb;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (434,0);
+pos = (431,0);
 ref = hookabovecomb;
 }
 );
@@ -60,7 +60,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (300,0);
+pos = (299,0);
 ref = hookabovecomb;
 }
 );
@@ -73,7 +73,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (250,0);
+pos = (251,0);
 ref = hookabovecomb;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (330,0);
+pos = (349,0);
 ref = hookabovecomb;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (288,0);
+pos = (285,0);
 ref = hookabovecomb;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (358,0);
+pos = (348,0);
 ref = hookabovecomb;
 }
 );
@@ -125,7 +125,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (345,0);
+pos = (355,0);
 ref = hookabovecomb;
 }
 );
@@ -138,7 +138,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (240,0);
+pos = (241,0);
 ref = hookabovecomb;
 }
 );
@@ -151,7 +151,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (290,0);
+pos = (299,0);
 ref = hookabovecomb;
 }
 );

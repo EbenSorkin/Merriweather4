@@ -8,7 +8,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (241,0);
+pos = (247,0);
 ref = dieresiscomb;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (119,0);
+pos = (151,0);
 ref = dieresiscomb;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (176,0);
+pos = (186,0);
 ref = dieresiscomb;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (270,0);
+pos = (267,0);
 ref = dieresiscomb;
 }
 );
@@ -60,7 +60,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (130,0);
+pos = (129,0);
 ref = dieresiscomb;
 }
 );
@@ -73,7 +73,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (136,0);
+pos = (137,0);
 ref = dieresiscomb;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (170,0);
+pos = (189,0);
 ref = dieresiscomb;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (184,0);
+pos = (181,0);
 ref = dieresiscomb;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (207,0);
+pos = (197,0);
 ref = dieresiscomb;
 }
 );
@@ -125,7 +125,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (127,0);
+pos = (137,0);
 ref = dieresiscomb;
 }
 );
@@ -138,7 +138,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (106,0);
+pos = (107,0);
 ref = dieresiscomb;
 }
 );
@@ -151,7 +151,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (120,0);
+pos = (129,0);
 ref = dieresiscomb;
 }
 );
