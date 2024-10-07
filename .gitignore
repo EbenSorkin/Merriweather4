@@ -1,3 +1,5 @@
+build.ninja
+.ninja_log
 *~
 venv*
 build.stamp
