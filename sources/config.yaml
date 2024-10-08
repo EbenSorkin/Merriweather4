@@ -2,9 +2,10 @@ sources:
   - Merriweather.glyphspackage
   - Merriweather-Italic.glyphspackage
 axisOrder:
-  - wght
+  - opsz 
   - wdth
-  - opsz
+  - wght
+  - ital
 
 familyName: Merriweather
 buildStatic: false
@@ -15,7 +16,8 @@ buildSmallCap: true
 
 stat:
   Merriweather[opsz,wdth,wght].ttf:
-  - name: Optical size
+  
+ - name: Optical size
     tag: opsz
     values:
     - name: 18pt
@@ -28,7 +30,7 @@ stat:
       value: 72
     - name: 144pt
       value: 144
-  - name: Width
+ - name: Width
   tag: wdth
   values:
     - name: Cond
@@ -37,7 +39,7 @@ stat:
     value: 100
     - name: Wide
     value: 112
-  - name: Weight
+ - name: Weight
     tag: wght
     values:
     - name: Light
