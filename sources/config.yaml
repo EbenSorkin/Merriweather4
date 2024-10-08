@@ -31,7 +31,7 @@ stat:
   - name: Width
   tag: wdth
   values:
-    - name: Condensed
+    - name: Cond
     value: 87
     - name: Normal
     value: 100
@@ -80,7 +80,7 @@ stat:
   - name: Width
   tag: wdth
   values:
-  - name: Condensed
+  - name: Cnd
     value: 87
     - name: Normal
     value: 100
@@ -127,7 +127,7 @@ stat:
   - name: Width
   tag: wdth
   values:
-    - name: Condensed
+    - name: Cond
     value: 87
     - name: Normal
     value: 100
@@ -176,7 +176,7 @@ stat:
   - name: Width
   tag: wdth
   values:
-  - name: Condensed
+  - name: Cnd
     value: 87
     - name: Normal
     value: 100
