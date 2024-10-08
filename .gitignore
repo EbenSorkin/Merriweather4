@@ -1,5 +1,7 @@
+build.ninja
+.ninja_log
 *~
-venv
+venv*
 build.stamp
 proof
 node_modules
