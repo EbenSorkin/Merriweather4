@@ -16,7 +16,6 @@ buildSmallCap: true
 
 stat:
   Merriweather[opsz,wdth,wght].ttf:
-  
   - name: Optical size
     tag: opsz
     values:
@@ -33,7 +32,7 @@ stat:
   - name: Width
     tag: wdth
     values:
-    - name: Cond
+    - name: Condensed
     value: 87
     - name: Normal
     value: 100
@@ -82,7 +81,7 @@ stat:
   - name: Width
   tag: wdth
     values:
-    - name: Cnd
+    - name: Condensed
     value: 87
     - name: Normal
     value: 100
@@ -129,7 +128,7 @@ stat:
   - name: Width
     tag: wdth
     values:
-    - name: Cond
+    - name: Condensed
     value: 87
     - name: Normal
     value: 100
@@ -178,7 +177,7 @@ stat:
   - name: Width
     tag: wdth
     values:
-    - name: Cnd
+    - name: Condensed
     value: 87
     - name: Normal
     value: 100
