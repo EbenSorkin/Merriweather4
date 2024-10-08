@@ -17,7 +17,7 @@ buildSmallCap: true
 stat:
   Merriweather[opsz,wdth,wght].ttf:
   
- - name: Optical size
+  - name: Optical size
     tag: opsz
     values:
     - name: 18pt
@@ -30,16 +30,16 @@ stat:
       value: 72
     - name: 144pt
       value: 144
- - name: Width
-  tag: wdth
-  values:
+  - name: Width
+    tag: wdth
+    values:
     - name: Cond
     value: 87
     - name: Normal
     value: 100
     - name: Wide
     value: 112
- - name: Weight
+  - name: Weight
     tag: wght
     values:
     - name: Light
@@ -66,7 +66,7 @@ stat:
       linkedValue: 1
       flags: 2
   Merriweather-Italic[opsz,wdth,wght].ttf:
-   - name: Optical size
+  - name: Optical size
     tag: opsz
     values:
     - name: 18pt
@@ -81,8 +81,8 @@ stat:
       value: 144
   - name: Width
   tag: wdth
-  values:
-  - name: Cnd
+    values:
+    - name: Cnd
     value: 87
     - name: Normal
     value: 100
@@ -127,8 +127,8 @@ stat:
     - name: 144pt
       value: 144
   - name: Width
-  tag: wdth
-  values:
+    tag: wdth
+    values:
     - name: Cond
     value: 87
     - name: Normal
@@ -162,7 +162,7 @@ stat:
       linkedValue: 1
       flags: 2
   MerriweatherSC-Italic[opsz,wdth,wght].ttf:
-   - name: Optical size
+  - name: Optical size
     tag: opsz
     values:
     - name: 18pt
@@ -176,9 +176,9 @@ stat:
     - name: 144pt
       value: 144
   - name: Width
-  tag: wdth
-  values:
-  - name: Cnd
+    tag: wdth
+    values:
+    - name: Cnd
     value: 87
     - name: Normal
     value: 100
