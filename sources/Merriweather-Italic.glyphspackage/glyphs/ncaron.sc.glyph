@@ -47,7 +47,7 @@ shapes = (
 ref = n.sc;
 },
 {
-pos = (454,182);
+pos = (473,182);
 ref = caroncomb;
 }
 );
@@ -73,7 +73,7 @@ shapes = (
 ref = n.sc;
 },
 {
-pos = (362,287);
+pos = (368,287);
 ref = caroncomb;
 }
 );
@@ -151,7 +151,7 @@ shapes = (
 ref = n.sc;
 },
 {
-pos = (295,287);
+pos = (315,287);
 ref = caroncomb;
 }
 );

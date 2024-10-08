@@ -1,5 +1,4 @@
 {
-color = 4;
 glyphname = eopen.sc;
 layers = (
 {
@@ -7,6 +6,10 @@ anchors = (
 {
 name = bottom;
 pos = (489,0);
+},
+{
+name = ogonek;
+pos = (588,0);
 },
 {
 name = top;
@@ -120,6 +123,10 @@ name = bottom;
 pos = (512,0);
 },
 {
+name = ogonek;
+pos = (598,0);
+},
+{
 name = top;
 pos = (672,1292);
 }
@@ -231,6 +238,10 @@ name = bottom;
 pos = (518,0);
 },
 {
+name = ogonek;
+pos = (678,0);
+},
+{
 name = top;
 pos = (687,1292);
 }
@@ -301,6 +312,10 @@ name = bottom;
 pos = (544,0);
 },
 {
+name = ogonek;
+pos = (708,0);
+},
+{
 name = top;
 pos = (704,1292);
 }
@@ -369,6 +384,10 @@ anchors = (
 {
 name = bottom;
 pos = (416,0);
+},
+{
+name = ogonek;
+pos = (518,0);
 },
 {
 name = top;
@@ -482,6 +501,10 @@ name = bottom;
 pos = (486,0);
 },
 {
+name = ogonek;
+pos = (638,0);
+},
+{
 name = top;
 pos = (708,1292);
 }
@@ -593,6 +616,10 @@ name = bottom;
 pos = (479,0);
 },
 {
+name = ogonek;
+pos = (618,0);
+},
+{
 name = top;
 pos = (639,1292);
 }
@@ -663,6 +690,10 @@ name = bottom;
 pos = (562,0);
 },
 {
+name = ogonek;
+pos = (698,0);
+},
+{
 name = top;
 pos = (722,1292);
 }
@@ -731,6 +762,10 @@ anchors = (
 {
 name = bottom;
 pos = (447,0);
+},
+{
+name = ogonek;
+pos = (548,0);
 },
 {
 name = top;
@@ -808,6 +843,10 @@ name = bottom;
 pos = (453,0);
 },
 {
+name = ogonek;
+pos = (568,0);
+},
+{
 name = top;
 pos = (622,1292);
 }
@@ -883,6 +922,10 @@ name = bottom;
 pos = (353,0);
 },
 {
+name = ogonek;
+pos = (478,0);
+},
+{
 name = top;
 pos = (568,1292);
 }
@@ -956,6 +999,10 @@ anchors = (
 {
 name = bottom;
 pos = (463,0);
+},
+{
+name = ogonek;
+pos = (558,0);
 },
 {
 name = top;

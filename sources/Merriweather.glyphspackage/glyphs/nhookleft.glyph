@@ -3,6 +3,12 @@ color = 4;
 glyphname = nhookleft;
 layers = (
 {
+anchors = (
+{
+name = top;
+pos = (728,1110);
+}
+);
 background = {
 shapes = (
 {
@@ -63,6 +69,12 @@ nodes = (
 width = 1338;
 },
 {
+anchors = (
+{
+name = top;
+pos = (788,1112);
+}
+);
 background = {
 shapes = (
 {
@@ -123,6 +135,12 @@ nodes = (
 width = 1405;
 },
 {
+anchors = (
+{
+name = top;
+pos = (608,1112);
+}
+);
 background = {
 shapes = (
 {
@@ -183,6 +201,12 @@ nodes = (
 width = 1126;
 },
 {
+anchors = (
+{
+name = top;
+pos = (678,1112);
+}
+);
 background = {
 shapes = (
 {
@@ -243,6 +267,12 @@ nodes = (
 width = 1216;
 },
 {
+anchors = (
+{
+name = top;
+pos = (717,1110);
+}
+);
 background = {
 shapes = (
 {
@@ -303,6 +333,12 @@ nodes = (
 width = 1372;
 },
 {
+anchors = (
+{
+name = top;
+pos = (787,1110);
+}
+);
 background = {
 shapes = (
 {
@@ -363,6 +399,12 @@ nodes = (
 width = 1477;
 },
 {
+anchors = (
+{
+name = top;
+pos = (597,1005);
+}
+);
 background = {
 shapes = (
 {
@@ -423,6 +465,12 @@ nodes = (
 width = 1073;
 },
 {
+anchors = (
+{
+name = top;
+pos = (667,1005);
+}
+);
 background = {
 shapes = (
 {
@@ -482,6 +530,12 @@ nodes = (
 width = 1197;
 },
 {
+anchors = (
+{
+name = top;
+pos = (531,1005);
+}
+);
 background = {
 shapes = (
 {
@@ -542,6 +596,12 @@ nodes = (
 width = 974;
 },
 {
+anchors = (
+{
+name = top;
+pos = (608,1005);
+}
+);
 background = {
 shapes = (
 {
@@ -602,6 +662,12 @@ nodes = (
 width = 1067;
 },
 {
+anchors = (
+{
+name = top;
+pos = (617,1005);
+}
+);
 background = {
 shapes = (
 {
@@ -662,6 +728,12 @@ nodes = (
 width = 1120;
 },
 {
+anchors = (
+{
+name = top;
+pos = (677,1005);
+}
+);
 background = {
 shapes = (
 {

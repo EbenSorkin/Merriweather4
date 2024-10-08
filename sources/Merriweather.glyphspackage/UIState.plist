@@ -4,6 +4,14 @@ displayStrings = (
 "Λ",
 "+",
 "≠/plus.case/minus.case/multiply.case/divide.case/equal.case/notequal.case",
-y
+y,
+"ɲ",
+"▪",
+"◆",
+"◼",
+"ﬁ",
+"ﬂ",
+"/fi.sc",
+"/fl.sc"
 );
 }
