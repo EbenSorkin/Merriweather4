@@ -1,22 +1,18 @@
 sources:
   - Merriweather.glyphspackage
   - Merriweather-Italic.glyphspackage
-axisOrder:
-  - opsz 
-  - wdth
-  - wght
-
 familyName: Merriweather
 buildStatic: false
 buildWebfont: false
 buildTTF: false
 buildOTF: false
 buildSmallCap: true
-
-flattenComponents: False
-
+axisOrder:
+  - opsz 
+  - wdth
+  - wght
 stat:
-    Merriweather[wght].ttf:
+    Merriweather[opsz,wdth,wght].ttf:
     - name: Weight
       tag: wght
       values:
@@ -43,8 +39,10 @@ stat:
         value: 0
         linkedValue: 1
         flags: 2
+
       - name: Width
       tag: wdth
+      values:
       - name: Condensed
         value: 87
       - name: Normal
@@ -52,6 +50,7 @@ stat:
         flags: 2
       - name: Wide
         value: 112
+
       - name: Optical Size
       tag: opsz
       values:
@@ -71,7 +70,8 @@ stat:
         value: 72
       - name: 144
         value: 144
-    Merriweather-Italic[wght].ttf:
+
+    Merriweather-Italic[opsz,wdth,wght].ttf:
     - name: Weight
       tag: wght
       values:
@@ -96,8 +96,10 @@ stat:
       values:
       - name: Italic
         value: 1
+
       - name: Width
       tag: wdth
+      values:
       - name: Condensed
         value: 87
       - name: Normal
@@ -105,6 +107,7 @@ stat:
         flags: 2
       - name: Wide
         value: 112
+
       - name: Optical Size
       tag: opsz
       values:
