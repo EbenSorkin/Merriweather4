@@ -8,9 +8,9 @@ buildTTF: false
 buildOTF: false
 buildSmallCap: true
 axisOrder:
-  - opsz 
-  - wdth
   - wght
+  - wdth
+  - opsz
 stat:
     Merriweather[opsz,wdth,wght].ttf:
     - name: Weight
@@ -88,7 +88,7 @@ stat:
         value: 800
       - name: Black
         value: 900
-    - name: Italic
+      - name: Italic
       tag: ital
       values:
       - name: Italic
