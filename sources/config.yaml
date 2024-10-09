@@ -12,35 +12,6 @@ axisOrder:
   - wdth
   - opsz
 stat:
-      - name: Width
-      tag: wdth
-      values:
-      - name: Condensed
-        value: 87
-      - name: Normal
-        value: 100
-        flags: 2
-      - name: Wide
-        value: 112
-      - name: Optical Size
-      tag: opsz
-      values:
-      - name: 12
-        value: 12
-      - name: 14
-        value: 14
-      - name: 16
-        value: 16
-      - name: 24
-        value: 24
-      - name: 48
-        value: 48
-      - name: 64
-        value: 64
-      - name: 72
-        value: 72
-      - name: 144
-        value: 144
     Merriweather[opsz,wdth,wght].ttf:
     - name: Weight
       tag: wght
