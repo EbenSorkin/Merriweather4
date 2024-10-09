@@ -5,7 +5,6 @@ axisOrder:
   - opsz 
   - wdth
   - wght
-  - ital
 
 familyName: Merriweather
 buildStatic: false
