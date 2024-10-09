@@ -39,7 +39,6 @@ stat:
         value: 0
         linkedValue: 1
         flags: 2
-
       - name: Width
       tag: wdth
       values:
@@ -50,7 +49,6 @@ stat:
         flags: 2
       - name: Wide
         value: 112
-
       - name: Optical Size
       tag: opsz
       values:
@@ -70,7 +68,6 @@ stat:
         value: 72
       - name: 144
         value: 144
-
     Merriweather-Italic[opsz,wdth,wght].ttf:
     - name: Weight
       tag: wght
@@ -96,7 +93,6 @@ stat:
       values:
       - name: Italic
         value: 1
-
       - name: Width
       tag: wdth
       values:
@@ -107,7 +103,6 @@ stat:
         flags: 2
       - name: Wide
         value: 112
-
       - name: Optical Size
       tag: opsz
       values:
