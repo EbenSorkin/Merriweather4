@@ -1,5 +1,6 @@
 {
 glyphname = acircumflexacute;
+kernLeft = KO_agrave;
 layers = (
 {
 layerId = UUID0;
@@ -60,7 +61,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (135,0);
+pos = (115,0);
 ref = circumflexcomb_acutecomb;
 }
 );

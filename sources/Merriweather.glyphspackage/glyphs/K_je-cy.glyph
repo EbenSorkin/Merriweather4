@@ -1,5 +1,7 @@
 {
 glyphname = "Kje-cy";
+kernLeft = "KO_Ka-cy";
+kernRight = "KO_Ka-cy";
 layers = (
 {
 layerId = UUID0;

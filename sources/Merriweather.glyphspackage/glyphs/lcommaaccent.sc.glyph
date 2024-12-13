@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = lcommaaccent.sc;
+kernRight = KO_l.sc;
 layers = (
 {
 layerId = UUID0;

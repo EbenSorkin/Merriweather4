@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = ohorn.sc;
+kernLeft = KO_o.sc;
 layers = (
 {
 anchors = (

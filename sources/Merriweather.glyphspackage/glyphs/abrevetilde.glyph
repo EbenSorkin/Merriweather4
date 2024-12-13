@@ -1,5 +1,7 @@
 {
 glyphname = abrevetilde;
+kernLeft = KO_agrave;
+kernRight = KO_a;
 layers = (
 {
 layerId = UUID0;
@@ -60,7 +62,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (49,0);
+pos = (29,0);
 ref = brevecomb_tildecomb;
 }
 );

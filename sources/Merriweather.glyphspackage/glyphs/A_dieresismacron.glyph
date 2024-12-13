@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = Adieresismacron;
+kernRight = KO_A;
 layers = (
 {
 layerId = UUID0;

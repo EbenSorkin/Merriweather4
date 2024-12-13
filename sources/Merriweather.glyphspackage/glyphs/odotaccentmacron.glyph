@@ -42,7 +42,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (223,0);
+pos = (220,0);
 ref = dotaccentcomb;
 },
 {
@@ -165,7 +165,7 @@ pos = (273,0);
 ref = dotaccentcomb;
 },
 {
-pos = (115,329);
+pos = (95,329);
 ref = macroncomb;
 }
 );

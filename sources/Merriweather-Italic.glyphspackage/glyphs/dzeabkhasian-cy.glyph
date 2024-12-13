@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = "dzeabkhasian-cy";
 layers = (
 {
@@ -80,7 +81,7 @@ shapes = (
 ref = ezh;
 }
 );
-width = 916;
+width = 912;
 },
 {
 layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";

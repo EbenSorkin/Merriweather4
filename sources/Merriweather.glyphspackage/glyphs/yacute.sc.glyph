@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = yacute.sc;
+kernLeft = KO_y.sc;
+kernRight = KO_y.sc;
 layers = (
 {
 layerId = UUID0;

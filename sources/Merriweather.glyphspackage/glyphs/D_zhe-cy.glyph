@@ -1,5 +1,6 @@
 {
 glyphname = "Dzhe-cy";
+kernLeft = KO_H;
 layers = (
 {
 layerId = UUID0;

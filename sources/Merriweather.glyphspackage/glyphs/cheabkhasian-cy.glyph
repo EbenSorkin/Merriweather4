@@ -1,5 +1,6 @@
 {
 glyphname = "cheabkhasian-cy";
+kernRight = KO_e;
 layers = (
 {
 anchors = (

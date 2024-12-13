@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = hhook;
+kernRight = KO_n;
 layers = (
 {
 background = {

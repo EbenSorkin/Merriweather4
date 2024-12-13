@@ -1,5 +1,6 @@
 {
 glyphname = "tetse-cy";
+kernLeft = "KO_te-cy";
 layers = (
 {
 layerId = UUID0;

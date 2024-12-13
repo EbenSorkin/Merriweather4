@@ -116,13 +116,6 @@ name = top;
 pos = (622,1292);
 }
 );
-annotations = (
-{
-pos = (106,37);
-type = Circle;
-width = 30;
-}
-);
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
 shapes = (
 {
@@ -323,13 +316,6 @@ name = top;
 pos = (491,1292);
 }
 );
-annotations = (
-{
-pos = (155,35);
-type = Circle;
-width = 30;
-}
-);
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
 shapes = (
 {
@@ -378,13 +364,6 @@ anchors = (
 {
 name = top;
 pos = (571,1292);
-}
-);
-annotations = (
-{
-pos = (193,35);
-type = Circle;
-width = 30;
 }
 );
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
@@ -485,13 +464,6 @@ anchors = (
 {
 name = top;
 pos = (641,1292);
-}
-);
-annotations = (
-{
-pos = (231,35);
-type = Circle;
-width = 30;
 }
 );
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";

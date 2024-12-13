@@ -51,11 +51,11 @@ alignment = 1;
 ref = dotaccentcomb;
 },
 {
-pos = (-121,370);
+pos = (-118,370);
 ref = macroncomb;
 }
 );
-width = 664;
+width = 670;
 },
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -142,7 +142,7 @@ shapes = (
 ref = dotaccentcomb;
 },
 {
-pos = (-158,329);
+pos = (-178,329);
 ref = macroncomb;
 }
 );

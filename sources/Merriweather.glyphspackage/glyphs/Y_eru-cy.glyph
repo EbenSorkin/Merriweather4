@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = "Yeru-cy";
+kernLeft = "KO_Ka-cy";
+kernRight = "KO_Sha-cy";
 layers = (
 {
 anchors = (

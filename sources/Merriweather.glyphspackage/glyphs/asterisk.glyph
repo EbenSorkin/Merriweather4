@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = asterisk;
+kernLeft = KO_asterisk;
 layers = (
 {
 layerId = UUID0;

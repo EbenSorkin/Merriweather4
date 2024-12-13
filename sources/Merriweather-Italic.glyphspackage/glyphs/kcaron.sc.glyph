@@ -86,7 +86,7 @@ shapes = (
 ref = k.sc;
 },
 {
-pos = (434,287);
+pos = (464,287);
 ref = caroncomb;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = k.sc;
 },
 {
-pos = (397,287);
+pos = (417,287);
 ref = caroncomb;
 }
 );

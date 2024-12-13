@@ -1,5 +1,6 @@
 {
 glyphname = uhungarumlaut.sc;
+kernLeft = KO_u.sc;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -73,7 +74,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (493,287);
+pos = (463,287);
 ref = hungarumlautcomb;
 }
 );
@@ -86,7 +87,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (613,287);
+pos = (603,287);
 ref = hungarumlautcomb;
 }
 );
@@ -99,7 +100,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (543,287);
+pos = (513,287);
 ref = hungarumlautcomb;
 }
 );
@@ -138,7 +139,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (403,287);
+pos = (413,287);
 ref = hungarumlautcomb;
 }
 );

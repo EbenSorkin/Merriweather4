@@ -1,5 +1,6 @@
 {
 glyphname = ncommaaccent.sc;
+kernRight = KO_n.sc;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -21,7 +22,7 @@ shapes = (
 ref = n.sc;
 },
 {
-pos = (579,0);
+pos = (550,0);
 ref = commaaccentcomb;
 }
 );
@@ -73,7 +74,7 @@ shapes = (
 ref = n.sc;
 },
 {
-pos = (511,0);
+pos = (522,0);
 ref = commaaccentcomb;
 }
 );
@@ -99,7 +100,7 @@ shapes = (
 ref = n.sc;
 },
 {
-pos = (568,0);
+pos = (575,0);
 ref = commaaccentcomb;
 }
 );
@@ -125,7 +126,7 @@ shapes = (
 ref = n.sc;
 },
 {
-pos = (502,0);
+pos = (482,0);
 ref = commaaccentcomb;
 }
 );
@@ -138,7 +139,7 @@ shapes = (
 ref = n.sc;
 },
 {
-pos = (444,0);
+pos = (452,0);
 ref = commaaccentcomb;
 }
 );

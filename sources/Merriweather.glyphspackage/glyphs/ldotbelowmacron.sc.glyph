@@ -183,7 +183,7 @@ pos = (441,0);
 ref = dotbelowcomb;
 },
 {
-pos = (-159,287);
+pos = (-179,287);
 ref = macroncomb;
 }
 );

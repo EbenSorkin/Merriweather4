@@ -1,6 +1,7 @@
 {
 color = 11;
 glyphname = underscore;
+kernLeft = KO_underscore;
 layers = (
 {
 layerId = UUID0;

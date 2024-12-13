@@ -1,6 +1,8 @@
 {
 color = 3;
 glyphname = "sha-cy.loclBGR";
+kernLeft = KO_u;
+kernRight = KO_u;
 layers = (
 {
 anchors = (

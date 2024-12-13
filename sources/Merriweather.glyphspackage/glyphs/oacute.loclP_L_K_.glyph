@@ -1,5 +1,7 @@
 {
 glyphname = oacute.loclPLK;
+kernLeft = KO_o;
+kernRight = KO_o;
 layers = (
 {
 layerId = UUID0;

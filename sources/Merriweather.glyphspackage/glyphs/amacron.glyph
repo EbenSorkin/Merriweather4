@@ -1,5 +1,7 @@
 {
 glyphname = amacron;
+kernLeft = KO_agrave;
+kernRight = KO_a;
 layers = (
 {
 layerId = UUID0;
@@ -60,7 +62,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (100,0);
+pos = (80,0);
 ref = macroncomb;
 }
 );
@@ -125,7 +127,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (47,0);
+pos = (27,0);
 ref = macroncomb;
 }
 );

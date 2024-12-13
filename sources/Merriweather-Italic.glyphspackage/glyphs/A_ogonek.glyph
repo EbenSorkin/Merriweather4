@@ -1,5 +1,7 @@
 {
 glyphname = Aogonek;
+kernLeft = KO_A;
+kernRight = KO_A;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";

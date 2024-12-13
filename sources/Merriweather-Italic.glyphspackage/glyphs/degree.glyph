@@ -1,5 +1,7 @@
 {
 glyphname = degree;
+kernLeft = KO_degree;
+kernRight = KO_degree;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";

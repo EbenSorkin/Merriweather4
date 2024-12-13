@@ -34,7 +34,7 @@ shapes = (
 ref = imod;
 },
 {
-pos = (-85,360);
+pos = (-105,360);
 ref = barmod;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = imod;
 },
 {
-pos = (-84,371);
+pos = (-104,371);
 ref = barmod;
 }
 );
@@ -138,7 +138,7 @@ shapes = (
 ref = imod;
 },
 {
-pos = (-86,360);
+pos = (-106,360);
 ref = barmod;
 }
 );
@@ -151,7 +151,7 @@ shapes = (
 ref = imod;
 },
 {
-pos = (-97,371);
+pos = (-111,371);
 ref = barmod;
 }
 );

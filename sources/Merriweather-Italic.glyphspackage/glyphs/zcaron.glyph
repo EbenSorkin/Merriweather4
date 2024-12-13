@@ -1,5 +1,7 @@
 {
 glyphname = zcaron;
+kernLeft = KO_z;
+kernRight = KO_z;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -35,8 +37,7 @@ alignment = -1;
 ref = z;
 },
 {
-alignment = -1;
-pos = (512,-18);
+pos = (163,0);
 ref = caroncomb;
 }
 );
@@ -154,8 +155,7 @@ alignment = -1;
 ref = z;
 },
 {
-alignment = -1;
-pos = (389,-18);
+pos = (61,0);
 ref = caroncomb;
 }
 );

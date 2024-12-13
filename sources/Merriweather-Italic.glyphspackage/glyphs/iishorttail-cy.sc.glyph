@@ -72,7 +72,7 @@ width = 1451;
 {
 guides = (
 {
-pos = (-7492,69);
+pos = (-7140,69);
 }
 );
 layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
@@ -143,7 +143,7 @@ pos = (412,287);
 ref = "brevecomb-cy";
 },
 {
-pos = (1091,0);
+pos = (1092,0);
 ref = righttooth_part.;
 }
 );
@@ -177,7 +177,7 @@ pos = (321,182);
 ref = "brevecomb-cy";
 },
 {
-pos = (988,0);
+pos = (998,0);
 ref = righttooth_part.;
 }
 );

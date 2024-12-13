@@ -1,6 +1,8 @@
 {
 color = 10;
 glyphname = "eiotified-cy";
+kernLeft = "KO_ii-cy";
+kernRight = KO_c;
 layers = (
 {
 layerId = UUID0;

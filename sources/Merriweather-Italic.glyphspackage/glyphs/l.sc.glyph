@@ -1,11 +1,13 @@
 {
 glyphname = l.sc;
+kernLeft = KO_e.sc;
+kernRight = KO_l.sc;
 layers = (
 {
 anchors = (
 {
 name = belt;
-pos = (242,742);
+pos = (339,856);
 },
 {
 name = bottom;
@@ -17,7 +19,7 @@ pos = (827,940);
 },
 {
 name = center;
-pos = (426,689);
+pos = (320,689);
 },
 {
 name = top;
@@ -32,7 +34,7 @@ nodes = (
 (934,0,l),
 (1022,388,l),
 (930,404,l),
-(796,94,l),
+(786,94,l),
 (312,86,l),
 (466,1202,l),
 (630,1220,l),
@@ -52,7 +54,7 @@ width = 1110;
 anchors = (
 {
 name = belt;
-pos = (211,712);
+pos = (389,896);
 },
 {
 name = bottom;
@@ -64,7 +66,7 @@ pos = (957,940);
 },
 {
 name = center;
-pos = (426,689);
+pos = (379,689);
 },
 {
 name = top;
@@ -99,7 +101,7 @@ width = 1206;
 anchors = (
 {
 name = belt;
-pos = (216,742);
+pos = (399,896);
 },
 {
 name = bottom;
@@ -111,7 +113,7 @@ pos = (997,940);
 },
 {
 name = center;
-pos = (426,689);
+pos = (396,689);
 },
 {
 name = top;
@@ -147,11 +149,11 @@ width = 1284;
 anchors = (
 {
 name = belt;
-pos = (236,742);
+pos = (339,856);
 },
 {
 name = bottom;
-pos = (559,0);
+pos = (539,0);
 },
 {
 name = car;
@@ -159,7 +161,7 @@ pos = (848,940);
 },
 {
 name = center;
-pos = (426,689);
+pos = (314,689);
 },
 {
 name = top;
@@ -174,7 +176,7 @@ nodes = (
 (982,0,l),
 (1075,380,l),
 (979,395,l),
-(852,101,l),
+(842,101,l),
 (311,84,l),
 (464,1210,l),
 (635,1228,l),
@@ -194,7 +196,7 @@ width = 1149;
 anchors = (
 {
 name = belt;
-pos = (167,682);
+pos = (364,856);
 },
 {
 name = bottom;
@@ -206,7 +208,7 @@ pos = (857,940);
 },
 {
 name = center;
-pos = (396,689);
+pos = (346,689);
 },
 {
 name = top;
@@ -242,7 +244,7 @@ width = 1101;
 anchors = (
 {
 name = belt;
-pos = (199,672);
+pos = (309,856);
 },
 {
 name = bottom;
@@ -254,7 +256,7 @@ pos = (747,940);
 },
 {
 name = center;
-pos = (396,689);
+pos = (286,689);
 },
 {
 name = top;
@@ -289,11 +291,11 @@ width = 983;
 anchors = (
 {
 name = belt;
-pos = (174,742);
+pos = (369,856);
 },
 {
 name = bottom;
-pos = (597,0);
+pos = (537,0);
 },
 {
 name = car;
@@ -301,7 +303,7 @@ pos = (927,940);
 },
 {
 name = center;
-pos = (376,689);
+pos = (365,689);
 },
 {
 name = top;
@@ -337,11 +339,11 @@ width = 1197;
 anchors = (
 {
 name = belt;
-pos = (231,742);
+pos = (319,856);
 },
 {
 name = bottom;
-pos = (558,0);
+pos = (528,0);
 },
 {
 name = car;
@@ -349,7 +351,7 @@ pos = (807,940);
 },
 {
 name = center;
-pos = (416,689);
+pos = (290,689);
 },
 {
 name = top;
@@ -384,11 +386,11 @@ width = 1089;
 anchors = (
 {
 name = belt;
-pos = (242,742);
+pos = (339,856);
 },
 {
 name = bottom;
-pos = (464,0);
+pos = (484,0);
 },
 {
 name = car;
@@ -396,7 +398,7 @@ pos = (777,940);
 },
 {
 name = center;
-pos = (396,689);
+pos = (315,689);
 },
 {
 name = top;
@@ -432,11 +434,11 @@ width = 991;
 anchors = (
 {
 name = belt;
-pos = (222,742);
+pos = (389,896);
 },
 {
 name = bottom;
-pos = (476,0);
+pos = (516,0);
 },
 {
 name = car;
@@ -444,7 +446,7 @@ pos = (908,940);
 },
 {
 name = center;
-pos = (426,689);
+pos = (363,689);
 },
 {
 name = top;
@@ -479,7 +481,7 @@ width = 1051;
 anchors = (
 {
 name = belt;
-pos = (212,742);
+pos = (289,856);
 },
 {
 name = bottom;
@@ -491,7 +493,7 @@ pos = (717,940);
 },
 {
 name = center;
-pos = (356,689);
+pos = (266,689);
 },
 {
 name = top;
@@ -527,11 +529,11 @@ width = 904;
 anchors = (
 {
 name = belt;
-pos = (172,742);
+pos = (339,856);
 },
 {
 name = bottom;
-pos = (517,0);
+pos = (507,0);
 },
 {
 name = car;
@@ -539,7 +541,7 @@ pos = (837,940);
 },
 {
 name = center;
-pos = (416,689);
+pos = (330,689);
 },
 {
 name = top;

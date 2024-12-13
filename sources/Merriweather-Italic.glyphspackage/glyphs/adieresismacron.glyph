@@ -1,5 +1,7 @@
 {
 glyphname = adieresismacron;
+kernLeft = KO_a;
+kernRight = KO_a;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -76,11 +78,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (247,0);
+pos = (245,0);
 ref = dieresiscomb;
 },
 {
-pos = (307,304);
+pos = (305,304);
 ref = macroncomb;
 }
 );
@@ -127,11 +129,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (269,0);
+pos = (229,0);
 ref = dieresiscomb;
 },
 {
-pos = (401,451);
+pos = (361,451);
 ref = macroncomb;
 }
 );
@@ -161,11 +163,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (194,-2);
+pos = (194,0);
 ref = dieresiscomb;
 },
 {
-pos = (342,377);
+pos = (342,379);
 ref = macroncomb;
 }
 );

@@ -73,7 +73,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (261,0);
+pos = (259,0);
 ref = breveinvertedcomb;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (309,0);
+pos = (269,0);
 ref = breveinvertedcomb;
 }
 );
@@ -125,7 +125,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (289,-2);
+pos = (289,0);
 ref = breveinvertedcomb;
 }
 );

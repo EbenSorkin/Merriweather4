@@ -1,11 +1,13 @@
 {
 glyphname = l;
+kernLeft = KO_l;
+kernRight = KO_l;
 layers = (
 {
 anchors = (
 {
 name = belt;
-pos = (240,914);
+pos = (340,1110);
 },
 {
 name = bottom;
@@ -17,7 +19,7 @@ pos = (588,1610);
 },
 {
 name = center;
-pos = (397,844);
+pos = (305,844);
 },
 {
 name = top;
@@ -60,7 +62,7 @@ width = 581;
 anchors = (
 {
 name = belt;
-pos = (196,901);
+pos = (385,1110);
 },
 {
 name = bottom;
@@ -72,7 +74,7 @@ pos = (696,1620);
 },
 {
 name = center;
-pos = (387,844);
+pos = (347,844);
 },
 {
 name = top;
@@ -115,7 +117,7 @@ width = 630;
 anchors = (
 {
 name = belt;
-pos = (170,901);
+pos = (373,1110);
 },
 {
 name = bottom;
@@ -127,7 +129,7 @@ pos = (701,1621);
 },
 {
 name = center;
-pos = (357,844);
+pos = (337,844);
 },
 {
 name = top;
@@ -176,7 +178,7 @@ width = 600;
 anchors = (
 {
 name = belt;
-pos = (232,914);
+pos = (349,1110);
 },
 {
 name = bottom;
@@ -188,7 +190,7 @@ pos = (593,1618);
 },
 {
 name = center;
-pos = (407,844);
+pos = (307,844);
 },
 {
 name = top;
@@ -231,7 +233,7 @@ width = 544;
 anchors = (
 {
 name = belt;
-pos = (159,875);
+pos = (348,1005);
 },
 {
 name = bottom;
@@ -243,7 +245,7 @@ pos = (706,1618);
 },
 {
 name = center;
-pos = (357,844);
+pos = (327,844);
 },
 {
 name = top;
@@ -286,7 +288,7 @@ width = 544;
 anchors = (
 {
 name = belt;
-pos = (187,867);
+pos = (281,1005);
 },
 {
 name = bottom;
@@ -298,7 +300,7 @@ pos = (519,1622);
 },
 {
 name = center;
-pos = (368,844);
+pos = (259,844);
 },
 {
 name = top;
@@ -341,7 +343,7 @@ width = 427;
 anchors = (
 {
 name = belt;
-pos = (158,875);
+pos = (343,1005);
 },
 {
 name = bottom;
@@ -396,7 +398,7 @@ width = 565;
 anchors = (
 {
 name = belt;
-pos = (191,867);
+pos = (290,1005);
 },
 {
 name = bottom;
@@ -408,7 +410,7 @@ pos = (543,1622);
 },
 {
 name = center;
-pos = (372,844);
+pos = (282,844);
 },
 {
 name = top;
@@ -457,7 +459,7 @@ width = 439;
 anchors = (
 {
 name = belt;
-pos = (220,914);
+pos = (329,1110);
 },
 {
 name = bottom;
@@ -469,7 +471,7 @@ pos = (576,1617);
 },
 {
 name = center;
-pos = (357,844);
+pos = (297,844);
 },
 {
 name = top;
@@ -520,7 +522,7 @@ width = 496;
 anchors = (
 {
 name = belt;
-pos = (175,901);
+pos = (366,1110);
 },
 {
 name = bottom;
@@ -532,7 +534,7 @@ pos = (666,1621);
 },
 {
 name = center;
-pos = (377,844);
+pos = (327,844);
 },
 {
 name = top;
@@ -597,7 +599,7 @@ width = 572;
 anchors = (
 {
 name = belt;
-pos = (187,867);
+pos = (284,1003);
 },
 {
 name = bottom;
@@ -609,7 +611,7 @@ pos = (526,1622);
 },
 {
 name = center;
-pos = (347,844);
+pos = (257,844);
 },
 {
 name = top;
@@ -652,7 +654,7 @@ width = 425;
 anchors = (
 {
 name = belt;
-pos = (149,875);
+pos = (333,1005);
 },
 {
 name = bottom;
@@ -664,7 +666,7 @@ pos = (676,1618);
 },
 {
 name = center;
-pos = (377,844);
+pos = (308,844);
 },
 {
 name = top;

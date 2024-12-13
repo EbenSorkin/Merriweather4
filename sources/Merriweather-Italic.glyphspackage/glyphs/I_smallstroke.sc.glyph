@@ -34,7 +34,7 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (-39,100);
+pos = (-59,100);
 ref = barmod;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (-8,111);
+pos = (-28,111);
 ref = barmod;
 }
 );
@@ -138,7 +138,7 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (-8,100);
+pos = (-28,100);
 ref = barmod;
 }
 );
@@ -151,7 +151,7 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (-24,111);
+pos = (-38,111);
 ref = barmod;
 }
 );

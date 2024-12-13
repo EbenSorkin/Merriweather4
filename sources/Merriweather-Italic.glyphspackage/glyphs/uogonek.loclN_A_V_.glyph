@@ -1,5 +1,7 @@
 {
 glyphname = uogonek.loclNAV;
+kernLeft = KO_u;
+kernRight = KO_u;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -60,7 +62,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (257,0);
+pos = (287,0);
 ref = ogonekcomb.loclNAV;
 }
 );

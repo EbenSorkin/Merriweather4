@@ -8,7 +8,7 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (366,182);
+pos = (316,182);
 ref = macroncomb;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (395,182);
+pos = (345,182);
 ref = macroncomb;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (439,182);
+pos = (426,182);
 ref = macroncomb;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (390,182);
+pos = (336,182);
 ref = macroncomb;
 }
 );
@@ -60,7 +60,7 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (401,287);
+pos = (331,287);
 ref = macroncomb;
 }
 );
@@ -73,7 +73,7 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (339,287);
+pos = (259,287);
 ref = macroncomb;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (432,287);
+pos = (362,287);
 ref = macroncomb;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (376,287);
+pos = (326,287);
 ref = macroncomb;
 }
 );
@@ -138,7 +138,7 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (286,287);
+pos = (266,287);
 ref = macroncomb;
 }
 );
@@ -151,7 +151,7 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (372,287);
+pos = (282,287);
 ref = macroncomb;
 }
 );

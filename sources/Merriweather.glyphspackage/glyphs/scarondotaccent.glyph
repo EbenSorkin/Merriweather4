@@ -1,5 +1,6 @@
 {
 glyphname = scarondotaccent;
+kernRight = KO_s;
 layers = (
 {
 layerId = UUID0;
@@ -46,7 +47,7 @@ pos = (-73,0);
 ref = caroncomb;
 },
 {
-pos = (104,419);
+pos = (101,419);
 ref = dotaccentcomb;
 }
 );

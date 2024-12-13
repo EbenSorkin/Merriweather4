@@ -1,5 +1,7 @@
 {
 glyphname = "Imacron-cy";
+kernLeft = "KO_Ka-cy";
+kernRight = "KO_Ii-cy";
 layers = (
 {
 layerId = UUID0;

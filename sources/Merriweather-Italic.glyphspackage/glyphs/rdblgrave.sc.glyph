@@ -47,7 +47,7 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (290,182);
+pos = (60,182);
 ref = dblgravecomb;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (182,287);
+pos = (152,287);
 ref = dblgravecomb;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (102,287);
+pos = (72,287);
 ref = dblgravecomb;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (12,182);
+pos = (32,182);
 ref = dblgravecomb;
 }
 );
@@ -125,7 +125,7 @@ shapes = (
 ref = r.sc;
 },
 {
-pos = (187,182);
+pos = (7,182);
 ref = dblgravecomb;
 }
 );

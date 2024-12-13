@@ -1,5 +1,6 @@
 {
 glyphname = Lcircumflexbelow;
+kernRight = KO_L;
 layers = (
 {
 layerId = UUID0;

@@ -1,5 +1,6 @@
 {
 glyphname = Ecircumflexbelow;
+kernLeft = KO_H;
 layers = (
 {
 layerId = UUID0;

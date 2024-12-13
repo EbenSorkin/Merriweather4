@@ -1,5 +1,6 @@
 {
 glyphname = "Iigrave-cy";
+kernRight = "KO_Ii-cy";
 layers = (
 {
 layerId = UUID0;

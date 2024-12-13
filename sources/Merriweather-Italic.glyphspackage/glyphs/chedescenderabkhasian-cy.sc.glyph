@@ -60,7 +60,7 @@ shapes = (
 ref = "cheabkhasian-cy.sc";
 },
 {
-pos = (745,2);
+pos = (733,2);
 ref = cedillacomb.case;
 }
 );

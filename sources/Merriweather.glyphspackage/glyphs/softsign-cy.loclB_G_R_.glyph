@@ -1,6 +1,7 @@
 {
 color = 3;
 glyphname = "softsign-cy.loclBGR";
+kernRight = "KO_softsign-cy";
 layers = (
 {
 layerId = UUID0;

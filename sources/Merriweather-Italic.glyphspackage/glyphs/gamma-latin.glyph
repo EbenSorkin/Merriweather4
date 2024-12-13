@@ -1,5 +1,6 @@
 {
 glyphname = "gamma-latin";
+kernRight = KO_v;
 layers = (
 {
 anchors = (

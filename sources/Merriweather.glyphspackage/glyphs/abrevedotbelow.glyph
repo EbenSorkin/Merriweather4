@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = abrevedotbelow;
+kernLeft = KO_agrave;
+kernRight = KO_a;
 layers = (
 {
 layerId = UUID0;
@@ -9,12 +11,12 @@ shapes = (
 ref = a;
 },
 {
-pos = (392,0);
-ref = dotbelowcomb;
-},
-{
 pos = (24,0);
 ref = brevecomb;
+},
+{
+pos = (392,0);
+ref = dotbelowcomb;
 }
 );
 width = 1042;
@@ -26,12 +28,12 @@ shapes = (
 ref = a;
 },
 {
-pos = (374,0);
-ref = dotbelowcomb;
-},
-{
 pos = (32,0);
 ref = brevecomb;
+},
+{
+pos = (374,0);
+ref = dotbelowcomb;
 }
 );
 width = 1146;
@@ -43,12 +45,12 @@ shapes = (
 ref = a;
 },
 {
-pos = (303,0);
-ref = dotbelowcomb;
-},
-{
 pos = (40,0);
 ref = brevecomb;
+},
+{
+pos = (303,0);
+ref = dotbelowcomb;
 }
 );
 width = 989;
@@ -60,12 +62,12 @@ shapes = (
 ref = a;
 },
 {
-pos = (282,0);
-ref = dotbelowcomb;
-},
-{
 pos = (-35,0);
 ref = brevecomb;
+},
+{
+pos = (282,0);
+ref = dotbelowcomb;
 }
 );
 width = 971;
@@ -77,12 +79,12 @@ shapes = (
 ref = a;
 },
 {
-pos = (311,0);
-ref = dotbelowcomb;
+pos = (29,0);
+ref = brevecomb;
 },
 {
-pos = (49,0);
-ref = brevecomb;
+pos = (311,0);
+ref = dotbelowcomb;
 }
 );
 width = 880;
@@ -94,12 +96,12 @@ shapes = (
 ref = a;
 },
 {
-pos = (257,0);
-ref = dotbelowcomb;
-},
-{
 pos = (32,0);
 ref = brevecomb;
+},
+{
+pos = (257,0);
+ref = dotbelowcomb;
 }
 );
 width = 888;
@@ -108,18 +110,15 @@ width = 888;
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
 shapes = (
 {
-alignment = -1;
 ref = a;
 },
 {
-alignment = -1;
-pos = (293,0);
-ref = dotbelowcomb;
+pos = (22,0);
+ref = brevecomb;
 },
 {
-alignment = -1;
-pos = (149,0);
-ref = brevecomb;
+pos = (293,0);
+ref = dotbelowcomb;
 }
 );
 width = 811;
@@ -131,12 +130,12 @@ shapes = (
 ref = a;
 },
 {
-pos = (343,0);
-ref = dotbelowcomb;
-},
-{
 pos = (55,0);
 ref = brevecomb;
+},
+{
+pos = (343,0);
+ref = dotbelowcomb;
 }
 );
 width = 900;
@@ -148,12 +147,12 @@ shapes = (
 ref = a;
 },
 {
-pos = (348,0);
-ref = dotbelowcomb;
-},
-{
 pos = (133,0);
 ref = brevecomb;
+},
+{
+pos = (348,0);
+ref = dotbelowcomb;
 }
 );
 width = 1096;
@@ -165,12 +164,12 @@ shapes = (
 ref = a;
 },
 {
-pos = (347,0);
-ref = dotbelowcomb;
-},
-{
 pos = (51,0);
 ref = brevecomb;
+},
+{
+pos = (347,0);
+ref = dotbelowcomb;
 }
 );
 width = 920;
@@ -182,12 +181,12 @@ shapes = (
 ref = a;
 },
 {
-pos = (442,0);
-ref = dotbelowcomb;
-},
-{
 pos = (114,0);
 ref = brevecomb;
+},
+{
+pos = (442,0);
+ref = dotbelowcomb;
 }
 );
 userData = {
@@ -202,12 +201,12 @@ shapes = (
 ref = a;
 },
 {
-pos = (390,0);
-ref = dotbelowcomb;
-},
-{
 pos = (38,0);
 ref = brevecomb;
+},
+{
+pos = (390,0);
+ref = dotbelowcomb;
 }
 );
 width = 1184;

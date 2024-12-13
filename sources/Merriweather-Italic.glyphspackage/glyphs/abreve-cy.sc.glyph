@@ -1,5 +1,7 @@
 {
 glyphname = "abreve-cy.sc";
+kernLeft = "KO_a-cy.sc";
+kernRight = "KO_a-cy.sc";
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -8,7 +10,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (317,182);
+pos = (321,182);
 ref = "brevecomb-cy";
 }
 );
@@ -21,7 +23,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (212,182);
+pos = (217,182);
 ref = "brevecomb-cy";
 }
 );
@@ -34,7 +36,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (244,182);
+pos = (243,182);
 ref = "brevecomb-cy";
 }
 );
@@ -47,7 +49,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (301,182);
+pos = (299,182);
 ref = "brevecomb-cy";
 }
 );
@@ -86,7 +88,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (309,287);
+pos = (304,287);
 ref = "brevecomb-cy";
 }
 );
@@ -99,7 +101,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (288,287);
+pos = (294,287);
 ref = "brevecomb-cy";
 }
 );

@@ -8,7 +8,7 @@ shapes = (
 ref = "ze-cy.sc";
 },
 {
-pos = (-47,0);
+pos = (-106,0);
 ref = descender;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = "ze-cy.sc";
 },
 {
-pos = (-48,0);
+pos = (-106,0);
 ref = descender;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = "ze-cy.sc";
 },
 {
-pos = (52,0);
+pos = (-8,0);
 ref = descender;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = "ze-cy.sc";
 },
 {
-pos = (-7,0);
+pos = (-57,0);
 ref = descender;
 }
 );
@@ -60,7 +60,7 @@ shapes = (
 ref = "ze-cy.sc";
 },
 {
-pos = (-48,0);
+pos = (-88,0);
 ref = descender;
 }
 );
@@ -73,7 +73,7 @@ shapes = (
 ref = "ze-cy.sc";
 },
 {
-pos = (-56,0);
+pos = (-95,0);
 ref = descender;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = "ze-cy.sc";
 },
 {
-pos = (4,0);
+pos = (-36,0);
 ref = descender;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = "ze-cy.sc";
 },
 {
-pos = (-66,0);
+pos = (-106,0);
 ref = descender;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = "ze-cy.sc";
 },
 {
-pos = (-61,0);
+pos = (-112,0);
 ref = descender;
 }
 );
@@ -139,7 +139,7 @@ shapes = (
 ref = "ze-cy.sc";
 },
 {
-pos = (-109,0);
+pos = (-149,0);
 ref = descender;
 }
 );

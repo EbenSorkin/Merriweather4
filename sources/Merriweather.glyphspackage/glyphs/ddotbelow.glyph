@@ -1,5 +1,7 @@
 {
 glyphname = ddotbelow;
+kernLeft = KO_d;
+kernRight = KO_d;
 layers = (
 {
 layerId = UUID0;

@@ -1,5 +1,6 @@
 {
 glyphname = ocircumflexgrave;
+kernLeft = "KO_ef-cy";
 layers = (
 {
 layerId = UUID0;

@@ -1,5 +1,7 @@
 {
 glyphname = "ka-cy.loclBGR.sc";
+kernLeft = KO_e.sc;
+kernRight = KO_k.sc;
 layers = (
 {
 layerId = UUID0;

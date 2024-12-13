@@ -1,5 +1,6 @@
 {
 glyphname = Xdotaccent;
+kernRight = KO_X;
 layers = (
 {
 layerId = UUID0;

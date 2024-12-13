@@ -1,5 +1,7 @@
 {
 glyphname = ddotbelow;
+kernLeft = KO_d;
+kernRight = KO_d;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -21,7 +23,7 @@ shapes = (
 ref = d;
 },
 {
-pos = (298,0);
+pos = (288,0);
 ref = dotbelowcomb;
 }
 );
@@ -34,7 +36,7 @@ shapes = (
 ref = d;
 },
 {
-pos = (215,0);
+pos = (245,0);
 ref = dotbelowcomb;
 }
 );
@@ -112,7 +114,7 @@ shapes = (
 ref = d;
 },
 {
-pos = (229,0);
+pos = (241,0);
 ref = dotbelowcomb;
 }
 );
@@ -125,7 +127,7 @@ shapes = (
 ref = d;
 },
 {
-pos = (197,0);
+pos = (167,0);
 ref = dotbelowcomb;
 }
 );
@@ -151,7 +153,7 @@ shapes = (
 ref = d;
 },
 {
-pos = (177,0);
+pos = (167,0);
 ref = dotbelowcomb;
 }
 );

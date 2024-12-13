@@ -1,5 +1,7 @@
 {
 glyphname = C;
+kernLeft = KO_O;
+kernRight = KO_C;
 layers = (
 {
 anchors = (
@@ -78,7 +80,7 @@ pos = (773,744);
 },
 {
 name = hook;
-pos = (1293,1086);
+pos = (1285,1086);
 },
 {
 name = stroke;
@@ -147,7 +149,7 @@ pos = (1366,1059);
 },
 {
 name = stroke;
-pos = (443,755);
+pos = (443,749);
 },
 {
 name = top;
@@ -275,7 +277,7 @@ pos = (691,744);
 },
 {
 name = hook;
-pos = (1246,1086);
+pos = (1245,1086);
 },
 {
 name = stroke;
@@ -341,7 +343,7 @@ pos = (692,744);
 },
 {
 name = hook;
-pos = (1150,1086);
+pos = (1148,1086);
 },
 {
 name = stroke;
@@ -407,7 +409,7 @@ pos = (802,744);
 },
 {
 name = hook;
-pos = (1356,1006);
+pos = (1365,1086);
 },
 {
 name = stroke;
@@ -608,7 +610,7 @@ pos = (1147,1061);
 },
 {
 name = stroke;
-pos = (308,755);
+pos = (488,745);
 },
 {
 name = top;
@@ -740,7 +742,7 @@ pos = (1155,1086);
 },
 {
 name = stroke;
-pos = (304,755);
+pos = (474,745);
 },
 {
 name = top;

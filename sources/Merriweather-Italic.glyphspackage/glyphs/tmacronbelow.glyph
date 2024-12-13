@@ -1,5 +1,6 @@
 {
 glyphname = tmacronbelow;
+kernLeft = KO_t;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -8,7 +9,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (82,0);
+pos = (122,0);
 ref = macronbelowcomb;
 }
 );
@@ -21,7 +22,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (84,0);
+pos = (154,0);
 ref = macronbelowcomb;
 }
 );
@@ -34,7 +35,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (72,0);
+pos = (112,0);
 ref = macronbelowcomb;
 }
 );
@@ -47,7 +48,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (65,0);
+pos = (165,0);
 ref = macronbelowcomb;
 }
 );
@@ -74,8 +75,7 @@ alignment = -1;
 ref = t;
 },
 {
-alignment = -1;
-pos = (298,0);
+pos = (75,0);
 ref = macronbelowcomb;
 }
 );
@@ -88,7 +88,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (59,0);
+pos = (89,0);
 ref = macronbelowcomb;
 }
 );
@@ -101,7 +101,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (56,0);
+pos = (106,0);
 ref = macronbelowcomb;
 }
 );
@@ -114,7 +114,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (45,0);
+pos = (125,0);
 ref = macronbelowcomb;
 }
 );
@@ -127,7 +127,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (49,0);
+pos = (119,0);
 ref = macronbelowcomb;
 }
 );

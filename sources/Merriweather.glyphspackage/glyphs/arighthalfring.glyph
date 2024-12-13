@@ -1,5 +1,5 @@
 {
-color = 5;
+color = 9;
 glyphname = arighthalfring;
 layers = (
 {
@@ -9,7 +9,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (60,-58);
+pos = (389,0);
 ref = ringhalfright;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (57,-58);
+pos = (385,2);
 ref = ringhalfright;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (57,-58);
+pos = (294,0);
 ref = ringhalfright;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (54,-58);
+pos = (293,2);
 ref = ringhalfright;
 }
 );
@@ -61,7 +61,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (57,-58);
+pos = (429,0);
 ref = ringhalfright;
 }
 );
@@ -74,7 +74,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (57,-58);
+pos = (401,2);
 ref = ringhalfright;
 }
 );
@@ -87,7 +87,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (57,-88);
+pos = (246,0);
 ref = ringhalfright;
 }
 );
@@ -100,7 +100,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (57,-128);
+pos = (363,0);
 ref = ringhalfright;
 }
 );
@@ -113,7 +113,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (57,-88);
+pos = (179,0);
 ref = ringhalfright;
 }
 );
@@ -126,7 +126,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (57,-98);
+pos = (312,0);
 ref = ringhalfright;
 }
 );
@@ -139,7 +139,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (57,-88);
+pos = (254,0);
 ref = ringhalfright;
 }
 );
@@ -152,7 +152,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (57,-98);
+pos = (416,0);
 ref = ringhalfright;
 }
 );

@@ -10,7 +10,7 @@ pos = (113,0);
 ref = l.sc;
 },
 {
-pos = (-146,129);
+pos = (-151,129);
 ref = asciitilde_part;
 }
 );
@@ -25,7 +25,7 @@ pos = (107,0);
 ref = l.sc;
 },
 {
-pos = (-172,127);
+pos = (-173,133);
 ref = asciitilde_part;
 }
 );
@@ -40,7 +40,7 @@ pos = (60,0);
 ref = l.sc;
 },
 {
-pos = (-234,129);
+pos = (-239,128);
 ref = asciitilde_part;
 }
 );
@@ -55,7 +55,7 @@ pos = (60,0);
 ref = l.sc;
 },
 {
-pos = (-204,127);
+pos = (-227,132);
 ref = asciitilde_part;
 }
 );
@@ -70,7 +70,7 @@ pos = (112,0);
 ref = l.sc;
 },
 {
-pos = (-134,140);
+pos = (-134,120);
 ref = asciitilde_part;
 }
 );
@@ -85,7 +85,7 @@ pos = (142,0);
 ref = l.sc;
 },
 {
-pos = (-144,122);
+pos = (-154,126);
 ref = asciitilde_part;
 }
 );
@@ -100,7 +100,7 @@ pos = (60,0);
 ref = l.sc;
 },
 {
-pos = (-179,140);
+pos = (-199,124);
 ref = asciitilde_part;
 }
 );
@@ -115,7 +115,7 @@ pos = (60,0);
 ref = l.sc;
 },
 {
-pos = (-223,122);
+pos = (-229,129);
 ref = asciitilde_part;
 }
 );
@@ -130,7 +130,7 @@ pos = (60,0);
 ref = l.sc;
 },
 {
-pos = (-148,129);
+pos = (-164,129);
 ref = asciitilde_part;
 }
 );
@@ -145,7 +145,7 @@ pos = (60,0);
 ref = l.sc;
 },
 {
-pos = (-164,127);
+pos = (-175,133);
 ref = asciitilde_part;
 }
 );
@@ -160,7 +160,7 @@ pos = (60,0);
 ref = l.sc;
 },
 {
-pos = (-151,140);
+pos = (-163,120);
 ref = asciitilde_part;
 }
 );
@@ -175,7 +175,7 @@ pos = (60,0);
 ref = l.sc;
 },
 {
-pos = (-186,125);
+pos = (-204,125);
 ref = asciitilde_part;
 }
 );

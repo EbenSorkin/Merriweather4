@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = hhook.sc;
+kernRight = KO_h.sc;
 layers = (
 {
 layerId = UUID0;
@@ -183,6 +184,6 @@ ref = _hook.part;
 width = 1903;
 }
 );
-metricLeft = Bhook;
+metricLeft = bhook.sc;
 metricRight = h.sc;
 }

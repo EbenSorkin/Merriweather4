@@ -1,5 +1,6 @@
 {
 glyphname = uhornacute;
+kernLeft = KO_u;
 layers = (
 {
 layerId = UUID0;

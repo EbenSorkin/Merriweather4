@@ -1,5 +1,6 @@
 {
 glyphname = nhookleft;
+kernRight = KO_n;
 layers = (
 {
 anchors = (

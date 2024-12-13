@@ -1,5 +1,6 @@
 {
 glyphname = Vtilde;
+kernRight = KO_V;
 layers = (
 {
 layerId = UUID0;

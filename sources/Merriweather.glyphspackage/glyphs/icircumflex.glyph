@@ -1,5 +1,7 @@
 {
 glyphname = icircumflex;
+kernLeft = "KO_yi-cy";
+kernRight = KO_iacute;
 layers = (
 {
 layerId = UUID0;

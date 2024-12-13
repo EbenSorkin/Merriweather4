@@ -1,5 +1,6 @@
 {
 glyphname = nacute.sc;
+kernRight = KO_n.sc;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";

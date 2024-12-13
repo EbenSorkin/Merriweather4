@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = edotbelow;
+kernLeft = KO_e;
+kernRight = KO_e;
 layers = (
 {
 layerId = UUID0;

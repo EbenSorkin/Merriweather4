@@ -1,5 +1,6 @@
 {
 glyphname = etildebelow;
+kernLeft = KO_e;
 layers = (
 {
 layerId = UUID0;

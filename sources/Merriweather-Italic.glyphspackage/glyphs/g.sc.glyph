@@ -1,11 +1,13 @@
 {
 glyphname = g.sc;
+kernLeft = KO_o.sc;
+kernRight = KO_g.sc;
 layers = (
 {
 anchors = (
 {
 name = bar;
-pos = (958,297);
+pos = (998,320);
 },
 {
 name = bottom;
@@ -69,7 +71,7 @@ width = 1273;
 anchors = (
 {
 name = bar;
-pos = (1024,303);
+pos = (1028,320);
 },
 {
 name = bottom;
@@ -133,7 +135,7 @@ width = 1356;
 anchors = (
 {
 name = bar;
-pos = (1148,307);
+pos = (1148,320);
 },
 {
 name = bottom;
@@ -198,7 +200,7 @@ width = 1484;
 anchors = (
 {
 name = bar;
-pos = (1012,287);
+pos = (1073,320);
 },
 {
 name = bottom;
@@ -206,7 +208,7 @@ pos = (699,0);
 },
 {
 name = hook;
-pos = (1211,910);
+pos = (1210,910);
 },
 {
 name = top;
@@ -262,7 +264,7 @@ width = 1355;
 anchors = (
 {
 name = bar;
-pos = (946,344);
+pos = (968,320);
 },
 {
 name = bottom;
@@ -391,7 +393,7 @@ width = 1228;
 anchors = (
 {
 name = bar;
-pos = (1047,344);
+pos = (1058,344);
 },
 {
 name = bottom;
@@ -456,7 +458,7 @@ width = 1353;
 anchors = (
 {
 name = bar;
-pos = (1083,347);
+pos = (1063,347);
 },
 {
 name = bottom;
@@ -520,7 +522,7 @@ width = 1331;
 anchors = (
 {
 name = bar;
-pos = (887,284);
+pos = (868,320);
 },
 {
 name = bottom;
@@ -585,7 +587,7 @@ width = 1126;
 anchors = (
 {
 name = bar;
-pos = (931,294);
+pos = (888,320);
 },
 {
 name = bottom;
@@ -649,7 +651,7 @@ width = 1170;
 anchors = (
 {
 name = bar;
-pos = (853,347);
+pos = (863,347);
 },
 {
 name = bottom;

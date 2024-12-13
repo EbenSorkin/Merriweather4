@@ -34,7 +34,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (276,-2);
+pos = (46,-2);
 ref = dblgravecomb;
 }
 );
@@ -73,7 +73,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (91,0);
+pos = (89,0);
 ref = dblgravecomb;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (49,0);
+pos = (-21,0);
 ref = dblgravecomb;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (119,0);
+pos = (89,0);
 ref = dblgravecomb;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (21,-2);
+pos = (41,-2);
 ref = dblgravecomb;
 }
 );
@@ -125,7 +125,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (163,-2);
+pos = (-17,0);
 ref = dblgravecomb;
 }
 );

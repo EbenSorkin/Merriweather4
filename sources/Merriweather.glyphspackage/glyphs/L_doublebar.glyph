@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = Ldoublebar;
+kernRight = KO_L;
 layers = (
 {
 layerId = UUID0;

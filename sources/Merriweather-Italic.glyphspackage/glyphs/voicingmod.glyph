@@ -25,7 +25,7 @@ width = 1071;
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
 shapes = (
 {
-pos = (-94,-1608);
+pos = (-112,-1608);
 ref = caroncomb;
 }
 );
@@ -65,7 +65,7 @@ width = 1075;
 layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
 shapes = (
 {
-pos = (-81,-1608);
+pos = (-79,-1608);
 ref = caroncomb;
 }
 );
@@ -105,7 +105,7 @@ width = 1063;
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
 shapes = (
 {
-pos = (-69,-1608);
+pos = (-77,-1608);
 ref = caroncomb;
 }
 );

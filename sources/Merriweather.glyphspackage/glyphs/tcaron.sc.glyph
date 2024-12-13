@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = tcaron.sc;
+kernLeft = KO_t.sc;
+kernRight = KO_t.sc;
 layers = (
 {
 layerId = UUID0;

@@ -1,5 +1,7 @@
 {
 glyphname = abrevedotbelow;
+kernLeft = KO_a;
+kernRight = KO_a;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -97,7 +99,7 @@ pos = (271,0);
 ref = dotbelowcomb;
 },
 {
-pos = (251,0);
+pos = (249,0);
 ref = brevecomb;
 }
 );
@@ -114,7 +116,7 @@ pos = (268,0);
 ref = dotbelowcomb;
 },
 {
-pos = (319,0);
+pos = (279,0);
 ref = brevecomb;
 }
 );
@@ -165,7 +167,7 @@ pos = (235,0);
 ref = dotbelowcomb;
 },
 {
-pos = (219,-2);
+pos = (219,0);
 ref = brevecomb;
 }
 );

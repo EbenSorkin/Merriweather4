@@ -1,6 +1,7 @@
 {
 color = 3;
 glyphname = "Zedescender-cy.loclBSH";
+kernRight = "KO_Ze-cy";
 layers = (
 {
 layerId = UUID0;

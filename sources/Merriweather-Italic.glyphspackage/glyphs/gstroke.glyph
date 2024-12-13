@@ -1,5 +1,6 @@
 {
 glyphname = gstroke;
+kernLeft = KO_d;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -60,7 +61,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (475,15);
+pos = (455,15);
 ref = barmod;
 }
 );
@@ -73,7 +74,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (471,13);
+pos = (451,13);
 ref = barmod;
 }
 );
@@ -86,7 +87,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (506,15);
+pos = (486,15);
 ref = barmod;
 }
 );
@@ -99,7 +100,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (506,13);
+pos = (486,13);
 ref = barmod;
 }
 );

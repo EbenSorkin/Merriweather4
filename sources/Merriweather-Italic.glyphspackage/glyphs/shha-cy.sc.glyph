@@ -1,5 +1,6 @@
 {
 glyphname = "shha-cy.sc";
+kernLeft = "KO_ie-cy.sc";
 layers = (
 {
 anchors = (
@@ -54,7 +55,7 @@ nodes = (
 );
 }
 );
-width = 1321;
+width = 1342;
 },
 {
 anchors = (
@@ -109,7 +110,7 @@ nodes = (
 );
 }
 );
-width = 1459;
+width = 1508;
 },
 {
 anchors = (
@@ -164,7 +165,7 @@ nodes = (
 );
 }
 );
-width = 1435;
+width = 1524;
 },
 {
 anchors = (
@@ -219,7 +220,7 @@ nodes = (
 );
 }
 );
-width = 1266;
+width = 1329;
 },
 {
 anchors = (
@@ -274,7 +275,7 @@ nodes = (
 );
 }
 );
-width = 1298;
+width = 1354;
 },
 {
 anchors = (
@@ -329,7 +330,7 @@ nodes = (
 );
 }
 );
-width = 1134;
+width = 1194;
 },
 {
 anchors = (
@@ -384,7 +385,7 @@ nodes = (
 );
 }
 );
-width = 1326;
+width = 1401;
 },
 {
 anchors = (
@@ -439,7 +440,7 @@ nodes = (
 );
 }
 );
-width = 1227;
+width = 1283;
 },
 {
 anchors = (
@@ -494,7 +495,7 @@ nodes = (
 );
 }
 );
-width = 1152;
+width = 1207;
 },
 {
 anchors = (
@@ -549,7 +550,7 @@ nodes = (
 );
 }
 );
-width = 1299;
+width = 1357;
 },
 {
 anchors = (
@@ -604,7 +605,7 @@ nodes = (
 );
 }
 );
-width = 1086;
+width = 1145;
 },
 {
 anchors = (
@@ -659,11 +660,11 @@ nodes = (
 );
 }
 );
-width = 1218;
+width = 1286;
 }
 );
 metricLeft = "pe-cy.sc";
-metricRight = h;
+metricRight = I;
 userData = {
 RMXScaler = {
 source = "Shha-cy";

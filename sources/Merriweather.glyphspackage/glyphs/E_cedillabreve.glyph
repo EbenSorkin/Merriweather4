@@ -1,5 +1,6 @@
 {
 glyphname = Ecedillabreve;
+kernLeft = KO_H;
 layers = (
 {
 layerId = UUID0;

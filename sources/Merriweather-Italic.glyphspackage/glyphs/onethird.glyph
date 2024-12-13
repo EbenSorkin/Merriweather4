@@ -5,35 +5,41 @@ layers = (
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
 shapes = (
 {
+alignment = -1;
 ref = one.numr;
 },
 {
+alignment = -1;
 pos = (591,0);
 ref = fraction;
 },
 {
-pos = (962,0);
+alignment = -1;
+pos = (961,0);
 ref = three.dnom;
 }
 );
-width = 1692;
+width = 1691;
 },
 {
 layerId = "27298932-82AF-4578-9425-6304FDB19058";
 shapes = (
 {
+alignment = -1;
 ref = one.numr;
 },
 {
+alignment = -1;
 pos = (631,0);
 ref = fraction;
 },
 {
-pos = (1008,0);
+alignment = -1;
+pos = (1007,0);
 ref = three.dnom;
 }
 );
-width = 1767;
+width = 1766;
 },
 {
 layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
@@ -56,13 +62,16 @@ width = 1855;
 layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
 shapes = (
 {
+alignment = -1;
 ref = one.numr;
 },
 {
+alignment = -1;
 pos = (623,0);
 ref = fraction;
 },
 {
+alignment = -1;
 pos = (1001,0);
 ref = three.dnom;
 }
@@ -93,13 +102,16 @@ width = 1709;
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
 shapes = (
 {
+alignment = -1;
 ref = one.numr;
 },
 {
+alignment = -1;
 pos = (583,0);
 ref = fraction;
 },
 {
+alignment = -1;
 pos = (919,0);
 ref = three.dnom;
 }
@@ -110,18 +122,21 @@ width = 1665;
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
 shapes = (
 {
+alignment = -1;
 ref = one.numr;
 },
 {
-pos = (622,0);
+alignment = -1;
+pos = (613,0);
 ref = fraction;
 },
 {
-pos = (965,0);
+alignment = -1;
+pos = (955,0);
 ref = three.dnom;
 }
 );
-width = 1746;
+width = 1736;
 },
 {
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
@@ -165,13 +180,16 @@ width = 1577;
 layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
 shapes = (
 {
+alignment = -1;
 ref = one.numr;
 },
 {
+alignment = -1;
 pos = (630,0);
 ref = fraction;
 },
 {
+alignment = -1;
 pos = (1007,0);
 ref = three.dnom;
 }
@@ -182,13 +200,16 @@ width = 1750;
 layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
 shapes = (
 {
+alignment = -1;
 ref = one.numr;
 },
 {
+alignment = -1;
 pos = (545,0);
 ref = fraction;
 },
 {
+alignment = -1;
 pos = (877,0);
 ref = three.dnom;
 }
@@ -202,7 +223,7 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (585,0);
+pos = (586,0);
 ref = fraction;
 },
 {

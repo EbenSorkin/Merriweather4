@@ -1,5 +1,7 @@
 {
 glyphname = seven.osf;
+kernLeft = KO_seven.osf;
+kernRight = KO_seven.osf;
 layers = (
 {
 layerId = UUID0;

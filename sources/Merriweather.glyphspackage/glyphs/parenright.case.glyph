@@ -1,5 +1,6 @@
 {
 glyphname = parenright.case;
+kernLeft = KO_parenright.case;
 layers = (
 {
 layerId = UUID0;

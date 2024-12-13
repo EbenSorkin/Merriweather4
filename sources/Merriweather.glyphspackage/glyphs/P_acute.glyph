@@ -1,5 +1,6 @@
 {
 glyphname = Pacute;
+kernRight = KO_P;
 layers = (
 {
 layerId = UUID0;

@@ -1,5 +1,6 @@
 {
 glyphname = "ustraightstroke-cy";
+kernRight = "KO_ustraight-cy";
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -34,7 +35,7 @@ shapes = (
 ref = "ustraight-cy";
 },
 {
-pos = (39,-478);
+pos = (56,-482);
 ref = strokeshortcomb;
 }
 );

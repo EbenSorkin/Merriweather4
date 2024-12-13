@@ -1,5 +1,6 @@
 {
 glyphname = omacronacute;
+kernRight = KO_o;
 layers = (
 {
 layerId = UUID0;
@@ -46,7 +47,7 @@ pos = (101,0);
 ref = macroncomb;
 },
 {
-pos = (300,338);
+pos = (300,300);
 ref = acutecomb;
 }
 );
@@ -97,7 +98,7 @@ pos = (40,0);
 ref = macroncomb;
 },
 {
-pos = (269,338);
+pos = (269,300);
 ref = acutecomb;
 }
 );
@@ -114,7 +115,7 @@ pos = (94,0);
 ref = macroncomb;
 },
 {
-pos = (240,202);
+pos = (240,232);
 ref = acutecomb;
 }
 );
@@ -131,7 +132,7 @@ pos = (109,0);
 ref = macroncomb;
 },
 {
-pos = (259,202);
+pos = (259,232);
 ref = acutecomb;
 }
 );
@@ -148,7 +149,7 @@ pos = (163,0);
 ref = macroncomb;
 },
 {
-pos = (427,338);
+pos = (427,300);
 ref = acutecomb;
 }
 );
@@ -161,11 +162,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (115,0);
+pos = (95,0);
 ref = macroncomb;
 },
 {
-pos = (276,202);
+pos = (276,232);
 ref = acutecomb;
 }
 );

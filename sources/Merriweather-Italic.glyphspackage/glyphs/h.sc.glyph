@@ -1,5 +1,7 @@
 {
 glyphname = h.sc;
+kernLeft = KO_e.sc;
+kernRight = KO_h.sc;
 layers = (
 {
 anchors = (
@@ -199,7 +201,7 @@ pos = (671,0);
 },
 {
 name = bottomright;
-pos = (1350,0);
+pos = (1352,0);
 },
 {
 name = top;
@@ -266,7 +268,7 @@ pos = (1300,0);
 },
 {
 name = top;
-pos = (834,1383);
+pos = (814,1292);
 }
 );
 color = 4;
@@ -330,7 +332,7 @@ pos = (1181,0);
 },
 {
 name = top;
-pos = (779,1383);
+pos = (754,1292);
 }
 );
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
@@ -389,11 +391,11 @@ pos = (676,0);
 },
 {
 name = bottomright;
-pos = (1383,0);
+pos = (1384,0);
 },
 {
 name = top;
-pos = (855,1383);
+pos = (855,1292);
 }
 );
 color = 4;
@@ -457,7 +459,7 @@ pos = (1285,0);
 },
 {
 name = top;
-pos = (830,1383);
+pos = (830,1292);
 }
 );
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
@@ -516,7 +518,7 @@ pos = (586,0);
 },
 {
 name = bottomright;
-pos = (1161,0);
+pos = (1168,0);
 },
 {
 name = top;
@@ -643,11 +645,11 @@ pos = (531,0);
 },
 {
 name = bottomright;
-pos = (1067,0);
+pos = (1069,0);
 },
 {
 name = top;
-pos = (725,1383);
+pos = (692,1292);
 }
 );
 color = 4;
@@ -711,7 +713,7 @@ pos = (1200,0);
 },
 {
 name = top;
-pos = (785,1383);
+pos = (772,1292);
 }
 );
 color = 4;

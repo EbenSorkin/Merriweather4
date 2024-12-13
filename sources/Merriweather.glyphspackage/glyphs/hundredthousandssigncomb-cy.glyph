@@ -3051,5 +3051,6 @@ width = 1682;
 }
 );
 metricRight = "=|";
+subCategory = Nonspacing;
 unicode = 1160;
 }

@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = otilde.sc;
+kernLeft = KO_o.sc;
+kernRight = KO_o.sc;
 layers = (
 {
 layerId = UUID0;

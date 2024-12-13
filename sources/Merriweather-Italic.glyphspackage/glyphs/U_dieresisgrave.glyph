@@ -1,5 +1,7 @@
 {
 glyphname = Udieresisgrave;
+kernLeft = KO_U;
+kernRight = KO_U;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -80,7 +82,7 @@ pos = (367,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (398,342);
+pos = (388,342);
 ref = gravecomb.case;
 }
 );

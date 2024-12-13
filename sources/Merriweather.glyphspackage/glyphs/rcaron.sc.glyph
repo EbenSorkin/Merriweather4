@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = rcaron.sc;
+kernRight = KO_r.sc;
 layers = (
 {
 layerId = UUID0;

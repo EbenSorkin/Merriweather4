@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = Rtail;
+kernRight = KO_R;
 layers = (
 {
 layerId = UUID0;

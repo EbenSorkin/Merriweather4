@@ -1,5 +1,6 @@
 {
 glyphname = "pe-cy.loclBGR.sc";
+kernLeft = "KO_pe-cy.sc";
 layers = (
 {
 layerId = UUID0;

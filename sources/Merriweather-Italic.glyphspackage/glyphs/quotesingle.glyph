@@ -1,5 +1,7 @@
 {
 glyphname = quotesingle;
+kernLeft = KO_quotedbl;
+kernRight = KO_quotedbl;
 layers = (
 {
 background = {

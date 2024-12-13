@@ -92,48 +92,6 @@ nodes = (
 width = 1907;
 },
 {
-annotations = (
-{
-pos = (71,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (69,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (747,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (911,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (1598,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (1433,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (909,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (747,1255);
-type = Circle;
-width = 30;
-}
-);
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
 shapes = (
 {
@@ -257,48 +215,6 @@ nodes = (
 width = 1529;
 },
 {
-annotations = (
-{
-pos = (49,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (49,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (628,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (718,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (1308,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (1175,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (716,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (628,1255);
-type = Circle;
-width = 30;
-}
-);
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
 shapes = (
 {
@@ -340,68 +256,6 @@ nodes = (
 width = 1651;
 },
 {
-annotations = (
-{
-pos = (89,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (516,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (801,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (1218,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (94,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (1088,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (800,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (516,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (94,1256);
-type = Circle;
-width = 30;
-},
-{
-pos = (1088,1256);
-type = Circle;
-width = 30;
-},
-{
-pos = (800,1256);
-type = Circle;
-width = 30;
-},
-{
-pos = (516,1256);
-type = Circle;
-width = 30;
-}
-);
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
 shapes = (
 {
@@ -443,48 +297,6 @@ nodes = (
 width = 1505;
 },
 {
-annotations = (
-{
-pos = (115,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (107,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (594,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (953,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (1425,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (1271,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (951,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (594,1257);
-type = Circle;
-width = 30;
-}
-);
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
 shapes = (
 {
@@ -526,68 +338,6 @@ nodes = (
 width = 1701;
 },
 {
-annotations = (
-{
-pos = (80,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (1560,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (999,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (809,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (80,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (77,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (809,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (1001,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (1740,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (1560,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (999,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (809,1255);
-type = Circle;
-width = 30;
-}
-);
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
 shapes = (
 {
@@ -629,48 +379,6 @@ nodes = (
 width = 1884;
 },
 {
-annotations = (
-{
-pos = (135,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (126,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (671,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (1103,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (1629,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (1452,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (1101,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (671,1257);
-type = Circle;
-width = 30;
-}
-);
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
 shapes = (
 {

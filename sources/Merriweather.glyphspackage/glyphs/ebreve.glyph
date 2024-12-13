@@ -1,5 +1,7 @@
 {
 glyphname = ebreve;
+kernLeft = "KO_io-cy";
+kernRight = KO_e;
 layers = (
 {
 layerId = UUID0;

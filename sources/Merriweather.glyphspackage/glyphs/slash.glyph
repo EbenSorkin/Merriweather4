@@ -1,5 +1,7 @@
 {
 glyphname = slash;
+kernLeft = KO_slash;
+kernRight = KO_slash;
 layers = (
 {
 layerId = UUID0;

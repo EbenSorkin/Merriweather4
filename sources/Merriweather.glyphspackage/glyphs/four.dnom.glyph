@@ -69,12 +69,6 @@ nodes = (
 width = 856;
 },
 {
-annotations = (
-{
-pos = (390.148,-21.703);
-type = Plus;
-}
-);
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
 shapes = (
 {

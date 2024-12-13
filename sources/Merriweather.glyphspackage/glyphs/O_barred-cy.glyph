@@ -1,5 +1,7 @@
 {
 glyphname = "Obarred-cy";
+kernLeft = KO_O;
+kernRight = KO_O;
 layers = (
 {
 anchors = (

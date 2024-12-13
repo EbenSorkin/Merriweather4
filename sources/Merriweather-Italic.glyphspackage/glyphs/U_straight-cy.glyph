@@ -1,5 +1,7 @@
 {
 glyphname = "Ustraight-cy";
+kernLeft = KO_Y;
+kernRight = KO_Y;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";

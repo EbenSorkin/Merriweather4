@@ -49,6 +49,7 @@ shapes = (
 ref = t;
 },
 {
+pos = (-60,0);
 ref = barmod;
 }
 );
@@ -63,7 +64,7 @@ pos = (13,0);
 ref = t;
 },
 {
-pos = (-32,25);
+pos = (-82,25);
 ref = barmod;
 }
 );
@@ -78,7 +79,7 @@ pos = (10,0);
 ref = t;
 },
 {
-pos = (-36,13);
+pos = (-67,13);
 ref = barmod;
 }
 );
@@ -91,7 +92,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (-38,25);
+pos = (-90,25);
 ref = barmod;
 }
 );
@@ -104,7 +105,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (-38,13);
+pos = (-72,13);
 ref = barmod;
 }
 );
@@ -174,7 +175,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (-93,25);
+pos = (-98,25);
 ref = barmod;
 }
 );

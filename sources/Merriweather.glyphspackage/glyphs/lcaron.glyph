@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = lcaron;
+kernLeft = KO_l;
 layers = (
 {
 layerId = UUID0;

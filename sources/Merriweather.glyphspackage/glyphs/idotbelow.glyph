@@ -1,6 +1,8 @@
 {
 color = 3;
 glyphname = idotbelow;
+kernLeft = KO_i;
+kernRight = KO_i;
 layers = (
 {
 layerId = UUID0;

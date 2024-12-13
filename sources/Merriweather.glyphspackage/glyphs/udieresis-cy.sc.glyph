@@ -125,7 +125,7 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (348,287);
+pos = (347,287);
 ref = dieresiscomb;
 }
 );

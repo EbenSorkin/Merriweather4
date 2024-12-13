@@ -1,5 +1,6 @@
 {
 glyphname = Bhook;
+kernRight = KO_B;
 layers = (
 {
 background = {
@@ -103,8 +104,7 @@ pos = (120,0);
 ref = _Bhook.part;
 },
 {
-alignment = -1;
-pos = (-152,0);
+pos = (-111,0);
 ref = _hook.part;
 }
 );
@@ -503,8 +503,7 @@ pos = (120,0);
 ref = _Bhook.part;
 },
 {
-alignment = -1;
-pos = (-152,0);
+pos = (-119,0);
 ref = _hook.part;
 }
 );

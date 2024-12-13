@@ -1,5 +1,6 @@
 {
 glyphname = Scarondotaccent;
+kernRight = KO_S;
 layers = (
 {
 layerId = UUID0;

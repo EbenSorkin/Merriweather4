@@ -1,15 +1,13 @@
 {
 glyphname = I;
+kernLeft = KO_I;
+kernRight = KO_I;
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (250,0);
-},
-{
-name = btm;
-pos = (367,-164);
+pos = (231,0);
 },
 {
 name = center;
@@ -17,11 +15,11 @@ pos = (333,764);
 },
 {
 name = ogonek;
-pos = (257,0);
+pos = (317,0);
 },
 {
 name = top;
-pos = (432,1486);
+pos = (434,1486);
 },
 {
 name = topleft;
@@ -54,11 +52,7 @@ width = 630;
 anchors = (
 {
 name = bottom;
-pos = (312,0);
-},
-{
-name = btm;
-pos = (492,-164);
+pos = (314,0);
 },
 {
 name = center;
@@ -66,11 +60,11 @@ pos = (416,764);
 },
 {
 name = ogonek;
-pos = (325,0);
+pos = (445,0);
 },
 {
 name = top;
-pos = (510,1486);
+pos = (516,1486);
 },
 {
 name = topleft;
@@ -106,16 +100,12 @@ name = bottom;
 pos = (324,0);
 },
 {
-name = btm;
-pos = (520,-164);
-},
-{
 name = center;
 pos = (433,764);
 },
 {
 name = ogonek;
-pos = (355,0);
+pos = (415,0);
 },
 {
 name = top;
@@ -156,16 +146,12 @@ name = bottom;
 pos = (252,0);
 },
 {
-name = btm;
-pos = (392,-164);
-},
-{
 name = center;
 pos = (364,764);
 },
 {
 name = ogonek;
-pos = (288,0);
+pos = (338,0);
 },
 {
 name = top;
@@ -203,11 +189,7 @@ width = 688;
 anchors = (
 {
 name = bottom;
-pos = (278,0);
-},
-{
-name = btm;
-pos = (488,-164);
+pos = (277,0);
 },
 {
 name = center;
@@ -215,11 +197,11 @@ pos = (374,754);
 },
 {
 name = ogonek;
-pos = (290,0);
+pos = (360,0);
 },
 {
 name = top;
-pos = (486,1486);
+pos = (478,1486);
 },
 {
 name = topleft;
@@ -253,11 +235,7 @@ width = 686;
 anchors = (
 {
 name = bottom;
-pos = (211,0);
-},
-{
-name = btm;
-pos = (393,-164);
+pos = (191,0);
 },
 {
 name = center;
@@ -265,11 +243,11 @@ pos = (301,764);
 },
 {
 name = ogonek;
-pos = (216,0);
+pos = (266,0);
 },
 {
 name = top;
-pos = (410,1486);
+pos = (397,1486);
 },
 {
 name = topleft;
@@ -306,20 +284,16 @@ name = bottom;
 pos = (322,0);
 },
 {
-name = btm;
-pos = (502,-164);
-},
-{
 name = center;
 pos = (386,754);
 },
 {
 name = ogonek;
-pos = (312,0);
+pos = (412,0);
 },
 {
 name = top;
-pos = (520,1486);
+pos = (496,1486);
 },
 {
 name = topleft;
@@ -353,11 +327,7 @@ width = 730;
 anchors = (
 {
 name = bottom;
-pos = (210,0);
-},
-{
-name = btm;
-pos = (407,-164);
+pos = (200,0);
 },
 {
 name = center;
@@ -365,7 +335,7 @@ pos = (312,764);
 },
 {
 name = ogonek;
-pos = (223,0);
+pos = (273,0);
 },
 {
 name = top;
@@ -405,16 +375,12 @@ name = bottom;
 pos = (227,0);
 },
 {
-name = btm;
-pos = (338,-164);
-},
-{
 name = center;
 pos = (336,764);
 },
 {
 name = ogonek;
-pos = (247,0);
+pos = (267,0);
 },
 {
 name = top;
@@ -455,16 +421,12 @@ name = bottom;
 pos = (287,0);
 },
 {
-name = btm;
-pos = (447,-164);
-},
-{
 name = center;
 pos = (392,764);
 },
 {
 name = ogonek;
-pos = (305,0);
+pos = (385,0);
 },
 {
 name = top;
@@ -502,11 +464,7 @@ width = 717;
 anchors = (
 {
 name = bottom;
-pos = (225,0);
-},
-{
-name = btm;
-pos = (387,-164);
+pos = (205,0);
 },
 {
 name = center;
@@ -514,11 +472,11 @@ pos = (299,764);
 },
 {
 name = ogonek;
-pos = (220,0);
+pos = (260,0);
 },
 {
 name = top;
-pos = (424,1486);
+pos = (410,1486);
 },
 {
 name = topleft;
@@ -552,11 +510,7 @@ width = 548;
 anchors = (
 {
 name = bottom;
-pos = (268,0);
-},
-{
-name = btm;
-pos = (501,-164);
+pos = (264,0);
 },
 {
 name = center;
@@ -564,11 +518,11 @@ pos = (360,754);
 },
 {
 name = ogonek;
-pos = (275,0);
+pos = (355,0);
 },
 {
 name = top;
-pos = (469,1486);
+pos = (468,1486);
 },
 {
 name = topleft;

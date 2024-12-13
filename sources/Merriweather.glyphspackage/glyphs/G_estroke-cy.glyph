@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = "Gestroke-cy";
+kernRight = "KO_Ge-cy";
 layers = (
 {
 background = {

@@ -1,5 +1,6 @@
 {
 glyphname = bracketleft;
+kernRight = KO_bracketleft;
 layers = (
 {
 layerId = UUID0;

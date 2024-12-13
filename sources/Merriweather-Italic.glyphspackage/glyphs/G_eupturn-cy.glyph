@@ -1,5 +1,6 @@
 {
 glyphname = "Geupturn-cy";
+kernRight = "KO_Geupturn-cy";
 layers = (
 {
 anchors = (

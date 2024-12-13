@@ -1,12 +1,14 @@
 {
 color = 4;
 glyphname = m.sc;
+kernLeft = KO_m.sc;
+kernRight = KO_m.sc;
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (927,0);
+pos = (917,0);
 },
 {
 name = bottomright;
@@ -126,7 +128,7 @@ width = 1925;
 anchors = (
 {
 name = bottom;
-pos = (893,0);
+pos = (863,0);
 },
 {
 name = bottomright;
@@ -286,7 +288,7 @@ width = 1819;
 anchors = (
 {
 name = bottom;
-pos = (822,0);
+pos = (812,0);
 },
 {
 name = bottomright;
@@ -350,8 +352,8 @@ nodes = (
 (366,884,l),
 (408,1219,l),
 (504,894,l),
-(764,60,l),
-(842,60,l),
+(774,60,l),
+(852,60,l),
 (1129,980,l),
 (1201,1219,l),
 (1230,884,l),
@@ -365,9 +367,9 @@ nodes = (
 (1527,1210,l),
 (1527,1292,l),
 (1103,1292,l),
-(878,500,l),
-(821,253,l),
-(762,500,l),
+(888,500,l),
+(831,253,l),
+(772,500,l),
 (545,1292,l),
 (115,1292,l),
 (115,1210,l),
@@ -390,7 +392,7 @@ width = 1649;
 anchors = (
 {
 name = bottom;
-pos = (816,0);
+pos = (786,0);
 },
 {
 name = bottomright;
@@ -654,7 +656,7 @@ width = 1689;
 anchors = (
 {
 name = bottom;
-pos = (926,0);
+pos = (856,0);
 },
 {
 name = bottomright;
@@ -750,7 +752,7 @@ width = 1848;
 anchors = (
 {
 name = bottom;
-pos = (888,0);
+pos = (868,0);
 },
 {
 name = bottomright;
@@ -854,7 +856,7 @@ width = 1771;
 anchors = (
 {
 name = bottom;
-pos = (945,0);
+pos = (935,0);
 },
 {
 name = bottomright;
@@ -959,7 +961,7 @@ width = 1863;
 anchors = (
 {
 name = bottom;
-pos = (992,0);
+pos = (972,0);
 },
 {
 name = bottomright;

@@ -1,11 +1,13 @@
 {
 glyphname = z;
+kernLeft = KO_z;
+kernRight = KO_z;
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (437,0);
+pos = (457,0);
 },
 {
 name = center;
@@ -74,7 +76,7 @@ width = 1030;
 anchors = (
 {
 name = bottom;
-pos = (484,0);
+pos = (454,0);
 },
 {
 name = center;
@@ -143,7 +145,7 @@ width = 1005;
 anchors = (
 {
 name = bottom;
-pos = (466,0);
+pos = (448,0);
 },
 {
 name = center;
@@ -222,7 +224,7 @@ width = 1060;
 anchors = (
 {
 name = bottom;
-pos = (471,0);
+pos = (511,0);
 },
 {
 name = center;
@@ -366,7 +368,7 @@ width = 856;
 anchors = (
 {
 name = bottom;
-pos = (366,0);
+pos = (386,0);
 },
 {
 name = center;
@@ -445,7 +447,7 @@ width = 844;
 anchors = (
 {
 name = bottom;
-pos = (520,0);
+pos = (401,0);
 },
 {
 name = center;
@@ -593,7 +595,7 @@ width = 895;
 anchors = (
 {
 name = bottom;
-pos = (434,0);
+pos = (414,0);
 },
 {
 name = center;
@@ -662,7 +664,7 @@ width = 950;
 anchors = (
 {
 name = bottom;
-pos = (479,0);
+pos = (409,0);
 },
 {
 name = center;

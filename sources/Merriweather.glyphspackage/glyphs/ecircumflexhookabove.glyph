@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = ecircumflexhookabove;
+kernLeft = "KO_io-cy";
 layers = (
 {
 layerId = UUID0;

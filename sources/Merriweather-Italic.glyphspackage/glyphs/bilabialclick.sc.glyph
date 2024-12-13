@@ -1,5 +1,7 @@
 {
 glyphname = bilabialclick.sc;
+kernLeft = KO_o.sc;
+kernRight = "KO_o-cy.sc";
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";

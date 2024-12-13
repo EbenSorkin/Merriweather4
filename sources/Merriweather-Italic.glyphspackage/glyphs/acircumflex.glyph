@@ -1,5 +1,7 @@
 {
 glyphname = acircumflex;
+kernLeft = KO_a;
+kernRight = KO_a;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -73,7 +75,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (232,0);
+pos = (230,0);
 ref = circumflexcomb;
 }
 );
@@ -86,7 +88,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (260,0);
+pos = (220,0);
 ref = circumflexcomb;
 }
 );
@@ -125,7 +127,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (204,-2);
+pos = (204,0);
 ref = circumflexcomb;
 }
 );

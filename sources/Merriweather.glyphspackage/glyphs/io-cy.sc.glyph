@@ -1,5 +1,6 @@
 {
 glyphname = "io-cy.sc";
+kernLeft = KO_e.sc;
 layers = (
 {
 layerId = UUID0;
@@ -125,7 +126,7 @@ shapes = (
 ref = "ie-cy.sc";
 },
 {
-pos = (293,287);
+pos = (292,287);
 ref = dieresiscomb;
 }
 );

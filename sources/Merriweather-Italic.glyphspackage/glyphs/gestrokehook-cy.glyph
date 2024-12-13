@@ -46,7 +46,7 @@ pos = (55,0);
 ref = hook_cy.part;
 },
 {
-pos = (44,2);
+pos = (61,-2);
 ref = strokeshortcomb;
 }
 );

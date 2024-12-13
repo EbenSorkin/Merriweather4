@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = q.sc;
+kernLeft = KO_o.sc;
 layers = (
 {
 layerId = UUID0;

@@ -1,5 +1,6 @@
 {
 glyphname = question.ss03;
+kernLeft = KO_question.ss03;
 layers = (
 {
 background = {

@@ -1,5 +1,6 @@
 {
 glyphname = Omacronacute;
+kernLeft = KO_O;
 layers = (
 {
 layerId = UUID0;

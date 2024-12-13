@@ -1,5 +1,7 @@
 {
 glyphname = aacute;
+kernLeft = KO_a;
+kernRight = KO_a;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -73,7 +75,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (495,0);
+pos = (493,0);
 ref = acutecomb;
 }
 );
@@ -86,7 +88,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (563,0);
+pos = (523,0);
 ref = acutecomb;
 }
 );
@@ -125,7 +127,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (479,-2);
+pos = (479,0);
 ref = acutecomb;
 }
 );

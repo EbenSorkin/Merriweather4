@@ -144,43 +144,6 @@ name = top;
 pos = (1074,1292);
 }
 );
-annotations = (
-{
-pos = (1770,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (1205,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (1071,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (556,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (404,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (1107,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (1827,37);
-type = Circle;
-width = 30;
-}
-);
 background = {
 shapes = (
 {
@@ -367,38 +330,6 @@ name = top;
 pos = (948,1292);
 }
 );
-annotations = (
-{
-pos = (1460,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (982,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (896,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (446,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (327,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (1513,37);
-type = Circle;
-width = 30;
-}
-);
 background = {
 shapes = (
 {
@@ -459,58 +390,6 @@ pos = (1412,0);
 {
 name = top;
 pos = (878,1292);
-}
-);
-annotations = (
-{
-pos = (327,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (752,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (1332,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (1309,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (937,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (750,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (1309,1256);
-type = Circle;
-width = 30;
-},
-{
-pos = (937,1256);
-type = Circle;
-width = 30;
-},
-{
-pos = (750,1256);
-type = Circle;
-width = 30;
-},
-{
-pos = (463,1256);
-type = Circle;
-width = 30;
 }
 );
 background = {
@@ -575,43 +454,6 @@ name = top;
 pos = (883,1292);
 }
 );
-annotations = (
-{
-pos = (1525,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (1098,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (866,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (546,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (384,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (864,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (1548,35);
-type = Circle;
-width = 30;
-}
-);
 background = {
 shapes = (
 {
@@ -674,58 +516,6 @@ name = top;
 pos = (1098,1292);
 }
 );
-annotations = (
-{
-pos = (1924,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (1313,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (1160,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (1924,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (1313,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (1160,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (608,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (441,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (1197,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (1984,37);
-type = Circle;
-width = 30;
-}
-);
 background = {
 shapes = (
 {
@@ -786,38 +576,6 @@ pos = (1463,0);
 {
 name = top;
 pos = (745,1292);
-}
-);
-annotations = (
-{
-pos = (1738,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (1258,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (980,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (628,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (441,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (1761,35);
-type = Circle;
-width = 30;
 }
 );
 background = {

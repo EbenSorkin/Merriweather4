@@ -1,5 +1,7 @@
 {
 glyphname = Kcaron;
+kernLeft = KO_R;
+kernRight = KO_K;
 layers = (
 {
 layerId = UUID0;
@@ -8,7 +10,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (363,0);
+pos = (393,0);
 ref = caroncomb.case;
 }
 );
@@ -21,7 +23,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (374,0);
+pos = (414,0);
 ref = caroncomb.case;
 }
 );
@@ -34,7 +36,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (385,0);
+pos = (405,0);
 ref = caroncomb.case;
 }
 );
@@ -47,7 +49,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (356,0);
+pos = (386,0);
 ref = caroncomb.case;
 }
 );
@@ -60,7 +62,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (341,0);
+pos = (361,0);
 ref = caroncomb.case;
 }
 );
@@ -73,7 +75,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (323,0);
+pos = (353,0);
 ref = caroncomb.case;
 }
 );
@@ -99,7 +101,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (345,0);
+pos = (354,0);
 ref = caroncomb.case;
 }
 );
@@ -112,7 +114,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (348,0);
+pos = (378,0);
 ref = caroncomb.case;
 }
 );
@@ -125,7 +127,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (345,0);
+pos = (360,0);
 ref = caroncomb.case;
 }
 );
@@ -138,7 +140,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (338,0);
+pos = (373,0);
 ref = caroncomb.case;
 }
 );
@@ -154,7 +156,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (375,0);
+pos = (415,0);
 ref = caroncomb.case;
 }
 );

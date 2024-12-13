@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = Tbar;
+kernLeft = KO_T;
+kernRight = KO_T;
 layers = (
 {
 layerId = UUID0;

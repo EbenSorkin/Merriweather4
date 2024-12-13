@@ -1,5 +1,6 @@
 {
 glyphname = Vdotbelow;
+kernLeft = KO_V;
 layers = (
 {
 layerId = UUID0;

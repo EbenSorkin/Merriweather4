@@ -126,7 +126,7 @@ shapes = (
 ref = i.sc;
 },
 {
-pos = (-146,287);
+pos = (-166,287);
 ref = macroncomb;
 }
 );

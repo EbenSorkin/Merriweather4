@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = Oogonek.loclNAV;
+kernLeft = KO_O;
 layers = (
 {
 layerId = UUID0;

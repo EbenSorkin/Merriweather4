@@ -100,7 +100,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (734,287);
+pos = (731,287);
 ref = dotaccentcomb;
 }
 );

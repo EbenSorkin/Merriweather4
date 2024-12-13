@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = Bhook;
+kernRight = KO_B;
 layers = (
 {
 background = {

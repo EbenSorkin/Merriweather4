@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = i;
+kernLeft = KO_i;
+kernRight = KO_i;
 layers = (
 {
 anchors = (
@@ -56,7 +58,7 @@ ref = idotless;
 },
 {
 alignment = 1;
-pos = (-22,0);
+pos = (-25,0);
 ref = dotaccentcomb;
 }
 );

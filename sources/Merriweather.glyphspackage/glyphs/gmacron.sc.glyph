@@ -126,7 +126,7 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (317,287);
+pos = (297,287);
 ref = macroncomb;
 }
 );

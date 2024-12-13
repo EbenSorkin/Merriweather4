@@ -1,5 +1,6 @@
 {
 glyphname = AE;
+kernRight = KO_E;
 layers = (
 {
 anchors = (

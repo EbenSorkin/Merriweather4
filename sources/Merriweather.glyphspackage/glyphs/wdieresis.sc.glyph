@@ -126,7 +126,7 @@ shapes = (
 ref = w.sc;
 },
 {
-pos = (675,287);
+pos = (674,287);
 ref = dieresiscomb;
 }
 );

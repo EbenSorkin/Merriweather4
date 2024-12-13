@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = ohorngrave;
+kernLeft = "KO_ef-cy";
 layers = (
 {
 layerId = UUID0;

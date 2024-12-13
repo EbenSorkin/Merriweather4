@@ -1,5 +1,7 @@
 {
 glyphname = ccaron;
+kernLeft = "KO_ef-cy";
+kernRight = KO_c;
 layers = (
 {
 layerId = UUID0;

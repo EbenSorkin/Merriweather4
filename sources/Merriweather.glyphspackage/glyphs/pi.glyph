@@ -1,5 +1,6 @@
 {
 glyphname = pi;
+kernLeft = KO_pi;
 layers = (
 {
 background = {

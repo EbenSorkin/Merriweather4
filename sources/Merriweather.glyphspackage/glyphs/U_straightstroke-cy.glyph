@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = "Ustraightstroke-cy";
+kernRight = "KO_Ustraightstroke-cy";
 layers = (
 {
 layerId = UUID0;

@@ -1,6 +1,7 @@
 {
 color = 0;
 glyphname = greater;
+kernRight = KO_greater;
 layers = (
 {
 layerId = UUID0;

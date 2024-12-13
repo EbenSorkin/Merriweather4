@@ -1,5 +1,7 @@
 {
 glyphname = two;
+kernLeft = KO_two;
+kernRight = KO_two;
 layers = (
 {
 guides = (

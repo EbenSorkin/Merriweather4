@@ -1,5 +1,6 @@
 {
 glyphname = Bmacronbelow;
+kernRight = KO_B;
 layers = (
 {
 layerId = UUID0;

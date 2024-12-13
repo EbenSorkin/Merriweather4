@@ -1,5 +1,6 @@
 {
 glyphname = "We-cy";
+kernRight = KO_W;
 layers = (
 {
 layerId = UUID0;

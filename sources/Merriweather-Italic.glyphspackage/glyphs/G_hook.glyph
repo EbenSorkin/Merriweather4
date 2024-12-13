@@ -34,7 +34,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (1034,-65);
+pos = (1051,0);
 ref = _UChooktop.part;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (1116,-94);
+pos = (1134,27);
 ref = _UChooktop.part;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (988,-76);
+pos = (1019,63);
 ref = _UChooktop.part;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (1095,-129);
+pos = (1120,4);
 ref = _UChooktop.part;
 }
 );
@@ -138,7 +138,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (845,0);
+pos = (842,0);
 ref = _UChooktop.part;
 }
 );

@@ -1,6 +1,7 @@
 {
 color = 3;
 glyphname = "zedescender-cy.loclBSH";
+kernRight = "KO_ze-cy";
 layers = (
 {
 layerId = UUID0;
@@ -48,7 +49,7 @@ shapes = (
 ref = "ze-cy";
 },
 {
-pos = (83,0);
+pos = (133,0);
 ref = "descender_part-cy";
 }
 );
@@ -61,7 +62,7 @@ shapes = (
 ref = "ze-cy";
 },
 {
-pos = (187,0);
+pos = (197,0);
 ref = "descender_part-cy";
 }
 );
@@ -74,7 +75,7 @@ shapes = (
 ref = "ze-cy";
 },
 {
-pos = (115,0);
+pos = (145,0);
 ref = "descender_part-cy";
 }
 );
@@ -126,7 +127,7 @@ shapes = (
 ref = "ze-cy";
 },
 {
-pos = (186,0);
+pos = (206,0);
 ref = "descender_part-cy";
 }
 );

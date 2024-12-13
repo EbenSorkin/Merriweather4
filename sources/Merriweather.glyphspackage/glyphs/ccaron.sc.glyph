@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = ccaron.sc;
+kernLeft = KO_c.sc;
 layers = (
 {
 layerId = UUID0;

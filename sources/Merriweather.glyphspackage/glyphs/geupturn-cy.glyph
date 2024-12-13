@@ -1,5 +1,6 @@
 {
 glyphname = "geupturn-cy";
+kernLeft = "KO_ii-cy";
 layers = (
 {
 layerId = UUID0;

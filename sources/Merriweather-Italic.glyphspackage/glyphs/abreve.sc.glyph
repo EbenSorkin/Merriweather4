@@ -1,5 +1,7 @@
 {
 glyphname = abreve.sc;
+kernLeft = KO_a.sc;
+kernRight = KO_a.sc;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -8,7 +10,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (355,182);
+pos = (359,182);
 ref = brevecomb;
 }
 );
@@ -21,7 +23,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (278,182);
+pos = (283,182);
 ref = brevecomb;
 }
 );
@@ -34,7 +36,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (343,182);
+pos = (342,182);
 ref = brevecomb;
 }
 );
@@ -47,7 +49,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (395,182);
+pos = (393,182);
 ref = brevecomb;
 }
 );
@@ -86,7 +88,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (386,287);
+pos = (381,287);
 ref = brevecomb;
 }
 );
@@ -99,7 +101,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (346,287);
+pos = (352,287);
 ref = brevecomb;
 }
 );

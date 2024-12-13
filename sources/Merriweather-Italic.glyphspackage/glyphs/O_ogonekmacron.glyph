@@ -1,5 +1,7 @@
 {
 glyphname = Oogonekmacron;
+kernLeft = KO_O;
+kernRight = KO_O;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -80,7 +82,7 @@ pos = (588,0);
 ref = ogonekcomb.case;
 },
 {
-pos = (241,0);
+pos = (243,0);
 ref = macroncomb.case;
 }
 );
@@ -97,7 +99,7 @@ pos = (607,0);
 ref = ogonekcomb.case;
 },
 {
-pos = (233,0);
+pos = (236,0);
 ref = macroncomb.case;
 }
 );
@@ -114,7 +116,7 @@ pos = (665,0);
 ref = ogonekcomb.case;
 },
 {
-pos = (307,0);
+pos = (303,0);
 ref = macroncomb.case;
 }
 );
@@ -131,7 +133,7 @@ pos = (759,0);
 ref = ogonekcomb.case;
 },
 {
-pos = (281,0);
+pos = (282,0);
 ref = macroncomb.case;
 }
 );
@@ -182,7 +184,7 @@ pos = (535,0);
 ref = ogonekcomb.case;
 },
 {
-pos = (212,0);
+pos = (210,0);
 ref = macroncomb.case;
 }
 );
@@ -199,7 +201,7 @@ pos = (590,0);
 ref = ogonekcomb.case;
 },
 {
-pos = (221,0);
+pos = (218,0);
 ref = macroncomb.case;
 }
 );

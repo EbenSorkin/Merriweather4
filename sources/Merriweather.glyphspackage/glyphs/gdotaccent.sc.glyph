@@ -35,7 +35,7 @@ shapes = (
 ref = g.sc;
 },
 {
-pos = (381,287);
+pos = (378,287);
 ref = dotaccentcomb;
 }
 );

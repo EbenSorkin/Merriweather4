@@ -40,7 +40,7 @@ pos = (1324,0);
 ref = righttooth_part.;
 }
 );
-width = 1726;
+width = 1736;
 },
 {
 layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
@@ -106,11 +106,11 @@ alignment = -1;
 ref = "Iishort-cy";
 },
 {
-pos = (1136,0);
+pos = (1137,0);
 ref = righttooth_part.;
 }
 );
-width = 1453;
+width = 1454;
 },
 {
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
@@ -134,11 +134,11 @@ alignment = -1;
 ref = "Iishort-cy";
 },
 {
-pos = (1068,0);
+pos = (1078,0);
 ref = righttooth_part.;
 }
 );
-width = 1458;
+width = 1468;
 },
 {
 layerId = "F318CEA5-7792-49D8-B68D-92025E304353";

@@ -1,5 +1,7 @@
 {
 glyphname = Gmacron;
+kernLeft = KO_G;
+kernRight = KO_G;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -60,7 +62,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (287,0);
+pos = (290,0);
 ref = macroncomb.case;
 }
 );
@@ -73,7 +75,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (300,0);
+pos = (302,0);
 ref = macroncomb.case;
 }
 );
@@ -86,7 +88,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (273,0);
+pos = (274,0);
 ref = macroncomb.case;
 }
 );
@@ -99,7 +101,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (321,0);
+pos = (317,0);
 ref = macroncomb.case;
 }
 );
@@ -138,7 +140,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (234,0);
+pos = (232,0);
 ref = macroncomb.case;
 }
 );
@@ -151,7 +153,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (245,0);
+pos = (242,0);
 ref = macroncomb.case;
 }
 );

@@ -1,5 +1,6 @@
 {
 glyphname = "Ertick-cy";
+kernLeft = KO_R;
 layers = (
 {
 anchors = (

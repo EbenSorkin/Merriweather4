@@ -1,6 +1,7 @@
 {
 color = 0;
 glyphname = "gemiddlehook-cy";
+kernLeft = "KO_ii-cy";
 layers = (
 {
 layerId = UUID0;

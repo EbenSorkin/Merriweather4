@@ -1,5 +1,7 @@
 {
 glyphname = "ha-cy.sc";
+kernLeft = "KO_ha-cy.sc";
+kernRight = KO_x.sc;
 layers = (
 {
 layerId = UUID0;

@@ -1,5 +1,7 @@
 {
 glyphname = tcedilla;
+kernLeft = KO_t;
+kernRight = KO_t;
 layers = (
 {
 anchors = (
@@ -30,11 +32,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (162,0);
+pos = (152,0);
 ref = cedillacomb;
 }
 );
-width = 770;
+width = 765;
 },
 {
 anchors = (
@@ -65,11 +67,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (180,0);
+pos = (170,0);
 ref = cedillacomb;
 }
 );
-width = 821;
+width = 818;
 },
 {
 anchors = (
@@ -135,11 +137,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (133,0);
+pos = (126,0);
 ref = cedillacomb;
 }
 );
-width = 692;
+width = 670;
 },
 {
 anchors = (
@@ -240,11 +242,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (90,0);
+pos = (80,0);
 ref = cedillacomb;
 }
 );
-width = 529;
+width = 519;
 },
 {
 anchors = (
@@ -275,11 +277,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (89,0);
+pos = (78,0);
 ref = cedillacomb;
 }
 );
-width = 558;
+width = 547;
 },
 {
 anchors = (
@@ -310,11 +312,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (125,0);
+pos = (115,0);
 ref = cedillacomb;
 }
 );
-width = 742;
+width = 727;
 },
 {
 anchors = (

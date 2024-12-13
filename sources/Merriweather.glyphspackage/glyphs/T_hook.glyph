@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = Thook;
+kernRight = KO_T;
 layers = (
 {
 anchors = (

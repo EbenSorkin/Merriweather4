@@ -1,5 +1,6 @@
 {
 glyphname = Rdotaccent;
+kernRight = KO_R;
 layers = (
 {
 layerId = UUID0;

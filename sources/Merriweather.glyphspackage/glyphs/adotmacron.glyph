@@ -34,7 +34,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (217,0);
+pos = (197,0);
 ref = dotaccentcomb_macroncomb;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (163,0);
+pos = (160,0);
 ref = dotaccentcomb_macroncomb;
 }
 );

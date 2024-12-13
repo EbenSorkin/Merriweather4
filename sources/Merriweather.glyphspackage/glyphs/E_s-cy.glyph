@@ -1,5 +1,7 @@
 {
 glyphname = "Es-cy";
+kernLeft = KO_C;
+kernRight = KO_C;
 layers = (
 {
 anchors = (

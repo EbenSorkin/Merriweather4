@@ -1,5 +1,6 @@
 {
 glyphname = Oopen;
+kernRight = KO_O;
 layers = (
 {
 anchors = (

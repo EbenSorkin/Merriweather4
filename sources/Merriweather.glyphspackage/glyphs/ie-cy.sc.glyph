@@ -1,5 +1,7 @@
 {
 glyphname = "ie-cy.sc";
+kernLeft = KO_e.sc;
+kernRight = KO_e.sc;
 layers = (
 {
 layerId = UUID0;

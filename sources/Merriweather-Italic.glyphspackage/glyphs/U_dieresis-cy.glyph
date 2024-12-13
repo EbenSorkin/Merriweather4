@@ -1,5 +1,7 @@
 {
 glyphname = "Udieresis-cy";
+kernLeft = "KO_U-cy";
+kernRight = "KO_U-cy";
 layers = (
 {
 anchors = (

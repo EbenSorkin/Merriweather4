@@ -1,12 +1,14 @@
 {
 color = 4;
 glyphname = M;
+kernLeft = KO_M;
+kernRight = KO_M;
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (973,0);
+pos = (956,0);
 },
 {
 name = bottomright;
@@ -62,7 +64,7 @@ width = 1946;
 anchors = (
 {
 name = bottom;
-pos = (1034,0);
+pos = (1004,0);
 },
 {
 name = bottomright;
@@ -118,7 +120,7 @@ width = 2067;
 anchors = (
 {
 name = bottom;
-pos = (970,0);
+pos = (944,0);
 },
 {
 name = bottomright;
@@ -174,7 +176,7 @@ width = 1921;
 anchors = (
 {
 name = bottom;
-pos = (909,0);
+pos = (904,0);
 },
 {
 name = bottomright;
@@ -230,7 +232,7 @@ width = 1817;
 anchors = (
 {
 name = bottom;
-pos = (890,0);
+pos = (880,0);
 },
 {
 name = bottomright;
@@ -286,7 +288,7 @@ width = 1760;
 anchors = (
 {
 name = bottom;
-pos = (843,0);
+pos = (823,0);
 },
 {
 name = bottomright;
@@ -342,7 +344,7 @@ width = 1655;
 anchors = (
 {
 name = bottom;
-pos = (754,0);
+pos = (784,0);
 },
 {
 name = bottomright;
@@ -398,7 +400,7 @@ width = 1567;
 anchors = (
 {
 name = bottom;
-pos = (870,0);
+pos = (864,0);
 },
 {
 name = bottomright;
@@ -454,7 +456,7 @@ width = 1740;
 anchors = (
 {
 name = bottom;
-pos = (986,0);
+pos = (976,0);
 },
 {
 name = bottomright;

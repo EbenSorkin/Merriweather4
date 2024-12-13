@@ -1,5 +1,7 @@
 {
 glyphname = "yerudieresis-cy";
+kernLeft = "KO_ii-cy";
+kernRight = "KO_ii-cy";
 layers = (
 {
 layerId = UUID0;
@@ -125,7 +127,7 @@ shapes = (
 ref = "yeru-cy";
 },
 {
-pos = (406,0);
+pos = (405,0);
 ref = dieresiscomb;
 }
 );

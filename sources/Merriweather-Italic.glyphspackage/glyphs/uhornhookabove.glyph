@@ -1,5 +1,6 @@
 {
 glyphname = uhornhookabove;
+kernLeft = KO_u;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -45,7 +46,7 @@ alignment = -1;
 ref = u;
 },
 {
-pos = (436,0);
+pos = (442,0);
 ref = hookabovecomb;
 },
 {
@@ -63,7 +64,7 @@ alignment = -1;
 ref = u;
 },
 {
-pos = (498,0);
+pos = (467,0);
 ref = hookabovecomb;
 },
 {
@@ -135,7 +136,7 @@ alignment = -1;
 ref = u;
 },
 {
-pos = (331,0);
+pos = (321,0);
 ref = hookabovecomb;
 },
 {
@@ -153,7 +154,7 @@ alignment = -1;
 ref = u;
 },
 {
-pos = (430,0);
+pos = (406,0);
 ref = hookabovecomb;
 },
 {
@@ -171,7 +172,7 @@ alignment = -1;
 ref = u;
 },
 {
-pos = (393,0);
+pos = (387,0);
 ref = hookabovecomb;
 },
 {
@@ -189,7 +190,7 @@ alignment = -1;
 ref = u;
 },
 {
-pos = (321,0);
+pos = (311,0);
 ref = hookabovecomb;
 },
 {

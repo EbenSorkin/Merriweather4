@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = abreveacute.sc;
+kernLeft = KO_a.sc;
 layers = (
 {
 layerId = UUID0;

@@ -1,5 +1,6 @@
 {
 glyphname = "Kastroke-cy";
+kernRight = "KO_Ka-cy";
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -60,7 +61,7 @@ shapes = (
 ref = "Ka-cy";
 },
 {
-pos = (117,650);
+pos = (97,650);
 ref = barmod;
 }
 );
@@ -73,7 +74,7 @@ shapes = (
 ref = "Ka-cy";
 },
 {
-pos = (85,638);
+pos = (65,638);
 ref = barmod;
 }
 );
@@ -86,7 +87,7 @@ shapes = (
 ref = "Ka-cy";
 },
 {
-pos = (92,650);
+pos = (72,650);
 ref = barmod;
 }
 );
@@ -99,7 +100,7 @@ shapes = (
 ref = "Ka-cy";
 },
 {
-pos = (97,638);
+pos = (77,638);
 ref = barmod;
 }
 );

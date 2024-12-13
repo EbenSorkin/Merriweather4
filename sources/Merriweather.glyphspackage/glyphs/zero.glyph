@@ -1,5 +1,7 @@
 {
 glyphname = zero;
+kernLeft = KO_zero;
+kernRight = KO_zero;
 layers = (
 {
 layerId = UUID0;

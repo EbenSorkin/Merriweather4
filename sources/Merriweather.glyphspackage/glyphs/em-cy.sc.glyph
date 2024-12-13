@@ -1,5 +1,7 @@
 {
 glyphname = "em-cy.sc";
+kernLeft = KO_m.sc;
+kernRight = KO_m.sc;
 layers = (
 {
 layerId = UUID0;

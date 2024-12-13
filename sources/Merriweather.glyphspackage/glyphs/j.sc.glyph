@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = j.sc;
+kernRight = KO_j.sc;
 layers = (
 {
 anchors = (

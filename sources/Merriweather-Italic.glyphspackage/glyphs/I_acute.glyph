@@ -1,5 +1,7 @@
 {
 glyphname = Iacute;
+kernLeft = KO_I;
+kernRight = KO_I;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -8,7 +10,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (165,0);
+pos = (167,0);
 ref = acutecomb.case;
 }
 );
@@ -21,7 +23,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (249,0);
+pos = (255,0);
 ref = acutecomb.case;
 }
 );
@@ -60,7 +62,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (280,-2);
+pos = (272,-2);
 ref = acutecomb.case;
 }
 );
@@ -73,7 +75,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (235,0);
+pos = (222,0);
 ref = acutecomb.case;
 }
 );
@@ -86,7 +88,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (286,-2);
+pos = (262,-2);
 ref = acutecomb.case;
 }
 );
@@ -138,7 +140,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (217,0);
+pos = (203,0);
 ref = acutecomb.case;
 }
 );
@@ -151,7 +153,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (257,-2);
+pos = (256,-2);
 ref = acutecomb.case;
 }
 );

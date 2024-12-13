@@ -138,18 +138,6 @@ name = top;
 pos = (714,1292);
 }
 );
-annotations = (
-{
-pos = (796,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (62,1255);
-type = Circle;
-width = 30;
-}
-);
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
 shapes = (
 {
@@ -321,33 +309,6 @@ name = top;
 pos = (603,1292);
 }
 );
-annotations = (
-{
-pos = (675,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (47,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (614,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (683,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (1202,37);
-type = Circle;
-width = 30;
-}
-);
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
 shapes = (
 {
@@ -403,18 +364,6 @@ pos = (1023,0);
 {
 name = top;
 pos = (529,1292);
-}
-);
-annotations = (
-{
-pos = (526,1256);
-type = Circle;
-width = 30;
-},
-{
-pos = (75,1256);
-type = Circle;
-width = 30;
 }
 );
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
@@ -474,18 +423,6 @@ name = top;
 pos = (593,1292);
 }
 );
-annotations = (
-{
-pos = (602,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (90,1257);
-type = Circle;
-width = 30;
-}
-);
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
 shapes = (
 {
@@ -543,38 +480,6 @@ name = top;
 pos = (804,1292);
 }
 );
-annotations = (
-{
-pos = (71,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (790,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (922,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (1577,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (859,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (69,1255);
-type = Circle;
-width = 30;
-}
-);
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
 shapes = (
 {
@@ -630,33 +535,6 @@ pos = (1318,0);
 {
 name = top;
 pos = (592,1292);
-}
-);
-annotations = (
-{
-pos = (676,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (107,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (654,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (917,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (1403,35);
-type = Circle;
-width = 30;
 }
 );
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";

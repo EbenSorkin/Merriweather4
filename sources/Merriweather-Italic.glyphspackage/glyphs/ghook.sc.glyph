@@ -34,8 +34,7 @@ shapes = (
 ref = g.sc;
 },
 {
-alignment = -1;
-pos = (939,-176);
+pos = (947,-176);
 ref = _UChooktop.part;
 }
 );

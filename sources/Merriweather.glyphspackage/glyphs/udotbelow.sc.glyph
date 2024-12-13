@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = udotbelow.sc;
+kernLeft = KO_u.sc;
 layers = (
 {
 layerId = UUID0;
@@ -87,7 +88,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (599,0);
+pos = (509,0);
 ref = dotbelowcomb;
 }
 );

@@ -1,5 +1,7 @@
 {
 glyphname = "Chedieresis-cy";
+kernLeft = "KO_Che-cy";
+kernRight = "KO_Pe-cy";
 layers = (
 {
 layerId = UUID0;

@@ -2667,5 +2667,6 @@ width = 1868;
 }
 );
 metricRight = "=|";
+subCategory = Nonspacing;
 unicode = 1161;
 }

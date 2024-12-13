@@ -1,6 +1,7 @@
 {
 color = 0;
 glyphname = asciitilde;
+kernRight = KO_asciitilde;
 layers = (
 {
 anchors = (

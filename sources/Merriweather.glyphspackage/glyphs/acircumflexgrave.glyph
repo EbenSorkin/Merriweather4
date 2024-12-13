@@ -1,5 +1,7 @@
 {
 glyphname = acircumflexgrave;
+kernLeft = KO_agrave;
+kernRight = KO_a;
 layers = (
 {
 layerId = UUID0;
@@ -60,7 +62,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (134,0);
+pos = (114,0);
 ref = circumflexcomb_gravecomb;
 }
 );

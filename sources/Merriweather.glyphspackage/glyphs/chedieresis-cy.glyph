@@ -1,5 +1,6 @@
 {
 glyphname = "chedieresis-cy";
+kernLeft = "KO_che-cy";
 layers = (
 {
 layerId = UUID0;
@@ -125,7 +126,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (265,0);
+pos = (264,0);
 ref = dieresiscomb;
 }
 );

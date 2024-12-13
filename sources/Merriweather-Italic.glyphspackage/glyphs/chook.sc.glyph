@@ -34,7 +34,7 @@ shapes = (
 ref = c.sc;
 },
 {
-pos = (898,-131);
+pos = (906,-141);
 ref = _UChooktop.part;
 }
 );
@@ -47,11 +47,11 @@ shapes = (
 ref = c.sc;
 },
 {
-pos = (1011,-142);
+pos = (960,-163);
 ref = _UChooktop.part;
 }
 );
-width = 1363;
+width = 1323;
 },
 {
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
@@ -86,7 +86,7 @@ shapes = (
 ref = c.sc;
 },
 {
-pos = (898,-172);
+pos = (906,-163);
 ref = _UChooktop.part;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = c.sc;
 },
 {
-pos = (931,-171);
+pos = (940,-163);
 ref = _UChooktop.part;
 }
 );

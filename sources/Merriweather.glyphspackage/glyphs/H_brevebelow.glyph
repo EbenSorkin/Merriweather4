@@ -1,5 +1,6 @@
 {
 glyphname = Hbrevebelow;
+kernRight = KO_H;
 layers = (
 {
 layerId = UUID0;

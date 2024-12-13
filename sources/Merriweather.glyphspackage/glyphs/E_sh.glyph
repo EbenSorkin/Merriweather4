@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = Esh;
+kernLeft = KO_A;
 layers = (
 {
 background = {

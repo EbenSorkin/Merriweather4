@@ -1,5 +1,7 @@
 {
 glyphname = dcroat;
+kernLeft = KO_d;
+kernRight = KO_d;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";

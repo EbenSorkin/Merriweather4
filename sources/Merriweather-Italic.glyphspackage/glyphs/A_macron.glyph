@@ -1,5 +1,7 @@
 {
 glyphname = Amacron;
+kernLeft = KO_A;
+kernRight = KO_A;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -8,7 +10,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (232,0);
+pos = (236,0);
 ref = macroncomb.case;
 }
 );
@@ -21,7 +23,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (184,0);
+pos = (194,0);
 ref = macroncomb.case;
 }
 );
@@ -34,7 +36,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (240,0);
+pos = (260,0);
 ref = macroncomb.case;
 }
 );
@@ -47,7 +49,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (291,0);
+pos = (299,0);
 ref = macroncomb.case;
 }
 );
@@ -60,7 +62,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (130,0);
+pos = (151,0);
 ref = macroncomb.case;
 }
 );
@@ -73,7 +75,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (185,0);
+pos = (207,0);
 ref = macroncomb.case;
 }
 );
@@ -86,7 +88,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (103,0);
+pos = (110,0);
 ref = macroncomb.case;
 }
 );
@@ -99,7 +101,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (229,0);
+pos = (225,0);
 ref = macroncomb.case;
 }
 );
@@ -112,7 +114,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (153,0);
+pos = (155,0);
 ref = macroncomb.case;
 }
 );
@@ -138,7 +140,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (176,0);
+pos = (174,0);
 ref = macroncomb.case;
 }
 );
@@ -151,7 +153,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (153,0);
+pos = (150,0);
 ref = macroncomb.case;
 }
 );

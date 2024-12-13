@@ -1,5 +1,7 @@
 {
 glyphname = sdotaccent;
+kernLeft = KO_s;
+kernRight = KO_s;
 layers = (
 {
 layerId = UUID0;
@@ -34,7 +36,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (104,0);
+pos = (101,0);
 ref = dotaccentcomb;
 }
 );

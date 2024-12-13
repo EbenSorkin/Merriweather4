@@ -1,5 +1,6 @@
 {
 glyphname = Utildebelow;
+kernLeft = KO_U;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -8,7 +9,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (358,0);
+pos = (338,0);
 ref = tildebelowcomb;
 }
 );
@@ -21,7 +22,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (405,0);
+pos = (375,0);
 ref = tildebelowcomb;
 }
 );
@@ -34,7 +35,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (414,0);
+pos = (357,0);
 ref = tildebelowcomb;
 }
 );
@@ -47,7 +48,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (465,0);
+pos = (455,0);
 ref = tildebelowcomb;
 }
 );
@@ -60,7 +61,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (452,0);
+pos = (416,0);
 ref = tildebelowcomb;
 }
 );
@@ -73,7 +74,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (393,0);
+pos = (388,0);
 ref = tildebelowcomb;
 }
 );
@@ -86,7 +87,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (458,0);
+pos = (428,0);
 ref = tildebelowcomb;
 }
 );
@@ -99,7 +100,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (442,0);
+pos = (402,0);
 ref = tildebelowcomb;
 }
 );
@@ -112,7 +113,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (287,0);
+pos = (257,0);
 ref = tildebelowcomb;
 }
 );
@@ -125,7 +126,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (316,0);
+pos = (296,0);
 ref = tildebelowcomb;
 }
 );
@@ -138,7 +139,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (381,0);
+pos = (351,0);
 ref = tildebelowcomb;
 }
 );
@@ -151,7 +152,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (385,0);
+pos = (365,0);
 ref = tildebelowcomb;
 }
 );

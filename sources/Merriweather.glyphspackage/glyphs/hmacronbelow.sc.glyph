@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = hmacronbelow.sc;
+kernLeft = KO_e.sc;
 layers = (
 {
 layerId = UUID0;

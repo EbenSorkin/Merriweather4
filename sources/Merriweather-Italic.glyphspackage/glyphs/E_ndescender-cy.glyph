@@ -1,5 +1,6 @@
 {
 glyphname = "Endescender-cy";
+kernLeft = KO_E;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -99,7 +100,7 @@ shapes = (
 ref = H;
 },
 {
-pos = (1122,0);
+pos = (1123,0);
 ref = righttooth_part.;
 }
 );
@@ -125,7 +126,7 @@ shapes = (
 ref = H;
 },
 {
-pos = (1030,0);
+pos = (1040,0);
 ref = righttooth_part.;
 }
 );

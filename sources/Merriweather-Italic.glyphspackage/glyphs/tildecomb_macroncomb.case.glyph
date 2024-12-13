@@ -60,7 +60,7 @@ shapes = (
 ref = tildecomb.case;
 },
 {
-pos = (-94,284);
+pos = (-92,284);
 ref = macroncomb.case;
 }
 );
@@ -73,7 +73,7 @@ shapes = (
 ref = tildecomb.case;
 },
 {
-pos = (-98,412);
+pos = (-95,412);
 ref = macroncomb.case;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = tildecomb.case;
 },
 {
-pos = (-108,284);
+pos = (-112,284);
 ref = macroncomb.case;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = tildecomb.case;
 },
 {
-pos = (-126,412);
+pos = (-125,412);
 ref = macroncomb.case;
 }
 );
@@ -138,7 +138,7 @@ shapes = (
 ref = tildecomb.case;
 },
 {
-pos = (-88,284);
+pos = (-90,284);
 ref = macroncomb.case;
 }
 );
@@ -151,7 +151,7 @@ shapes = (
 ref = tildecomb.case;
 },
 {
-pos = (-78,412);
+pos = (-81,412);
 ref = macroncomb.case;
 }
 );

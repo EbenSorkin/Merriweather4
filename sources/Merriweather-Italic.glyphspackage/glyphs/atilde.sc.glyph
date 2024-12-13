@@ -1,5 +1,7 @@
 {
 glyphname = atilde.sc;
+kernLeft = KO_a.sc;
+kernRight = KO_a.sc;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -9,7 +11,7 @@ ref = a.sc;
 },
 {
 anchor = top;
-pos = (166,182);
+pos = (170,182);
 ref = tildecomb;
 }
 );
@@ -23,7 +25,7 @@ ref = a.sc;
 },
 {
 anchor = top;
-pos = (103,182);
+pos = (108,182);
 ref = tildecomb;
 }
 );
@@ -36,7 +38,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (202,182);
+pos = (201,182);
 ref = tildecomb;
 }
 );
@@ -49,7 +51,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (245,182);
+pos = (243,182);
 ref = tildecomb;
 }
 );
@@ -90,7 +92,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (219,287);
+pos = (214,287);
 ref = tildecomb;
 }
 );
@@ -103,7 +105,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (222,287);
+pos = (228,287);
 ref = tildecomb;
 }
 );

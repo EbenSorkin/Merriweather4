@@ -1,5 +1,6 @@
 {
 glyphname = Ccedillaacute;
+kernRight = KO_C;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -76,7 +77,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (464,0);
+pos = (452,0);
 ref = cedillacomb.case;
 },
 {

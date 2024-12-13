@@ -1,5 +1,7 @@
 {
 glyphname = "ve-cy";
+kernLeft = "KO_ve-cy";
+kernRight = "KO_ve-cy";
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";

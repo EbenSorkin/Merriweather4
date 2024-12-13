@@ -1,5 +1,7 @@
 {
 glyphname = Sdotaccent;
+kernLeft = KO_S;
+kernRight = KO_S;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -34,7 +36,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (369,0);
+pos = (453,0);
 ref = dotaccentcomb.case;
 }
 );
@@ -60,7 +62,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (366,0);
+pos = (369,0);
 ref = dotaccentcomb.case;
 }
 );

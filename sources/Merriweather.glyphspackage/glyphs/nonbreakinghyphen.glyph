@@ -1,5 +1,7 @@
 {
 glyphname = nonbreakinghyphen;
+kernLeft = KO_hyphen;
+kernRight = KO_hyphen;
 layers = (
 {
 layerId = UUID0;

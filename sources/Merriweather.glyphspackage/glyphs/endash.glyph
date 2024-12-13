@@ -1,6 +1,8 @@
 {
 color = 10;
 glyphname = endash;
+kernLeft = KO_endash;
+kernRight = KO_endash;
 layers = (
 {
 layerId = UUID0;

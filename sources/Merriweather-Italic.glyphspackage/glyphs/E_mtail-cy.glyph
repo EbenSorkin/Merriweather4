@@ -8,7 +8,7 @@ shapes = (
 ref = M;
 },
 {
-pos = (1268,0);
+pos = (1288,0);
 ref = rtail_part;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = M;
 },
 {
-pos = (1420,0);
+pos = (1440,0);
 ref = rtail_part;
 }
 );
@@ -74,7 +74,7 @@ shapes = (
 ref = M;
 },
 {
-pos = (1209,0);
+pos = (1239,0);
 ref = rtail_part;
 }
 );
@@ -87,7 +87,7 @@ shapes = (
 ref = M;
 },
 {
-pos = (1437,0);
+pos = (1402,0);
 ref = rtail_part;
 }
 );
@@ -113,7 +113,7 @@ shapes = (
 ref = M;
 },
 {
-pos = (1077,-1);
+pos = (1071,-1);
 ref = rtail_part;
 }
 );

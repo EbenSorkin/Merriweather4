@@ -1,5 +1,7 @@
 {
 glyphname = e.sc;
+kernLeft = KO_e.sc;
+kernRight = KO_e.sc;
 layers = (
 {
 anchors = (
@@ -95,7 +97,7 @@ width = 1265;
 anchors = (
 {
 name = bottom;
-pos = (678,0);
+pos = (584,0);
 },
 {
 name = ogonek;
@@ -141,7 +143,7 @@ width = 1350;
 anchors = (
 {
 name = bottom;
-pos = (594,0);
+pos = (541,0);
 },
 {
 name = ogonek;
@@ -232,7 +234,7 @@ width = 1115;
 anchors = (
 {
 name = bottom;
-pos = (508,0);
+pos = (518,0);
 },
 {
 name = ogonek;
@@ -277,7 +279,7 @@ width = 1059;
 anchors = (
 {
 name = bottom;
-pos = (615,0);
+pos = (582,0);
 },
 {
 name = ogonek;
@@ -323,7 +325,7 @@ width = 1193;
 anchors = (
 {
 name = bottom;
-pos = (578,0);
+pos = (551,0);
 },
 {
 name = ogonek;
@@ -414,7 +416,7 @@ width = 1040;
 anchors = (
 {
 name = bottom;
-pos = (498,0);
+pos = (538,0);
 },
 {
 name = ogonek;

@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = itildebelow;
+kernLeft = KO_i;
 layers = (
 {
 layerId = UUID0;

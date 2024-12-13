@@ -1,5 +1,6 @@
 {
 glyphname = "abreve-cy.sc";
+kernLeft = KO_a.sc;
 layers = (
 {
 layerId = UUID0;

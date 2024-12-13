@@ -1,5 +1,6 @@
 {
 glyphname = arighthalfring.sc;
+kernRight = "KO_a-cy.sc";
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -8,7 +9,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (639,182);
+pos = (501,182);
 ref = ringhalfright;
 }
 );
@@ -21,7 +22,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (651,182);
+pos = (465,181);
 ref = ringhalfright;
 }
 );
@@ -34,7 +35,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (699,182);
+pos = (555,182);
 ref = ringhalfright;
 }
 );
@@ -47,7 +48,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (696,182);
+pos = (524,182);
 ref = ringhalfright;
 }
 );
@@ -60,7 +61,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (570,182);
+pos = (415,287);
 ref = ringhalfright;
 }
 );
@@ -73,7 +74,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (562,182);
+pos = (438,287);
 ref = ringhalfright;
 }
 );
@@ -86,7 +87,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (612,182);
+pos = (474,287);
 ref = ringhalfright;
 }
 );
@@ -99,7 +100,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (673,182);
+pos = (543,287);
 ref = ringhalfright;
 }
 );
@@ -112,7 +113,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (599,182);
+pos = (457,182);
 ref = ringhalfright;
 }
 );
@@ -125,7 +126,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (566,182);
+pos = (395,182);
 ref = ringhalfright;
 }
 );
@@ -138,7 +139,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (516,182);
+pos = (371,287);
 ref = ringhalfright;
 }
 );
@@ -151,7 +152,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (425,182);
+pos = (410,287);
 ref = ringhalfright;
 }
 );

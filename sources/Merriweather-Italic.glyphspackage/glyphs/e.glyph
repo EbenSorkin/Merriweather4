@@ -1,5 +1,7 @@
 {
 glyphname = e;
+kernLeft = KO_e;
+kernRight = KO_e;
 layers = (
 {
 anchors = (
@@ -135,7 +137,7 @@ width = 1018;
 anchors = (
 {
 name = bottom;
-pos = (569,0);
+pos = (509,0);
 },
 {
 name = center;

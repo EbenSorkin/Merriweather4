@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = Chook;
+kernLeft = KO_C;
 layers = (
 {
 background = {

@@ -47,7 +47,7 @@ shapes = (
 ref = caroncomb;
 },
 {
-pos = (177,419);
+pos = (174,419);
 ref = dotaccentcomb;
 }
 );

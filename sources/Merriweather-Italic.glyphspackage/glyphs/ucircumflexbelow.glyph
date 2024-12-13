@@ -1,5 +1,7 @@
 {
 glyphname = ucircumflexbelow;
+kernLeft = KO_u;
+kernRight = KO_u;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -8,7 +10,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (130,0);
+pos = (113,0);
 ref = circumflexbelowcomb;
 }
 );
@@ -21,7 +23,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (95,0);
+pos = (85,0);
 ref = circumflexbelowcomb;
 }
 );
@@ -34,7 +36,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (169,0);
+pos = (157,0);
 ref = circumflexbelowcomb;
 }
 );
@@ -47,7 +49,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (122,0);
+pos = (132,0);
 ref = circumflexbelowcomb;
 }
 );
@@ -60,7 +62,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (101,0);
+pos = (121,0);
 ref = circumflexbelowcomb;
 }
 );
@@ -86,7 +88,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (156,0);
+pos = (149,0);
 ref = circumflexbelowcomb;
 }
 );
@@ -99,7 +101,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (178,0);
+pos = (179,0);
 ref = circumflexbelowcomb;
 }
 );
@@ -125,7 +127,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (72,0);
+pos = (70,0);
 ref = circumflexbelowcomb;
 }
 );

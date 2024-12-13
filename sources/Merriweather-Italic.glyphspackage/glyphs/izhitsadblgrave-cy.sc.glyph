@@ -47,7 +47,7 @@ shapes = (
 ref = "izhitsa-cy.sc";
 },
 {
-pos = (285,182);
+pos = (55,182);
 ref = dblgravecomb;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = "izhitsa-cy.sc";
 },
 {
-pos = (263,287);
+pos = (233,287);
 ref = dblgravecomb;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = "izhitsa-cy.sc";
 },
 {
-pos = (133,287);
+pos = (103,287);
 ref = dblgravecomb;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = "izhitsa-cy.sc";
 },
 {
-pos = (36,182);
+pos = (56,182);
 ref = dblgravecomb;
 }
 );
@@ -125,7 +125,7 @@ shapes = (
 ref = "izhitsa-cy.sc";
 },
 {
-pos = (198,182);
+pos = (18,182);
 ref = dblgravecomb;
 }
 );

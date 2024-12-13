@@ -1,5 +1,6 @@
 {
 glyphname = Xdieresis;
+kernRight = KO_X;
 layers = (
 {
 layerId = UUID0;

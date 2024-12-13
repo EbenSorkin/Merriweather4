@@ -1,5 +1,6 @@
 {
 glyphname = "Eltail-cy";
+kernLeft = "KO_El-cy";
 layers = (
 {
 layerId = UUID0;

@@ -139,7 +139,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (375,287);
+pos = (374,287);
 ref = dieresiscomb_macroncomb;
 }
 );

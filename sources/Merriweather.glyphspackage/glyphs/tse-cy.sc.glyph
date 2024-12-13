@@ -84,33 +84,6 @@ nodes = (
 width = 1581;
 },
 {
-annotations = (
-{
-pos = (1537,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (878,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (753,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (71,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (65,37);
-type = Circle;
-width = 30;
-}
-);
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
 shapes = (
 {
@@ -222,33 +195,6 @@ nodes = (
 width = 1189;
 },
 {
-annotations = (
-{
-pos = (1265,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (697,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (632,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (51,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (48,37);
-type = Circle;
-width = 30;
-}
-);
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
 shapes = (
 {
@@ -286,53 +232,6 @@ nodes = (
 width = 1290;
 },
 {
-annotations = (
-{
-pos = (75,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (1150,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (752,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (524,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (90,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (1150,1256);
-type = Circle;
-width = 30;
-},
-{
-pos = (752,1256);
-type = Circle;
-width = 30;
-},
-{
-pos = (524,1256);
-type = Circle;
-width = 30;
-},
-{
-pos = (90,1256);
-type = Circle;
-width = 30;
-}
-);
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
 shapes = (
 {
@@ -370,33 +269,6 @@ nodes = (
 width = 1151;
 },
 {
-annotations = (
-{
-pos = (1341,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (892,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (604,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (109,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (90,35);
-type = Circle;
-width = 30;
-}
-);
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
 shapes = (
 {
@@ -471,33 +343,6 @@ nodes = (
 width = 1635;
 },
 {
-annotations = (
-{
-pos = (1530,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (1030,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (683,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (128,1257);
-type = Circle;
-width = 30;
-},
-{
-pos = (105,35);
-type = Circle;
-width = 30;
-}
-);
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
 shapes = (
 {

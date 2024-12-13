@@ -1,5 +1,6 @@
 {
 glyphname = Fdotaccent;
+kernRight = KO_F;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -60,7 +61,7 @@ shapes = (
 ref = F;
 },
 {
-pos = (407,0);
+pos = (410,0);
 ref = dotaccentcomb.case;
 }
 );

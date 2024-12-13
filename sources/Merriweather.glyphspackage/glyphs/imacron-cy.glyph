@@ -1,5 +1,7 @@
 {
 glyphname = "imacron-cy";
+kernLeft = "KO_ii-cy";
+kernRight = "KO_ii-cy";
 layers = (
 {
 layerId = UUID0;
@@ -125,7 +127,7 @@ shapes = (
 ref = "ii-cy";
 },
 {
-pos = (180,0);
+pos = (160,0);
 ref = macroncomb;
 }
 );

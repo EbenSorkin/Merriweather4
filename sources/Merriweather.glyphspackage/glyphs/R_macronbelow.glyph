@@ -1,5 +1,6 @@
 {
 glyphname = Rmacronbelow;
+kernRight = KO_R;
 layers = (
 {
 layerId = UUID0;

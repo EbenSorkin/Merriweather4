@@ -139,7 +139,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (460,287);
+pos = (459,287);
 ref = dieresiscomb_gravecomb;
 }
 );

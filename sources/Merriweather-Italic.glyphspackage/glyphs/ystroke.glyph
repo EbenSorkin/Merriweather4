@@ -8,7 +8,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (-13,-120);
+pos = (-9,-170);
 ref = midbar_part.;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (-45,-97);
+pos = (-27,-170);
 ref = midbar_part.;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (17,-120);
+pos = (21,-170);
 ref = midbar_part.;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (-1,-97);
+pos = (7,-170);
 ref = midbar_part.;
 }
 );
@@ -60,7 +60,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (-44,-134);
+pos = (-56,-210);
 ref = midbar_part.;
 }
 );
@@ -73,7 +73,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (-105,-142);
+pos = (-81,-212);
 ref = midbar_part.;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (-4,-134);
+pos = (-26,-210);
 ref = midbar_part.;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (-16,-140);
+pos = (-22,-210);
 ref = midbar_part.;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (-141,-120);
+pos = (-127,-170);
 ref = midbar_part.;
 scale = (1.15,1);
 }
@@ -126,7 +126,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (-148,-97);
+pos = (-130,-170);
 ref = midbar_part.;
 scale = (1.15,1);
 }
@@ -140,7 +140,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (-130,-134);
+pos = (-142,-210);
 ref = midbar_part.;
 scale = (1.15,1);
 }
@@ -154,7 +154,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (-78,-140);
+pos = (-64,-210);
 ref = midbar_part.;
 }
 );

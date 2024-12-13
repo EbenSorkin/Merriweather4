@@ -80,7 +80,7 @@ pos = (405,0);
 ref = tildecomb.case;
 },
 {
-pos = (307,412);
+pos = (310,412);
 ref = macroncomb.case;
 }
 );
@@ -97,7 +97,7 @@ pos = (381,0);
 ref = tildecomb.case;
 },
 {
-pos = (287,284);
+pos = (289,284);
 ref = macroncomb.case;
 }
 );
@@ -114,7 +114,7 @@ pos = (481,0);
 ref = tildecomb.case;
 },
 {
-pos = (355,412);
+pos = (356,412);
 ref = macroncomb.case;
 }
 );
@@ -131,7 +131,7 @@ pos = (461,0);
 ref = tildecomb.case;
 },
 {
-pos = (353,284);
+pos = (349,284);
 ref = macroncomb.case;
 }
 );
@@ -182,7 +182,7 @@ pos = (346,0);
 ref = tildecomb.case;
 },
 {
-pos = (258,284);
+pos = (256,284);
 ref = macroncomb.case;
 }
 );
@@ -199,7 +199,7 @@ pos = (373,0);
 ref = tildecomb.case;
 },
 {
-pos = (295,412);
+pos = (292,412);
 ref = macroncomb.case;
 }
 );

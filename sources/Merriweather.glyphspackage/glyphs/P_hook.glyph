@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = Phook;
+kernRight = KO_P;
 layers = (
 {
 layerId = UUID0;

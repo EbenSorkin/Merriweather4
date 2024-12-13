@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = "yi-cy.narrow";
+kernLeft = "KO_yi-cy";
+kernRight = KO_iacute;
 layers = (
 {
 layerId = UUID0;

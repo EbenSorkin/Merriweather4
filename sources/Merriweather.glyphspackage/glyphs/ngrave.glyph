@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = ngrave;
+kernLeft = KO_n;
+kernRight = KO_n;
 layers = (
 {
 layerId = UUID0;

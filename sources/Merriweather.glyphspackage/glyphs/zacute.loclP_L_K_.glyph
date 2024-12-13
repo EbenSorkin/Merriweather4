@@ -1,5 +1,7 @@
 {
 glyphname = zacute.loclPLK;
+kernLeft = KO_z;
+kernRight = KO_z;
 layers = (
 {
 layerId = UUID0;

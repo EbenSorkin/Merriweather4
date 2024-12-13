@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = sdotbelow.sc;
+kernLeft = KO_s.sc;
 layers = (
 {
 layerId = UUID0;

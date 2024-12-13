@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = a.sc;
+kernLeft = KO_a.sc;
+kernRight = KO_a.sc;
 layers = (
 {
 anchors = (
@@ -149,13 +151,6 @@ pos = (110,1292);
 {
 name = top;
 pos = (602,1292);
-}
-);
-annotations = (
-{
-angle = 112.6137;
-pos = (2881,-2146);
-type = Arrow;
 }
 );
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";

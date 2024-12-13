@@ -1,5 +1,6 @@
 {
 glyphname = "ze-cy.sc";
+kernLeft = "KO_ze-cy.sc";
 layers = (
 {
 anchors = (

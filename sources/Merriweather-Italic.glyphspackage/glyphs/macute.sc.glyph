@@ -1,5 +1,6 @@
 {
 glyphname = macute.sc;
+kernLeft = "KO_em-cy.sc";
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";

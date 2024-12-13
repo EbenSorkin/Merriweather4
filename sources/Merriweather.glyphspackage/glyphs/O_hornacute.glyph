@@ -1,5 +1,6 @@
 {
 glyphname = Ohornacute;
+kernLeft = KO_O;
 layers = (
 {
 layerId = UUID0;
@@ -125,7 +126,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (543,0);
+pos = (544,0);
 ref = acutecomb.case;
 }
 );

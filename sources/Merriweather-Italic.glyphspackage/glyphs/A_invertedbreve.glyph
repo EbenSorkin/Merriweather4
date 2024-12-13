@@ -8,7 +8,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (378,0);
+pos = (382,0);
 ref = breveinvertedcomb.case;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (346,0);
+pos = (356,0);
 ref = breveinvertedcomb.case;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (426,0);
+pos = (446,0);
 ref = breveinvertedcomb.case;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (428,0);
+pos = (436,0);
 ref = breveinvertedcomb.case;
 }
 );
@@ -60,7 +60,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (313,0);
+pos = (331,0);
 ref = breveinvertedcomb.case;
 }
 );
@@ -73,7 +73,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (327,0);
+pos = (347,0);
 ref = breveinvertedcomb.case;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (294,0);
+pos = (300,0);
 ref = breveinvertedcomb.case;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (286,0);
+pos = (288,0);
 ref = breveinvertedcomb.case;
 }
 );

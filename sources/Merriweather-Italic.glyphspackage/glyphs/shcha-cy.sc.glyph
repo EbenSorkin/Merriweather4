@@ -1,5 +1,7 @@
 {
+color = 6;
 glyphname = "shcha-cy.sc";
+kernLeft = "KO_ie-cy.sc";
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -56,7 +58,7 @@ width = 2065;
 {
 guides = (
 {
-pos = (-6272,71);
+pos = (-5744,71);
 }
 );
 layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
@@ -104,7 +106,7 @@ shapes = (
 ref = "sha-cy.sc";
 },
 {
-pos = (1624,0);
+pos = (1625,0);
 ref = righttooth_part.;
 }
 );
@@ -130,7 +132,7 @@ shapes = (
 ref = "sha-cy.sc";
 },
 {
-pos = (1637,0);
+pos = (1647,0);
 ref = righttooth_part.;
 }
 );

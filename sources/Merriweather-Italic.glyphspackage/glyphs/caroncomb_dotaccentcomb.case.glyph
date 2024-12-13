@@ -1,4 +1,5 @@
 {
+color = 3;
 glyphname = caroncomb_dotaccentcomb.case;
 layers = (
 {
@@ -17,7 +18,7 @@ shapes = (
 ref = caroncomb_dotaccentcomb;
 }
 );
-width = 755;
+width = 710;
 },
 {
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";

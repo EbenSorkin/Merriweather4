@@ -1,6 +1,7 @@
 {
 color = 8;
 glyphname = question.ss03;
+kernLeft = KO_question.ss03;
 layers = (
 {
 layerId = UUID0;

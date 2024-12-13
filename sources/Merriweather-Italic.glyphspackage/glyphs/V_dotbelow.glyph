@@ -1,5 +1,7 @@
 {
 glyphname = Vdotbelow;
+kernLeft = KO_V;
+kernRight = KO_V;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";

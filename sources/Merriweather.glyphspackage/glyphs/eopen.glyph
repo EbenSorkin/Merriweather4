@@ -70,7 +70,7 @@ nodes = (
 );
 }
 );
-width = 884;
+width = 889;
 },
 {
 anchors = (
@@ -177,7 +177,7 @@ nodes = (
 );
 }
 );
-width = 987;
+width = 994;
 },
 {
 anchors = (
@@ -317,7 +317,7 @@ nodes = (
 );
 }
 );
-width = 869;
+width = 854;
 },
 {
 anchors = (
@@ -1015,7 +1015,7 @@ nodes = (
 );
 }
 );
-width = 958;
+width = 953;
 }
 );
 metricLeft = o;
