@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = amacron.sc;
+kernLeft = KO_a.sc;
+kernRight = KO_a.sc;
 layers = (
 {
 layerId = UUID0;
@@ -126,7 +128,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (243,287);
+pos = (223,287);
 ref = macroncomb;
 }
 );

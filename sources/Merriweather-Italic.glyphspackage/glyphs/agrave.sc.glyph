@@ -1,5 +1,7 @@
 {
 glyphname = agrave.sc;
+kernLeft = KO_a.sc;
+kernRight = KO_a.sc;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -8,7 +10,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (277,182);
+pos = (281,182);
 ref = gravecomb;
 }
 );
@@ -21,7 +23,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (168,182);
+pos = (173,182);
 ref = gravecomb;
 }
 );
@@ -34,7 +36,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (233,182);
+pos = (232,182);
 ref = gravecomb;
 }
 );
@@ -47,7 +49,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (337,182);
+pos = (335,182);
 ref = gravecomb;
 }
 );
@@ -86,7 +88,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (157,287);
+pos = (152,287);
 ref = gravecomb;
 }
 );
@@ -99,7 +101,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (192,287);
+pos = (198,287);
 ref = gravecomb;
 }
 );

@@ -366,12 +366,6 @@ name = top;
 pos = (488,1292);
 }
 );
-annotations = (
-{
-pos = (655,318);
-type = Text;
-}
-);
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
 shapes = (
 {
@@ -475,7 +469,7 @@ width = 1190;
 anchors = (
 {
 name = bottomleft;
-pos = (775,0);
+pos = (765,0);
 },
 {
 name = bottomright;
@@ -484,12 +478,6 @@ pos = (1564,0);
 {
 name = top;
 pos = (758,1292);
-}
-);
-annotations = (
-{
-pos = (234,1366);
-type = Text;
 }
 );
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";

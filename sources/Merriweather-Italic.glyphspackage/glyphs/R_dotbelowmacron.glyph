@@ -1,5 +1,6 @@
 {
 glyphname = Rdotbelowmacron;
+kernRight = KO_R;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -76,11 +77,11 @@ shapes = (
 ref = R;
 },
 {
-pos = (491,0);
+pos = (461,0);
 ref = dotbelowcomb.case;
 },
 {
-pos = (144,0);
+pos = (146,0);
 ref = macroncomb.case;
 }
 );
@@ -97,7 +98,7 @@ pos = (491,0);
 ref = dotbelowcomb.case;
 },
 {
-pos = (162,0);
+pos = (165,0);
 ref = macroncomb.case;
 }
 );
@@ -110,11 +111,11 @@ shapes = (
 ref = R;
 },
 {
-pos = (517,0);
+pos = (497,0);
 ref = dotbelowcomb.case;
 },
 {
-pos = (156,0);
+pos = (152,0);
 ref = macroncomb.case;
 }
 );
@@ -131,7 +132,7 @@ pos = (497,0);
 ref = dotbelowcomb.case;
 },
 {
-pos = (104,0);
+pos = (105,0);
 ref = macroncomb.case;
 }
 );
@@ -182,7 +183,7 @@ pos = (487,0);
 ref = dotbelowcomb.case;
 },
 {
-pos = (107,0);
+pos = (105,0);
 ref = macroncomb.case;
 }
 );
@@ -199,7 +200,7 @@ pos = (447,0);
 ref = dotbelowcomb.case;
 },
 {
-pos = (181,0);
+pos = (178,0);
 ref = macroncomb.case;
 }
 );

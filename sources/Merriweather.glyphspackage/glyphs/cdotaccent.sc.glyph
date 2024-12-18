@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = cdotaccent.sc;
+kernLeft = KO_c.sc;
 layers = (
 {
 layerId = UUID0;
@@ -35,7 +36,7 @@ shapes = (
 ref = c.sc;
 },
 {
-pos = (382,287);
+pos = (379,287);
 ref = dotaccentcomb;
 }
 );

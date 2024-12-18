@@ -125,7 +125,7 @@ shapes = (
 ref = "schwa-cy";
 },
 {
-pos = (192,0);
+pos = (191,0);
 ref = dieresiscomb;
 }
 );

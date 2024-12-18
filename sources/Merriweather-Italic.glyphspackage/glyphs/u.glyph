@@ -1,5 +1,7 @@
 {
 glyphname = u;
+kernLeft = KO_u;
+kernRight = KO_u;
 layers = (
 {
 anchors = (
@@ -264,7 +266,7 @@ pos = (1035,0);
 },
 {
 name = center;
-pos = (616,566);
+pos = (606,566);
 },
 {
 name = ogonek;
@@ -438,7 +440,7 @@ width = 1121;
 anchors = (
 {
 name = bottom;
-pos = (440,0);
+pos = (470,0);
 },
 {
 name = bottomright;
@@ -857,7 +859,7 @@ pos = (817,0);
 },
 {
 name = center;
-pos = (489,506);
+pos = (479,506);
 },
 {
 name = ogonek;

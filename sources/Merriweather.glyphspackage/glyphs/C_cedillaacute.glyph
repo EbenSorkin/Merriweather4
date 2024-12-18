@@ -1,5 +1,6 @@
 {
 glyphname = Ccedillaacute;
+kernRight = KO_C;
 layers = (
 {
 layerId = UUID0;

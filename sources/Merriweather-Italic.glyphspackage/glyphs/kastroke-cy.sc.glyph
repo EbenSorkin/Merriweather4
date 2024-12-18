@@ -60,7 +60,7 @@ shapes = (
 ref = "ka-cy.sc";
 },
 {
-pos = (20,449);
+pos = (0,449);
 ref = barmod;
 }
 );
@@ -73,7 +73,7 @@ shapes = (
 ref = "ka-cy.sc";
 },
 {
-pos = (2,437);
+pos = (-18,437);
 ref = barmod;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = "ka-cy.sc";
 },
 {
-pos = (5,449);
+pos = (-15,449);
 ref = barmod;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = "ka-cy.sc";
 },
 {
-pos = (37,437);
+pos = (17,437);
 ref = barmod;
 }
 );

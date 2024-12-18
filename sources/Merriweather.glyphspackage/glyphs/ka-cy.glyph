@@ -1,5 +1,7 @@
 {
 glyphname = "ka-cy";
+kernLeft = "KO_ii-cy";
+kernRight = "KO_ka-cy";
 layers = (
 {
 anchors = (

@@ -1,5 +1,7 @@
 {
 glyphname = Rdotbelow;
+kernLeft = KO_E;
+kernRight = KO_R;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -73,7 +75,7 @@ shapes = (
 ref = R;
 },
 {
-pos = (491,0);
+pos = (461,0);
 ref = dotbelowcomb.case;
 }
 );
@@ -99,7 +101,7 @@ shapes = (
 ref = R;
 },
 {
-pos = (517,0);
+pos = (497,0);
 ref = dotbelowcomb.case;
 }
 );

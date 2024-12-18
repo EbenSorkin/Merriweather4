@@ -1,5 +1,7 @@
 {
 glyphname = k.sc;
+kernLeft = KO_e.sc;
+kernRight = KO_k.sc;
 layers = (
 {
 anchors = (
@@ -453,7 +455,7 @@ pos = (396,993);
 },
 {
 name = top;
-pos = (842,1292);
+pos = (872,1292);
 }
 );
 color = 4;
@@ -527,7 +529,7 @@ pos = (358,984);
 },
 {
 name = top;
-pos = (737,1292);
+pos = (757,1292);
 }
 );
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
@@ -670,7 +672,7 @@ pos = (663,0);
 },
 {
 name = center;
-pos = (365,959);
+pos = (405,959);
 },
 {
 name = top;

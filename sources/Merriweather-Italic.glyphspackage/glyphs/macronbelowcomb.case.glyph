@@ -89,7 +89,7 @@ width = 558;
 anchors = (
 {
 name = _bottom;
-pos = (201,0);
+pos = (210,0);
 }
 );
 layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";

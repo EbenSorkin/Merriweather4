@@ -1,5 +1,6 @@
 {
 glyphname = Ystroke;
+kernRight = "KO_Ustraightstroke-cy";
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -34,7 +35,7 @@ shapes = (
 ref = Y;
 },
 {
-pos = (-38,370);
+pos = (-18,370);
 ref = capbar_part.;
 }
 );

@@ -1,5 +1,7 @@
 {
 glyphname = umacrondieresis;
+kernLeft = KO_u;
+kernRight = KO_u;
 layers = (
 {
 layerId = UUID0;
@@ -46,7 +48,7 @@ pos = (117,0);
 ref = macroncomb;
 },
 {
-pos = (186,338);
+pos = (186,300);
 ref = dieresiscomb;
 }
 );
@@ -97,7 +99,7 @@ pos = (52,0);
 ref = macroncomb;
 },
 {
-pos = (76,338);
+pos = (76,300);
 ref = dieresiscomb;
 }
 );
@@ -114,7 +116,7 @@ pos = (124,0);
 ref = macroncomb;
 },
 {
-pos = (217,202);
+pos = (217,232);
 ref = dieresiscomb;
 }
 );
@@ -131,7 +133,7 @@ pos = (101,0);
 ref = macroncomb;
 },
 {
-pos = (213,202);
+pos = (213,232);
 ref = dieresiscomb;
 }
 );
@@ -148,7 +150,7 @@ pos = (134,0);
 ref = macroncomb;
 },
 {
-pos = (199,338);
+pos = (199,300);
 ref = dieresiscomb;
 }
 );
@@ -161,11 +163,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (131,0);
+pos = (111,0);
 ref = macroncomb;
 },
 {
-pos = (263,202);
+pos = (262,232);
 ref = dieresiscomb;
 }
 );

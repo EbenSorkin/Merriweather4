@@ -1,5 +1,6 @@
 {
 glyphname = Jacute;
+kernRight = KO_J;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -151,7 +152,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (237,-2);
+pos = (242,-2);
 ref = acutecomb.case;
 }
 );

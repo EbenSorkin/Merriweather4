@@ -1,5 +1,7 @@
 {
 glyphname = "Ereversed-cy";
+kernLeft = "KO_Ereversed-cy";
+kernRight = KO_O;
 layers = (
 {
 anchors = (

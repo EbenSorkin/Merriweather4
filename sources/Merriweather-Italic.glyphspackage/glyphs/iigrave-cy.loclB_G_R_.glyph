@@ -1,5 +1,7 @@
 {
 glyphname = "iigrave-cy.loclBGR";
+kernLeft = KO_u;
+kernRight = KO_u;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";

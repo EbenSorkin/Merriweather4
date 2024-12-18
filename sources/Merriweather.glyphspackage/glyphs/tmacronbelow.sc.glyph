@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = tmacronbelow.sc;
+kernLeft = KO_t.sc;
 layers = (
 {
 layerId = UUID0;

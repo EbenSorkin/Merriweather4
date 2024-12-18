@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = Rstroke;
+kernRight = KO_R;
 layers = (
 {
 anchors = (

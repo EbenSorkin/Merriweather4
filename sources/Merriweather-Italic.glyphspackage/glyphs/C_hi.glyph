@@ -1,5 +1,7 @@
 {
 glyphname = Chi;
+kernLeft = KO_X;
+kernRight = KO_X;
 layers = (
 {
 layerId = "27298932-82AF-4578-9425-6304FDB19058";

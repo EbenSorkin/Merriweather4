@@ -1,5 +1,7 @@
 {
 glyphname = Nmacronbelow;
+kernLeft = KO_E;
+kernRight = KO_N;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -60,7 +62,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (409,0);
+pos = (400,0);
 ref = macronbelowcomb.case;
 }
 );

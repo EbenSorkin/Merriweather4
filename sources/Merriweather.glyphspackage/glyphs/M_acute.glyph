@@ -1,5 +1,7 @@
 {
 glyphname = Macute;
+kernLeft = KO_M;
+kernRight = KO_M;
 layers = (
 {
 layerId = UUID0;

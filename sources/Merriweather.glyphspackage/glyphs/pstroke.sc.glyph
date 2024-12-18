@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = pstroke.sc;
+kernRight = KO_p.sc;
 layers = (
 {
 background = {

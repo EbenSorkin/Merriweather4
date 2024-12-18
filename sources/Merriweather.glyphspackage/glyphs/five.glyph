@@ -1,5 +1,7 @@
 {
 glyphname = five;
+kernLeft = KO_five;
+kernRight = KO_five;
 layers = (
 {
 layerId = UUID0;

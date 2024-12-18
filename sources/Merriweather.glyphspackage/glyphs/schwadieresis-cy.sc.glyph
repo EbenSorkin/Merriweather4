@@ -125,7 +125,7 @@ shapes = (
 ref = "schwa-cy.sc";
 },
 {
-pos = (345,287);
+pos = (344,287);
 ref = dieresiscomb;
 }
 );

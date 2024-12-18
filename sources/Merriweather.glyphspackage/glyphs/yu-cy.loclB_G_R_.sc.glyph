@@ -6,10 +6,12 @@ layers = (
 layerId = UUID0;
 shapes = (
 {
+alignment = -1;
 ref = i.sc;
 },
 {
-pos = (658,0);
+alignment = -1;
+pos = (661,0);
 ref = o.sc;
 },
 {
@@ -18,15 +20,17 @@ pos = (181,-120);
 ref = shortbar_part.;
 }
 );
-width = 2002;
+width = 2005;
 },
 {
 layerId = "DEBB1CE4-A72D-4960-969E-E04A036D2FA1";
 shapes = (
 {
+alignment = -1;
 ref = i.sc;
 },
 {
+alignment = -1;
 pos = (755,0);
 ref = o.sc;
 },
@@ -118,9 +122,11 @@ width = 2238;
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
 shapes = (
 {
+alignment = -1;
 ref = i.sc;
 },
 {
+alignment = -1;
 pos = (495,0);
 ref = o.sc;
 },
@@ -173,9 +179,11 @@ width = 1612;
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
 shapes = (
 {
+alignment = -1;
 ref = i.sc;
 },
 {
+alignment = -1;
 pos = (665,0);
 ref = o.sc;
 },

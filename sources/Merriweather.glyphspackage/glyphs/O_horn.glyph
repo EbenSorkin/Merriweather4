@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = Ohorn;
+kernLeft = KO_O;
 layers = (
 {
 anchors = (
@@ -865,7 +866,7 @@ pos = (908,0);
 },
 {
 name = top;
-pos = (737,1486);
+pos = (738,1486);
 },
 {
 name = topleft;

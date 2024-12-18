@@ -1,5 +1,7 @@
 {
 glyphname = Idotaccent;
+kernLeft = KO_I;
+kernRight = KO_I;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -8,7 +10,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (199,0);
+pos = (201,0);
 ref = dotaccentcomb.case;
 }
 );
@@ -21,7 +23,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (193,0);
+pos = (199,0);
 ref = dotaccentcomb.case;
 }
 );
@@ -60,7 +62,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (162,0);
+pos = (157,0);
 ref = dotaccentcomb.case;
 }
 );
@@ -73,7 +75,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (166,0);
+pos = (153,0);
 ref = dotaccentcomb.case;
 }
 );
@@ -86,7 +88,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (188,0);
+pos = (164,0);
 ref = dotaccentcomb.case;
 }
 );
@@ -138,7 +140,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (184,0);
+pos = (170,0);
 ref = dotaccentcomb.case;
 }
 );
@@ -151,7 +153,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (153,0);
+pos = (152,0);
 ref = dotaccentcomb.case;
 }
 );

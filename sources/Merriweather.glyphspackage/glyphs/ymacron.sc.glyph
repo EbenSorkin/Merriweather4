@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = ymacron.sc;
+kernLeft = KO_y.sc;
 layers = (
 {
 layerId = UUID0;
@@ -126,7 +127,7 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (224,287);
+pos = (204,287);
 ref = macroncomb;
 }
 );

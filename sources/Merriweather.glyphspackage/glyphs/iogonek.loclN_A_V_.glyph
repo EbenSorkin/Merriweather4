@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = iogonek.loclNAV;
+kernLeft = KO_i;
+kernRight = KO_i;
 layers = (
 {
 layerId = UUID0;
@@ -59,7 +61,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-22,0);
+pos = (-25,0);
 ref = dotaccentcomb;
 },
 {

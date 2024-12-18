@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = aacute;
+kernLeft = KO_a;
+kernRight = KO_a;
 layers = (
 {
 layerId = UUID0;
@@ -61,7 +63,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (251,0);
+pos = (231,0);
 ref = acutecomb;
 }
 );

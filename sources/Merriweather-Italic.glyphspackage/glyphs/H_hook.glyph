@@ -5,94 +5,94 @@ layers = (
 guides = (
 {
 angle = 262.3146;
-pos = (345,745);
+pos = (409,745);
 }
 );
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
 shapes = (
 {
 alignment = -1;
-pos = (104,0);
+pos = (168,0);
 ref = _Hhook.part;
 },
 {
-pos = (-111,0);
+pos = (-47,0);
 ref = _hook.part;
 }
 );
-width = 1557;
+width = 1621;
 },
 {
 guides = (
 {
 angle = 262.2369;
-pos = (434,743);
+pos = (460,743);
 }
 );
 layerId = "27298932-82AF-4578-9425-6304FDB19058";
 shapes = (
 {
 alignment = -1;
-pos = (212,0);
+pos = (238,0);
 ref = _Hhook.part;
 },
 {
-pos = (-56,0);
+pos = (-30,0);
 ref = _hook.part;
 }
 );
-width = 1818;
+width = 1844;
 },
 {
 layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
 shapes = (
 {
 alignment = -1;
-pos = (115,0);
+pos = (173,0);
 ref = _Hhook.part;
 },
 {
-pos = (-113,0);
+pos = (-55,0);
 ref = _hook.part;
 }
 );
-width = 1689;
+width = 1747;
 },
 {
 layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
 shapes = (
 {
 alignment = -1;
-pos = (222,0);
+pos = (242,0);
 ref = _Hhook.part;
 },
 {
-pos = (-50,0);
+pos = (-30,0);
 ref = _hook.part;
 }
 );
-width = 1970;
+width = 1990;
 },
 {
 guides = (
 {
 angle = 262.1725;
-pos = (380,744);
+pos = (382,744);
 }
 );
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
 shapes = (
 {
 alignment = -1;
-pos = (170,0);
+pos = (172,0);
 ref = _Hhook.part;
 },
 {
-pos = (-50,0);
+pos = (-48,0);
 ref = _hook.part;
 }
 );
-width = 1544;
+width = 1546;
 },
 {
 guides = (
@@ -150,60 +150,60 @@ layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
 shapes = (
 {
 alignment = -1;
-pos = (104,0);
+pos = (184,0);
 ref = _Hhook.part;
 },
 {
-pos = (-135,0);
+pos = (-55,0);
 ref = _hook.part;
 }
 );
-width = 1402;
+width = 1482;
 },
 {
 layerId = "F8806197-5953-4DD8-B2B5-EF301301BB43";
 shapes = (
 {
 alignment = -1;
-pos = (104,0);
+pos = (251,0);
 ref = _Hhook.part;
 },
 {
-pos = (-180,0);
+pos = (-33,0);
 ref = _hook.part;
 }
 );
-width = 1535;
+width = 1682;
 },
 {
 layerId = "F318CEA5-7792-49D8-B68D-92025E304353";
 shapes = (
 {
 alignment = -1;
-pos = (104,0);
+pos = (165,0);
 ref = _Hhook.part;
 },
 {
-pos = (-105,0);
+pos = (-44,0);
 ref = _hook.part;
 }
 );
-width = 1378;
+width = 1439;
 },
 {
 layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
 shapes = (
 {
 alignment = -1;
-pos = (104,0);
+pos = (286,0);
 ref = _Hhook.part;
 },
 {
-pos = (-212,0);
+pos = (-30,0);
 ref = _hook.part;
 }
 );
-width = 1465;
+width = 1647;
 }
 );
 metricRight = H;

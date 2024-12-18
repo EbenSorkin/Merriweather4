@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = "Endescender-cy";
+kernLeft = KO_H;
 layers = (
 {
 layerId = UUID0;

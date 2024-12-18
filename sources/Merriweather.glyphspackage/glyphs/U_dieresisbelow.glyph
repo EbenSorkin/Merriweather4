@@ -1,5 +1,6 @@
 {
 glyphname = Udieresisbelow;
+kernLeft = KO_U;
 layers = (
 {
 layerId = UUID0;

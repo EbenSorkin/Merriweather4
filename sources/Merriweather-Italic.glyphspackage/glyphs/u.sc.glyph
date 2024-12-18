@@ -1,11 +1,12 @@
 {
 glyphname = u.sc;
+kernLeft = KO_u.sc;
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (563,0);
+pos = (583,0);
 },
 {
 name = center;
@@ -480,7 +481,7 @@ width = 1312;
 anchors = (
 {
 name = bottom;
-pos = (446,0);
+pos = (536,0);
 },
 {
 name = center;

@@ -1,6 +1,7 @@
 {
 color = 3;
 glyphname = Fhook;
+kernRight = KO_F;
 layers = (
 {
 background = {

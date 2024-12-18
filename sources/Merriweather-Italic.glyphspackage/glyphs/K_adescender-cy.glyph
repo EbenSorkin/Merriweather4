@@ -1,5 +1,7 @@
 {
 glyphname = "Kadescender-cy";
+kernLeft = "KO_En-cy";
+kernRight = "KO_Kadescender-cy";
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -99,7 +101,7 @@ shapes = (
 ref = "Ka-cy";
 },
 {
-pos = (998,0);
+pos = (999,0);
 ref = righttooth_part.;
 }
 );
@@ -125,7 +127,7 @@ shapes = (
 ref = "Ka-cy";
 },
 {
-pos = (1030,0);
+pos = (1040,0);
 ref = righttooth_part.;
 }
 );

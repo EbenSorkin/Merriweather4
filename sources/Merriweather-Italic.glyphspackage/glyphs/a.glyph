@@ -1,5 +1,7 @@
 {
 glyphname = a;
+kernLeft = KO_a;
+kernRight = KO_a;
 layers = (
 {
 anchors = (
@@ -17,7 +19,7 @@ pos = (904,20);
 },
 {
 name = ringhalfr;
-pos = (228,1164);
+pos = (688,1110);
 },
 {
 name = top;
@@ -102,7 +104,7 @@ pos = (924,20);
 },
 {
 name = ringhalfr;
-pos = (228,1164);
+pos = (732,1111);
 },
 {
 name = top;
@@ -187,7 +189,7 @@ pos = (964,0);
 },
 {
 name = ringhalfr;
-pos = (208,1164);
+pos = (759,1110);
 },
 {
 name = top;
@@ -272,7 +274,7 @@ pos = (916,0);
 },
 {
 name = ringhalfr;
-pos = (202,1164);
+pos = (726,1110);
 },
 {
 name = top;
@@ -357,7 +359,7 @@ pos = (870,0);
 },
 {
 name = ringhalfr;
-pos = (192,1164);
+pos = (640,1005);
 },
 {
 name = top;
@@ -497,11 +499,11 @@ pos = (782,0);
 },
 {
 name = ringhalfr;
-pos = (192,1164);
+pos = (580,1005);
 },
 {
 name = top;
-pos = (601,1005);
+pos = (599,1005);
 }
 );
 guides = (
@@ -600,11 +602,11 @@ pos = (938,0);
 },
 {
 name = ringhalfr;
-pos = (192,1164);
+pos = (678,1005);
 },
 {
 name = top;
-pos = (699,1005);
+pos = (659,1005);
 }
 );
 hints = (
@@ -685,7 +687,7 @@ pos = (840,0);
 },
 {
 name = ringhalfr;
-pos = (182,1164);
+pos = (631,1005);
 },
 {
 name = top;
@@ -770,7 +772,7 @@ pos = (779,0);
 },
 {
 name = ringhalfr;
-pos = (202,1164);
+pos = (658,1110);
 },
 {
 name = top;
@@ -860,11 +862,11 @@ pos = (857,20);
 },
 {
 name = ringhalfr;
-pos = (192,1164);
+pos = (672,1111);
 },
 {
 name = top;
-pos = (658,1108);
+pos = (658,1110);
 }
 );
 hints = (
@@ -945,7 +947,7 @@ pos = (739,0);
 },
 {
 name = ringhalfr;
-pos = (192,1164);
+pos = (590,1005);
 },
 {
 name = top;
@@ -1030,7 +1032,7 @@ pos = (793,0);
 },
 {
 name = ringhalfr;
-pos = (182,1164);
+pos = (577,1005);
 },
 {
 name = top;

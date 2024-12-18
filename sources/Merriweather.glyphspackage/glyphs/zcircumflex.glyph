@@ -1,5 +1,6 @@
 {
 glyphname = zcircumflex;
+kernLeft = KO_z;
 layers = (
 {
 layerId = UUID0;

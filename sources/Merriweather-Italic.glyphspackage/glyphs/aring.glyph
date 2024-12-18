@@ -1,5 +1,7 @@
 {
 glyphname = aring;
+kernLeft = KO_a;
+kernRight = KO_a;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -73,7 +75,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (272,0);
+pos = (270,0);
 ref = ringcomb;
 }
 );
@@ -86,7 +88,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (336,0);
+pos = (296,0);
 ref = ringcomb;
 }
 );
@@ -125,7 +127,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (246,-2);
+pos = (246,0);
 ref = ringcomb;
 }
 );

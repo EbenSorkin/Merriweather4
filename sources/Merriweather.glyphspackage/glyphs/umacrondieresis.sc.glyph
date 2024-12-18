@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = umacrondieresis.sc;
+kernLeft = KO_u.sc;
 layers = (
 {
 layerId = UUID0;
@@ -126,7 +127,7 @@ shapes = (
 ref = u.sc;
 },
 {
-pos = (328,287);
+pos = (308,287);
 ref = macroncomb_dieresiscomb;
 }
 );

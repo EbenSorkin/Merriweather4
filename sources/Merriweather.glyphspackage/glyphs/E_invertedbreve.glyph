@@ -1,5 +1,6 @@
 {
 glyphname = Einvertedbreve;
+kernRight = KO_E;
 layers = (
 {
 layerId = UUID0;

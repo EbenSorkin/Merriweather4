@@ -1,11 +1,13 @@
 {
 glyphname = L;
+kernLeft = KO_E;
+kernRight = KO_L;
 layers = (
 {
 anchors = (
 {
 name = belt;
-pos = (253,834);
+pos = (367,1002);
 },
 {
 name = bottom;
@@ -17,7 +19,7 @@ pos = (912,1133);
 },
 {
 name = center;
-pos = (400,743);
+pos = (360,743);
 },
 {
 name = period;
@@ -60,7 +62,7 @@ width = 1134;
 anchors = (
 {
 name = belt;
-pos = (239,821);
+pos = (432,1022);
 },
 {
 name = bottom;
@@ -72,7 +74,7 @@ pos = (1054,1133);
 },
 {
 name = center;
-pos = (442,743);
+pos = (402,743);
 },
 {
 name = period;
@@ -115,11 +117,11 @@ width = 1251;
 anchors = (
 {
 name = belt;
-pos = (245,821);
+pos = (442,1022);
 },
 {
 name = bottom;
-pos = (624,0);
+pos = (664,0);
 },
 {
 name = car;
@@ -127,7 +129,7 @@ pos = (1130,1133);
 },
 {
 name = center;
-pos = (428,743);
+pos = (435,743);
 },
 {
 name = period;
@@ -171,11 +173,11 @@ width = 1332;
 anchors = (
 {
 name = belt;
-pos = (263,834);
+pos = (367,1002);
 },
 {
 name = bottom;
-pos = (569,0);
+pos = (579,0);
 },
 {
 name = car;
@@ -183,7 +185,7 @@ pos = (1000,1134);
 },
 {
 name = center;
-pos = (437,743);
+pos = (367,743);
 },
 {
 name = period;
@@ -227,11 +229,11 @@ width = 1234;
 anchors = (
 {
 name = belt;
-pos = (188,782);
+pos = (418,1002);
 },
 {
 name = bottom;
-pos = (549,0);
+pos = (559,0);
 },
 {
 name = car;
@@ -283,11 +285,11 @@ width = 1192;
 anchors = (
 {
 name = belt;
-pos = (220,749);
+pos = (336,992);
 },
 {
 name = bottom;
-pos = (510,0);
+pos = (490,0);
 },
 {
 name = car;
@@ -295,7 +297,7 @@ pos = (909,1133);
 },
 {
 name = center;
-pos = (412,743);
+pos = (342,743);
 },
 {
 name = period;
@@ -339,11 +341,11 @@ width = 1080;
 anchors = (
 {
 name = belt;
-pos = (180,782);
+pos = (408,1002);
 },
 {
 name = bottom;
-pos = (538,0);
+pos = (578,0);
 },
 {
 name = car;
@@ -395,11 +397,11 @@ width = 1214;
 anchors = (
 {
 name = belt;
-pos = (198,749);
+pos = (316,992);
 },
 {
 name = bottom;
-pos = (532,0);
+pos = (522,0);
 },
 {
 name = car;
@@ -407,7 +409,7 @@ pos = (965,1133);
 },
 {
 name = center;
-pos = (399,743);
+pos = (289,745);
 },
 {
 name = period;
@@ -450,11 +452,11 @@ width = 1163;
 anchors = (
 {
 name = belt;
-pos = (251,834);
+pos = (357,1002);
 },
 {
 name = bottom;
-pos = (459,0);
+pos = (479,0);
 },
 {
 name = car;
@@ -462,7 +464,7 @@ pos = (910,1133);
 },
 {
 name = center;
-pos = (365,743);
+pos = (345,743);
 },
 {
 name = period;
@@ -506,11 +508,11 @@ width = 1022;
 anchors = (
 {
 name = belt;
-pos = (222,834);
+pos = (422,1022);
 },
 {
 name = bottom;
-pos = (563,0);
+pos = (573,0);
 },
 {
 name = car;
@@ -518,7 +520,7 @@ pos = (990,1133);
 },
 {
 name = center;
-pos = (428,743);
+pos = (398,743);
 },
 {
 name = period;
@@ -562,11 +564,11 @@ width = 1126;
 anchors = (
 {
 name = belt;
-pos = (233,834);
+pos = (346,992);
 },
 {
 name = bottom;
-pos = (479,0);
+pos = (459,0);
 },
 {
 name = car;
@@ -574,7 +576,7 @@ pos = (885,1133);
 },
 {
 name = center;
-pos = (362,743);
+pos = (332,743);
 },
 {
 name = period;
@@ -601,8 +603,8 @@ nodes = (
 (746,93,l),
 (279,64,l),
 (465,1420,l),
-(605,1450,l),
-(610,1486,l),
+(625,1450,l),
+(630,1486,l),
 (199,1486,l),
 (194,1450,l),
 (315,1420,l),
@@ -618,11 +620,11 @@ width = 1019;
 anchors = (
 {
 name = belt;
-pos = (200,834);
+pos = (408,1002);
 },
 {
 name = bottom;
-pos = (544,0);
+pos = (564,0);
 },
 {
 name = car;
@@ -630,7 +632,7 @@ pos = (922,1135);
 },
 {
 name = center;
-pos = (407,743);
+pos = (377,743);
 },
 {
 name = period;

@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = ohornacute;
+kernLeft = KO_o;
 layers = (
 {
 layerId = UUID0;

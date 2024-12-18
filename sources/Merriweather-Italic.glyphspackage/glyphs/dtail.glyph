@@ -1,5 +1,6 @@
 {
 glyphname = dtail;
+kernLeft = KO_d;
 layers = (
 {
 anchors = (

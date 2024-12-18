@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = Pstroke;
+kernRight = KO_P;
 layers = (
 {
 layerId = UUID0;

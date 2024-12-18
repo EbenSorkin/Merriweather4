@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = rdotbelowmacron.sc;
+kernRight = KO_r.sc;
 layers = (
 {
 layerId = UUID0;
@@ -183,7 +184,7 @@ pos = (504,0);
 ref = dotbelowcomb;
 },
 {
-pos = (134,287);
+pos = (114,287);
 ref = macroncomb;
 }
 );

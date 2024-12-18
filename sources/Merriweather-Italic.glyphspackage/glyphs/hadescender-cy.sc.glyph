@@ -56,7 +56,7 @@ width = 1373;
 {
 guides = (
 {
-pos = (8566,69);
+pos = (15870,69);
 }
 );
 layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
@@ -104,7 +104,7 @@ shapes = (
 ref = x.sc;
 },
 {
-pos = (1005,0);
+pos = (1006,0);
 ref = righttooth_part.;
 }
 );
@@ -130,7 +130,7 @@ shapes = (
 ref = x.sc;
 },
 {
-pos = (755,0);
+pos = (765,0);
 ref = righttooth_part.;
 }
 );

@@ -1,5 +1,7 @@
 {
 glyphname = Acircumflex;
+kernLeft = KO_A;
+kernRight = KO_A;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -8,7 +10,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (306,0);
+pos = (310,0);
 ref = circumflexcomb.case;
 }
 );
@@ -21,7 +23,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (259,0);
+pos = (269,0);
 ref = circumflexcomb.case;
 }
 );
@@ -34,7 +36,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (339,0);
+pos = (359,0);
 ref = circumflexcomb.case;
 }
 );
@@ -47,7 +49,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (356,0);
+pos = (364,0);
 ref = circumflexcomb.case;
 }
 );
@@ -60,7 +62,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (220,0);
+pos = (238,0);
 ref = circumflexcomb.case;
 }
 );
@@ -73,7 +75,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (263,0);
+pos = (283,0);
 ref = circumflexcomb.case;
 }
 );
@@ -86,7 +88,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (193,0);
+pos = (199,0);
 ref = circumflexcomb.case;
 }
 );
@@ -112,7 +114,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (214,0);
+pos = (216,0);
 ref = circumflexcomb.case;
 }
 );

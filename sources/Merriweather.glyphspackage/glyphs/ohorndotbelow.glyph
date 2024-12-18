@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = ohorndotbelow;
+kernLeft = KO_o;
 layers = (
 {
 layerId = UUID0;

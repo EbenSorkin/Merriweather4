@@ -1,5 +1,6 @@
 {
 glyphname = Udieresismacron;
+kernLeft = KO_U;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -80,7 +81,7 @@ pos = (367,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (310,342);
+pos = (312,342);
 ref = macroncomb.case;
 }
 );
@@ -97,7 +98,7 @@ pos = (369,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (323,406);
+pos = (326,406);
 ref = macroncomb.case;
 }
 );
@@ -114,7 +115,7 @@ pos = (396,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (343,342);
+pos = (339,342);
 ref = macroncomb.case;
 }
 );
@@ -131,7 +132,7 @@ pos = (349,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (301,406);
+pos = (302,406);
 ref = macroncomb.case;
 }
 );
@@ -182,7 +183,7 @@ pos = (332,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (269,342);
+pos = (267,342);
 ref = macroncomb.case;
 }
 );
@@ -199,7 +200,7 @@ pos = (320,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (278,406);
+pos = (275,406);
 ref = macroncomb.case;
 }
 );

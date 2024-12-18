@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = o;
+kernLeft = KO_o;
+kernRight = KO_o;
 layers = (
 {
 anchors = (
@@ -510,7 +512,7 @@ pos = (613,507);
 },
 {
 name = ogonek;
-pos = (863,12);
+pos = (883,12);
 },
 {
 name = top;
@@ -572,7 +574,7 @@ pos = (528,508);
 },
 {
 name = ogonek;
-pos = (735,14);
+pos = (745,14);
 },
 {
 name = top;
@@ -634,7 +636,7 @@ pos = (615,558);
 },
 {
 name = ogonek;
-pos = (867,17);
+pos = (877,17);
 },
 {
 name = top;
@@ -699,7 +701,7 @@ pos = (651,559);
 },
 {
 name = ogonek;
-pos = (868,9);
+pos = (888,9);
 },
 {
 name = top;

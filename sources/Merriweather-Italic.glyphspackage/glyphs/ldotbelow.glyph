@@ -61,8 +61,7 @@ alignment = -1;
 ref = l;
 },
 {
-alignment = -1;
-pos = (315,0);
+pos = (-12,0);
 ref = dotbelowcomb;
 }
 );

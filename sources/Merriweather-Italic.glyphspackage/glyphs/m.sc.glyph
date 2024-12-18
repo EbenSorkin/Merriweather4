@@ -1,5 +1,7 @@
 {
 glyphname = m.sc;
+kernLeft = KO_m.sc;
+kernRight = KO_m.sc;
 layers = (
 {
 anchors = (
@@ -460,7 +462,7 @@ pos = (670,0);
 },
 {
 name = bottomright;
-pos = (1489,0);
+pos = (1495,0);
 },
 {
 name = top;

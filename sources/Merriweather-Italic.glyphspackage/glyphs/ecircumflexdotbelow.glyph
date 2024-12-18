@@ -1,5 +1,6 @@
 {
 glyphname = ecircumflexdotbelow;
+kernLeft = KO_e;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -42,7 +43,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (294,0);
+pos = (234,0);
 ref = dotbelowcomb;
 },
 {

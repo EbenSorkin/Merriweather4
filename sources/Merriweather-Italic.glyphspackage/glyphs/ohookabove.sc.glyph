@@ -1,5 +1,7 @@
 {
 glyphname = ohookabove.sc;
+kernLeft = KO_o.sc;
+kernRight = "KO_o-cy.sc";
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -34,7 +36,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (592,182);
+pos = (598,182);
 ref = hookabovecomb;
 }
 );
@@ -47,7 +49,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (574,182);
+pos = (543,182);
 ref = hookabovecomb;
 }
 );
@@ -99,7 +101,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (524,287);
+pos = (514,287);
 ref = hookabovecomb;
 }
 );
@@ -112,7 +114,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (476,182);
+pos = (452,182);
 ref = hookabovecomb;
 }
 );
@@ -125,7 +127,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (458,182);
+pos = (452,182);
 ref = hookabovecomb;
 }
 );
@@ -138,7 +140,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (444,287);
+pos = (434,287);
 ref = hookabovecomb;
 }
 );

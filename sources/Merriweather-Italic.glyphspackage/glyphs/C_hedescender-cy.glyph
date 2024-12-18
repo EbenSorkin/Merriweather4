@@ -1,5 +1,6 @@
 {
 glyphname = "Chedescender-cy";
+kernLeft = KO_ordfeminine;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -99,7 +100,7 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (962,0);
+pos = (963,0);
 ref = righttooth_part.;
 }
 );
@@ -125,7 +126,7 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (928,0);
+pos = (938,0);
 ref = righttooth_part.;
 }
 );

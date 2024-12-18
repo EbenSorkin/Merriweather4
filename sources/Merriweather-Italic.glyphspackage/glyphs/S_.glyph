@@ -1,5 +1,7 @@
 {
 glyphname = S;
+kernLeft = KO_S;
+kernRight = KO_S;
 layers = (
 {
 anchors = (
@@ -147,7 +149,7 @@ pos = (602,764);
 },
 {
 name = top;
-pos = (686,1486);
+pos = (770,1486);
 }
 );
 color = 1;

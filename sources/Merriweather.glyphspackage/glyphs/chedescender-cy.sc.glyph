@@ -114,48 +114,6 @@ ref = righttooth_part.;
 width = 1190;
 },
 {
-annotations = (
-{
-pos = (1544,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (825,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (692,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (1544,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (825,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (692,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (38,1255);
-type = Circle;
-width = 30;
-},
-{
-pos = (757,37);
-type = Circle;
-width = 30;
-}
-);
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
 shapes = (
 {

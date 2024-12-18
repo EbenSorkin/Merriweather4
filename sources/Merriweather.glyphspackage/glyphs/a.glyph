@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = a;
+kernLeft = KO_a;
+kernRight = KO_a;
 layers = (
 {
 anchors = (
@@ -11,10 +13,6 @@ pos = (521,0);
 {
 name = ogonek;
 pos = (995,10);
-},
-{
-name = ringhalfr;
-pos = (70,1234);
 },
 {
 name = top;
@@ -90,10 +88,6 @@ name = ogonek;
 pos = (1102,10);
 },
 {
-name = ringhalfr;
-pos = (67,1234);
-},
-{
 name = top;
 pos = (576,1112);
 }
@@ -165,10 +159,6 @@ pos = (495,0);
 {
 name = ogonek;
 pos = (950,10);
-},
-{
-name = ringhalfr;
-pos = (67,1164);
 },
 {
 name = top;
@@ -244,10 +234,6 @@ name = ogonek;
 pos = (954,10);
 },
 {
-name = ringhalfr;
-pos = (64,1234);
-},
-{
 name = top;
 pos = (484,1112);
 }
@@ -321,12 +307,8 @@ name = ogonek;
 pos = (862,10);
 },
 {
-name = ringhalfr;
-pos = (67,1234);
-},
-{
 name = top;
-pos = (446,1110);
+pos = (426,1110);
 }
 );
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";
@@ -396,10 +378,6 @@ pos = (444,0);
 {
 name = ogonek;
 pos = (831,10);
-},
-{
-name = ringhalfr;
-pos = (67,1194);
 },
 {
 name = top;
@@ -475,10 +453,6 @@ name = ogonek;
 pos = (760,10);
 },
 {
-name = ringhalfr;
-pos = (67,1204);
-},
-{
 name = top;
 pos = (385,1005);
 }
@@ -550,10 +524,6 @@ pos = (456,0);
 {
 name = ogonek;
 pos = (861,10);
-},
-{
-name = ringhalfr;
-pos = (67,1204);
 },
 {
 name = top;
@@ -629,10 +599,6 @@ name = ogonek;
 pos = (1026,10);
 },
 {
-name = ringhalfr;
-pos = (67,1194);
-},
-{
 name = top;
 pos = (548,1005);
 }
@@ -706,10 +672,6 @@ name = ogonek;
 pos = (898,10);
 },
 {
-name = ringhalfr;
-pos = (67,1204);
-},
-{
 name = top;
 pos = (460,1005);
 }
@@ -781,10 +743,6 @@ pos = (571,0);
 {
 name = ogonek;
 pos = (1108,10);
-},
-{
-name = ringhalfr;
-pos = (67,1234);
 },
 {
 name = top;
@@ -861,10 +819,6 @@ pos = (592,0);
 {
 name = ogonek;
 pos = (1156,10);
-},
-{
-name = ringhalfr;
-pos = (67,1234);
 },
 {
 name = top;

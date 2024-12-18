@@ -1,5 +1,7 @@
 {
 glyphname = Wgrave;
+kernLeft = KO_W;
+kernRight = KO_W;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -73,7 +75,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (562,0);
+pos = (552,0);
 ref = gravecomb.case;
 }
 );

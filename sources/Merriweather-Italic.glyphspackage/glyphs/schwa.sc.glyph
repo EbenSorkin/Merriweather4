@@ -1,5 +1,6 @@
 {
 glyphname = schwa.sc;
+kernRight = "KO_o-cy.sc";
 layers = (
 {
 anchors = (

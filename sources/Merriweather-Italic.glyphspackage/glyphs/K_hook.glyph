@@ -1,5 +1,6 @@
 {
 glyphname = Khook;
+kernLeft = KO_E;
 layers = (
 {
 anchors = (

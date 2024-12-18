@@ -1,5 +1,7 @@
 {
 glyphname = odieresis;
+kernLeft = "KO_ef-cy";
+kernRight = KO_o;
 layers = (
 {
 layerId = UUID0;
@@ -125,7 +127,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (247,0);
+pos = (246,0);
 ref = dieresiscomb;
 }
 );

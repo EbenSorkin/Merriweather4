@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = ycircumflex.sc;
+kernLeft = KO_y.sc;
 layers = (
 {
 layerId = UUID0;

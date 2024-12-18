@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = "ertick-cy";
+kernLeft = KO_p;
 layers = (
 {
 background = {

@@ -1,5 +1,6 @@
 {
 glyphname = comma;
+kernLeft = KO_comma;
 layers = (
 {
 background = {

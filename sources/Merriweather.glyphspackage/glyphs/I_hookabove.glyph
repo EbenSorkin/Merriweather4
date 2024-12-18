@@ -1,5 +1,7 @@
 {
 glyphname = Ihookabove;
+kernLeft = KO_I;
+kernRight = KO_I;
 layers = (
 {
 layerId = UUID0;

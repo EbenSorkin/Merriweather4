@@ -1,5 +1,7 @@
 {
 glyphname = ucaron;
+kernLeft = KO_u;
+kernRight = KO_u;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -152,8 +154,7 @@ alignment = -1;
 ref = u;
 },
 {
-alignment = -1;
-pos = (503,-18);
+pos = (164,0);
 ref = caroncomb;
 }
 );

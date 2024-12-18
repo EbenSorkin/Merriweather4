@@ -148,12 +148,6 @@ nodes = (
 width = 1189;
 },
 {
-annotations = (
-{
-pos = (730,325);
-type = Plus;
-}
-);
 guides = (
 {
 angle = 155.2437;

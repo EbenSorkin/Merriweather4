@@ -12,7 +12,7 @@ pos = (207,0);
 ref = tildecomb;
 },
 {
-pos = (255,333);
+pos = (255,303);
 ref = dieresiscomb;
 }
 );
@@ -29,7 +29,7 @@ pos = (208,0);
 ref = tildecomb;
 },
 {
-pos = (193,413);
+pos = (193,383);
 ref = dieresiscomb;
 }
 );
@@ -63,7 +63,7 @@ pos = (133,0);
 ref = tildecomb;
 },
 {
-pos = (133,393);
+pos = (133,363);
 ref = dieresiscomb;
 }
 );
@@ -80,7 +80,7 @@ pos = (158,0);
 ref = tildecomb;
 },
 {
-pos = (181,333);
+pos = (181,303);
 ref = dieresiscomb;
 }
 );
@@ -165,7 +165,7 @@ pos = (242,0);
 ref = tildecomb;
 },
 {
-pos = (257,299);
+pos = (256,299);
 ref = dieresiscomb;
 }
 );
@@ -182,7 +182,7 @@ pos = (227,0);
 ref = tildecomb;
 },
 {
-pos = (265,333);
+pos = (265,303);
 ref = dieresiscomb;
 }
 );
@@ -202,7 +202,7 @@ pos = (229,0);
 ref = tildecomb;
 },
 {
-pos = (231,393);
+pos = (231,363);
 ref = dieresiscomb;
 }
 );

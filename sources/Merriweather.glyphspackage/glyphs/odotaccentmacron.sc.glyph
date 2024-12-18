@@ -35,7 +35,7 @@ shapes = (
 ref = o.sc;
 },
 {
-pos = (345,287);
+pos = (342,287);
 ref = dotaccentcomb_macroncomb;
 }
 );

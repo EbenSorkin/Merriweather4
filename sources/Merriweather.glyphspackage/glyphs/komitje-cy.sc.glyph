@@ -256,28 +256,6 @@ nodes = (
 width = 1603;
 },
 {
-annotations = (
-{
-pos = (637,1256);
-type = Circle;
-width = 30;
-},
-{
-pos = (923,1256);
-type = Circle;
-width = 30;
-},
-{
-pos = (206,1256);
-type = Circle;
-width = 30;
-},
-{
-pos = (484,1256);
-type = Circle;
-width = 30;
-}
-);
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
 shapes = (
 {

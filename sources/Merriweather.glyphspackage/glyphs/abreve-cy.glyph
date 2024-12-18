@@ -1,5 +1,7 @@
 {
 glyphname = "abreve-cy";
+kernLeft = KO_agrave;
+kernRight = KO_a;
 layers = (
 {
 layerId = UUID0;
@@ -60,7 +62,7 @@ shapes = (
 ref = "a-cy";
 },
 {
-pos = (120,0);
+pos = (100,0);
 ref = "brevecomb-cy";
 }
 );

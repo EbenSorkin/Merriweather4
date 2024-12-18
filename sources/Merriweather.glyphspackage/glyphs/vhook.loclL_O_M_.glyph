@@ -1,6 +1,7 @@
 {
 color = 4;
-glyphname = vhook.loclTOD0;
+glyphname = vhook.loclLOM;
+kernLeft = KO_v;
 layers = (
 {
 anchors = (

@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = eth;
+kernLeft = "KO_ef-cy";
 layers = (
 {
 layerId = UUID0;

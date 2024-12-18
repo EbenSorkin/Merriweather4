@@ -1,5 +1,7 @@
 {
 glyphname = "Umacron-cy";
+kernLeft = "KO_U-cy";
+kernRight = "KO_U-cy";
 layers = (
 {
 anchors = (
@@ -110,7 +112,7 @@ shapes = (
 ref = "U-cy";
 },
 {
-pos = (243,0);
+pos = (246,0);
 ref = macroncomb.case;
 }
 );
@@ -133,7 +135,7 @@ shapes = (
 ref = "U-cy";
 },
 {
-pos = (225,0);
+pos = (227,0);
 ref = macroncomb.case;
 }
 );
@@ -156,7 +158,7 @@ shapes = (
 ref = "U-cy";
 },
 {
-pos = (270,0);
+pos = (271,0);
 ref = macroncomb.case;
 }
 );
@@ -179,7 +181,7 @@ shapes = (
 ref = "U-cy";
 },
 {
-pos = (245,0);
+pos = (241,0);
 ref = macroncomb.case;
 }
 );
@@ -248,7 +250,7 @@ shapes = (
 ref = "U-cy";
 },
 {
-pos = (210,0);
+pos = (208,0);
 ref = macroncomb.case;
 }
 );
@@ -271,7 +273,7 @@ shapes = (
 ref = "U-cy";
 },
 {
-pos = (235,0);
+pos = (232,0);
 ref = macroncomb.case;
 }
 );

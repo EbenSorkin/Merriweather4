@@ -1,5 +1,7 @@
 {
 glyphname = hcircumflex;
+kernLeft = KO_h;
+kernRight = KO_n;
 layers = (
 {
 layerId = UUID0;

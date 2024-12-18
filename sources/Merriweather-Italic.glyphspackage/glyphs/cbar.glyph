@@ -40,7 +40,7 @@ ref = c;
 {
 alignment = -1;
 anchor = strokebar;
-pos = (-123,-187);
+pos = (-153,-187);
 ref = shortbar_part.;
 }
 );
@@ -55,7 +55,7 @@ ref = c;
 {
 alignment = -1;
 anchor = strokebar;
-pos = (-128,-207);
+pos = (-158,-207);
 ref = shortbar_part.;
 }
 );

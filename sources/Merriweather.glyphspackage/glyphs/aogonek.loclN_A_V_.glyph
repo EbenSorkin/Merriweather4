@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = aogonek.loclNAV;
+kernLeft = KO_a;
+kernRight = KO_a;
 layers = (
 {
 layerId = UUID0;

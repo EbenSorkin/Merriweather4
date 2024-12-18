@@ -1,5 +1,7 @@
 {
 glyphname = igrave;
+kernLeft = "KO_yi-cy";
+kernRight = KO_i;
 layers = (
 {
 layerId = UUID0;

@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = aemacron;
+kernLeft = KO_a;
+kernRight = KO_e;
 layers = (
 {
 layerId = UUID0;
@@ -139,7 +141,7 @@ shapes = (
 ref = ae;
 },
 {
-pos = (358,0);
+pos = (338,0);
 ref = macroncomb;
 }
 );

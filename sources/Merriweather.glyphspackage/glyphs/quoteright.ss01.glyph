@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = quoteright.ss01;
+kernLeft = KO_quoteright.ss01;
+kernRight = KO_quoteright.ss01;
 layers = (
 {
 layerId = UUID0;

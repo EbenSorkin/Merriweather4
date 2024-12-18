@@ -1,6 +1,7 @@
 {
 color = 9;
 glyphname = "Pemiddlehook-cy";
+kernLeft = "KO_Ka-cy";
 layers = (
 {
 background = {

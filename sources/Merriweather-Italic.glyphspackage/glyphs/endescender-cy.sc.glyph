@@ -47,7 +47,7 @@ shapes = (
 ref = h.sc;
 },
 {
-pos = (1058,0);
+pos = (1060,0);
 ref = righttooth_part.;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = h.sc;
 },
 {
-pos = (1099,0);
+pos = (1100,0);
 ref = righttooth_part.;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = h.sc;
 },
 {
-pos = (1072,0);
+pos = (1073,0);
 ref = righttooth_part.;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = h.sc;
 },
 {
-pos = (907,0);
+pos = (914,0);
 ref = righttooth_part.;
 }
 );
@@ -125,7 +125,7 @@ shapes = (
 ref = h.sc;
 },
 {
-pos = (993,0);
+pos = (1003,0);
 ref = righttooth_part.;
 }
 );
@@ -138,7 +138,7 @@ shapes = (
 ref = h.sc;
 },
 {
-pos = (847,0);
+pos = (849,0);
 ref = righttooth_part.;
 }
 );

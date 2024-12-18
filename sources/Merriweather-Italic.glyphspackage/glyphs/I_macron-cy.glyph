@@ -1,5 +1,7 @@
 {
 glyphname = "Imacron-cy";
+kernLeft = "KO_En-cy";
+kernRight = "KO_Ii-cy";
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -60,7 +62,7 @@ shapes = (
 ref = "Ii-cy";
 },
 {
-pos = (306,0);
+pos = (309,0);
 ref = macroncomb.case;
 }
 );
@@ -73,7 +75,7 @@ shapes = (
 ref = "Ii-cy";
 },
 {
-pos = (290,0);
+pos = (292,0);
 ref = macroncomb.case;
 }
 );
@@ -86,7 +88,7 @@ shapes = (
 ref = "Ii-cy";
 },
 {
-pos = (303,0);
+pos = (304,0);
 ref = macroncomb.case;
 }
 );
@@ -99,7 +101,7 @@ shapes = (
 ref = "Ii-cy";
 },
 {
-pos = (301,0);
+pos = (297,0);
 ref = macroncomb.case;
 }
 );
@@ -138,7 +140,7 @@ shapes = (
 ref = "Ii-cy";
 },
 {
-pos = (263,0);
+pos = (261,0);
 ref = macroncomb.case;
 }
 );
@@ -151,7 +153,7 @@ shapes = (
 ref = "Ii-cy";
 },
 {
-pos = (261,0);
+pos = (258,0);
 ref = macroncomb.case;
 }
 );

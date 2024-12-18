@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = Zstroke;
+kernLeft = KO_Z;
 layers = (
 {
 layerId = UUID0;

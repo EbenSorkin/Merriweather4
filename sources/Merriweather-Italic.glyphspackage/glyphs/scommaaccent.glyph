@@ -1,5 +1,7 @@
 {
 glyphname = scommaaccent;
+kernLeft = KO_s;
+kernRight = KO_s;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -21,7 +23,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (228,0);
+pos = (199,0);
 ref = commaaccentcomb;
 }
 );
@@ -73,7 +75,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (242,0);
+pos = (253,0);
 ref = commaaccentcomb;
 }
 );
@@ -99,7 +101,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (266,0);
+pos = (273,0);
 ref = commaaccentcomb;
 }
 );
@@ -125,7 +127,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (219,0);
+pos = (199,0);
 ref = commaaccentcomb;
 }
 );
@@ -138,7 +140,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (246,0);
+pos = (254,0);
 ref = commaaccentcomb;
 }
 );

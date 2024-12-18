@@ -42,11 +42,11 @@ shapes = (
 ref = S;
 },
 {
-pos = (385,0);
+pos = (469,0);
 ref = acutecomb.case;
 },
 {
-pos = (404,413);
+pos = (488,413);
 ref = dotaccentcomb.case;
 }
 );
@@ -80,7 +80,7 @@ pos = (484,-2);
 ref = acutecomb.case;
 },
 {
-pos = (526,417);
+pos = (529,417);
 ref = dotaccentcomb.case;
 }
 );
@@ -148,7 +148,7 @@ pos = (421,0);
 ref = acutecomb.case;
 },
 {
-pos = (502,393);
+pos = (532,393);
 ref = dotaccentcomb.case;
 }
 );

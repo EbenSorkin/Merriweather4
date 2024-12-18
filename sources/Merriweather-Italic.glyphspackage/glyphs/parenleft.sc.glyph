@@ -1,5 +1,7 @@
 {
 glyphname = parenleft.sc;
+kernLeft = KO_parenleft;
+kernRight = KO_parenleft.sc;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";

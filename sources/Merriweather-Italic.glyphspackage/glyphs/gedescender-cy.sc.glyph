@@ -1,4 +1,5 @@
 {
+color = 6;
 glyphname = "gedescender-cy.sc";
 layers = (
 {
@@ -99,7 +100,7 @@ shapes = (
 ref = "ge-cy.sc";
 },
 {
-pos = (280,0);
+pos = (281,0);
 ref = righttooth_part.;
 }
 );
@@ -125,7 +126,7 @@ shapes = (
 ref = "ge-cy.sc";
 },
 {
-pos = (370,0);
+pos = (380,0);
 ref = righttooth_part.;
 }
 );

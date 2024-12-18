@@ -1,5 +1,7 @@
 {
 glyphname = emacrongrave;
+kernLeft = "KO_io-cy";
+kernRight = KO_e;
 layers = (
 {
 layerId = UUID0;
@@ -46,7 +48,7 @@ pos = (69,0);
 ref = macroncomb;
 },
 {
-pos = (-11,338);
+pos = (-11,300);
 ref = gravecomb;
 }
 );
@@ -97,7 +99,7 @@ pos = (28,0);
 ref = macroncomb;
 },
 {
-pos = (-12,338);
+pos = (-12,300);
 ref = gravecomb;
 }
 );
@@ -114,7 +116,7 @@ pos = (83,0);
 ref = macroncomb;
 },
 {
-pos = (39,202);
+pos = (39,232);
 ref = gravecomb;
 }
 );
@@ -131,7 +133,7 @@ pos = (104,0);
 ref = macroncomb;
 },
 {
-pos = (38,202);
+pos = (38,232);
 ref = gravecomb;
 }
 );
@@ -148,7 +150,7 @@ pos = (139,0);
 ref = macroncomb;
 },
 {
-pos = (80,338);
+pos = (80,300);
 ref = gravecomb;
 }
 );
@@ -161,11 +163,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (100,0);
+pos = (80,0);
 ref = macroncomb;
 },
 {
-pos = (32,202);
+pos = (32,232);
 ref = gravecomb;
 }
 );

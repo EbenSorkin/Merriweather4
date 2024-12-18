@@ -1,5 +1,6 @@
 {
 glyphname = Uhornhookabove;
+kernLeft = KO_U;
 layers = (
 {
 layerId = UUID0;

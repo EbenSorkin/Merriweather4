@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = oogonek;
+kernLeft = KO_o;
+kernRight = KO_o;
 layers = (
 {
 layerId = UUID0;
@@ -113,7 +115,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (325,4);
+pos = (345,4);
 ref = ogonekcomb;
 }
 );
@@ -126,7 +128,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (279,3);
+pos = (289,3);
 ref = ogonekcomb;
 }
 );
@@ -139,7 +141,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (346,9);
+pos = (356,9);
 ref = ogonekcomb;
 }
 );
@@ -155,7 +157,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (281,1);
+pos = (301,1);
 ref = ogonekcomb;
 }
 );

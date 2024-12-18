@@ -1,5 +1,7 @@
 {
 glyphname = "El-cy.loclBGR";
+kernLeft = KO_A;
+kernRight = "KO_El-cy.loclBGR";
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";

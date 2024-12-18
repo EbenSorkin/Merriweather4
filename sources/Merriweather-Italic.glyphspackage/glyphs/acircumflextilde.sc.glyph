@@ -1,5 +1,6 @@
 {
 glyphname = acircumflextilde.sc;
+kernRight = "KO_a-cy.sc";
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -8,7 +9,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (338,182);
+pos = (342,182);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -21,7 +22,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (264,182);
+pos = (269,182);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -34,7 +35,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (316,182);
+pos = (315,182);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -47,7 +48,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (397,182);
+pos = (395,182);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -86,7 +87,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (347,287);
+pos = (342,287);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -99,7 +100,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (285,287);
+pos = (291,287);
 ref = circumflexcomb_tildecomb;
 }
 );

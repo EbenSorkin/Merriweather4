@@ -1,5 +1,7 @@
 {
 glyphname = Sacute.loclPLK;
+kernLeft = KO_S;
+kernRight = KO_S;
 layers = (
 {
 layerId = UUID0;

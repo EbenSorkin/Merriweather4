@@ -1,5 +1,7 @@
 {
 glyphname = acircumflextilde;
+kernLeft = KO_agrave;
+kernRight = KO_a;
 layers = (
 {
 layerId = UUID0;
@@ -60,7 +62,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (137,0);
+pos = (117,0);
 ref = circumflexcomb_tildecomb;
 }
 );

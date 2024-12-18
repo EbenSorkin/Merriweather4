@@ -1,5 +1,6 @@
 {
 glyphname = "ertick-cy.sc";
+kernLeft = KO_e.sc;
 layers = (
 {
 anchors = (

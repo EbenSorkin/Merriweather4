@@ -1,5 +1,6 @@
 {
 glyphname = "dje-cy";
+kernLeft = KO_h;
 layers = (
 {
 layerId = UUID0;

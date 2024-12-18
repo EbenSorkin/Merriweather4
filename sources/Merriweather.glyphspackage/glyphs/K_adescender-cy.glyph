@@ -1,5 +1,7 @@
 {
 glyphname = "Kadescender-cy";
+kernLeft = "KO_Ka-cy";
+kernRight = "KO_Kadescender-cy";
 layers = (
 {
 layerId = UUID0;

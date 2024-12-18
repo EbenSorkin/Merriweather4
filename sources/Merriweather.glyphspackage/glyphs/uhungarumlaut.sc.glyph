@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = uhungarumlaut.sc;
+kernLeft = KO_u.sc;
+kernRight = KO_u.sc;
 layers = (
 {
 layerId = UUID0;

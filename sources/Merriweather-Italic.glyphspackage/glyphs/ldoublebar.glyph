@@ -11,12 +11,12 @@ ref = l;
 },
 {
 alignment = -1;
-pos = (-24,118);
+pos = (-34,118);
 ref = strokecomb_part.;
 },
 {
 alignment = -1;
-pos = (20,435);
+pos = (10,435);
 ref = strokecomb_part.;
 }
 );
@@ -53,12 +53,12 @@ ref = l;
 },
 {
 alignment = -1;
-pos = (-24,118);
+pos = (-36,118);
 ref = strokecomb_part.;
 },
 {
 alignment = -1;
-pos = (20,435);
+pos = (8,435);
 ref = strokecomb_part.;
 }
 );
@@ -74,12 +74,12 @@ ref = l;
 },
 {
 alignment = -1;
-pos = (-24,118);
+pos = (-84,118);
 ref = strokecomb_part.;
 },
 {
 alignment = -1;
-pos = (20,435);
+pos = (-40,435);
 ref = strokecomb_part.;
 }
 );
@@ -137,12 +137,12 @@ ref = l;
 },
 {
 alignment = -1;
-pos = (-24,118);
+pos = (-64,118);
 ref = strokecomb_part.;
 },
 {
 alignment = -1;
-pos = (20,435);
+pos = (-13,435);
 ref = strokecomb_part.;
 }
 );
@@ -158,12 +158,12 @@ ref = l;
 },
 {
 alignment = -1;
-pos = (-24,118);
+pos = (-102,118);
 ref = strokecomb_part.;
 },
 {
 alignment = -1;
-pos = (20,435);
+pos = (-58,435);
 ref = strokecomb_part.;
 }
 );

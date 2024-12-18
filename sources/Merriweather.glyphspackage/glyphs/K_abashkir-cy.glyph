@@ -1,5 +1,6 @@
 {
 glyphname = "Kabashkir-cy";
+kernRight = "KO_Ka-cy";
 layers = (
 {
 layerId = UUID0;

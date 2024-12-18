@@ -1,5 +1,6 @@
 {
 glyphname = omacrongrave;
+kernRight = KO_o;
 layers = (
 {
 layerId = UUID0;
@@ -46,7 +47,7 @@ pos = (101,0);
 ref = macroncomb;
 },
 {
-pos = (21,338);
+pos = (21,300);
 ref = gravecomb;
 }
 );
@@ -97,7 +98,7 @@ pos = (40,0);
 ref = macroncomb;
 },
 {
-pos = (0,338);
+pos = (0,300);
 ref = gravecomb;
 }
 );
@@ -114,7 +115,7 @@ pos = (94,0);
 ref = macroncomb;
 },
 {
-pos = (50,202);
+pos = (50,232);
 ref = gravecomb;
 }
 );
@@ -131,7 +132,7 @@ pos = (109,0);
 ref = macroncomb;
 },
 {
-pos = (43,202);
+pos = (43,232);
 ref = gravecomb;
 }
 );
@@ -148,7 +149,7 @@ pos = (163,0);
 ref = macroncomb;
 },
 {
-pos = (104,338);
+pos = (104,300);
 ref = gravecomb;
 }
 );
@@ -161,11 +162,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (115,0);
+pos = (95,0);
 ref = macroncomb;
 },
 {
-pos = (47,202);
+pos = (47,232);
 ref = gravecomb;
 }
 );

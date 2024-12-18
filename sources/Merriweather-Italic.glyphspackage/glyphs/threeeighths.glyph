@@ -22,35 +22,41 @@ width = 1901;
 layerId = "27298932-82AF-4578-9425-6304FDB19058";
 shapes = (
 {
+alignment = -1;
 ref = three.numr;
 },
 {
-pos = (751,0);
+alignment = -1;
+pos = (744,0);
 ref = fraction;
 },
 {
-pos = (1119,0);
+alignment = -1;
+pos = (1112,0);
 ref = eight.dnom;
 }
 );
-width = 1991;
+width = 1984;
 },
 {
 layerId = "9079322E-D2EB-4437-A6B9-48C6726F1892";
 shapes = (
 {
+alignment = -1;
 ref = three.numr;
 },
 {
+alignment = -1;
 pos = (787,0);
 ref = fraction;
 },
 {
-pos = (1149,0);
+alignment = -1;
+pos = (1144,0);
 ref = eight.dnom;
 }
 );
-width = 2041;
+width = 2036;
 },
 {
 layerId = "AB43ED1F-BEAA-4517-9B18-06741265F15E";
@@ -73,13 +79,16 @@ width = 1949;
 layerId = "0E81F995-ADCA-4265-BF48-502C19DBCB17";
 shapes = (
 {
+alignment = -1;
 ref = three.numr;
 },
 {
+alignment = -1;
 pos = (729,0);
 ref = fraction;
 },
 {
+alignment = -1;
 pos = (1012,0);
 ref = eight.dnom;
 }
@@ -90,13 +99,16 @@ width = 1884;
 layerId = "10D406F4-E64B-40B9-806E-EB589F33F511";
 shapes = (
 {
+alignment = -1;
 ref = three.numr;
 },
 {
+alignment = -1;
 pos = (714,0);
 ref = fraction;
 },
 {
+alignment = -1;
 pos = (1016,0);
 ref = eight.dnom;
 }
@@ -107,30 +119,36 @@ width = 1829;
 layerId = "2795BD5C-FE1E-44B5-B1D3-799347E852FC";
 shapes = (
 {
+alignment = -1;
 ref = three.numr;
 },
 {
-pos = (752,0);
+alignment = -1;
+pos = (748,0);
 ref = fraction;
 },
 {
-pos = (1067,0);
+alignment = -1;
+pos = (1063,0);
 ref = eight.dnom;
 }
 );
-width = 1939;
+width = 1935;
 },
 {
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
 shapes = (
 {
+alignment = -1;
 ref = three.numr;
 },
 {
+alignment = -1;
 pos = (735,0);
 ref = fraction;
 },
 {
+alignment = -1;
 pos = (1034,0);
 ref = eight.dnom;
 }
@@ -141,13 +159,16 @@ width = 1879;
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
 shapes = (
 {
+alignment = -1;
 ref = three.numr;
 },
 {
+alignment = -1;
 pos = (653,0);
 ref = fraction;
 },
 {
+alignment = -1;
 pos = (1004,0);
 ref = eight.dnom;
 }
@@ -195,18 +216,21 @@ width = 1796;
 layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
 shapes = (
 {
+alignment = -1;
 ref = three.numr;
 },
 {
-pos = (695,0);
+alignment = -1;
+pos = (697,0);
 ref = fraction;
 },
 {
-pos = (999,0);
+alignment = -1;
+pos = (994,0);
 ref = eight.dnom;
 }
 );
-width = 1871;
+width = 1866;
 }
 );
 metricLeft = three.numr;

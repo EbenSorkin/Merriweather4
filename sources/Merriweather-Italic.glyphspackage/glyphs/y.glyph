@@ -1,5 +1,7 @@
 {
 glyphname = y;
+kernLeft = KO_y;
+kernRight = KO_y;
 layers = (
 {
 anchors = (
@@ -9,7 +11,7 @@ pos = (859,0);
 },
 {
 name = center;
-pos = (577,644);
+pos = (581,594);
 },
 {
 name = top;
@@ -85,7 +87,7 @@ pos = (943,0);
 },
 {
 name = center;
-pos = (594,667);
+pos = (612,594);
 },
 {
 name = top;
@@ -161,7 +163,7 @@ pos = (950,0);
 },
 {
 name = center;
-pos = (624,667);
+pos = (632,594);
 },
 {
 name = top;
@@ -242,7 +244,7 @@ pos = (848,0);
 },
 {
 name = center;
-pos = (607,644);
+pos = (611,594);
 },
 {
 name = top;
@@ -318,7 +320,7 @@ pos = (877,0);
 },
 {
 name = center;
-pos = (508,624);
+pos = (532,554);
 },
 {
 name = top;
@@ -394,7 +396,7 @@ pos = (820,0);
 },
 {
 name = center;
-pos = (504,630);
+pos = (492,554);
 },
 {
 name = top;
@@ -470,7 +472,7 @@ pos = (881,0);
 },
 {
 name = center;
-pos = (598,624);
+pos = (592,554);
 },
 {
 name = top;
@@ -546,7 +548,7 @@ pos = (827,0);
 },
 {
 name = center;
-pos = (504,630);
+pos = (482,554);
 },
 {
 name = top;
@@ -622,7 +624,7 @@ pos = (809,0);
 },
 {
 name = center;
-pos = (537,644);
+pos = (551,594);
 },
 {
 name = top;
@@ -706,7 +708,7 @@ pos = (891,0);
 },
 {
 name = center;
-pos = (574,667);
+pos = (592,594);
 },
 {
 name = top;
@@ -787,7 +789,7 @@ pos = (742,0);
 },
 {
 name = center;
-pos = (454,630);
+pos = (442,554);
 },
 {
 name = top;
@@ -863,7 +865,7 @@ pos = (821,0);
 },
 {
 name = center;
-pos = (498,624);
+pos = (512,554);
 },
 {
 name = top;

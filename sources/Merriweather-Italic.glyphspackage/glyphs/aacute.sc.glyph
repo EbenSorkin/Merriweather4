@@ -1,5 +1,7 @@
 {
 glyphname = aacute.sc;
+kernLeft = KO_a.sc;
+kernRight = KO_a.sc;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -8,7 +10,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (577,182);
+pos = (581,182);
 ref = acutecomb;
 }
 );
@@ -21,7 +23,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (538,182);
+pos = (543,182);
 ref = acutecomb;
 }
 );
@@ -34,7 +36,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (603,182);
+pos = (602,182);
 ref = acutecomb;
 }
 );
@@ -47,7 +49,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (637,182);
+pos = (635,182);
 ref = acutecomb;
 }
 );
@@ -86,7 +88,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (630,287);
+pos = (625,287);
 ref = acutecomb;
 }
 );
@@ -99,7 +101,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (590,287);
+pos = (596,287);
 ref = acutecomb;
 }
 );

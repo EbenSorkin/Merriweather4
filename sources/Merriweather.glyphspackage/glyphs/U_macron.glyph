@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = Umacron;
+kernLeft = KO_U;
+kernRight = KO_U;
 layers = (
 {
 layerId = UUID0;

@@ -1,5 +1,6 @@
 {
 glyphname = "Eltail-cy";
+kernLeft = "KO_El-cy";
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -8,7 +9,7 @@ shapes = (
 ref = "El-cy";
 },
 {
-pos = (717,0);
+pos = (737,0);
 ref = rtail_part;
 }
 );
@@ -48,7 +49,7 @@ shapes = (
 ref = "El-cy";
 },
 {
-pos = (837,0);
+pos = (857,0);
 ref = rtail_part;
 }
 );
@@ -74,7 +75,7 @@ shapes = (
 ref = "El-cy";
 },
 {
-pos = (678,0);
+pos = (708,0);
 ref = rtail_part;
 }
 );
@@ -87,7 +88,7 @@ shapes = (
 ref = "El-cy";
 },
 {
-pos = (859,0);
+pos = (824,0);
 ref = rtail_part;
 }
 );
@@ -113,7 +114,7 @@ shapes = (
 ref = "El-cy";
 },
 {
-pos = (651,0);
+pos = (645,0);
 ref = rtail_part;
 }
 );

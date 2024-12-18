@@ -1,5 +1,7 @@
 {
 glyphname = "chedescender-cy";
+kernLeft = "KO_che-cy";
+kernRight = "KO_endescender-cy";
 layers = (
 {
 layerId = UUID0;

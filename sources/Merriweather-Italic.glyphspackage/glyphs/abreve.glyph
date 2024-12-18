@@ -1,5 +1,7 @@
 {
 glyphname = abreve;
+kernLeft = KO_a;
+kernRight = KO_a;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -73,7 +75,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (251,0);
+pos = (249,0);
 ref = brevecomb;
 }
 );
@@ -86,7 +88,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (319,0);
+pos = (279,0);
 ref = brevecomb;
 }
 );
@@ -125,7 +127,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (219,-2);
+pos = (219,0);
 ref = brevecomb;
 }
 );

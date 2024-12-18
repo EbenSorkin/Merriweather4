@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = dcroat;
+kernLeft = KO_d;
+kernRight = KO_d;
 layers = (
 {
 layerId = UUID0;

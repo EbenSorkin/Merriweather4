@@ -1,5 +1,7 @@
 {
 glyphname = Ihookabove;
+kernLeft = KO_I;
+kernRight = KO_I;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -8,7 +10,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (186,0);
+pos = (188,0);
 ref = hookabovecomb.case;
 }
 );
@@ -21,7 +23,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (175,0);
+pos = (181,0);
 ref = hookabovecomb.case;
 }
 );
@@ -60,7 +62,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (169,0);
+pos = (161,0);
 ref = hookabovecomb.case;
 }
 );
@@ -73,7 +75,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (157,0);
+pos = (144,0);
 ref = hookabovecomb.case;
 }
 );
@@ -86,7 +88,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (195,0);
+pos = (171,0);
 ref = hookabovecomb.case;
 }
 );
@@ -138,7 +140,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (183,0);
+pos = (169,0);
 ref = hookabovecomb.case;
 }
 );
@@ -151,7 +153,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (167,0);
+pos = (166,0);
 ref = hookabovecomb.case;
 }
 );

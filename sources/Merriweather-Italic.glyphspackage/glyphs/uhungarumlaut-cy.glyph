@@ -1,5 +1,6 @@
 {
 glyphname = "uhungarumlaut-cy";
+kernLeft = KO_y;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -73,7 +74,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (249,0);
+pos = (219,0);
 ref = hungarumlautcomb;
 }
 );
@@ -86,7 +87,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (347,0);
+pos = (337,0);
 ref = hungarumlautcomb;
 }
 );
@@ -99,7 +100,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (283,0);
+pos = (253,0);
 ref = hungarumlautcomb;
 }
 );
@@ -140,7 +141,7 @@ shapes = (
 ref = "u-cy";
 },
 {
-pos = (189,0);
+pos = (199,0);
 ref = hungarumlautcomb;
 }
 );

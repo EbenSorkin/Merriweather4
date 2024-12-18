@@ -1,5 +1,6 @@
 {
 glyphname = ellipsis;
+kernLeft = KO_ellipsis;
 layers = (
 {
 layerId = UUID0;

@@ -1,5 +1,7 @@
 {
 glyphname = "Softsign-cy";
+kernLeft = "KO_En-cy";
+kernRight = "KO_Softsign-cy";
 layers = (
 {
 guides = (

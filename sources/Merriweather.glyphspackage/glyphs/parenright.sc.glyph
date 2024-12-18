@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = parenright.sc;
+kernLeft = KO_parenright.sc;
 layers = (
 {
 layerId = UUID0;

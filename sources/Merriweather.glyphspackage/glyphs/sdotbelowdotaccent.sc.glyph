@@ -47,7 +47,7 @@ pos = (381,0);
 ref = dotbelowcomb;
 },
 {
-pos = (267,287);
+pos = (264,287);
 ref = dotaccentcomb;
 }
 );

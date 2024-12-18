@@ -1,5 +1,6 @@
 {
 glyphname = hcedilla;
+kernRight = KO_n;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -37,7 +38,7 @@ ref = h;
 },
 {
 alignment = -1;
-pos = (-68,0);
+pos = (-56,0);
 ref = cedillacomb;
 }
 );
@@ -51,7 +52,7 @@ ref = h;
 },
 {
 alignment = -1;
-pos = (-28,0);
+pos = (-17,0);
 ref = cedillacomb;
 }
 );
@@ -65,7 +66,7 @@ ref = h;
 },
 {
 alignment = -1;
-pos = (2,0);
+pos = (-18,0);
 ref = cedillacomb;
 }
 );
@@ -79,7 +80,7 @@ ref = h;
 },
 {
 alignment = -1;
-pos = (32,0);
+pos = (22,0);
 ref = cedillacomb;
 }
 );
@@ -135,7 +136,7 @@ ref = h;
 },
 {
 alignment = -1;
-pos = (-28,0);
+pos = (-18,0);
 ref = cedillacomb;
 }
 );

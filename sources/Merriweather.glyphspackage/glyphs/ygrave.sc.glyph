@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = ygrave.sc;
+kernLeft = KO_y.sc;
 layers = (
 {
 layerId = UUID0;

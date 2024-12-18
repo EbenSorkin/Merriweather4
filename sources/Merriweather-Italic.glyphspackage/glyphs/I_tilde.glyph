@@ -1,5 +1,7 @@
 {
 glyphname = Itilde;
+kernLeft = KO_I;
+kernRight = KO_I;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -8,8 +10,8 @@ shapes = (
 ref = I;
 },
 {
-pos = (-39,0);
-ref = tildecomb.case;
+pos = (-37,0);
+ref = tilde.narrow.case;
 }
 );
 width = 630;
@@ -21,8 +23,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-6,0);
-ref = tildecomb.case;
+ref = tilde.narrow.case;
 }
 );
 width = 779;
@@ -35,7 +36,7 @@ ref = I;
 },
 {
 pos = (19,0);
-ref = tildecomb.case;
+ref = tilde.narrow.case;
 }
 );
 width = 818;
@@ -48,7 +49,7 @@ ref = I;
 },
 {
 pos = (-2,0);
-ref = tildecomb.case;
+ref = tilde.narrow.case;
 }
 );
 width = 688;
@@ -60,8 +61,8 @@ shapes = (
 ref = I;
 },
 {
-pos = (61,0);
-ref = tildecomb.case;
+pos = (53,0);
+ref = tilde.narrow.case;
 }
 );
 width = 686;
@@ -73,8 +74,8 @@ shapes = (
 ref = I;
 },
 {
-pos = (10,0);
-ref = tildecomb.case;
+pos = (-3,0);
+ref = tilde.narrow.case;
 }
 );
 width = 542;
@@ -86,8 +87,8 @@ shapes = (
 ref = I;
 },
 {
-pos = (95,0);
-ref = tildecomb.case;
+pos = (71,0);
+ref = tilde.narrow.case;
 }
 );
 width = 730;
@@ -100,7 +101,7 @@ ref = I;
 },
 {
 pos = (9,0);
-ref = tildecomb.case;
+ref = tilde.narrow.case;
 }
 );
 width = 554;
@@ -113,7 +114,7 @@ ref = I;
 },
 {
 pos = (-46,0);
-ref = tildecomb.case;
+ref = tilde.narrow.case;
 }
 );
 width = 598;
@@ -126,7 +127,7 @@ ref = I;
 },
 {
 pos = (-24,0);
-ref = tildecomb.case;
+ref = tilde.narrow.case;
 }
 );
 width = 717;
@@ -138,8 +139,8 @@ shapes = (
 ref = I;
 },
 {
-pos = (24,0);
-ref = tildecomb.case;
+pos = (10,0);
+ref = tilde.narrow.case;
 }
 );
 width = 548;
@@ -151,8 +152,8 @@ shapes = (
 ref = I;
 },
 {
-pos = (44,0);
-ref = tildecomb.case;
+pos = (43,0);
+ref = tilde.narrow.case;
 }
 );
 width = 678;

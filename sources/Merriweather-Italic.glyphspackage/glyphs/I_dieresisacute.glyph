@@ -1,5 +1,7 @@
 {
 glyphname = Idieresisacute;
+kernLeft = KO_I;
+kernRight = KO_I;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -8,11 +10,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (10,0);
+pos = (12,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (197,262);
+pos = (199,262);
 ref = acutecomb.case;
 }
 );
@@ -25,11 +27,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (-5,0);
+pos = (1,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (307,406);
+pos = (313,406);
 ref = acutecomb.case;
 }
 );
@@ -76,11 +78,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (-11,0);
+pos = (-19,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (334,404);
+pos = (326,404);
 ref = acutecomb.case;
 }
 );
@@ -93,11 +95,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (-23,0);
+pos = (-36,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (285,342);
+pos = (272,342);
 ref = acutecomb.case;
 }
 );
@@ -110,11 +112,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (4,0);
+pos = (-20,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (347,404);
+pos = (323,404);
 ref = acutecomb.case;
 }
 );
@@ -178,11 +180,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (3,0);
+pos = (-11,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (267,342);
+pos = (253,342);
 ref = acutecomb.case;
 }
 );
@@ -195,11 +197,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (-9,0);
+pos = (-10,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (314,404);
+pos = (313,404);
 ref = acutecomb.case;
 }
 );

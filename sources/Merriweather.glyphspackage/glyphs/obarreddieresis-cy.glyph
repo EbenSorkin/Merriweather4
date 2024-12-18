@@ -125,7 +125,7 @@ shapes = (
 ref = "obarred-cy";
 },
 {
-pos = (247,0);
+pos = (246,0);
 ref = dieresiscomb;
 }
 );

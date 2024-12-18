@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = "ustraight-cy.sc";
+kernLeft = KO_y.sc;
+kernRight = KO_y.sc;
 layers = (
 {
 layerId = "0E4B6E2E-ECAB-4D06-9686-B0B40AA31834";

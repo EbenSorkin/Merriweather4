@@ -9,12 +9,6 @@ name = _qq;
 pos = (844,0);
 }
 );
-annotations = (
-{
-pos = (945.324,239.915);
-type = Text;
-}
-);
 layerId = UUID0;
 shapes = (
 {

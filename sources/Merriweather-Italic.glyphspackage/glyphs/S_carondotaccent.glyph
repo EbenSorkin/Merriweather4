@@ -1,5 +1,7 @@
 {
 glyphname = Scarondotaccent;
+kernLeft = KO_S;
+kernRight = KO_S;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -42,11 +44,11 @@ shapes = (
 ref = S;
 },
 {
-pos = (216,0);
+pos = (300,0);
 ref = caroncomb.case;
 },
 {
-pos = (431,404);
+pos = (515,404);
 ref = dotaccentcomb.case;
 }
 );
@@ -80,7 +82,7 @@ pos = (227,-1);
 ref = caroncomb.case;
 },
 {
-pos = (428,404);
+pos = (431,404);
 ref = dotaccentcomb.case;
 }
 );

@@ -1,5 +1,7 @@
 {
 glyphname = emacron.sc;
+kernLeft = KO_e.sc;
+kernRight = KO_e.sc;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";

@@ -1,5 +1,6 @@
 {
 glyphname = Wacute;
+kernRight = KO_W;
 layers = (
 {
 layerId = UUID0;

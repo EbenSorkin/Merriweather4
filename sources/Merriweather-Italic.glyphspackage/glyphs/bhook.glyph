@@ -1,5 +1,6 @@
 {
 glyphname = bhook;
+kernRight = KO_p;
 layers = (
 {
 anchors = (

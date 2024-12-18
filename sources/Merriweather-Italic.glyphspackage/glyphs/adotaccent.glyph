@@ -1,5 +1,7 @@
 {
 glyphname = adotaccent;
+kernLeft = KO_a;
+kernRight = KO_a;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -60,7 +62,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (422,0);
+pos = (420,0);
 ref = dotaccentcomb;
 }
 );
@@ -99,7 +101,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (432,0);
+pos = (392,0);
 ref = dotaccentcomb;
 }
 );
@@ -125,7 +127,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (400,-2);
+pos = (400,0);
 ref = dotaccentcomb;
 }
 );

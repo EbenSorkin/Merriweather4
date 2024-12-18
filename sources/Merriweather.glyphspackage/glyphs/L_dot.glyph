@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = Ldot;
+kernLeft = KO_R;
 layers = (
 {
 layerId = UUID0;
@@ -48,10 +49,11 @@ width = 1175;
 layerId = "EA2265BD-E890-48C4-9E90-A53076E780C5";
 shapes = (
 {
+alignment = -1;
 ref = L;
 },
 {
-alignment = 1;
+alignment = -1;
 pos = (997,0);
 ref = periodcentered.loclCAT.case;
 }
@@ -76,10 +78,11 @@ width = 1389;
 layerId = "97BB7961-D669-43AB-8BBF-11FFD0C46A4B";
 shapes = (
 {
+alignment = -1;
 ref = L;
 },
 {
-alignment = 1;
+alignment = -1;
 pos = (1145,0);
 ref = periodcentered.loclCAT.case;
 }

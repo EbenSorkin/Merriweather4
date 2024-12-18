@@ -1,5 +1,7 @@
 {
 glyphname = d;
+kernLeft = KO_d;
+kernRight = KO_d;
 layers = (
 {
 anchors = (
@@ -84,7 +86,7 @@ width = 1147;
 anchors = (
 {
 name = bottom;
-pos = (571,0);
+pos = (561,0);
 },
 {
 name = caron;
@@ -163,7 +165,7 @@ width = 1225;
 anchors = (
 {
 name = bottom;
-pos = (490,0);
+pos = (520,0);
 },
 {
 name = caron;
@@ -679,7 +681,7 @@ width = 1050;
 anchors = (
 {
 name = bottom;
-pos = (420,0);
+pos = (432,0);
 },
 {
 name = caron;
@@ -768,7 +770,7 @@ width = 1068;
 anchors = (
 {
 name = bottom;
-pos = (452,0);
+pos = (422,0);
 },
 {
 name = caron;
@@ -942,7 +944,7 @@ width = 939;
 anchors = (
 {
 name = bottom;
-pos = (434,0);
+pos = (424,0);
 },
 {
 name = caron;

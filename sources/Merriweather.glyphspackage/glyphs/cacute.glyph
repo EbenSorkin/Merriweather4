@@ -1,5 +1,7 @@
 {
 glyphname = cacute;
+kernLeft = KO_o;
+kernRight = KO_c;
 layers = (
 {
 layerId = UUID0;

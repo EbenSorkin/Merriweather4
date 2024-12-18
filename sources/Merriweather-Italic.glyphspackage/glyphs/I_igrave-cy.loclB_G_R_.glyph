@@ -60,7 +60,7 @@ shapes = (
 ref = "Ii-cy.loclBGR";
 },
 {
-pos = (365,0);
+pos = (355,0);
 ref = gravecomb.case;
 }
 );

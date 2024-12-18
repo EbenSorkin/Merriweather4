@@ -1,13 +1,11 @@
 sources:
   - Merriweather.glyphspackage
   - Merriweather-Italic.glyphspackage
-familyName: Merriweather
-buildStatic: false
-buildWebfont: false
-buildTTF: false
-buildOTF: false
-buildSmallCap: true
 axisOrder:
   - wght
   - wdth
   - opsz
+
+familyName: Merriweather21
+buildStatic: false
+buildWebfont: false

@@ -1,5 +1,7 @@
 {
 glyphname = Rdotaccent;
+kernLeft = KO_E;
+kernRight = KO_R;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -73,7 +75,7 @@ shapes = (
 ref = R;
 },
 {
-pos = (435,0);
+pos = (438,0);
 ref = dotaccentcomb.case;
 }
 );

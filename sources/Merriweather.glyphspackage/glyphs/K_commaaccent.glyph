@@ -1,5 +1,7 @@
 {
 glyphname = Kcommaaccent;
+kernLeft = KO_R;
+kernRight = KO_K;
 layers = (
 {
 layerId = UUID0;
@@ -8,7 +10,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (582,0);
+pos = (622,0);
 ref = commaaccentcomb;
 }
 );
@@ -21,7 +23,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (596,0);
+pos = (636,0);
 ref = commaaccentcomb;
 }
 );
@@ -34,7 +36,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (587,0);
+pos = (597,0);
 ref = commaaccentcomb;
 }
 );
@@ -47,7 +49,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (578,0);
+pos = (608,0);
 ref = commaaccentcomb;
 }
 );
@@ -60,7 +62,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (530,0);
+pos = (550,0);
 ref = commaaccentcomb;
 }
 );
@@ -73,7 +75,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (485,0);
+pos = (505,0);
 ref = commaaccentcomb;
 }
 );
@@ -99,7 +101,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (528,0);
+pos = (538,0);
 ref = commaaccentcomb;
 }
 );
@@ -112,7 +114,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (560,0);
+pos = (590,0);
 ref = commaaccentcomb;
 }
 );
@@ -125,7 +127,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (548,0);
+pos = (568,0);
 ref = commaaccentcomb;
 }
 );
@@ -138,7 +140,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (577,0);
+pos = (607,0);
 ref = commaaccentcomb;
 }
 );
@@ -154,7 +156,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (619,0);
+pos = (659,0);
 ref = commaaccentcomb;
 }
 );

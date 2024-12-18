@@ -1,5 +1,6 @@
 {
 glyphname = "Gje-cy";
+kernRight = "KO_Ge-cy";
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -8,7 +9,7 @@ shapes = (
 ref = "Ge-cy";
 },
 {
-pos = (477,0);
+pos = (457,0);
 ref = acutecomb.case;
 }
 );
@@ -34,7 +35,7 @@ shapes = (
 ref = "Ge-cy";
 },
 {
-pos = (394,0);
+pos = (471,0);
 ref = acutecomb.case;
 }
 );
@@ -47,7 +48,7 @@ shapes = (
 ref = "Ge-cy";
 },
 {
-pos = (538,0);
+pos = (519,0);
 ref = acutecomb.case;
 }
 );
@@ -60,7 +61,7 @@ shapes = (
 ref = "Ge-cy";
 },
 {
-pos = (282,-2);
+pos = (516,-2);
 ref = acutecomb.case;
 }
 );
@@ -73,7 +74,7 @@ shapes = (
 ref = "Ge-cy";
 },
 {
-pos = (468,0);
+pos = (487,0);
 ref = acutecomb.case;
 }
 );
@@ -86,7 +87,7 @@ shapes = (
 ref = "Ge-cy";
 },
 {
-pos = (427,-2);
+pos = (548,-2);
 ref = acutecomb.case;
 }
 );
@@ -99,7 +100,7 @@ shapes = (
 ref = "Ge-cy";
 },
 {
-pos = (458,0);
+pos = (468,0);
 ref = acutecomb.case;
 }
 );
@@ -112,7 +113,7 @@ shapes = (
 ref = "Ge-cy";
 },
 {
-pos = (405,0);
+pos = (385,0);
 ref = acutecomb.case;
 }
 );
@@ -125,7 +126,7 @@ shapes = (
 ref = "Ge-cy";
 },
 {
-pos = (388,0);
+pos = (408,0);
 ref = acutecomb.case;
 }
 );
@@ -138,7 +139,7 @@ shapes = (
 ref = "Ge-cy";
 },
 {
-pos = (450,0);
+pos = (414,0);
 ref = acutecomb.case;
 }
 );
@@ -151,7 +152,7 @@ shapes = (
 ref = "Ge-cy";
 },
 {
-pos = (476,-2);
+pos = (490,-2);
 ref = acutecomb.case;
 }
 );

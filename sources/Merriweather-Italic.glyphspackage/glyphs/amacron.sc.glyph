@@ -1,5 +1,7 @@
 {
 glyphname = amacron.sc;
+kernLeft = KO_a.sc;
+kernRight = KO_a.sc;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -8,7 +10,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (400,182);
+pos = (404,182);
 ref = macroncomb;
 }
 );
@@ -21,7 +23,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (351,182);
+pos = (356,182);
 ref = macroncomb;
 }
 );
@@ -34,7 +36,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (416,182);
+pos = (415,182);
 ref = macroncomb;
 }
 );
@@ -47,7 +49,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (460,182);
+pos = (458,182);
 ref = macroncomb;
 }
 );
@@ -86,7 +88,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (406,287);
+pos = (401,287);
 ref = macroncomb;
 }
 );
@@ -99,7 +101,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (360,287);
+pos = (366,287);
 ref = macroncomb;
 }
 );

@@ -1,10 +1,11 @@
 {
 glyphname = "Shcha-cy";
+kernLeft = "KO_En-cy";
 layers = (
 {
 guides = (
 {
-pos = (-19492,-210);
+pos = (-2276,-210);
 }
 );
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -104,7 +105,7 @@ shapes = (
 ref = "Sha-cy";
 },
 {
-pos = (1671,0);
+pos = (1672,0);
 ref = righttooth_part.;
 }
 );
@@ -130,7 +131,7 @@ shapes = (
 ref = "Sha-cy";
 },
 {
-pos = (1813,0);
+pos = (1823,0);
 ref = righttooth_part.;
 }
 );

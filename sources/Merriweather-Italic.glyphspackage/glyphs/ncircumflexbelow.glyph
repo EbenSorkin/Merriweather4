@@ -8,7 +8,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (159,0);
+pos = (142,0);
 ref = circumflexbelowcomb;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (116,0);
+pos = (106,0);
 ref = circumflexbelowcomb;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (162,0);
+pos = (150,0);
 ref = circumflexbelowcomb;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (141,0);
+pos = (151,0);
 ref = circumflexbelowcomb;
 }
 );
@@ -60,7 +60,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (111,0);
+pos = (101,0);
 ref = circumflexbelowcomb;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (164,0);
+pos = (157,0);
 ref = circumflexbelowcomb;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (190,0);
+pos = (191,0);
 ref = circumflexbelowcomb;
 }
 );
@@ -125,7 +125,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (116,0);
+pos = (114,0);
 ref = circumflexbelowcomb;
 }
 );

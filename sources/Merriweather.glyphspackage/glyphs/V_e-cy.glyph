@@ -1,5 +1,7 @@
 {
 glyphname = "Ve-cy";
+kernLeft = KO_H;
+kernRight = KO_B;
 layers = (
 {
 layerId = UUID0;

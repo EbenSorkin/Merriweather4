@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = ytilde;
+kernLeft = KO_y;
+kernRight = KO_y;
 layers = (
 {
 layerId = UUID0;

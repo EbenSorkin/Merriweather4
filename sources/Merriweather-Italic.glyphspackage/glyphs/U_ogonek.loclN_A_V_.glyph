@@ -1,5 +1,7 @@
 {
 glyphname = Uogonek.loclNAV;
+kernLeft = KO_U;
+kernRight = KO_U;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -8,7 +10,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (560,0);
+pos = (540,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -21,7 +23,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (534,0);
+pos = (504,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -34,7 +36,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (601,0);
+pos = (544,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -47,7 +49,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (559,0);
+pos = (549,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -60,7 +62,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (483,0);
+pos = (447,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -73,7 +75,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (445,0);
+pos = (440,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -86,7 +88,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (466,0);
+pos = (436,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -99,7 +101,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (478,0);
+pos = (438,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -112,7 +114,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (469,0);
+pos = (439,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -125,7 +127,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (438,0);
+pos = (418,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -138,7 +140,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (422,0);
+pos = (392,0);
 ref = ogonekcomb.loclNAV;
 }
 );
@@ -151,7 +153,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (441,0);
+pos = (421,0);
 ref = ogonekcomb.loclNAV;
 }
 );

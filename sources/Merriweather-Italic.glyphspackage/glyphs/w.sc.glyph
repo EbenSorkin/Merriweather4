@@ -1,5 +1,6 @@
 {
 glyphname = w.sc;
+kernRight = KO_w.sc;
 layers = (
 {
 anchors = (

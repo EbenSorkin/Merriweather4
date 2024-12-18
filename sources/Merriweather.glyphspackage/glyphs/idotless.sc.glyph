@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = idotless.sc;
+kernLeft = KO_i.sc;
+kernRight = KO_i.sc;
 layers = (
 {
 layerId = UUID0;

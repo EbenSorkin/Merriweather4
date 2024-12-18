@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = bdotbelow;
+kernLeft = KO_b;
+kernRight = KO_b;
 layers = (
 {
 layerId = UUID0;

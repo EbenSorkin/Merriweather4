@@ -1,5 +1,7 @@
 {
 glyphname = yacute.sc;
+kernLeft = KO_y.sc;
+kernRight = KO_y.sc;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -8,7 +10,7 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (521,182);
+pos = (525,182);
 ref = acutecomb;
 }
 );
@@ -21,7 +23,7 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (595,182);
+pos = (584,182);
 ref = acutecomb;
 }
 );
@@ -34,7 +36,7 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (637,182);
+pos = (645,182);
 ref = acutecomb;
 }
 );
@@ -47,7 +49,7 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (559,182);
+pos = (569,182);
 ref = acutecomb;
 }
 );
@@ -60,7 +62,7 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (609,287);
+pos = (611,287);
 ref = acutecomb;
 }
 );
@@ -73,7 +75,7 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (549,287);
+pos = (548,287);
 ref = acutecomb;
 }
 );
@@ -86,7 +88,7 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (639,287);
+pos = (635,287);
 ref = acutecomb;
 }
 );
@@ -112,7 +114,7 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (474,182);
+pos = (486,182);
 ref = acutecomb;
 }
 );
@@ -125,7 +127,7 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (524,182);
+pos = (522,182);
 ref = acutecomb;
 }
 );
@@ -138,7 +140,7 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (509,287);
+pos = (497,287);
 ref = acutecomb;
 }
 );
@@ -151,7 +153,7 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (569,287);
+pos = (548,287);
 ref = acutecomb;
 }
 );

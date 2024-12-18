@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = Bhook.loclXPE;
+kernLeft = "KO_Be-cy";
+kernRight = "KO_Be-cy";
 layers = (
 {
 layerId = UUID0;

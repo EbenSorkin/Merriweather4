@@ -104,28 +104,6 @@ nodes = (
 width = 1822;
 },
 {
-annotations = (
-{
-pos = (309,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (1086,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (1219,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (1848,37);
-type = Circle;
-width = 30;
-}
-);
 layerId = "184155C8-9F61-4F1C-9784-DDA8EA717636";
 shapes = (
 {
@@ -267,28 +245,6 @@ nodes = (
 width = 1389;
 },
 {
-annotations = (
-{
-pos = (241,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (899,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (989,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (1528,37);
-type = Circle;
-width = 30;
-}
-);
 layerId = "F2B10EEF-9DDC-48CA-970D-6B8C79870881";
 shapes = (
 {
@@ -336,28 +292,6 @@ nodes = (
 width = 1567;
 },
 {
-annotations = (
-{
-pos = (286,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (797,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (967,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (1353,35);
-type = Circle;
-width = 30;
-}
-);
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
 shapes = (
 {
@@ -405,28 +339,6 @@ nodes = (
 width = 1345;
 },
 {
-annotations = (
-{
-pos = (341,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (927,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (1137,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (1574,35);
-type = Circle;
-width = 30;
-}
-);
 layerId = "C9B9556E-C2FD-4F62-BB40-44923C452C22";
 shapes = (
 {
@@ -474,28 +386,6 @@ nodes = (
 width = 1533;
 },
 {
-annotations = (
-{
-pos = (340,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (1180,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (1330,37);
-type = Circle;
-width = 30;
-},
-{
-pos = (2007,37);
-type = Circle;
-width = 30;
-}
-);
 layerId = "AFA1064D-EFC9-4C9F-B9B0-9118E41D87C4";
 shapes = (
 {
@@ -543,28 +433,6 @@ nodes = (
 width = 2007;
 },
 {
-annotations = (
-{
-pos = (395,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (1055,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (1304,35);
-type = Circle;
-width = 30;
-},
-{
-pos = (1793,35);
-type = Circle;
-width = 30;
-}
-);
 layerId = "2103F1D3-C390-4F79-A87D-298F85EA6916";
 shapes = (
 {

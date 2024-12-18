@@ -1,5 +1,6 @@
 {
 glyphname = Ohorntilde;
+kernLeft = KO_O;
 layers = (
 {
 layerId = UUID0;
@@ -125,7 +126,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (330,0);
+pos = (331,0);
 ref = tildecomb.case;
 }
 );

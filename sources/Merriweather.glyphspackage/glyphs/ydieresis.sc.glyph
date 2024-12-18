@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = ydieresis.sc;
+kernLeft = KO_y.sc;
 layers = (
 {
 layerId = UUID0;
@@ -126,7 +127,7 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (356,287);
+pos = (355,287);
 ref = dieresiscomb;
 }
 );

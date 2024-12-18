@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = gbreve.sc;
+kernLeft = KO_o.sc;
+kernRight = KO_g.sc;
 layers = (
 {
 layerId = UUID0;

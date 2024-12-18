@@ -1,5 +1,6 @@
 {
 glyphname = ninesuperior;
+kernLeft = KO_ninesuperior;
 layers = (
 {
 layerId = UUID0;

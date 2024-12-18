@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = "lje-cy";
+kernLeft = "KO_el-cy";
+kernRight = "KO_softsign-cy";
 layers = (
 {
 layerId = UUID0;

@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = idieresis;
+kernLeft = "KO_yi-cy";
+kernRight = KO_iacute;
 layers = (
 {
 layerId = UUID0;
@@ -126,7 +128,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-31,0);
+pos = (-32,0);
 ref = dieresiscomb;
 }
 );

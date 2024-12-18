@@ -1,5 +1,6 @@
 {
 glyphname = Fdotaccent;
+kernRight = KO_F;
 layers = (
 {
 layerId = UUID0;

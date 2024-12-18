@@ -1,11 +1,13 @@
 {
 glyphname = t;
+kernLeft = KO_t;
+kernRight = KO_t;
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (286,0);
+pos = (326,0);
 },
 {
 name = car;
@@ -80,7 +82,7 @@ width = 686;
 anchors = (
 {
 name = bottom;
-pos = (303,0);
+pos = (373,0);
 },
 {
 name = car;
@@ -149,7 +151,7 @@ width = 709;
 anchors = (
 {
 name = bottom;
-pos = (291,0);
+pos = (331,0);
 },
 {
 name = car;
@@ -223,7 +225,7 @@ width = 815;
 anchors = (
 {
 name = bottom;
-pos = (269,0);
+pos = (369,0);
 },
 {
 name = car;
@@ -239,7 +241,7 @@ pos = (355,595);
 },
 {
 name = tbar;
-pos = (285.276,580);
+pos = (225,580);
 },
 {
 name = top;
@@ -320,7 +322,7 @@ pos = (395,595);
 },
 {
 name = tbar;
-pos = (241.914,580);
+pos = (212,580);
 },
 {
 name = top;
@@ -395,7 +397,7 @@ pos = (319,596);
 },
 {
 name = tbar;
-pos = (219,580);
+pos = (208,580);
 },
 {
 name = top;
@@ -458,7 +460,7 @@ width = 582;
 anchors = (
 {
 name = bottom;
-pos = (288,0);
+pos = (318,0);
 },
 {
 name = car;
@@ -474,7 +476,7 @@ pos = (395,595);
 },
 {
 name = tbar;
-pos = (264.356,580);
+pos = (232,580);
 },
 {
 name = top;
@@ -527,7 +529,7 @@ width = 695;
 anchors = (
 {
 name = bottom;
-pos = (236,0);
+pos = (286,0);
 },
 {
 name = car;
@@ -543,7 +545,7 @@ pos = (319,596);
 },
 {
 name = tbar;
-pos = (222,580);
+pos = (208,580);
 },
 {
 name = top;
@@ -601,7 +603,7 @@ width = 609;
 anchors = (
 {
 name = bottom;
-pos = (249,0);
+pos = (329,0);
 },
 {
 name = car;
@@ -679,7 +681,7 @@ width = 650;
 anchors = (
 {
 name = bottom;
-pos = (268,0);
+pos = (338,0);
 },
 {
 name = car;
@@ -841,7 +843,7 @@ pos = (395,595);
 },
 {
 name = tbar;
-pos = (226.699,580);
+pos = (222,580);
 },
 {
 name = top;

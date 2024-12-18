@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = "tse-cy";
+kernLeft = "KO_ii-cy";
+kernRight = "KO_tse-cy";
 layers = (
 {
 layerId = UUID0;

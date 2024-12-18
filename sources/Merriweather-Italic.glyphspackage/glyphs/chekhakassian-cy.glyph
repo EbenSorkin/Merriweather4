@@ -8,7 +8,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (19,0);
+pos = (-45,147);
 ref = dzhe_desc.part;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (6,0);
+pos = (-86,147);
 ref = dzhe_desc.part;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (21,0);
+pos = (-70,147);
 ref = dzhe_desc.part;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (44,0);
+pos = (-27,147);
 ref = dzhe_desc.part;
 }
 );
@@ -60,7 +60,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (32,0);
+pos = (-42,97);
 ref = dzhe_desc.part;
 }
 );
@@ -73,7 +73,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (9,0);
+pos = (-60,97);
 ref = dzhe_desc.part;
 }
 );
@@ -86,7 +86,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (1,0);
+pos = (-63,97);
 ref = dzhe_desc.part;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (108,0);
+pos = (27,97);
 ref = dzhe_desc.part;
 }
 );
@@ -112,7 +112,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (2,0);
+pos = (-71,147);
 ref = dzhe_desc.part;
 }
 );
@@ -125,7 +125,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (-7,0);
+pos = (-120,147);
 ref = dzhe_desc.part;
 }
 );
@@ -138,7 +138,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (69,0);
+pos = (-14,117);
 ref = dzhe_desc.part;
 }
 );
@@ -151,7 +151,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (16,0);
+pos = (-47,117);
 ref = dzhe_desc.part;
 }
 );

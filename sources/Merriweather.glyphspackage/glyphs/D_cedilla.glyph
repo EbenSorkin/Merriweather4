@@ -1,5 +1,6 @@
 {
 glyphname = Dcedilla;
+kernRight = KO_D;
 layers = (
 {
 layerId = UUID0;

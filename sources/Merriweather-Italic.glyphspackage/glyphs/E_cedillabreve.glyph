@@ -1,5 +1,6 @@
 {
 glyphname = Ecedillabreve;
+kernLeft = KO_E;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -76,7 +77,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (399,0);
+pos = (387,0);
 ref = cedillacomb.case;
 },
 {

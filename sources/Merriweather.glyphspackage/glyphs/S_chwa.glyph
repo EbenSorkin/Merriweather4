@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = Schwa;
+kernLeft = "KO_Schwa-cy";
+kernRight = KO_O;
 layers = (
 {
 anchors = (

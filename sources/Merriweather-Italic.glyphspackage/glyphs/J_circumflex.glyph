@@ -1,5 +1,7 @@
 {
+color = 1;
 glyphname = Jcircumflex;
+kernRight = KO_J;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -9,7 +11,7 @@ ref = J;
 },
 {
 pos = (-42,0);
-ref = circumflexcomb.case;
+ref = circumflex.narrow.case;
 }
 );
 width = 648;
@@ -22,7 +24,7 @@ ref = J;
 },
 {
 pos = (-46,0);
-ref = circumflexcomb.case;
+ref = circumflex.narrow.case;
 }
 );
 width = 702;
@@ -35,7 +37,7 @@ ref = J;
 },
 {
 pos = (-11,0);
-ref = circumflexcomb.case;
+ref = circumflex.narrow.case;
 }
 );
 width = 769;
@@ -48,7 +50,7 @@ ref = J;
 },
 {
 pos = (-2,0);
-ref = circumflexcomb.case;
+ref = circumflex.narrow.case;
 }
 );
 width = 690;
@@ -61,7 +63,7 @@ ref = J;
 },
 {
 pos = (-46,0);
-ref = circumflexcomb.case;
+ref = circumflex.narrow.case;
 }
 );
 width = 648;
@@ -74,7 +76,7 @@ ref = J;
 },
 {
 pos = (-3,0);
-ref = circumflexcomb.case;
+ref = circumflex.narrow.case;
 }
 );
 width = 548;
@@ -87,7 +89,7 @@ ref = J;
 },
 {
 pos = (-58,0);
-ref = circumflexcomb.case;
+ref = circumflex.narrow.case;
 }
 );
 width = 672;
@@ -100,7 +102,7 @@ ref = J;
 },
 {
 pos = (-17,0);
-ref = circumflexcomb.case;
+ref = circumflex.narrow.case;
 }
 );
 width = 566;
@@ -113,7 +115,7 @@ ref = J;
 },
 {
 pos = (-86,0);
-ref = circumflexcomb.case;
+ref = circumflex.narrow.case;
 }
 );
 width = 578;
@@ -126,7 +128,7 @@ ref = J;
 },
 {
 pos = (-102,0);
-ref = circumflexcomb.case;
+ref = circumflex.narrow.case;
 }
 );
 width = 639;
@@ -139,7 +141,7 @@ ref = J;
 },
 {
 pos = (-36,0);
-ref = circumflexcomb.case;
+ref = circumflex.narrow.case;
 }
 );
 width = 507;
@@ -151,8 +153,8 @@ shapes = (
 ref = J;
 },
 {
-pos = (-30,0);
-ref = circumflexcomb.case;
+pos = (-25,0);
+ref = circumflex.narrow.case;
 }
 );
 width = 651;

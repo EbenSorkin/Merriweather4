@@ -125,7 +125,7 @@ shapes = (
 ref = "u-cy.sc";
 },
 {
-pos = (216,287);
+pos = (196,287);
 ref = macroncomb;
 }
 );

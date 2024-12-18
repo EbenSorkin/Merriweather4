@@ -1,5 +1,6 @@
 {
 glyphname = question;
+kernLeft = KO_question;
 layers = (
 {
 layerId = UUID0;

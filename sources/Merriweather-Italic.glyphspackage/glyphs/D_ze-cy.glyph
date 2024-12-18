@@ -1,5 +1,7 @@
 {
 glyphname = "Dze-cy";
+kernLeft = KO_S;
+kernRight = KO_S;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";

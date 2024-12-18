@@ -1,5 +1,7 @@
 {
 glyphname = eight;
+kernLeft = KO_eight;
+kernRight = KO_eight;
 layers = (
 {
 layerId = UUID0;

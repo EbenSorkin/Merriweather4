@@ -1,6 +1,8 @@
 {
 color = 3;
 glyphname = "esdescender-cy.loclBSH";
+kernLeft = KO_o;
+kernRight = KO_c;
 layers = (
 {
 layerId = UUID0;

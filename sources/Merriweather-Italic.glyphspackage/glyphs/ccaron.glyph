@@ -1,5 +1,6 @@
 {
 glyphname = ccaron;
+kernLeft = KO_c;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -74,8 +75,7 @@ alignment = -1;
 ref = c;
 },
 {
-alignment = -1;
-pos = (419,-5);
+pos = (195,0);
 ref = caroncomb;
 }
 );

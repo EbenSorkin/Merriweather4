@@ -125,7 +125,7 @@ shapes = (
 ref = "ereversed-cy.sc";
 },
 {
-pos = (360,287);
+pos = (359,287);
 ref = dieresiscomb;
 }
 );

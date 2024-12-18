@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = Uhorn;
+kernLeft = KO_U;
 layers = (
 {
 anchors = (

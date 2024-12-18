@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = cacute.sc;
+kernLeft = KO_c.sc;
 layers = (
 {
 layerId = UUID0;

@@ -1,5 +1,7 @@
 {
 glyphname = ccedilla;
+kernLeft = KO_c;
+kernRight = KO_c;
 layers = (
 {
 anchors = (
@@ -22,7 +24,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (169,0);
+pos = (199,0);
 ref = cedillacomb;
 }
 );
@@ -49,7 +51,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (158,0);
+pos = (206,0);
 ref = cedillacomb;
 }
 );
@@ -76,7 +78,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (302,0);
+pos = (392,0);
 ref = cedillacomb;
 }
 );
@@ -103,7 +105,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (240,0);
+pos = (260,0);
 ref = cedillacomb;
 }
 );
@@ -130,7 +132,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (196,0);
+pos = (226,0);
 ref = cedillacomb;
 }
 );
@@ -157,7 +159,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (161,0);
+pos = (211,0);
 ref = cedillacomb;
 }
 );
@@ -184,7 +186,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (299,0);
+pos = (259,0);
 ref = cedillacomb;
 }
 );
@@ -211,7 +213,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (212,0);
+pos = (262,0);
 ref = cedillacomb;
 }
 );
@@ -238,7 +240,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (181,0);
+pos = (211,0);
 ref = cedillacomb;
 }
 );
@@ -265,7 +267,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (193,0);
+pos = (173,0);
 ref = cedillacomb;
 }
 );
@@ -292,7 +294,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (156,0);
+pos = (226,0);
 ref = cedillacomb;
 }
 );
@@ -319,7 +321,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (160,0);
+pos = (211,0);
 ref = cedillacomb;
 }
 );

@@ -23,7 +23,7 @@ alignment = 1;
 ref = dotaccentcomb.case;
 },
 {
-pos = (-241,386);
+pos = (-237,421);
 ref = macroncomb.case;
 }
 );
@@ -37,7 +37,7 @@ alignment = 1;
 ref = dotaccentcomb.case;
 },
 {
-pos = (-244,277);
+pos = (-253,277);
 ref = macroncomb.case;
 }
 );
@@ -51,11 +51,11 @@ alignment = 1;
 ref = dotaccentcomb.case;
 },
 {
-pos = (-227,386);
+pos = (-215,415);
 ref = macroncomb.case;
 }
 );
-width = 357;
+width = 373;
 },
 {
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
@@ -65,7 +65,7 @@ alignment = 1;
 ref = dotaccentcomb.case;
 },
 {
-pos = (-262,277);
+pos = (-272,277);
 ref = macroncomb.case;
 }
 );
@@ -79,7 +79,7 @@ alignment = 1;
 ref = dotaccentcomb.case;
 },
 {
-pos = (-233,386);
+pos = (-225,422);
 ref = macroncomb.case;
 }
 );
@@ -93,7 +93,7 @@ alignment = 1;
 ref = dotaccentcomb.case;
 },
 {
-pos = (-245,277);
+pos = (-258,277);
 ref = macroncomb.case;
 }
 );
@@ -107,7 +107,7 @@ alignment = 1;
 ref = dotaccentcomb.case;
 },
 {
-pos = (-218,386);
+pos = (-211,386);
 ref = macroncomb.case;
 }
 );
@@ -121,7 +121,7 @@ alignment = 1;
 ref = dotaccentcomb.case;
 },
 {
-pos = (-266,277);
+pos = (-276,277);
 ref = macroncomb.case;
 }
 );
@@ -135,7 +135,7 @@ alignment = 1;
 ref = dotaccentcomb.case;
 },
 {
-pos = (-265,386);
+pos = (-261,421);
 ref = macroncomb.case;
 }
 );
@@ -149,7 +149,7 @@ alignment = 1;
 ref = dotaccentcomb.case;
 },
 {
-pos = (-251,277);
+pos = (-271,277);
 ref = macroncomb.case;
 }
 );
@@ -163,7 +163,7 @@ alignment = 1;
 ref = dotaccentcomb.case;
 },
 {
-pos = (-244,386);
+pos = (-251,386);
 ref = macroncomb.case;
 }
 );

@@ -10,7 +10,7 @@ pos = (10,0);
 ref = i;
 },
 {
-pos = (-35,18);
+pos = (-104,18);
 ref = strokecomb_part.;
 }
 );
@@ -24,7 +24,7 @@ alignment = -1;
 ref = i;
 },
 {
-pos = (-74,32);
+pos = (-142,32);
 ref = strokecomb_part.;
 }
 );
@@ -39,7 +39,7 @@ pos = (5,0);
 ref = i;
 },
 {
-pos = (-53,18);
+pos = (-112,18);
 ref = strokecomb_part.;
 }
 );
@@ -53,7 +53,7 @@ alignment = -1;
 ref = i;
 },
 {
-pos = (-87,32);
+pos = (-146,32);
 ref = strokecomb_part.;
 }
 );
@@ -68,7 +68,7 @@ pos = (10,0);
 ref = i;
 },
 {
-pos = (-79,-31);
+pos = (-124,-31);
 ref = strokecomb_part.;
 }
 );
@@ -83,7 +83,7 @@ pos = (39,0);
 ref = i;
 },
 {
-pos = (-95,-43);
+pos = (-148,-43);
 ref = strokecomb_part.;
 }
 );
@@ -98,7 +98,7 @@ pos = (18,0);
 ref = i;
 },
 {
-pos = (-59,-31);
+pos = (-94,-31);
 ref = strokecomb_part.;
 }
 );
@@ -113,7 +113,7 @@ pos = (37,0);
 ref = i;
 },
 {
-pos = (-110,-43);
+pos = (-145,-43);
 ref = strokecomb_part.;
 }
 );
@@ -126,7 +126,7 @@ shapes = (
 ref = i;
 },
 {
-pos = (-45,18);
+pos = (-115,18);
 ref = strokecomb_part.;
 }
 );
@@ -139,7 +139,7 @@ shapes = (
 ref = i;
 },
 {
-pos = (-117,32);
+pos = (-187,32);
 ref = strokecomb_part.;
 }
 );
@@ -152,7 +152,7 @@ shapes = (
 ref = i;
 },
 {
-pos = (-68,27);
+pos = (-116,27);
 ref = strokecomb_part.;
 }
 );
@@ -165,7 +165,7 @@ shapes = (
 ref = i;
 },
 {
-pos = (-112,15);
+pos = (-169,15);
 ref = strokecomb_part.;
 }
 );

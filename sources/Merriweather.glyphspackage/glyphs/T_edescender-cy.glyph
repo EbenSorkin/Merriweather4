@@ -1,5 +1,6 @@
 {
 glyphname = "Tedescender-cy";
+kernLeft = KO_T;
 layers = (
 {
 layerId = UUID0;

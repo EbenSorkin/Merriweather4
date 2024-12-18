@@ -1,5 +1,7 @@
 {
 glyphname = three.osf;
+kernLeft = KO_three.osf;
+kernRight = KO_three.osf;
 layers = (
 {
 layerId = UUID0;

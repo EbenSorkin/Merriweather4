@@ -64,13 +64,6 @@ ref = ezh.sc;
 width = 1072;
 },
 {
-annotations = (
-{
-pos = (879,1256);
-type = Circle;
-width = 30;
-}
-);
 layerId = "E96AC896-F5DF-475B-BBD9-C7FEC6A86D0E";
 shapes = (
 {

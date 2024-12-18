@@ -1,5 +1,7 @@
 {
 glyphname = rdotbelow;
+kernLeft = KO_n;
+kernRight = KO_r;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -21,7 +23,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (-43,0);
+pos = (-33,0);
 ref = dotbelowcomb;
 }
 );
@@ -34,7 +36,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (-76,0);
+pos = (-56,0);
 ref = dotbelowcomb;
 }
 );
@@ -73,7 +75,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (-22,0);
+pos = (-32,0);
 ref = dotbelowcomb;
 }
 );
@@ -86,7 +88,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (-64,0);
+pos = (-44,0);
 ref = dotbelowcomb;
 }
 );
@@ -99,7 +101,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (48,0);
+pos = (-22,0);
 ref = dotbelowcomb;
 }
 );
@@ -125,7 +127,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (-44,0);
+pos = (-34,0);
 ref = dotbelowcomb;
 }
 );
@@ -138,7 +140,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (-34,0);
+pos = (-44,0);
 ref = dotbelowcomb;
 }
 );
@@ -151,7 +153,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (-39,0);
+pos = (-69,0);
 ref = dotbelowcomb;
 }
 );

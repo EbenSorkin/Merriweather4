@@ -1,6 +1,7 @@
 {
 color = 9;
 glyphname = Omega;
+kernLeft = KO_Omega;
 layers = (
 {
 anchors = (

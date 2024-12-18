@@ -1,6 +1,8 @@
 {
 color = 8;
 glyphname = multiply;
+kernLeft = KO_multiply;
+kernRight = KO_multiply;
 layers = (
 {
 layerId = UUID0;

@@ -139,7 +139,7 @@ shapes = (
 ref = ae.sc;
 },
 {
-pos = (479,287);
+pos = (459,287);
 ref = macroncomb;
 }
 );

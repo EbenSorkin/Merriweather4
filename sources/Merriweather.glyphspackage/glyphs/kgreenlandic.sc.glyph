@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = kgreenlandic.sc;
+kernLeft = KO_e.sc;
+kernRight = KO_k.sc;
 layers = (
 {
 layerId = UUID0;

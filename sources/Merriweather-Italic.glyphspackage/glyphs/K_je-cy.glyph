@@ -1,5 +1,6 @@
 {
 glyphname = "Kje-cy";
+kernLeft = "KO_En-cy";
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -34,8 +35,7 @@ shapes = (
 ref = "Ka-cy";
 },
 {
-alignment = -1;
-pos = (761,0);
+pos = (659,0);
 ref = acutecomb.case;
 }
 );
@@ -97,16 +97,14 @@ width = 1463;
 layerId = "95CCB04D-97EC-4126-A206-216E0B8EC505";
 shapes = (
 {
-alignment = -1;
 ref = "Ka-cy";
 },
 {
-alignment = -1;
-pos = (668,0);
+pos = (568,0);
 ref = acutecomb.case;
 }
 );
-width = 1297;
+width = 1315;
 },
 {
 layerId = "8587C386-9485-4E77-8679-63F1A494C2C0";
@@ -151,16 +149,14 @@ width = 1212;
 layerId = "7A2136B0-3E1D-476B-B826-4714342A6FC2";
 shapes = (
 {
-alignment = -1;
 ref = "Ka-cy";
 },
 {
-alignment = -1;
-pos = (761,0);
+pos = (560,-2);
 ref = acutecomb.case;
 }
 );
-width = 1412;
+width = 1373;
 }
 );
 unicode = 1036;

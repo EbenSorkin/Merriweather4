@@ -1,5 +1,6 @@
 {
 glyphname = quotedblbase;
+kernRight = KO_quotedblbase;
 layers = (
 {
 layerId = UUID0;

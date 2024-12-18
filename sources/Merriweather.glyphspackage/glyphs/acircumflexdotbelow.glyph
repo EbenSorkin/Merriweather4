@@ -1,6 +1,8 @@
 {
 color = 5;
 glyphname = acircumflexdotbelow;
+kernLeft = KO_agrave;
+kernRight = KO_a;
 layers = (
 {
 layerId = UUID0;
@@ -81,7 +83,6 @@ pos = (311,0);
 ref = dotbelowcomb;
 },
 {
-pos = (20,0);
 ref = circumflexcomb;
 }
 );

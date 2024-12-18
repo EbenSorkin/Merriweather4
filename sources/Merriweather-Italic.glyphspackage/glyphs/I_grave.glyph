@@ -1,5 +1,7 @@
 {
 glyphname = Igrave;
+kernLeft = KO_I;
+kernRight = KO_I;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -8,7 +10,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-36,0);
+pos = (-34,0);
 ref = gravecomb.case;
 }
 );
@@ -21,7 +23,6 @@ shapes = (
 ref = I;
 },
 {
-pos = (-6,0);
 ref = gravecomb.case;
 }
 );
@@ -60,7 +61,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-1,0);
+pos = (-9,0);
 ref = gravecomb.case;
 }
 );
@@ -73,7 +74,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-42,0);
+pos = (-65,0);
 ref = gravecomb.case;
 }
 );
@@ -86,7 +87,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (14,0);
+pos = (-10,0);
 ref = gravecomb.case;
 }
 );
@@ -138,7 +139,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-12,0);
+pos = (-26,0);
 ref = gravecomb.case;
 }
 );
@@ -151,7 +152,6 @@ shapes = (
 ref = I;
 },
 {
-pos = (1,0);
 ref = gravecomb.case;
 }
 );

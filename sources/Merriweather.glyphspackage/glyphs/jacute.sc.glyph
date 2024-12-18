@@ -1,6 +1,7 @@
 {
 color = 5;
 glyphname = jacute.sc;
+kernRight = KO_j.sc;
 layers = (
 {
 layerId = UUID0;

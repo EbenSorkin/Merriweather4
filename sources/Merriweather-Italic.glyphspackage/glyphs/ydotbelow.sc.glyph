@@ -151,7 +151,7 @@ shapes = (
 ref = y.sc;
 },
 {
-pos = (211,0);
+pos = (225,0);
 ref = dotbelowcomb;
 }
 );

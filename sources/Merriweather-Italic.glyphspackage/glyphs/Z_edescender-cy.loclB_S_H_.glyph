@@ -1,5 +1,6 @@
 {
 glyphname = "Zedescender-cy.loclBSH";
+kernRight = "KO_Ze-cy";
 layers = (
 {
 anchors = (
@@ -14,6 +15,7 @@ shapes = (
 ref = "Ze-cy";
 },
 {
+pos = (-59,0);
 ref = descender;
 }
 );
@@ -32,6 +34,7 @@ shapes = (
 ref = "Ze-cy";
 },
 {
+pos = (-58,0);
 ref = descender;
 }
 );
@@ -50,7 +53,7 @@ shapes = (
 ref = "Ze-cy";
 },
 {
-pos = (-6,0);
+pos = (-66,0);
 ref = descender;
 }
 );
@@ -69,7 +72,7 @@ shapes = (
 ref = "Ze-cy";
 },
 {
-pos = (-15,0);
+pos = (-65,0);
 ref = descender;
 }
 );
@@ -88,6 +91,7 @@ shapes = (
 ref = "Ze-cy";
 },
 {
+pos = (-40,0);
 ref = descender;
 }
 );
@@ -106,6 +110,7 @@ shapes = (
 ref = "Ze-cy";
 },
 {
+pos = (-39,0);
 ref = descender;
 }
 );
@@ -124,7 +129,7 @@ shapes = (
 ref = "Ze-cy";
 },
 {
-pos = (32,0);
+pos = (-8,0);
 ref = descender;
 }
 );
@@ -143,7 +148,7 @@ shapes = (
 ref = "Ze-cy";
 },
 {
-pos = (33,0);
+pos = (-7,0);
 ref = descender;
 }
 );
@@ -162,7 +167,7 @@ shapes = (
 ref = "Ze-cy";
 },
 {
-pos = (-87,0);
+pos = (-138,0);
 ref = descender;
 }
 );
@@ -181,7 +186,7 @@ shapes = (
 ref = "Ze-cy";
 },
 {
-pos = (-41,0);
+pos = (-59,0);
 ref = descender;
 }
 );
@@ -200,7 +205,7 @@ shapes = (
 ref = "Ze-cy";
 },
 {
-pos = (-33,0);
+pos = (-73,0);
 ref = descender;
 }
 );

@@ -1,5 +1,7 @@
 {
 glyphname = "adieresis-cy.sc";
+kernLeft = "KO_a-cy.sc";
+kernRight = "KO_a-cy.sc";
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -8,7 +10,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (361,182);
+pos = (365,182);
 ref = dieresiscomb;
 }
 );
@@ -21,7 +23,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (253,182);
+pos = (258,182);
 ref = dieresiscomb;
 }
 );
@@ -34,7 +36,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (318,182);
+pos = (317,182);
 ref = dieresiscomb;
 }
 );
@@ -47,7 +49,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (431,182);
+pos = (429,182);
 ref = dieresiscomb;
 }
 );
@@ -86,7 +88,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (336,287);
+pos = (331,287);
 ref = dieresiscomb;
 }
 );
@@ -99,7 +101,7 @@ shapes = (
 ref = "a-cy.sc";
 },
 {
-pos = (342,287);
+pos = (348,287);
 ref = dieresiscomb;
 }
 );

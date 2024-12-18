@@ -1,5 +1,7 @@
 {
 glyphname = Abreveacute;
+kernLeft = KO_A;
+kernRight = KO_A;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -8,7 +10,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (377,0);
+pos = (381,0);
 ref = brevecomb_acutecomb.case;
 }
 );
@@ -21,7 +23,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (326,0);
+pos = (336,0);
 ref = brevecomb_acutecomb.case;
 }
 );
@@ -34,7 +36,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (392,0);
+pos = (412,0);
 ref = brevecomb_acutecomb.case;
 }
 );
@@ -47,7 +49,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (416,0);
+pos = (424,0);
 ref = brevecomb_acutecomb.case;
 }
 );
@@ -60,7 +62,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (294,0);
+pos = (312,0);
 ref = brevecomb_acutecomb.case;
 }
 );
@@ -73,7 +75,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (304,0);
+pos = (324,0);
 ref = brevecomb_acutecomb.case;
 }
 );
@@ -86,7 +88,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (277,0);
+pos = (283,0);
 ref = brevecomb_acutecomb.case;
 }
 );
@@ -112,7 +114,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (301,0);
+pos = (303,0);
 ref = brevecomb_acutecomb.case;
 }
 );

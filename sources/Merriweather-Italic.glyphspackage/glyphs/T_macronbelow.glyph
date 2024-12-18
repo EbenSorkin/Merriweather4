@@ -1,5 +1,7 @@
 {
 glyphname = Tmacronbelow;
+kernLeft = KO_T;
+kernRight = KO_T;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -60,7 +62,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (434,0);
+pos = (425,0);
 ref = macronbelowcomb.case;
 }
 );

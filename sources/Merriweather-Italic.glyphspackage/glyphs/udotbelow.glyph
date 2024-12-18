@@ -1,5 +1,7 @@
 {
 glyphname = udotbelow;
+kernLeft = KO_u;
+kernRight = KO_u;
 layers = (
 {
 layerId = "0C3FD5EE-D923-4A4A-8FDE-164881635915";
@@ -73,7 +75,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (265,0);
+pos = (295,0);
 ref = dotbelowcomb;
 }
 );

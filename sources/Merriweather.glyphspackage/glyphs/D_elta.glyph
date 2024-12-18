@@ -1,5 +1,6 @@
 {
 glyphname = Delta;
+kernLeft = KO_Delta;
 layers = (
 {
 layerId = UUID0;

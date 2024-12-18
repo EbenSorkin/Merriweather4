@@ -1,6 +1,7 @@
 {
 color = 3;
 glyphname = "de-cy.loclBGR";
+kernLeft = KO_o;
 layers = (
 {
 anchors = (
