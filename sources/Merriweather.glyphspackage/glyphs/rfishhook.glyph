@@ -3,6 +3,12 @@ color = 4;
 glyphname = rfishhook;
 layers = (
 {
+anchors = (
+{
+name = center;
+pos = (305,493);
+}
+);
 background = {
 shapes = (
 {
@@ -42,6 +48,12 @@ nodes = (
 width = 814;
 },
 {
+anchors = (
+{
+name = center;
+pos = (345,493);
+}
+);
 background = {
 shapes = (
 {
@@ -81,6 +93,12 @@ nodes = (
 width = 878;
 },
 {
+anchors = (
+{
+name = center;
+pos = (255,493);
+}
+);
 background = {
 shapes = (
 {
@@ -120,6 +138,12 @@ nodes = (
 width = 742;
 },
 {
+anchors = (
+{
+name = center;
+pos = (285,493);
+}
+);
 background = {
 shapes = (
 {
@@ -159,6 +183,12 @@ nodes = (
 width = 741;
 },
 {
+anchors = (
+{
+name = center;
+pos = (255,493);
+}
+);
 background = {
 shapes = (
 {
@@ -198,6 +228,12 @@ nodes = (
 width = 840;
 },
 {
+anchors = (
+{
+name = center;
+pos = (335,493);
+}
+);
 background = {
 shapes = (
 {
@@ -237,6 +273,12 @@ nodes = (
 width = 859;
 },
 {
+anchors = (
+{
+name = center;
+pos = (185,453);
+}
+);
 background = {
 shapes = (
 {
@@ -276,6 +318,12 @@ nodes = (
 width = 652;
 },
 {
+anchors = (
+{
+name = center;
+pos = (325,453);
+}
+);
 background = {
 shapes = (
 {
@@ -315,6 +363,12 @@ nodes = (
 width = 844;
 },
 {
+anchors = (
+{
+name = center;
+pos = (205,453);
+}
+);
 background = {
 shapes = (
 {
@@ -354,6 +408,12 @@ nodes = (
 width = 565;
 },
 {
+anchors = (
+{
+name = center;
+pos = (305,453);
+}
+);
 background = {
 shapes = (
 {
@@ -393,6 +453,12 @@ nodes = (
 width = 729;
 },
 {
+anchors = (
+{
+name = center;
+pos = (215,453);
+}
+);
 background = {
 shapes = (
 {
@@ -432,6 +498,12 @@ nodes = (
 width = 621;
 },
 {
+anchors = (
+{
+name = center;
+pos = (305,453);
+}
+);
 background = {
 shapes = (
 {
